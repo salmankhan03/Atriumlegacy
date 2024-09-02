@@ -67,6 +67,9 @@
             .title h2 , h3{
                 font-size: 1rem !important;
             }
+            .margin-top{
+                margin-top:20px
+            }
         }
         @media (min-width: 768px) and (max-width: 1024px) {
             .title h2 {
@@ -93,7 +96,7 @@
                 </div>
             </div>
             <div class="col-sm-5 col-md-5 col-lg-5 mt-sm-3">
-                <div class="row">
+                <div class="row margin-top">
                     <div class="col-sm-6 col-md-6 col-lg-6" >
                         <div class="text-left">
                             <h3>Address</h3>    
