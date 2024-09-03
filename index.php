@@ -154,6 +154,8 @@
 
         .cards:hover .custom-icon {
             color: #fff; 
+        }
+        .cards:hover .custom-icons {
             margin-left:30px
         }
 
@@ -691,7 +693,7 @@
                         <h1 class="hedings">Our Initiatives </h1>
                         </div>
                         <div class="col-sm-12 col-md-6 col-lg-6 text-content">
-                            <p class="mt-4 mb-4">Empowering communities through strategic initiatives that address today’s challenges and build a better tomorrow.</p>
+                            <p class="mt-4 mb-4 ">Empowering communities through strategic initiatives that address today’s challenges and build a better tomorrow.</p>
                         </div>
                     </div>
                 </div>
@@ -702,15 +704,15 @@
                         <div class="col-sm-12 col-md-6 col-lg-3 text-content">
                             <div class="cards">
                                 <div class="cards-heading text-center">
-                                    <i class="fa fa-medkit custom-icon" aria-hidden="true"></i>
+                                    <i class="fa fa-medkit custom-icon" style="font-size:60px" aria-hidden="true"></i>
                                 </div>
                                 <div class="cards-body text-center mt-4">
                                     <h4 class="card-fonts-heading-color">ReStart Education</h4>
-                                    <p class="mt-3 text-left card-fonts-color">Cultivating the next generation to prioritize social values, empathy, and community engagement over material wealth.</p>
+                                    <p class="mt-3 text-center card-fonts-color">Cultivating the next generation to prioritize social values, empathy, and community engagement over material wealth.</p>
                                 </div>
                                 <div class="cards-footer mt-4 text-center">
                                     <div class="custom-footer-icons-div">
-                                        <i class="fa fa-arrow-right custom-icon" aria-hidden="true"></i>
+                                        <i class="fa fa-arrow-right  custom-icons custom-icon" aria-hidden="true"></i>
                                     </div>
                                 </div>
                             </div>
@@ -718,15 +720,15 @@
                         <div class="col-sm-12 col-md-6 col-lg-3 text-content">
                             <div class="cards">
                                 <div class="cards-heading text-center">
-                                    <i class="fa fa-medkit custom-icon" aria-hidden="true"></i>
+                                    <i class="fa fa-medkit custom-icon" style="font-size:60px" aria-hidden="true"></i>
                                 </div>
                                 <div class="cards-body text-center mt-4">
                                     <h4 class="card-fonts-heading-color">Aging Grace</h4>
-                                    <p class="mt-3 text-left card-fonts-color">Promoting comprehensive wellness and societal integration for seniors, ensuring they remain vital members of the community.</p>
+                                    <p class="mt-3 text-center card-fonts-color">Promoting comprehensive wellness and societal integration for seniors, ensuring they remain vital members of the community.</p>
                                 </div>
                                 <div class="cards-footer mt-4 text-center">
                                     <div class="custom-footer-icons-div">
-                                        <i class="fa fa-arrow-right custom-icon" aria-hidden="true"></i>
+                                        <i class="fa fa-arrow-right custom-icons custom-icon" aria-hidden="true"></i>
                                     </div>
                                 </div>
                             </div>
@@ -734,15 +736,15 @@
                         <div class="col-sm-12 col-md-6 col-lg-3 text-content">
                             <div class="cards">
                                 <div class="cards-heading text-center">
-                                    <i class="fa fa-medkit custom-icon" aria-hidden="true"></i>
+                                    <i class="fa fa-medkit custom-icon" style="font-size:60px" aria-hidden="true"></i>
                                 </div>
                                 <div class="cards-body text-center mt-4">
                                     <h4 class="card-fonts-heading-color">HomeStrong </h4>
-                                    <p class="mt-3 text-left card-fonts-color">Addressing the urgent need for fast and affordable housing solutions, fostering stability and security for vulnerable populations.</p>
+                                    <p class="mt-3 text-center card-fonts-color">Addressing the urgent need for fast and affordable housing solutions, fostering stability and security for vulnerable populations.</p>
                                 </div>
                                 <div class="cards-footer mt-4 text-center">
                                     <div class="custom-footer-icons-div">
-                                        <i class="fa fa-arrow-right custom-icon" aria-hidden="true"></i>
+                                        <i class="fa fa-arrow-right custom-icons custom-icon" aria-hidden="true"></i>
                                     </div>
                                 </div>
                             </div>
@@ -750,15 +752,15 @@
                         <div class="col-sm-12 col-md-6 col-lg-3 text-content">
                             <div class="cards">
                                 <div class="cards-heading text-center">
-                                    <i class="fa fa-medkit custom-icon" aria-hidden="true"></i>
+                                    <i class="fa fa-medkit custom-icon" style="font-size:60px" aria-hidden="true"></i>
                                 </div>
                                 <div class="cards-body text-center mt-4">
                                     <h4 class="card-fonts-heading-color">AgriThrive</h4>
-                                    <p class="mt-3 text-left card-fonts-color">Leveraging agricultural technology to enhance global food security and empower communities to achieve self-sufficiency.</p>
+                                    <p class="mt-3 text-center card-fonts-color">Leveraging agricultural technology to enhance global food security and empower communities to achieve self-sufficiency.</p>
                                 </div>
                                 <div class="cards-footer mt-4 text-center">
                                     <div class="custom-footer-icons-div">
-                                        <i class="fa fa-arrow-right custom-icon" aria-hidden="true"></i>
+                                        <i class="fa fa-arrow-right custom-icons custom-icon" aria-hidden="true"></i>
                                     </div>
                                 </div>
                             </div>
@@ -771,33 +773,33 @@
     <br>
     <hr>
     <div class="row no-gutters Third Section">
-                 <div class="col-lg-6">
-                    <div class="m-5">
-                      <image class="left-side ml-5" src="./image/left-side.jpg" alt="left-side-image" width="75%" height="90%" ></image>
-                     <div class="side-element">
-                       <div> Empathy.</div>
-                       <div>Wellness.</div>
-                       <div> Sustainability.</div>
-                      </div>
-                    </div>
-                 </div>
-            <div class="col-lg-6 ">
-                <div class="text-left m-5 p-5">
-                    <h1 class="hedings pb-2">Together, we can make a difference</h1>
-                    <div style="font-family:italic; font-size:x-large">Join us in making a meaningful impact</div>
-                    <p class="mt-4 mb-4">Whether through donations, volunteer work, or
-                                         partnerships, your support plays a crucial role in
-                                         creating a brighter, more inclusive future for everyone.</p>
-                    <button class="custom-btn" >
-                        Join Us
-                    </button>
-                </div>
+        <div class="col-lg-6">
+            <div class="m-5">
+            <image class="left-side ml-5" src="./image/left-side.jpg" alt="left-side-image" ></image>
+            <div class="side-element">
+                <div> Empathy.</div>
+                <div>Wellness.</div>
+                <div> Sustainability.</div>
             </div>
+            </div>
+        </div>
+        <div class="col-lg-6 ">
+            <div class="text-left m-5 p-5">
+            <h1 class="hedings pb-2">Together, we can make a difference</h1>
+            <div style="font-family:italic; font-size:x-large">Join us in making a meaningful impact</div>
+            <p class="mt-4 mb-4">Whether through donations, volunteer work, or
+                partnerships, your support plays a crucial role in
+                creating a brighter, more inclusive future for everyone.</p>
+            <button class="custom-btn">
+                Join Us
+            </button>
+            </div>
+        </div>
     </div>
+    <?php include 'footer.php'; ?> 
 
 
 </body>
 
-<?php include 'footer.php'; ?> 
 
 </html>
