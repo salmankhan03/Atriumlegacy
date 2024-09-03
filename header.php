@@ -112,10 +112,9 @@
                 </div>
             </header> <!-- Finish Header -->
             <!-- Start Middle -->
-            <div id="middle">
+            <!-- <div id="middle">
                 <div class="middle_inner">
                     <div class="content_wrap fullwidth">
-                        <!-- Start Content -->
                         <div class="middle_content entry"></div>
                     </div>
                     <div id="cmsmasters_row_83hce86sns" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_fullwidth">
@@ -127,14 +126,13 @@
                                             <div class="cmsmasters_column_inner">
                                                 
                                                 <div class="cmsmasters_slider">
-                                                    <!-- START home_slider REVOLUTION SLIDER 6.7.15 -->
+                                                   
                                                     <rs-module-wrap id="rev_slider_1_1_wrapper" data-source="gallery" style="visibility:hidden;background:transparent;padding:0;margin:0px auto;margin-top:0;margin-bottom:0;">
                                                         <rs-module id="rev_slider_1_1" style="" data-version="6.7.15">
                                                             <rs-slides style="overflow: hidden; position: absolute;">
                                                                 <rs-slide style="position: absolute;" data-key="rs-2" data-title="Slide" data-thumb="//green-planet.cmsmasters.net/wp-content/uploads/2017/12/1-3-100x50.jpg" data-anim="adpr:false;">
                                                                     <img decoding="async" src="img/2-2.jpg" alt="" title="Home" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="img/2-2.jpg" data-panzoom="d:10000;ss:100;se:103;oe:10/0;" data-no-retina>
-                                        <!--
-                                                                    --><rs-layer
+                                                                    <rs-layer
                                                                         id="slider-1-slide-2-layer-1" 
                                                                         data-type="text"
                                                                         data-color="#fffef7||#fffef7||#fffef7||#ffffff"
@@ -146,9 +144,8 @@
                                                                         data-frame_999="o:0;tp:600;st:w;sR:4290;"
                                                                         style="z-index:5;font-family:'Merriweather';"
                                                                     >A Good Planet is  
-                                                                    </rs-layer><!--
-
-                                                                    --><rs-layer
+                                                                    </rs-layer>
+                                                                    <rs-layer
                                                                         id="slider-1-slide-2-layer-2" 
                                                                         data-type="text"
                                                                         data-color="#fffef7||#fffef7||#fffef7||#ffffff"
@@ -160,9 +157,8 @@
                                                                         data-frame_999="o:0;tp:600;st:w;sR:4290;"
                                                                         style="z-index:6;font-family:'Merriweather';"
                                                                     >Hard to Find 
-                                                                    </rs-layer><!--
-
-                                                                    --><rs-layer
+                                                                    </rs-layer>
+                                                                    <rs-layer
                                                                         id="slider-1-slide-2-layer-3" 
                                                                         data-type="text"
                                                                         data-color="#e3e2db||#e3e2db||#e3e2db||#ffffff"
@@ -175,9 +171,8 @@
                                                                         data-frame_999="o:0;tp:600;st:w;sR:3690;"
                                                                         style="z-index:7;font-family:'Hind';"
                                                                     >Every time history repeats itself the price goes up. 
-                                                                    </rs-layer><!--
-
-                                                                    --><rs-layer
+                                                                    </rs-layer>
+                                                                    <rs-layer
                                                                         id="slider-1-slide-2-layer-6" 
                                                                         class="rev-btn"
                                                                         data-type="button"
@@ -207,7 +202,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
     
     
