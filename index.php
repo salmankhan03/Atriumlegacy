@@ -166,6 +166,19 @@
             align-items: center; 
             justify-content: center; 
         }
+        .left-side{
+          position: absolute;
+        }
+        .side-element{
+          position: relative;
+          background-color: #0f5194;
+          color: black;
+          width: 50%;
+          font-size: x-large;
+          padding: 40px;
+          left: 60%;
+          top: 320px;
+        }
 
 
     </style>
@@ -755,6 +768,34 @@
             </div>
         </div>
     </div>
+    <br>
+    <hr>
+    <div class="row no-gutters Third Section">
+                 <div class="col-lg-6">
+                    <div class="m-5">
+                      <image class="left-side ml-5" src="./image/left-side.jpg" alt="left-side-image" width="75%" height="90%" ></image>
+                     <div class="side-element">
+                       <div> Empathy.</div>
+                       <div>Wellness.</div>
+                       <div> Sustainability.</div>
+                      </div>
+                    </div>
+                 </div>
+            <div class="col-lg-6 ">
+                <div class="text-left m-5 p-5">
+                    <h1 class="hedings pb-2">Together, we can make a difference</h1>
+                    <div style="font-family:italic; font-size:x-large">Join us in making a meaningful impact</div>
+                    <p class="mt-4 mb-4">Whether through donations, volunteer work, or
+                                         partnerships, your support plays a crucial role in
+                                         creating a brighter, more inclusive future for everyone.</p>
+                    <button class="custom-btn" >
+                        Join Us
+                    </button>
+                </div>
+            </div>
+    </div>
+
+
 </body>
 
 <?php include 'footer.php'; ?> 
