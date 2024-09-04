@@ -772,7 +772,7 @@
     </div>
     <br>
     <hr>
-    <div class="row no-gutters Third Section">
+    <!-- <div class="row no-gutters Third Section">
         <div class="col-lg-6">
             <div class="m-5">
             <image class="left-side ml-5" src="./image/left-side.jpg" alt="left-side-image" ></image>
@@ -795,7 +795,7 @@
             </button>
             </div>
         </div>
-    </div>
+    </div> -->
     <?php include 'footer.php'; ?> 
 
 
