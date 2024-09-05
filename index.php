@@ -410,7 +410,7 @@
         } 
         
         #cmsmasters_column_1dxj3j9sh7 .cmsmasters_column_inner { 
-        	padding: 0 20% 0 18%; 
+        	padding: 0 10% 0 10%; 
         } 
         
         
@@ -533,7 +533,33 @@
         	background-color:rgba(255,255,255,0);
         	color:#ffffff;
         } 
+
+        #cmsmasters_button_wjzk57hjpe .cmsmasters_button:before { 
+        	margin-right:.5em; 
+        	margin-left:0; 
+        	vertical-align:baseline; 
+        } 
         
+        #cmsmasters_button_wjzk57hjpe .cmsmasters_button { 
+            font-size: 16px;
+            line-height: 48px;
+            font-weight: 700;
+            padding-right: 35px;
+            padding-left: 35px;
+            border-width: 2px;
+            background-color: #4789cc;
+            color: #fff;
+            border-color: #4789cc;
+            background-color: #4789cc;
+            color: #fff;
+            border-color: #4789cc;
+        } 
+        
+        #cmsmasters_button_wjzk57hjpe .cmsmasters_button:hover { 
+            background-color: rgba(255, 255, 255, 0);
+            color: #4789cc;
+            border-color: #4789cc;
+        } 
         				
     </style>
 </head>
@@ -562,6 +588,22 @@
                                                         <rs-slide style="position: absolute;" data-key="rs-2" data-title="Slide" data-thumb="//green-planet.cmsmasters.net/wp-content/uploads/2017/12/1-3-100x50.jpg" data-anim="adpr:false;">
                                                             <img decoding="async" src="img/2-2.jpg" alt="" title="Home" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="img/2-2.jpg" data-panzoom="d:10000;ss:100;se:103;oe:10/0;" data-no-retina>
                                 <!--
+                                                            
+                                                            --><rs-layer
+                                                                id="slider-1-slide-2-layer-3"
+                                                                data-type="text"
+                                                                data-color="#e3e2db||#e3e2db||#e3e2db||#ffffff"
+                                                                data-rsp_ch="on"
+                                                                data-xy="xo:110px,90px,90px,50px;yo:248px,199px,199px,137px;"
+                                                                data-text="w:nowrap,nowrap,nowrap,normal;s:24;l:68,68,68,36;a:inherit;"
+                                                                data-dim="w:auto,auto,auto,364px;"
+                                                                data-frame_0="tp:600;"
+                                                                data-frame_1="tp:600;sp:1300;sR:10;"
+                                                                data-frame_999="o:0;tp:600;st:w;sR:3690;"
+                                                                style="z-index:7;font-family:'Hind';"
+                                                            >OUR MISSION 
+                                                            </rs-layer><!--
+
                                                             --><rs-layer
                                                                 id="slider-1-slide-2-layer-1" 
                                                                 data-type="text"
@@ -573,7 +615,7 @@
                                                                 data-frame_1="tp:600;sp:700;sR:10;"
                                                                 data-frame_999="o:0;tp:600;st:w;sR:4290;"
                                                                 style="z-index:5;font-family:'Merriweather';"
-                                                            >A Good Planet is  
+                                                            >Fostering Values,
                                                             </rs-layer><!--
 
                                                             --><rs-layer
@@ -581,45 +623,58 @@
                                                                 data-type="text"
                                                                 data-color="#fffef7||#fffef7||#fffef7||#ffffff"
                                                                 data-rsp_ch="on"
-                                                                data-xy="xo:110px,90px,90px,50px;yo:387px,344px,344px,279px;"
+                                                                data-xy="xo:110px,90px,90px,50px;yo:388px,339px,339px,277px;"
                                                                 data-text="s:62,62,62,48;l:70;fw:900;a:inherit;"
                                                                 data-frame_0="tp:600;"
                                                                 data-frame_1="tp:600;sp:700;sR:10;"
                                                                 data-frame_999="o:0;tp:600;st:w;sR:4290;"
                                                                 style="z-index:6;font-family:'Merriweather';"
-                                                            >Hard to Find 
+                                                            >Supporting Wellness &
                                                             </rs-layer><!--
 
                                                             --><rs-layer
                                                                 id="slider-1-slide-2-layer-3" 
                                                                 data-type="text"
-                                                                data-color="#e3e2db||#e3e2db||#e3e2db||#ffffff"
+                                                                data-color="#fffef7||#fffef7||#fffef7||#ffffff"
                                                                 data-rsp_ch="on"
-                                                                data-xy="xo:110px,90px,90px,50px;yo:479px,439px,439px,357px;"
-                                                                data-text="w:nowrap,nowrap,nowrap,normal;s:24;l:68,68,68,36;a:inherit;"
-                                                                data-dim="w:auto,auto,auto,364px;"
+                                                                data-xy="xo:110px,90px,90px,50px;yo:457px,414px,414px,349px;"
+                                                                data-text="s:62,62,62,48;l:70;fw:900;a:inherit;"
                                                                 data-frame_0="tp:600;"
-                                                                data-frame_1="tp:600;sp:1300;sR:10;"
-                                                                data-frame_999="o:0;tp:600;st:w;sR:3690;"
-                                                                style="z-index:7;font-family:'Hind';"
-                                                            >Every time history repeats itself the price goes up. 
+                                                                data-frame_1="tp:600;sp:700;sR:10;"
+                                                                data-frame_999="o:0;tp:600;st:w;sR:4290;"
+                                                                style="z-index:6;font-family:'Merriweather';"
+                                                            >Promoting Sustainable
+                                                            </rs-layer><!--
+
+                                                            --><rs-layer
+                                                            id="slider-1-slide-2-layer-4" 
+                                                                data-type="text"
+                                                                data-color="#fffef7||#fffef7||#fffef7||#ffffff"
+                                                                data-rsp_ch="on"
+                                                                data-xy="xo:110px,90px,90px,50px;yo:527px,484px,484px,419px;"
+                                                                data-text="s:62,62,62,48;l:70;fw:900;a:inherit;"
+                                                                data-frame_0="tp:600;"
+                                                                data-frame_1="tp:600;sp:700;sR:10;"
+                                                                data-frame_999="o:0;tp:600;st:w;sR:4290;"
+                                                                style="z-index:6;font-family:'Merriweather';"
+                                                            >Communities
                                                             </rs-layer><!--
 
                                                             --><rs-layer
                                                                 id="slider-1-slide-2-layer-6" 
                                                                 class="rev-btn"
                                                                 data-type="button"
-                                                                data-color="#ffd444"
+                                                                data-color="#90c1f2"
                                                                 data-rsp_ch="on"
-                                                                data-xy="xo:110px,90px,90px,50px;yo:580px,530px,530px,465px;"
+                                                                data-xy="xo:110px,90px,90px,50px;yo:630px,580px,580px,415px;"
                                                                 data-text="s:16;l:14;fw:700;a:inherit;"
                                                                 data-actions='o:click;a:simplelink;target:_self;url:https://green-planet.cmsmasters.net/about-us/;'
                                                                 data-padding="t:18;r:40;b:18;l:40;"
-                                                                data-border="bos:solid;boc:#ffd444;bow:2,2,2,2;bor:30px,30px,30px,30px;"
+                                                                data-border="bos:solid;boc:#90c1f2;bow:2,2,2,2;bor:30px,30px,30px,30px;"
                                                                 data-frame_0="tp:600;"
                                                                 data-frame_1="tp:600;sp:1800;sR:10;"
                                                                 data-frame_999="o:0;tp:600;st:w;sR:3190;"
-                                                                data-frame_hover="c:#254151;bgc:#efc94c;boc:#efc94c;bor:30px,30px,30px,30px;bos:solid;bow:2px,2px,2px,2px;oX:50;oY:50;e:none;"
+                                                                data-frame_hover="c:#0f5194;bgc:#4789cc;boc:#4789cc;bor:30px,30px,30px,30px;bos:solid;bow:2px,2px,2px,2px;oX:50;oY:50;e:none;"
                                                                 style="z-index:8;background-color:rgba(255,255,255,0);font-family:'Merriweather Sans';cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;"
                                                             >Learn more 
                                                             </rs-layer>
@@ -643,13 +698,13 @@
                                 <div id="cmsmasters_column_sclh9r6jib" class="cmsmasters_column two_third">
                                     <div class="cmsmasters_column_inner">
                                         <div id="cmsmasters_heading_vb4bc56kh4" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                            <h2 class="cmsmasters_heading">You Have the Power Today to Change Tomorrow!</h2>
+                                            <h2 class="cmsmasters_heading">Welcome to Atrium Legacy Foundation </h2>
                                         </div>
-                                        <div id="cmsmasters_heading_qr7neufiw" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
+                                        <!-- <div id="cmsmasters_heading_qr7neufiw" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
                                             <h5 class="cmsmasters_heading">Green. That’s how we’d like the world to be</h5>
-                                        </div>
+                                        </div> -->
                                         <div id="cmsmasters_heading_pqvyo1eyi8" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                            <h4 class="cmsmasters_heading">There are many ways to take small steps in changing your living habits while making big strides in helping the environment.</h4>
+                                            <h4 class="cmsmasters_heading">Atrium Legacy Foundation believe that true progress lies in the values we impart, the communities we nurture, and the future we build together. We are dedicated to creating a lasting impact by fostering empathy in our youth, ensuring dignified aging for our seniors, and promoting sustainable solutions that uplift our communities. </h4>
                                         </div>
                                         <div id="cmsmasters_fb_wjzk57hjpq" class="cmsmasters_featured_block cmsmasters_custom_margin">
                                             <div class="featured_block_inner">
@@ -667,12 +722,13 @@
                                             <div class="featured_block_inner">
                                                 <div class="featured_block_text">
                                                     <div id="cmsmasters_heading_63i9tt335y" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                                        <h2 class="cmsmasters_heading">You must be the change you wish to see in the world</h2>
+                                                        <h2 class="cmsmasters_heading">We envision communities where every individual is empowered to thrive, with access to
+                                                        the resources and support they need across all stages of life.</h2>
                                                     </div>
-                                                    <div id="cmsmasters_heading_63i9tt335f" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
+                                                    <!-- <div id="cmsmasters_heading_63i9tt335f" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
                                                         <h6 class="cmsmasters_heading">Water covers two-thirds of the surface of the Earth, but Fresh water is 0.002% on Earth. What will your children drink?</h6>
                                                     </div>
-                                                    <div id="cmsmasters_button_63i9tt335f" class="button_wrap"><a href="https://green-planet.cmsmasters.net/project/saving-the-arctic/" class="cmsmasters_button"><span>Make a difference now!</span></a></div>
+                                                    <div id="cmsmasters_button_63i9tt335f" class="button_wrap"><a href="https://green-planet.cmsmasters.net/project/saving-the-arctic/" class="cmsmasters_button"><span>Make a difference now!</span></a></div> -->
 
                                                 </div>
                                             </div>
