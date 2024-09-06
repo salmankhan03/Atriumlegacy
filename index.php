@@ -184,6 +184,7 @@
           padding: 40px;
           left: 60%;
           top: 320px;
+          font-family: "Montserrat";
         }
 
 
@@ -259,7 +260,7 @@
         @media (max-width: 540px) {
         
         #cmsmasters_heading_vb4bc56kh4 .cmsmasters_heading, #cmsmasters_heading_vb4bc56kh4 .cmsmasters_heading a { 
-        	font-size:28px; 
+        	font-size:40px; 
         	line-height:45px; 
         } 
         
@@ -478,7 +479,7 @@
         } 
         
         #cmsmasters_heading_63i9tt335y .cmsmasters_heading, #cmsmasters_heading_63i9tt335y .cmsmasters_heading a { 
-        	font-size:40px; 
+        	font-size:46px; 
         	line-height:50px; 
         	color:#ffffff;
         } 
@@ -492,7 +493,7 @@
         @media (max-width: 540px) {
         
         #cmsmasters_heading_63i9tt335y .cmsmasters_heading, #cmsmasters_heading_63i9tt335y .cmsmasters_heading a { 
-        	font-size:28px; 
+        	font-size:40px; 
         	line-height:45px; 
         } 
         
@@ -705,7 +706,7 @@
                                 <div id="cmsmasters_column_sclh9r6jib" class="cmsmasters_column two_third">
                                     <div class="cmsmasters_column_inner">
                                         <div id="cmsmasters_heading_vb4bc56kh4" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                            <h2 class="cmsmasters_heading">Welcome to Atrium Legacy Foundation </h2>
+                                            <h2 class="cmsmasters_heading", style="color:#000">Welcome to <br/> Atrium Legacy Foundation </h2>
                                         </div>
                                         <!-- <div id="cmsmasters_heading_qr7neufiw" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
                                             <h5 class="cmsmasters_heading">Green. That’s how we’d like the world to be</h5>
@@ -753,10 +754,10 @@
                 <div class="container">
                     <div class="row no-gutters pt-5 pb-5"> 
                         <div class="col-sm-12 col-md-6 col-lg-6 text-content">
-                        <h1 class="hedings">Our Initiatives </h1>
+                        <h2 class="hedings mt-4 mb-4", style="color:#000">Our Initiatives </h2>
                         </div>
                         <div class="col-sm-12 col-md-6 col-lg-6 text-content">
-                            <p class="mt-4 mb-4">Empowering communities through strategic initiatives that address today’s challenges and build a better tomorrow.</p>
+                            <p class="mt-4 mb-4", style="font-size: 20px">Empowering communities through strategic initiatives that address today’s challenges and build a better tomorrow.</p>
                         </div>
                     </div>
                 </div>
@@ -834,8 +835,8 @@
         </div>
     </div>
     <br>
-    <hr>
-    <!-- <div class="row no-gutters Third Section">
+
+    <div class="row no-gutters Third Section">
         <div class="col-lg-6">
             <div class="m-5">
             <image class="left-side ml-5" src="./image/left-side.jpg" alt="left-side-image" ></image>
@@ -848,17 +849,18 @@
         </div>
         <div class="col-lg-6 ">
             <div class="text-left m-5 p-5">
-            <h1 class="hedings pb-2">Together, we can make a difference</h1>
-            <div style="font-family:italic; font-size:x-large">Join us in making a meaningful impact</div>
-            <p class="mt-4 mb-4">Whether through donations, volunteer work, or
+            <h1 class="hedings pb-2", style="color: #000">Together, we can make a difference</h1>
+            <div style="font-family: Montserrat; font-style:italic; font-size:x-large">Join us in making a meaningful impact</div>
+            <p class="mt-4 mb-4" style="font-family: Montserrat;">Whether through donations, volunteer work, or
                 partnerships, your support plays a crucial role in
                 creating a brighter, more inclusive future for everyone.</p>
-            <button class="custom-btn">
+            <!-- <button class="custom-btn">
                 Join Us
-            </button>
+            </button> -->
+            <div id="cmsmasters_button_wjzk57hjpe" class="button_wrap"><a href="" class="cmsmasters_button"><span>Join Us</span></a></div>
             </div>
         </div>
-    </div> -->
+    </div>
     <?php include 'footer.php'; ?> 
 
 

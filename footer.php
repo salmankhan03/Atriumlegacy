@@ -4,7 +4,8 @@
     <title>Bootstrap Example</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+    <!-- <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet"> -->
+    <!-- already loaded in the page files, after removing it also fixed the issues that the slider sometimes doesn't load and the extra scroll bar -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
@@ -20,7 +21,7 @@
             letter-spacing: 0.1px;
         }
         .footerSlogan{
-            font-family: 'Montserrat', sans-serif;
+            font-family: 'Orpheus Pro';
             color: white;
         }
     
@@ -90,7 +91,7 @@
                 <div class="col-sm-12 col-md-7 col-lg-7 p-xs-0" >
                 <div class="title">
                     <h2 class="text-left">
-                        <span class="footerSlogan">We need solutions now!</span>
+                        <span class="footerSlogan" style="font-size: 46px">We need <br/> solutions now!</span>
                     </h2>
                 </div>
                 </div>  
@@ -103,7 +104,7 @@
                 <div class="row margin-top">
                     <div class="col-sm-12 col-md-6 col-lg-6" >
                         <div class="text-left">
-                            <h3 class="text-white">Address</h3>    
+                            <h3 class="text-white" style="font-family: 'Montserrat';">Address</h3>    
                         </div>
                         <div class="">
                         <Address class="text-left pt-2 ">
@@ -116,7 +117,7 @@
                     </div>  
                     <div class="col-sm-12 col-md-6 col-lg-6" >
                         <div class="text-left">
-                            <h3 class="text-white">Contact</h3>    
+                            <h3 class="text-white" style="font-family: 'Montserrat';">Contact</h3>    
                         </div>
                         <div class="text-left">
                         <p>
