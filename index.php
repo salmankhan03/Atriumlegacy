@@ -8,6 +8,7 @@
     <meta content="" name="keywords">
     <meta content="" name="description">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://www.onlinewebfonts.com/download/2aea0ac500c896188f9ad191c231029c" rel="stylesheet">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
@@ -24,7 +25,7 @@
         }
 
         .content-section {
-            background-color: #fdfbf8; 
+            background-color: #cfddd0; 
             padding: 20px 0;
         }
 
@@ -39,7 +40,7 @@
         .hedings {
             font-size: 46px;
             line-height: 58px;
-            font-family: 'Montserrat', sans-serif;
+            font-family: 'Orpheus Pro';
         }
 
         .right-headings {
@@ -121,13 +122,15 @@
             padding: 15px;
         }
         .card-fonts-heading-color{
-            color:#000
+            color:#000;
+            font-family:'Orpheus Pro';
         }
         .card-fonts-color{
-            color:#7a7d7e
+            color:#7a7d7e;
+            font-family:'Montserrat';
         }
         .cards:hover .card-fonts-heading-color, .cards:hover .card-fonts-color{
-            color:#FFFFFF
+            color:#FFFFFF;
         }
 
         .cards-body {
@@ -150,6 +153,7 @@
             color: #fff;
             opacity: 0;
             transition: opacity 0.3s;
+            font-family:'Montserrat';
         }
 
         .cards:hover .custom-icon {
@@ -238,6 +242,7 @@
         
         #cmsmasters_heading_vb4bc56kh4 .cmsmasters_heading { 
         	text-align:left; 
+            font-family:'Orpheus Pro';
         } 
         
         #cmsmasters_heading_vb4bc56kh4 .cmsmasters_heading, #cmsmasters_heading_vb4bc56kh4 .cmsmasters_heading a { 
@@ -322,7 +327,7 @@
         } 
         
         #cmsmasters_heading_pqvyo1eyi8 .cmsmasters_heading, #cmsmasters_heading_pqvyo1eyi8 .cmsmasters_heading a { 
-        	font-family:'Hind'; 
+        	font-family:'Montserrat';
         	font-size:20px; 
         	line-height:28px; 
         	font-weight:400; 
@@ -469,6 +474,7 @@
         
         #cmsmasters_heading_63i9tt335y .cmsmasters_heading { 
         	text-align:left; 
+            font-family:'Orpheus Pro';
         } 
         
         #cmsmasters_heading_63i9tt335y .cmsmasters_heading, #cmsmasters_heading_63i9tt335y .cmsmasters_heading a { 
@@ -553,6 +559,7 @@
             background-color: #4789cc;
             color: #fff;
             border-color: #4789cc;
+            font-family:'Montserrat';
         } 
         
         #cmsmasters_button_wjzk57hjpe .cmsmasters_button:hover { 
@@ -600,7 +607,7 @@
                                                                 data-frame_0="tp:600;"
                                                                 data-frame_1="tp:600;sp:1300;sR:10;"
                                                                 data-frame_999="o:0;tp:600;st:w;sR:3690;"
-                                                                style="z-index:7;font-family:'Hind';"
+                                                                style="z-index:7;font-family:'Montserrat';"
                                                             >OUR MISSION 
                                                             </rs-layer><!--
 
@@ -614,7 +621,7 @@
                                                                 data-frame_0="tp:600;"
                                                                 data-frame_1="tp:600;sp:700;sR:10;"
                                                                 data-frame_999="o:0;tp:600;st:w;sR:4290;"
-                                                                style="z-index:5;font-family:'Merriweather';"
+                                                                style="z-index:5;font-family:'Orpheus Pro';"
                                                             >Fostering Values,
                                                             </rs-layer><!--
 
@@ -628,7 +635,7 @@
                                                                 data-frame_0="tp:600;"
                                                                 data-frame_1="tp:600;sp:700;sR:10;"
                                                                 data-frame_999="o:0;tp:600;st:w;sR:4290;"
-                                                                style="z-index:6;font-family:'Merriweather';"
+                                                                style="z-index:6;font-family:'Orpheus Pro';"
                                                             >Supporting Wellness &
                                                             </rs-layer><!--
 
@@ -642,7 +649,7 @@
                                                                 data-frame_0="tp:600;"
                                                                 data-frame_1="tp:600;sp:700;sR:10;"
                                                                 data-frame_999="o:0;tp:600;st:w;sR:4290;"
-                                                                style="z-index:6;font-family:'Merriweather';"
+                                                                style="z-index:6;font-family:'Orpheus Pro';"
                                                             >Promoting Sustainable
                                                             </rs-layer><!--
 
@@ -656,7 +663,7 @@
                                                                 data-frame_0="tp:600;"
                                                                 data-frame_1="tp:600;sp:700;sR:10;"
                                                                 data-frame_999="o:0;tp:600;st:w;sR:4290;"
-                                                                style="z-index:6;font-family:'Merriweather';"
+                                                                style="z-index:6;font-family:'Orpheus Pro';"
                                                             >Communities
                                                             </rs-layer><!--
 
@@ -675,7 +682,7 @@
                                                                 data-frame_1="tp:600;sp:1800;sR:10;"
                                                                 data-frame_999="o:0;tp:600;st:w;sR:3190;"
                                                                 data-frame_hover="c:#0f5194;bgc:#4789cc;boc:#4789cc;bor:30px,30px,30px,30px;bos:solid;bow:2px,2px,2px,2px;oX:50;oY:50;e:none;"
-                                                                style="z-index:8;background-color:rgba(255,255,255,0);font-family:'Merriweather Sans';cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;"
+                                                                style="z-index:8;background-color:rgba(255,255,255,0);font-family:'Montserrat';cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;"
                                                             >Learn more 
                                                             </rs-layer>
                                                     </rs-slide>
@@ -749,12 +756,12 @@
                         <h1 class="hedings">Our Initiatives </h1>
                         </div>
                         <div class="col-sm-12 col-md-6 col-lg-6 text-content">
-                            <p class="mt-4 mb-4 ">Empowering communities through strategic initiatives that address today’s challenges and build a better tomorrow.</p>
+                            <p class="mt-4 mb-4">Empowering communities through strategic initiatives that address today’s challenges and build a better tomorrow.</p>
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="content-section">
+            <!-- </div>
+            <div class="content-section"> -->
                 <div class="container">
                     <div class="row no-gutters pt-5 pb-5"> 
                         <div class="col-sm-12 col-md-6 col-lg-3 text-content">
