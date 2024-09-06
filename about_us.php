@@ -13,64 +13,6 @@
     
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-    <!-- Tabs Link -->
-        <link rel='stylesheet' id='green-planet-theme-style-css' href='https://green-planet.cmsmasters.net/wp-content/themes/green-planet/style.css?ver=1.0.0' type='text/css' media='screen, print'/>
-        <link rel='stylesheet' id='green-planet-style-css' href='https://green-planet.cmsmasters.net/wp-content/themes/green-planet/theme-framework/theme-style/css/style.css?ver=1.0.0' type='text/css' media='screen, print'/>
-        <link rel='stylesheet' id='green-planet-adaptive-css' href='https://green-planet.cmsmasters.net/wp-content/themes/green-planet/theme-framework/theme-style/css/adaptive.css?ver=1.0.0' type='text/css' media='screen, print'/>
-        <link rel='stylesheet' id='green-planet-icons-css' href='https://green-planet.cmsmasters.net/wp-content/themes/green-planet/css/fontello.css?ver=1.0.0' type='text/css' media='screen'/>
-        <link rel='stylesheet' id='green-planet-fonts-schemes-css' href='https://green-planet.cmsmasters.net/wp-content/uploads/cmsmasters_styles/green-planet.css?ver=1.0.0' type='text/css' media='screen'/>
-        <link rel='stylesheet' id='green-planet-donations-style-css' href='https://green-planet.cmsmasters.net/wp-content/themes/green-planet/cmsmasters-donations/cmsmasters-framework/theme-style/css/plugin-style.css?ver=1.0.0' type='text/css' media='screen'/>
-        <script type="text/javascript" src="https://green-planet.cmsmasters.net/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>   
-     <!-- End Tabs Link -->
-    
-    <!--  -->
-
-    <!--  -->
-    <!-- <style id="green-planet-retina-inline-css" type="text/css">
-        #page, #main, #middle, .middle_content, #bottom, #footer, .headline, .headline_outer, .middle_inner, .cmsmasters_row, .cmsmasters_row_outer, .cmsmasters_row_outer_parent {
-            width: 100%;
-            position: relative;
-        }   
-        #cmsmasters_row_nofslyz1hn {
-            background-image: url('./img/about-us.jpg');
-            background-position: top center;
-            background-repeat: no-repeat;
-            background-attachment: scroll;
-            background-size: cover;
-        }
-        #cmsmasters_row_nofslyz1hn .cmsmasters_row_outer_parent {
-            padding-bottom: 320px;
-        }
-        #cmsmasters_row_nofslyz1hn .cmsmasters_row_outer_parent {
-            padding-top: 300px;
-        }
-        .post-password-form, .header_top_inner, .header_mid_inner, .header_bot_inner, .content_wrap, .headline_inner, .bottom_outer, .footer_inner, .cmsmasters_row_inner {
-            position: relative;
-            width: 980px;
-            padding: 0 20px;
-            margin: 0 auto;
-        }
-        .one_first {
-            width: 97.4%;
-            float: none;
-            position: relative;
-            display: block;
-            clear: both;
-        }
-        #cmsmasters_heading_rrgejmijg {
-            text-align: center;
-            margin-top: 0px;
-            margin-bottom: 20px;
-        }
-        #cmsmasters_heading_rrgejmijg .cmsmasters_heading, #cmsmasters_heading_rrgejmijg .cmsmasters_heading a {
-            font-size: 62px;
-            line-height: 70px;
-            color: #ffffff;
-        }
-        #cmsmasters_heading_rrgejmijg .cmsmasters_heading {
-            text-align: center;
-        }				
-    </style> -->
     <style id='green-planet-retina-inline-css' type='text/css'>
         #cmsmasters_row_nofslyz1hn { 
             background-image: url('./img/about-us.jpg'); 
@@ -1689,7 +1631,7 @@
             @media only screen and (max-width: 768px) {
                 .cmsmasters_tabs.tabs_mode_tour .cmsmasters_tabs_list {
                 display: table-cell;
-                width: 100% !important;
+                /* width: 100% !important; */
                 vertical-align: top;
             }
             .cmsmasters_tabs.tabs_mode_tour .cmsmasters_tabs_wrap {
@@ -1703,6 +1645,71 @@
             }
         }
              /* Custom */
+
+              /* LAtest tabs */
+                /* Container for the tabs */
+                /* .cmsmasters_tabs.tabs_mode_tour .cmsmasters_tabs_list{
+                    display:block !important;
+                } */
+                .custom-tabs {
+                    width: 100%;
+                    font-family: Arial, sans-serif;
+                }
+
+                /* Tab buttons container */
+                .tab-buttons {
+                    display: flex;
+                    border: 0 !important;
+                    border: none !important;
+                  
+                }
+
+                /* Individual tab buttons */
+                .tab-button {
+                    cursor: pointer;
+                    border: 0 !important;
+                    border: none !important;
+                    padding-left:0px
+                }
+
+                /* Highlight active tab button */
+                .tab-button.active {
+                    font-weight:900;
+                    font-size:14px;
+                    border: 2px solid green;
+                    /* border: none !important; */
+                }
+
+                /* Change background on hover */
+                .tab-button:hover {
+                    border: 0 !important;
+                    border:none !important;
+                    background-color:inherit;
+                    color:#000000
+                }
+                .tab-button:focus {
+                    outline: none !important;
+                    outline: none !important;
+                }
+
+                /* Tab content area */
+                .tab-contents {
+                    padding: 20px;
+                    border-left: 1px solid #ddd;
+                    border-bottom: 1px solid #ddd;
+                    border-top: none;
+                }
+
+                .tab-content {
+                    display: none;
+                }
+
+                /* Show active tab content */
+                .tab-content.active {
+                    display: block;
+                }
+
+            /*  */
         </style>
  <!-- TABS -->
 </head>
@@ -1844,60 +1851,35 @@
 
                                                 </div>
                                             </div>
-                                        </div> -->
-                                        <!-- Tabs Start-->
-                        
-                                        <div id="cmsmasters_row_56518267de" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_boxed">
+                                        </div> -->                            
+                                         <!-- Tabs 2 -->
+                                         <div id="cmsmasters_row_56518267de" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_boxed">
                                             <div class="cmsmasters_row_outer_parent">
                                                 <div class="cmsmasters_row_outer">
-                                                    <div class="cmsmasters_row_inner" style="width:100%; padding:0px">
+                                                    <div class="cmsmasters_row_inner" style="width:100%; padding:0px"> 
                                                         <div class="cmsmasters_row_margin">
                                                             <div id="cmsmasters_column_" class="cmsmasters_column one_first">
                                                                 <div class="">
-                                                                    <div class="cmsmasters_tabs tabs_mode_tour tabs_pos_left">
-                                                                        <ul class="cmsmasters_tabs_list">
-                                                                            <li id="cmsmasters_tabs_list_item_141szetf9k" class="cmsmasters_tabs_list_item current_tab">
-                                                                                <a href="#" class="cmsmasters-icon-tree">
-                                                                                    <span>Founder & CEO</span>
-                                                                                </a>
-                                                                            </li>
-                                                                            <li id="cmsmasters_tabs_list_item_usj8w7b9p5" class="cmsmasters_tabs_list_item">
-                                                                                <a href="#" class="cmsmasters-icon-trash-empty">
-                                                                                    <span>Treasurer</span>
-                                                                                </a>
-                                                                            </li>
-                                                                            <li id="cmsmasters_tabs_list_item_i1rwf3li35" class="cmsmasters_tabs_list_item">
-                                                                                <a href="#" class="cmsmasters-icon-sun">
-                                                                                    <span>Advisory Board</span>
-                                                                                </a>
-                                                                            </li>
-                                                                            <li id="cmsmasters_tabs_list_item_ykxiorro09" class="cmsmasters_tabs_list_item">
-                                                                                <a href="#" class="cmsmasters-icon-moon">
-                                                                                    <span>Board Members</span>
-                                                                                </a>
-                                                                            </li>
-                                                                        </ul>
-                                                                        <div class="cmsmasters_tabs_wrap">
-                                                                            <div id="cmsmasters_tab_141szetf9k" class="cmsmasters_tab active_tab">
-                                                                                <div class="cmsmasters_tab_inner">
-                                                                                    <p style="text-align: left;">A visionary leader with a deep commitment to social impact, our CEO has been the driving force behind the foundation's mission to empower communities and create lasting change.</p>
+                                                                    <div class="cmsmasters_tabs tabs_mode_tour tabs_pos_left">                                                                
+                                                                        <div class="tab-buttons cmsmasters_tabs_list">
+                                                                            <button class="tab-button active" data-tab="tab1" style="border:none; border: 0;font-size:12px; ">Founder & CEO</button>
+                                                                            <button class="tab-button" data-tab="tab2" style="border:none;border: 0; font-size:12px;  ">Treasurer</button>
+                                                                            <button class="tab-button" data-tab="tab3" style="border:none; border: 0;font-size:12px;  ">Advisory Board</button>
+                                                                            <button class="tab-button" data-tab="tab4" style="border:none;border: 0; font-size:12px;  "  >Board Members</button>
+                                                                        </div>
+                                                                        <div class="cmsmasters_tabs_wrap tab-contents">                                                    
+                                                                                <div id="tab1" class="tab-content active">
+                                                                                    <p>A visionary leader with a deep commitment to social impact, our CEO has been the driving force behind the foundation's mission to empower communities and create lasting change.</p>
                                                                                 </div>
-                                                                            </div>
-                                                                            <div id="cmsmasters_tab_usj8w7b9p5" class="cmsmasters_tab">
-                                                                                <div class="cmsmasters_tab_inner">
+                                                                                <div id="tab2" class="tab-content">
                                                                                     <p>Responsible for overseeing the financial health and sustainability of the foundation, our Treasurer brings years of experience in non-profit financial management.</p>
                                                                                 </div>
-                                                                            </div>
-                                                                            <div id="cmsmasters_tab_i1rwf3li35" class="cmsmasters_tab">
-                                                                                <div class="cmsmasters_tab_inner">
+                                                                                <div id="tab3" class="tab-content">
                                                                                     <p>A diverse group of experts and thought leaders who guide our strategic direction and ensure our initiatives remain impactful and relevant.</p>
                                                                                 </div>
-                                                                            </div>
-                                                                            <div id="cmsmasters_tab_ykxiorro09" class="cmsmasters_tab">
-                                                                                <div class="cmsmasters_tab_inner">
+                                                                                <div id="tab4" class="tab-content">
                                                                                     <p>Our Board Members bring a wealth of knowledge from various fields, including education, healthcare, housing, and technology, ensuring that our projects are well-rounded and effective.</p>
                                                                                 </div>
-                                                                            </div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -1907,8 +1889,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                         <!-- Tabs End -->
-
+                                        <!-- Tabs 2 -->
                                     </div>
                                 </div>
                                 <div id="cmsmasters_column_1dxj3j9sh7" class="cmsmasters_column one_third">
@@ -1935,49 +1916,7 @@
                 </div>
             </div>
             <!-- Our Team Section  -->
-
-
              <!-- Partnership Section  -->
-             <!-- <div id="cmsmasters_row_47292o7tzc"
-                class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_fullwidth"
-                style="background-attachment: scroll;">
-                <div class="cmsmasters_row_outer_parent">
-                    <div class="cmsmasters_row_outer">
-                        <div class="cmsmasters_row_inner cmsmasters_row_fullwidth">
-                            <div class="cmsmasters_row_margin cmsmasters_1212">
-                                <div id="cmsmasters_column_39ntsp5cs" class="cmsmasters_column one_half">
-                                    <div class="cmsmasters_column_inner">
-                                        <div id="cmsmasters_heading_a6adlk6fay"
-                                            class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                            <h2 class="cmsmasters_heading">It’s Cool to Be in Eco-school</h2>
-                                        </div>
-                                        <div id="cmsmasters_heading_ca57ezmza"
-                                            class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                            <h3 class="cmsmasters_heading">Join the race to make the world a better place</h3>
-                                        </div>
-                                        <div id="cmsmasters_fb_rffzwrwsos" class="cmsmasters_featured_block cmsmasters_more_button">
-                                            <div class="featured_block_inner">
-                                                <div class="featured_block_text">
-                                                    <div id="cmsmasters_button_rffzwrwsok" class="button_wrap"><a
-                                                            href="https://green-planet.cmsmasters.net/contacts/"
-                                                            class="cmsmasters_button"><span>Join Us Now!</span></a></div>
-                                                    <div id="cmsmasters_button_rffzwrwsos" class="button_wrap"><a
-                                                            href="https://green-planet.cmsmasters.net/about-us/"
-                                                            class="cmsmasters_button"><span>Find out more</span></a></div>
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div id="cmsmasters_column_5gdbuf4sco" class="cmsmasters_column one_half">
-                                    <div class="cmsmasters_column_inner"></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div> -->
             <div id="cmsmasters_row_47292o7tzc" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_fullwidth">
                 <div class="cmsmasters_row_outer_parent">
                     <div class="cmsmasters_row_outer">
@@ -2021,67 +1960,20 @@
                 </div>
             </div>
               <!--  -->
-
-
-
-            
-
         </div>
           
     </div>
-    <br>
-      <!-- Tabs Script -->
-      <script type="text/javascript" src="https://green-planet.cmsmasters.net/wp-content/themes/green-planet/js/scrollspy.js?ver=1.0.0" id="scrollspy-js"></script>
-        <script type="text/javascript" src="https://green-planet.cmsmasters.net/wp-content/themes/green-planet/js/waypoints.min.js?ver=1.0.0" id="waypoints-js"></script>
-        <script type="text/javascript" id="green-planet-script-js-extra">
-            var cmsmasters_script = {
-                "theme_url": "https:\/\/green-planet.cmsmasters.net\/wp-content\/themes\/green-planet",
-                "site_url": "https:\/\/green-planet.cmsmasters.net\/",
-                "ajaxurl": "https:\/\/green-planet.cmsmasters.net\/wp-admin\/admin-ajax.php",
-                "nonce_ajax_like": "3e70be7d02",
-                "nonce_ajax_view": "06078ad625",
-                "project_puzzle_proportion": "0.7069",
-                "gmap_api_key": "AIzaSyCdSU-5IJU54ENHjX1zZgo-N8Tj1JJVppk",
-                "gmap_api_key_notice": "Please add your Google Maps API key",
-                "gmap_api_key_notice_link": "read more how",
-                "primary_color": "#2e404b",
-                "ilightbox_skin": "dark",
-                "ilightbox_path": "vertical",
-                "ilightbox_infinite": "0",
-                "ilightbox_aspect_ratio": "1",
-                "ilightbox_mobile_optimizer": "0",
-                "ilightbox_max_scale": "1",
-                "ilightbox_min_scale": "0.2",
-                "ilightbox_inner_toolbar": "0",
-                "ilightbox_smart_recognition": "0",
-                "ilightbox_fullscreen_one_slide": "0",
-                "ilightbox_fullscreen_viewport": "center",
-                "ilightbox_controls_toolbar": "1",
-                "ilightbox_controls_arrows": "0",
-                "ilightbox_controls_fullscreen": "1",
-                "ilightbox_controls_thumbnail": "1",
-                "ilightbox_controls_keyboard": "1",
-                "ilightbox_controls_mousewheel": "1",
-                "ilightbox_controls_swipe": "1",
-                "ilightbox_controls_slideshow": "0",
-                "ilightbox_close_text": "Close",
-                "ilightbox_enter_fullscreen_text": "Enter Fullscreen (Shift+Enter)",
-                "ilightbox_exit_fullscreen_text": "Exit Fullscreen (Shift+Enter)",
-                "ilightbox_slideshow_text": "Slideshow",
-                "ilightbox_next_text": "Next",
-                "ilightbox_previous_text": "Previous",
-                "ilightbox_load_image_error": "An error occurred when trying to load photo.",
-                "ilightbox_load_contents_error": "An error occurred when trying to load contents.",
-                "ilightbox_missing_plugin_error": "The content your are attempting to view requires the <a href='{pluginspage}' target='_blank'>{type} plugin<\\\/a>."
-            };
-            /* ]]> */
+      <!-- Tabs Script -->        
+        <script>
+            document.querySelectorAll('.tab-button').forEach(button => {
+                button.addEventListener('click', () => {
+                    document.querySelectorAll('.tab-button').forEach(btn => btn.classList.remove('active'));
+                    document.querySelectorAll('.tab-content').forEach(content => content.classList.remove('active'));
+                    button.classList.add('active');
+                    const tabId = button.getAttribute('data-tab');
+                    document.getElementById(tabId).classList.add('active');
+                });
+            });
         </script>
-        <script type="text/javascript" src="https://green-planet.cmsmasters.net/wp-content/themes/green-planet/js/jquery.script.js?ver=1.0.0" id="green-planet-script-js"></script>
-        <script type="text/javascript" src="https://green-planet.cmsmasters.net/wp-content/themes/green-planet/theme-framework/theme-style/js/jquery.theme-script.js?ver=1.0.0" id="green-planet-theme-script-js"></script>
-    <!-- End Tabs Script -->
-
-
 </body>
-
-
 </html>
