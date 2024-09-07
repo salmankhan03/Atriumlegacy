@@ -13,6 +13,21 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <!-- <link property="stylesheet" rel="stylesheet" id="heart-plugins-css" href="css/__plugins.css" type="text/css" media="all">
+    <link property="stylesheet" rel="stylesheet" id="trx_addons-responsive-css" href="css/__responsive.css" type="text/css" media="(max-width:1439px)">
+    <link property="stylesheet" rel="stylesheet" id="heart-responsive-css" href="css/__responsive(1).css" type="text/css" media="(max-width:1679px)">
+    <script type="text/javascript" defer="defer" src="js/__scripts.js" id="trx_addons-js"></script>
+    <link property="stylesheet" rel="stylesheet" id="trx_addons-css" href="css/__styles.css" type="text/css" media="all">
+    <link property="stylesheet" rel="stylesheet" id="elementor-frontend-css" href="css/custom-frontend.min.css" type="text/css" media="all">
+    <link property="stylesheet" rel="stylesheet" id="heart-trx-addons-extra-styles-css" href="css/extra-styles.css" type="text/css" media="all">
+    <script type="text/javascript" src="js/frontend.min.js" id="elementor-frontend-js"></script><span id="elementor-device-mode" class="elementor-screen-only"></span>
+    <link property="stylesheet" rel="stylesheet" id="heart-skin-default-css" href="css/style(1).css" type="text/css" media="all">
+    <link property="stylesheet" rel="stylesheet" id="tec-events-elementor-widgets-base-styles-css" href="css/widget-base.min.css" type="text/css" media="all"> -->
+
+    
+    
+    
+    
     <style>
        body {
             font-family: 'Montserrat', sans-serif;
@@ -173,7 +188,7 @@
             justify-content: center; 
         }
         .left-side{
-          position: absolute;
+          position: static;
         }
         .side-element{
           position: relative;
@@ -183,7 +198,7 @@
           font-size: x-large;
           padding: 40px;
           left: 60%;
-          top: 320px;
+          top: -100px;
           font-family: "Montserrat";
         }
 
@@ -479,7 +494,7 @@
         } 
         
         #cmsmasters_heading_63i9tt335y .cmsmasters_heading, #cmsmasters_heading_63i9tt335y .cmsmasters_heading a { 
-        	font-size:46px; 
+        	font-size:38px; 
         	line-height:50px; 
         	color:#ffffff;
         } 
@@ -839,10 +854,10 @@
     <div class="row no-gutters Third Section">
         <div class="col-lg-6">
             <div class="m-5">
-            <image class="left-side ml-5" src="./image/left-side.jpg" alt="left-side-image" ></image>
+            <image class="left-side" src="./image/left-side.jpg" alt="left-side-image" ></image>
             <div class="side-element">
                 <div> Empathy.</div>
-                <div>Wellness.</div>
+                <div> Wellness.</div>
                 <div> Sustainability.</div>
             </div>
             </div>
@@ -854,13 +869,79 @@
             <p class="mt-4 mb-4" style="font-family: Montserrat;">Whether through donations, volunteer work, or
                 partnerships, your support plays a crucial role in
                 creating a brighter, more inclusive future for everyone.</p>
-            <!-- <button class="custom-btn">
-                Join Us
-            </button> -->
             <div id="cmsmasters_button_wjzk57hjpe" class="button_wrap"><a href="" class="cmsmasters_button"><span>Join Us</span></a></div>
             </div>
         </div>
     </div>
+
+
+				<!-- <section class="elementor-section elementor-top-section elementor-element elementor-element-2abb0bfb elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default sc_fly_static trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="2abb0bfb" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-extended">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-c8f5ae4 sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="c8f5ae4" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-fe8b3d5 elementor-section-content-bottom elementor-section-boxed elementor-section-height-default elementor-section-height-default sc_fly_static trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="fe8b3d5" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-145e5b7e sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="145e5b7e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-5c7f48e7 elementor-widget__width-auto no-title animation_type_block sc_fly_static elementor-widget elementor-widget-image trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited animated heart-fadeinup" data-id="5c7f48e7" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;heart-fadeinup&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="780" height="963" src="./Non-profit – Heart_files/img-16-copyright.jpg" class="attachment-full size-full wp-image-20604" alt="" srcset="https://heart.axiomthemes.com/wp-content/uploads/2023/08/img-16-copyright.jpg 780w, https://heart.axiomthemes.com/wp-content/uploads/2023/08/img-16-copyright-243x300.jpg 243w, https://heart.axiomthemes.com/wp-content/uploads/2023/08/img-16-copyright-768x948.jpg 768w, https://heart.axiomthemes.com/wp-content/uploads/2023/08/img-16-copyright-370x457.jpg 370w, https://heart.axiomthemes.com/wp-content/uploads/2023/08/img-16-copyright-410x506.jpg 410w, https://heart.axiomthemes.com/wp-content/uploads/2023/08/img-16-copyright-600x741.jpg 600w" sizes="(max-width: 780px) 100vw, 780px">													</div>
+				</div>
+				<div class="elementor-element elementor-element-4ae06352 scheme_dark elementor-widget__width-initial elementor-absolute animation_type_block sc_fly_static elementor-widget elementor-widget-heading trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited animated heart-fadeinup" data-id="4ae06352" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;_animation&quot;:&quot;heart-fadeinup&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Join us in making a difference</h3>		</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-595b9f4 sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="595b9f4" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-863db18 animation_type_block sc_fly_static elementor-widget elementor-widget-trx_sc_title trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited animated heart-fadeinup" data-id="863db18" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;heart-fadeinup&quot;}" data-widget_type="trx_sc_title.default">
+				<div class="elementor-widget-container">
+			<div class="sc_title sc_title_default"><h1 class="sc_item_title sc_title_title sc_item_title_style_default sc_item_title_tag"><span class="sc_item_title_text">We are a trusted force for good</span></h1></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-ac62da6 sc_fly_static elementor-widget elementor-widget-spacer trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="ac62da6" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-9facc55 has-text-dark-color animation_type_block sc_fly_static elementor-widget elementor-widget-text-editor trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited animated heart-fadeinup" data-id="9facc55" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;heart-fadeinup&quot;,&quot;_animation_delay&quot;:100}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Qadipiscing elit, sed do eiusmod tempor incididunt ut labore eli sed do eiu.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-e415eb1 sc_fly_static elementor-widget elementor-widget-spacer trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="e415eb1" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-d2d7256 animation_type_block sc_fly_static elementor-widget elementor-widget-text-editor trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited animated heart-fadeinup" data-id="d2d7256" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;heart-fadeinup&quot;,&quot;_animation_delay&quot;:200}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							Adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.						</div>
+				</div>
+				<div class="elementor-element elementor-element-7626bde5 sc_fly_static elementor-widget elementor-widget-spacer trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="7626bde5" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-70a5cb57 animation_type_block sc_fly_static elementor-widget elementor-widget-trx_sc_button trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited animated heart-fadeinup" data-id="70a5cb57" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;heart-fadeinup&quot;,&quot;_animation_delay&quot;:300}" data-widget_type="trx_sc_button.default">
+				<div class="elementor-widget-container">
+			<div class="sc_item_button sc_button_wrap"><a href="https://heart.axiomthemes.com/volunteer/" class="sc_button sc_button_default sc_button_size_normal sc_button_icon_left color_style_link2"><span class="sc_button_text"><span class="sc_button_title">Read More</span></span></a></div>		</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+		 -->
+
     <?php include 'footer.php'; ?> 
 
 
