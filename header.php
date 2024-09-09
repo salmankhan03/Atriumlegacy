@@ -84,7 +84,7 @@
                 <div class="header_mid" data-height="120" style="height: 120px;">
                     <div class="header_mid_outer">
                         <div class="header_mid_inner">
-                            <div class="logo_wrap"><a href="" title="Green Planet" class="logo"> <img src="img/logo.png" alt="Green Planet"> <img class="logo_retina" src="img/logo_retina.png" alt="Green Planet" width="210" height="50"> </a> </div>
+                            <div class="logo_wrap"><a href="index.php" title="Green Planet" class="logo"> <img src="img/logo.png" alt="Green Planet"> <img class="logo_retina" src="img/logo_retina.png" alt="Green Planet" width="210" height="50"> </a> </div>
                             <div class="header_donation_but_wrap">
                                 <div class="header_donation_but_wrap_inner">
                                     <div class="header_donation_but"><a href="" class="cmsmasters_button"><span>Donate!</span></a></div>
@@ -98,12 +98,12 @@
                                 <nav>
                                     <div class="menu-primary-navigation-container">
                                         <ul id="navigation" class="mid_nav navigation">
-                                            <li id="menu-item-13035" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-7366 current_page_item menu-item-13035 menu-item-depth-0"><a href="/"><span class="nav_item_wrap"><span class="nav_title">Home</span></span></a></li>
+                                            <li id="menu-item-13035" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-7366 current_page_item menu-item-13035 menu-item-depth-0"><a href="index.php"><span class="nav_item_wrap"><span class="nav_title">Home</span></span></a></li>
                                             <li id="menu-item-14611" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14611 menu-item-depth-0"><a href="about_us.php"><span class="nav_item_wrap"><span class="nav_title">About Us</span></span></a></li>
-                                            <li id="menu-item-14611" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14611 menu-item-depth-0"><a href="/"><span class="nav_item_wrap"><span class="nav_title">Campaigns</span></span></a></li>
-                                            <li id="menu-item-12979" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12979 menu-item-depth-0"><a href="/"><span class="nav_title">Features</span></span></a></li>
-                                            <li id="menu-item-12975" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12975 menu-item-mega menu-item-mega-cols-four menu-item-depth-0"><a href="/"><span class="nav_title">Shortcodes</span></span></a> </li>
-                                            <li id="menu-item-12980" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12980 menu-item-mega menu-item-mega-cols-five menu-item-depth-0"><a href="/"><span class="nav_title">Post Types</span></span></a></li>
+                                            <li id="menu-item-14611" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14611 menu-item-depth-0"><a href="initiative.php"><span class="nav_item_wrap"><span class="nav_title">Initiative</span></span></a></li>
+                                            <li id="menu-item-12979" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12979 menu-item-depth-0"><a href="#"><span class="nav_title">Features</span></span></a></li>
+                                            <li id="menu-item-12975" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12975 menu-item-mega menu-item-mega-cols-four menu-item-depth-0"><a href="#"><span class="nav_title">Shortcodes</span></span></a> </li>
+                                            <li id="menu-item-12980" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12980 menu-item-mega menu-item-mega-cols-five menu-item-depth-0"><a href="#"><span class="nav_title">Post Types</span></span></a></li>
                                         </ul>
                                     </div>
                                 </nav>
