@@ -167,6 +167,7 @@
             font-size:40px; 
             line-height:50px; 
             color:#ffffff;
+            font-family: Orpheus Pros
         } 
 
         #cmsmasters_heading_0lgp4yrd9u .cmsmasters_heading a:hover { 
@@ -197,7 +198,7 @@
         } 
 
         #cmsmasters_heading_4emuo3src .cmsmasters_heading, #cmsmasters_heading_4emuo3src .cmsmasters_heading a { 
-            font-family:'Hind'; 
+            font-family:'Montserrat'; 
             font-size:18px; 
             line-height:26px; 
             font-weight:400; 
@@ -246,6 +247,8 @@
         #cmsmasters_heading_k610h6ljqm .cmsmasters_heading, #cmsmasters_heading_k610h6ljqm .cmsmasters_heading a { 
             font-size:46px; 
             line-height:52px; 
+            font-family: Orpheus Pro;
+            color: #000
         } 
 
         #cmsmasters_heading_k610h6ljqm .cmsmasters_heading a:hover { 
@@ -279,6 +282,8 @@
             font-size:24px; 
             line-height:35px; 
             font-weight:700; 
+            font-family: Orpheus Pro;
+            color: #000
         } 
 
         #cmsmasters_heading_khr8zu8qc .cmsmasters_heading a:hover { 
@@ -309,7 +314,7 @@
         } 
 
         #cmsmasters_heading_k4eli1cq0l .cmsmasters_heading, #cmsmasters_heading_k4eli1cq0l .cmsmasters_heading a { 
-            font-family:'Hind'; 
+            font-family:'Montserrat'; 
             font-size:18px; 
             line-height:28px; 
             font-weight:400; 
@@ -446,7 +451,7 @@
         } 
 
         #cmsmasters_heading_nfszxodkx .cmsmasters_heading, #cmsmasters_heading_nfszxodkx .cmsmasters_heading a { 
-            font-family:'Hind'; 
+            font-family:'Montserrat'; 
             font-size:18px; 
             line-height:26px; 
             font-weight:400; 
@@ -582,7 +587,7 @@
         } 
 
         #cmsmasters_heading_s826aavppl .cmsmasters_heading, #cmsmasters_heading_s826aavppl .cmsmasters_heading a { 
-            font-family:'Hind'; 
+            font-family:'Montserrat'; 
             font-size:18px; 
             line-height:26px; 
             font-weight:400; 
@@ -817,7 +822,7 @@
         } 
 
         #cmsmasters_heading_djnpkivjm4 .cmsmasters_heading, #cmsmasters_heading_djnpkivjm4 .cmsmasters_heading a { 
-            font-family:'Hind'; 
+            font-family:'Montserrat'; 
             font-size:18px; 
             line-height:26px; 
             font-weight:400; 
@@ -994,7 +999,7 @@
         } 
 
         #cmsmasters_heading_fim5jxda2h .cmsmasters_heading, #cmsmasters_heading_fim5jxda2h .cmsmasters_heading a { 
-            font-family:'Hind'; 
+            font-family:'Montserrat'; 
             line-height:30px; 
             font-weight:400; 
             color:#7d7d7d;
@@ -1152,6 +1157,8 @@
         #cmsmasters_heading_vb4bc56kh4 .cmsmasters_heading, #cmsmasters_heading_vb4bc56kh4 .cmsmasters_heading a { 
         	font-size:46px; 
         	line-height:58px; 
+            font-family: Orpheus Pro;
+            color: #000;
         } 
         #cmsmasters_heading_vb4bc56kh4 .cmsmasters_heading a:hover { 
         } 
@@ -1190,7 +1197,7 @@
         } 
         
         #cmsmasters_heading_pqvyo1eyi8 .cmsmasters_heading, #cmsmasters_heading_pqvyo1eyi8 .cmsmasters_heading a { 
-        	font-family:'Hind'; 
+        	font-family:'Montserrat'; 
         	font-size:20px; 
         	line-height:28px; 
         	font-weight:400; 
@@ -1254,6 +1261,7 @@
         	font-size:40px; 
         	line-height:50px; 
         	color:#ffffff;
+            font-family: Orpheus Pro
         } 
         
         #cmsmasters_heading_63i9tt335y .cmsmasters_heading a:hover { 
@@ -1272,7 +1280,7 @@
         } 
         
         #cmsmasters_heading_63i9tt335f .cmsmasters_heading, #cmsmasters_heading_63i9tt335f .cmsmasters_heading a { 
-        	font-family:'Hind'; 
+        	font-family:'Montserrat'; 
         	font-size:18px; 
         	line-height:26px; 
         	font-weight:400; 
@@ -1432,7 +1440,7 @@
             margin: 0 0 20px 0;
         }
         #cmsmasters_button_rffzwrwsok .cmsmasters_button {
-            font-size: 16px;
+            /* font-size: 16px;
             line-height: 48px;
             font-weight: 700;
             padding-right: 35px;
@@ -1440,12 +1448,28 @@
             border-width: 2px;
             background-color: #efc94c;
             color: #254151;
-            border-color: #efc94c;
+            border-color: #efc94c; */
+            font-size: 16px;
+            line-height: 48px;
+            font-weight: 700;
+            padding-right: 35px;
+            padding-left: 35px;
+            border-width: 2px;
+            background-color: #4789cc;
+            color: #fff;
+            border-color: #4789cc;
+            background-color: #4789cc;
+            color: #fff;
+            border-color: #4789cc;
+            font-family:'Montserrat';
         }
         #cmsmasters_button_rffzwrwsok .cmsmasters_button:hover {
-            background-color: rgba(255, 255, 255, 0);
+            /* background-color: rgba(255, 255, 255, 0);
             color: #254151;
-            border-color: #efc94c;
+            border-color: #efc94c; */
+            background-color: rgba(255, 255, 255, 0);
+            color: #4789cc;
+            border-color: #4789cc;
         }
         .cmsmasters_more_button .featured_block_text .button_wrap:nth-child(2) {
             margin: 0 0 0 35px !important;
@@ -1461,7 +1485,7 @@
             border-color: rgba(255, 255, 255, 0);
         }
         #cmsmasters_heading_ca57ezmza .cmsmasters_heading, #cmsmasters_heading_ca57ezmza .cmsmasters_heading a {
-            font-family: 'Hind';
+            font-family: 'Montserrat';
             font-size: 20px;
             line-height: 30px;
             font-weight: 400;
@@ -1730,7 +1754,7 @@
                                     <div id="cmsmasters_column_tsg36hzfki" class="cmsmasters_column one_first">
                                         <div class="cmsmasters_column_inner">
                                             <div id="cmsmasters_heading_rrgejmijg" class="cmsmasters_heading_wrap cmsmasters_heading_align_center">
-                                                <h2 class="cmsmasters_heading">About Us</h2>
+                                                <h2 class="cmsmasters_heading", style="font-family: 'Orpheus Pros'">About Us</h2>
                                             </div>
                                         </div>
                                     </div>
@@ -1756,18 +1780,18 @@
                                                     <img decoding="async" src="img/playbutton.png" alt="Video">
                                                 </a>
                                             </div> -->
-                                        <div id="cmsmasters_heading_4emuo3src" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
+                                        <!-- <div id="cmsmasters_heading_4emuo3src" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
                                             <h6 class="cmsmasters_heading">Water covers two-thirds of the surface of the Earth, but Fresh water is 0.002% on Earth. What will your children drink?</h6>
-                                        </div>
+                                        </div> -->
                                     </div>
                                 </div>
                                 <div id="cmsmasters_column_9umckw2emc" class="cmsmasters_column two_third">
                                     <div class="cmsmasters_column_inner"><div id="cmsmasters_heading_k610h6ljqm" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                        <h2 class="cmsmasters_heading">Our Story</h2>
+                                        <h2 class="cmsmasters_heading", style="font-family: 'Orpheus Pros'; color: #000">Our Story</h2>
                                     </div>
-                                    <div id="cmsmasters_heading_khr8zu8qc" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
+                                    <!-- <div id="cmsmasters_heading_khr8zu8qc" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
                                         <h5 class="cmsmasters_heading">Green. That’s how we’d like the world to be</h5>
-                                    </div>
+                                    </div> -->
                                     <div id="cmsmasters_heading_k4eli1cq0l" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
                                         <h6 class="cmsmasters_heading">The Atrium Legacy Foundation was established to create meaningful social impact across generations. Our work is driven by a commitment to addressing pressing societal challenges through innovative initiatives that prioritize the well-being of our communities. We envision a world where every individual, from the youngest child to the most senior citizen, has the opportunity to thrive with dignity and purpose.</h6>
                                     </div>
@@ -1869,7 +1893,7 @@
                                                                         </div>
                                                                         <div class="cmsmasters_tabs_wrap tab-contents">                                                    
                                                                                 <div id="tab1" class="tab-content active">
-                                                                                    <p>A visionary leader with a deep commitment to social impact, our CEO has been the driving force behind the foundation's mission to empower communities and create lasting change.</p>
+                                                                                    <p>A visionary leader with a deep commitment to social impact, our CEO has been the driving force beMontserrat the foundation's mission to empower communities and create lasting change.</p>
                                                                                 </div>
                                                                                 <div id="tab2" class="tab-content">
                                                                                     <p>Responsible for overseeing the financial health and sustainability of the foundation, our Treasurer brings years of experience in non-profit financial management.</p>
@@ -1898,7 +1922,7 @@
                                             <div class="featured_block_inner">
                                                 <div class="featured_block_text">
                                                     <div id="cmsmasters_heading_63i9tt335y" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                                        <h2 class="cmsmasters_heading">Together, we work tirelessly to develop and implement programs that address the most urgent needs of our communities</h2>
+                                                        <h2 class="cmsmasters_heading">Together, we work tirelessly to develop and implement programs that address the most urgent needs of our communities.</h2>
                                                     </div>
                                                     <!-- <div id="cmsmasters_heading_63i9tt335f" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
                                                         <h6 class="cmsmasters_heading">Water covers two-thirds of the surface of the Earth, but Fresh water is 0.002% on Earth. What will your children drink?</h6>
@@ -1963,6 +1987,9 @@
         </div>
           
     </div>
+
+    <?php include 'footer.php'; ?> 
+
       <!-- Tabs Script -->        
         <script>
             document.querySelectorAll('.tab-button').forEach(button => {

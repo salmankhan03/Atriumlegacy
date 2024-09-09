@@ -13,21 +13,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-    <!-- <link property="stylesheet" rel="stylesheet" id="heart-plugins-css" href="css/__plugins.css" type="text/css" media="all">
-    <link property="stylesheet" rel="stylesheet" id="trx_addons-responsive-css" href="css/__responsive.css" type="text/css" media="(max-width:1439px)">
-    <link property="stylesheet" rel="stylesheet" id="heart-responsive-css" href="css/__responsive(1).css" type="text/css" media="(max-width:1679px)">
-    <script type="text/javascript" defer="defer" src="js/__scripts.js" id="trx_addons-js"></script>
-    <link property="stylesheet" rel="stylesheet" id="trx_addons-css" href="css/__styles.css" type="text/css" media="all">
-    <link property="stylesheet" rel="stylesheet" id="elementor-frontend-css" href="css/custom-frontend.min.css" type="text/css" media="all">
-    <link property="stylesheet" rel="stylesheet" id="heart-trx-addons-extra-styles-css" href="css/extra-styles.css" type="text/css" media="all">
-    <script type="text/javascript" src="js/frontend.min.js" id="elementor-frontend-js"></script><span id="elementor-device-mode" class="elementor-screen-only"></span>
-    <link property="stylesheet" rel="stylesheet" id="heart-skin-default-css" href="css/style(1).css" type="text/css" media="all">
-    <link property="stylesheet" rel="stylesheet" id="tec-events-elementor-widgets-base-styles-css" href="css/widget-base.min.css" type="text/css" media="all"> -->
 
-    
-    
-    
-    
     <style>
        body {
             font-family: 'Montserrat', sans-serif;
@@ -189,15 +175,17 @@
         }
         .left-side{
           position: static;
+          width: 80%;
+          height: 80%;
         }
         .side-element{
           position: relative;
           background-color: #0f5194;
-          color: black;
+          color: #fff;
           width: 50%;
           font-size: x-large;
           padding: 40px;
-          left: 60%;
+          left: 40%;
           top: -100px;
           font-family: "Montserrat";
         }
@@ -228,7 +216,7 @@
         } 
 
         #cmsmasters_column_sclh9r6jib .cmsmasters_column_inner { 
-        	padding: 0 24% 0 28%; 
+        	padding: 0 24% 0 30%; 
         } 
         
         
@@ -259,6 +247,8 @@
         #cmsmasters_heading_vb4bc56kh4 .cmsmasters_heading { 
         	text-align:left; 
             font-family:'Orpheus Pro';
+            color: #000;
+            font-weight: bold;
         } 
         
         #cmsmasters_heading_vb4bc56kh4 .cmsmasters_heading, #cmsmasters_heading_vb4bc56kh4 .cmsmasters_heading a { 
@@ -491,6 +481,7 @@
         #cmsmasters_heading_63i9tt335y .cmsmasters_heading { 
         	text-align:left; 
             font-family:'Orpheus Pro';
+            font-weight: bold;
         } 
         
         #cmsmasters_heading_63i9tt335y .cmsmasters_heading, #cmsmasters_heading_63i9tt335y .cmsmasters_heading a { 
@@ -632,7 +623,7 @@
                                                                 data-type="text"
                                                                 data-color="#fffef7||#fffef7||#fffef7||#ffffff"
                                                                 data-rsp_ch="on"
-                                                                data-xy="xo:109px,90px,90px,50px;yo:318px,269px,269px,207px;"
+                                                                data-xy="xo:110px,90px,90px,50px;yo:318px,269px,269px,207px;"
                                                                 data-text="s:62,62,62,48;l:70;fw:900;a:inherit;"
                                                                 data-frame_0="tp:600;"
                                                                 data-frame_1="tp:600;sp:700;sR:10;"
@@ -721,7 +712,7 @@
                                 <div id="cmsmasters_column_sclh9r6jib" class="cmsmasters_column two_third">
                                     <div class="cmsmasters_column_inner">
                                         <div id="cmsmasters_heading_vb4bc56kh4" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                            <h2 class="cmsmasters_heading", style="color:#000">Welcome to <br/> Atrium Legacy Foundation </h2>
+                                            <h2 class="cmsmasters_heading">Welcome to <br/> Atrium Legacy Foundation </h2>
                                         </div>
                                         <!-- <div id="cmsmasters_heading_qr7neufiw" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
                                             <h5 class="cmsmasters_heading">Green. That’s how we’d like the world to be</h5>
@@ -851,7 +842,7 @@
     </div>
     <br>
 
-    <div class="row no-gutters Third Section">
+    <div class="row no-gutters Third Section" style="padding-left: 18%; padding-right: 16%">
         <div class="col-lg-6">
             <div class="m-5">
             <image class="left-side" src="./image/left-side.jpg" alt="left-side-image" ></image>
@@ -865,7 +856,7 @@
         <div class="col-lg-6 ">
             <div class="text-left m-5 p-5">
             <h1 class="hedings pb-2", style="color: #000">Together, we can make a difference</h1>
-            <div style="font-family: Montserrat; font-style:italic; font-size:x-large">Join us in making a meaningful impact</div>
+            <div style="font-family: Orpheus Pro; font-style:italic; font-size:x-large">Join us in making a meaningful impact</div>
             <p class="mt-4 mb-4" style="font-family: Montserrat;">Whether through donations, volunteer work, or
                 partnerships, your support plays a crucial role in
                 creating a brighter, more inclusive future for everyone.</p>

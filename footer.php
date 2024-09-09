@@ -84,7 +84,7 @@
 </head>
 <body>
     <footer>
-        <div class="row w-100 p-5">
+        <div class="row w-100", style="padding-left: 20%; padding-right: 20%; padding-top: 50px">
             <div class="col-sm-12 col-md-7 col-lg-7  mt-sm-3" >
                 <div class="row">
                 <div class="col-sm-12 col-md-7 col-lg-7 p-xs-0" >
@@ -94,16 +94,16 @@
                     </h2>
                 </div>
                 </div>  
-                <div class="col-sm-12 col-md-5 col-lg-5" >
+                <!-- <div class="col-sm-12 col-md-5 col-lg-5" >
                    
-                </div>
+                </div> -->
                 </div>
             </div>
             <div class="col-sm-12 col-md-5 col-lg-5 mt-sm-3">
-                <div class="row margin-top">
+                <div class="row mt-3">
                     <div class="col-sm-12 col-md-6 col-lg-6" >
                         <div class="text-left">
-                            <h3 class="text-white" style="font-family: 'Montserrat';">Address</h3>    
+                            <h3 class="text-white" style="font-family: 'Montserrat'; font-size: 15px; font-weight: bold">Address</h3>    
                         </div>
                         <div class="">
                         <Address class="text-left pt-2 ">
@@ -113,10 +113,10 @@
                         </Address>
                         </div>
 
-                    </div>  
+                    </div>
                     <div class="col-sm-12 col-md-6 col-lg-6" >
                         <div class="text-left">
-                            <h3 class="text-white" style="font-family: 'Montserrat';">Contact</h3>    
+                            <h3 class="text-white" style="font-family: 'Montserrat';font-size: 15px; font-weight: bold">Contact</h3>    
                         </div>
                         <div class="text-left">
                         <p>
@@ -134,7 +134,7 @@
             </div>
         </div>
 
-        <div class="row mt-5 pt-5 borderTop">
+        <div class="row mt-5 pt-3 pb-3 borderTop">
     <div class="col-sm-12 col-md-7 col-lg-7 d-flex justify-content-between align-items-center text-center">
         <div class="d-flex justify-content-center">
             <a href="#about-us" class="mx-2">About Us</a>
@@ -142,7 +142,7 @@
             <a href="#privacy" class="mx-2">Privacy</a>
         </div>
     </div>
-    <div class="col-sm-12 col-md-5 col-lg-5 mt-sm-3 d-flex align-items-center justify-content-center text-center">
+    <div class="col-sm-12 col-md-5 col-lg-5 d-flex align-items-center justify-content-center text-center">
         <div>
             <a href="https://axiomthemes.com/" target="_blank" rel="noopener">AxiomThemes</a>
             © 2024. All Rights Reserved.

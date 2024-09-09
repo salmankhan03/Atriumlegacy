@@ -78,6 +78,7 @@
          font-size:62px; 
          line-height:70px; 
          color:#ffffff;
+         font-family: Orpheus Pro
          } 
          #cmsmasters_heading_rrgejmijg .cmsmasters_heading a:hover { 
          } 
@@ -1470,7 +1471,7 @@
                      <div class="elementor-widget-container">
                         <div class="sc_title sc_title_default">
                            <h1 class="sc_item_title sc_title_title sc_item_title_style_default sc_item_title_tag">
-                              <span class="sc_item_title_text">Atrium Legacy Foundation believe that meaningful change starts with strategic, impactful initiatives.</span>
+                              <span class="sc_item_title_text", style="font-family:'Orpheus Pro'; color: #000">Atrium Legacy Foundation believe that meaningful change starts with strategic, impactful initiatives.</span>
                            </h1>
                         </div>
                      </div>
@@ -1483,7 +1484,7 @@
                      </div>
                   </div>
                   <div class="elementor-element elementor-element-1fad025 animation_type_block sc_fly_static elementor-widget elementor-widget-text-editor trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited animated heart-fadeinup" data-id="1fad025" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;heart-fadeinup&quot;,&quot;_animation_delay&quot;:100}" data-widget_type="text-editor.default">
-                     <div class="elementor-widget-container">
+                     <div class="elementor-widget-container", style="font-family:'Montserrat'">
                         Our programs are designed to address the most pressing challenges faced by our communities today. By focusing on education, senior wellness, housing, and agricultural technology, we aim to create lasting solutions that empower individuals and strengthen communities.
                      </div>
                      <div class="elementor-element elementor-element-1647951 sc_fly_static elementor-widget elementor-widget-spacer trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="1647951" data-element_type="widget" data-widget_type="spacer.default">
