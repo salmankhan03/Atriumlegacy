@@ -84,72 +84,73 @@
 </head>
 <body>
     <footer>
-        <div class="row w-100", style="padding-left: 20%; padding-right: 20%; padding-top: 50px">
-            <div class="col-sm-12 col-md-7 col-lg-7  mt-sm-3" >
-                <div class="row">
-                <div class="col-sm-12 col-md-7 col-lg-7 p-xs-0" >
-                <div class="title">
-                    <h2 class="text-left">
-                        <span class="footerSlogan" style="font-size: 46px">We need <br/> solutions now!</span>
-                    </h2>
-                </div>
-                </div>  
-                <!-- <div class="col-sm-12 col-md-5 col-lg-5" >
-                   
-                </div> -->
-                </div>
-            </div>
-            <div class="col-sm-12 col-md-5 col-lg-5 mt-sm-3">
-                <div class="row mt-3">
-                    <div class="col-sm-12 col-md-6 col-lg-6" >
-                        <div class="text-left">
-                            <h3 class="text-white" style="font-family: 'Montserrat'; font-size: 15px; font-weight: bold">Address</h3>    
-                        </div>
-                        <div class="">
-                        <Address class="text-left pt-2 ">
-                            200-3071 No.5 Rd<br/>
-                            Richmond BC<br/>
-                            V6X2T4 
-                        </Address>
-                        </div>
-
-                    </div>
-                    <div class="col-sm-12 col-md-6 col-lg-6" >
-                        <div class="text-left">
-                            <h3 class="text-white" style="font-family: 'Montserrat';font-size: 15px; font-weight: bold">Contact</h3>    
-                        </div>
-                        <div class="text-left">
-                        <p>
-                            <a class="underline_anim underline_do_hover" href="mailto:info@email.com" style="text-decoration:underline">
-                                info@email.com
-                            </a>
-                        </p>
-                            <div class="elementor-widget-container">
-                                <span class="trx_addons_alter_text">
-                                    <a href="tel:+18408412569" style="color:#d2d2d2;text-decoration:underline">+1 840 841 25 69</a>
-                                </span>
+        <div class = "container">
+            <div class="row w-100", style="padding-top: 40px;">
+                <div class="col-sm-12 col-md-7 col-lg-7  mt-sm-3" >
+                    <div class="row">
+                        <div class="col-sm-12 col-md-7 col-lg-7 p-xs-0" >
+                            <div class="title">
+                                <h2 class="text-left">
+                                    <span class="footerSlogan" style="font-size: 46px">We need <br/> solutions now!</span>
+                                </h2>
                             </div>
+                        </div>
+                    <!-- <div class="col-sm-12 col-md-5 col-lg-5" >
+                    
+                    </div> -->
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-5 col-lg-5 mt-sm-3">
+                    <div class="row mt-3">
+                        <div class="col-sm-12 col-md-6 col-lg-6" >
+                            <div class="text-left">
+                                <h3 class="text-white" style="font-family: 'Montserrat'; font-size: 15px; font-weight: bold">Address</h3>    
+                            </div>
+                            <div class="">
+                            <Address class="text-left pt-2 ">
+                                200-3071 No.5 Rd<br/>
+                                Richmond BC<br/>
+                                V6X2T4 
+                            </Address>
+                            </div>
+
+                        </div>
+                        <div class="col-sm-12 col-md-6 col-lg-6" >
+                            <div class="text-left">
+                                <h3 class="text-white" style="font-family: 'Montserrat';font-size: 15px; font-weight: bold">Contact</h3>    
+                            </div>
+                            <div class="text-left">
+                            <p>
+                                <a class="underline_anim underline_do_hover" href="mailto:info@email.com" style="text-decoration:underline">
+                                    info@email.com
+                                </a>
+                            </p>
+                                <div class="elementor-widget-container">
+                                    <span class="trx_addons_alter_text">
+                                        <a href="tel:+18408412569" style="color:#d2d2d2;text-decoration:underline">+1 840 841 25 69</a>
+                                    </span>
+                                </div>
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
 
-        <div class="row mt-5 pt-3 pb-3 borderTop">
-    <div class="col-sm-12 col-md-7 col-lg-7 d-flex justify-content-between align-items-center text-center">
-        <div class="d-flex justify-content-center">
-            <a href="#about-us" class="mx-2">About Us</a>
-            <a href="#contact-us" class="mx-2">Contact Us</a>
-            <a href="#privacy" class="mx-2">Privacy</a>
-        </div>
+            <div class="row mt-5 pt-3 pb-3 borderTop">
+                <div class="col-sm-12 col-md-7 col-lg-7 d-flex justify-content-between align-items-center text-center">
+                    <div class="d-flex justify-content-center">
+                        <a href="#about-us" class="mx-2">About Us</a>
+                        <a href="#contact-us" class="mx-2">Contact Us</a>
+                        <a href="#privacy" class="mx-2">Privacy</a>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-5 col-lg-5 d-flex align-items-center justify-content-center text-center">
+                    <div>
+                        <a href="https://axiomthemes.com/" target="_blank" rel="noopener">AxiomThemes</a>
+                        © 2024. All Rights Reserved.
+                    </div>
+                </div>
+            </div>
     </div>
-    <div class="col-sm-12 col-md-5 col-lg-5 d-flex align-items-center justify-content-center text-center">
-        <div>
-            <a href="https://axiomthemes.com/" target="_blank" rel="noopener">AxiomThemes</a>
-            © 2024. All Rights Reserved.
-        </div>
-    </div>
-</div>
-
         
     </footer>
 

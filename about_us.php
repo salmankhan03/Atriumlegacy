@@ -1754,7 +1754,7 @@
                                     <div id="cmsmasters_column_tsg36hzfki" class="cmsmasters_column one_first">
                                         <div class="cmsmasters_column_inner">
                                             <div id="cmsmasters_heading_rrgejmijg" class="cmsmasters_heading_wrap cmsmasters_heading_align_center">
-                                                <h2 class="cmsmasters_heading", style="font-family: 'Orpheus Pros'">About Us</h2>
+                                                <h2 class="cmsmasters_heading", style="font-family: 'Orpheus Pros'; font-weight: bold">About Us</h2>
                                             </div>
                                         </div>
                                     </div>
@@ -1875,7 +1875,7 @@
 
                                                 </div>
                                             </div>
-                                        </div> -->                            
+                                        </div> -->
                                          <!-- Tabs 2 -->
                                          <div id="cmsmasters_row_56518267de" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_boxed">
                                             <div class="cmsmasters_row_outer_parent">
@@ -1884,14 +1884,14 @@
                                                         <div class="cmsmasters_row_margin">
                                                             <div id="cmsmasters_column_" class="cmsmasters_column one_first">
                                                                 <div class="">
-                                                                    <div class="cmsmasters_tabs tabs_mode_tour tabs_pos_left">                                                                
+                                                                    <div class="cmsmasters_tabs tabs_mode_tour tabs_pos_left">
                                                                         <div class="tab-buttons cmsmasters_tabs_list">
                                                                             <button class="tab-button active" data-tab="tab1" style="border:none; border: 0;font-size:12px; ">Founder & CEO</button>
-                                                                            <button class="tab-button" data-tab="tab2" style="border:none;border: 0; font-size:12px;  ">Treasurer</button>
-                                                                            <button class="tab-button" data-tab="tab3" style="border:none; border: 0;font-size:12px;  ">Advisory Board</button>
-                                                                            <button class="tab-button" data-tab="tab4" style="border:none;border: 0; font-size:12px;  "  >Board Members</button>
+                                                                            <button class="tab-button" data-tab="tab2" style="border:none; border: 0; font-size:12px; ">Treasurer</button>
+                                                                            <button class="tab-button" data-tab="tab3" style="border:none; border: 0; font-size:12px; ">Advisory Board</button>
+                                                                            <button class="tab-button" data-tab="tab4" style="border:none; border: 0; font-size:12px; ">Board Members</button>
                                                                         </div>
-                                                                        <div class="cmsmasters_tabs_wrap tab-contents">                                                    
+                                                                        <div class="cmsmasters_tabs_wrap tab-contents">
                                                                                 <div id="tab1" class="tab-content active">
                                                                                     <p>A visionary leader with a deep commitment to social impact, our CEO has been the driving force beMontserrat the foundation's mission to empower communities and create lasting change.</p>
                                                                                 </div>

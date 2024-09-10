@@ -216,7 +216,7 @@
         } 
 
         #cmsmasters_column_sclh9r6jib .cmsmasters_column_inner { 
-        	padding: 0 24% 0 30%; 
+        	padding: 0 24% 0 31%; 
         } 
         
         
@@ -574,7 +574,28 @@
             color: #4789cc;
             border-color: #4789cc;
         } 
-        				
+
+        .banner {
+            background-image: url('img/2-2.jpg'); 
+            background-position: top center; 
+            background-repeat: no-repeat; 
+            background-attachment: scroll; 
+            background-size: cover; 
+        }
+
+        .banner_title {
+            color:#fff; 
+            font-family:'Montserrat';
+            padding-top: 300px;
+        }
+
+        .banner_header {
+            color:#fff; 
+            font-family:'Orpheus Pro';
+            font-weight: bold;
+            /* font-size: 62px; */
+        }
+
     </style>
 </head>
 
@@ -594,16 +615,13 @@
                                 <div id="cmsmasters_column_" class="cmsmasters_column one_first">
                                     <div class="cmsmasters_column_inner">
                                         
-                                        <div class="cmsmasters_slider">
-                                            <!-- START home_slider REVOLUTION SLIDER 6.7.15 -->
+                                        <!-- <div class="cmsmasters_slider">
                                             <rs-module-wrap id="rev_slider_1_1_wrapper" data-source="gallery" style="visibility:hidden;background:transparent;padding:0;margin:0px auto;margin-top:0;margin-bottom:0;">
                                                 <rs-module id="rev_slider_1_1" style="" data-version="6.7.15">
                                                     <rs-slides style="overflow: hidden; position: absolute;">
                                                         <rs-slide style="position: absolute;" data-key="rs-2" data-title="Slide" data-thumb="//green-planet.cmsmasters.net/wp-content/uploads/2017/12/1-3-100x50.jpg" data-anim="adpr:false;">
                                                             <img decoding="async" src="img/2-2.jpg" alt="" title="Home" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="img/2-2.jpg" data-panzoom="d:10000;ss:100;se:103;oe:10/0;" data-no-retina>
-                                <!--
-                                                            
-                                                            --><rs-layer
+                                                            <rs-layer
                                                                 id="slider-1-slide-2-layer-3"
                                                                 data-type="text"
                                                                 data-color="#e3e2db||#e3e2db||#e3e2db||#ffffff"
@@ -616,9 +634,9 @@
                                                                 data-frame_999="o:0;tp:600;st:w;sR:3690;"
                                                                 style="z-index:7;font-family:'Montserrat';"
                                                             >OUR MISSION 
-                                                            </rs-layer><!--
+                                                            </rs-layer>
 
-                                                            --><rs-layer
+                                                            <rs-layer
                                                                 id="slider-1-slide-2-layer-1" 
                                                                 data-type="text"
                                                                 data-color="#fffef7||#fffef7||#fffef7||#ffffff"
@@ -630,9 +648,9 @@
                                                                 data-frame_999="o:0;tp:600;st:w;sR:4290;"
                                                                 style="z-index:5;font-family:'Orpheus Pro';"
                                                             >Fostering Values,
-                                                            </rs-layer><!--
+                                                            </rs-layer>
 
-                                                            --><rs-layer
+                                                            <rs-layer
                                                                 id="slider-1-slide-2-layer-2" 
                                                                 data-type="text"
                                                                 data-color="#fffef7||#fffef7||#fffef7||#ffffff"
@@ -644,9 +662,9 @@
                                                                 data-frame_999="o:0;tp:600;st:w;sR:4290;"
                                                                 style="z-index:6;font-family:'Orpheus Pro';"
                                                             >Supporting Wellness &
-                                                            </rs-layer><!--
+                                                            </rs-layer>
 
-                                                            --><rs-layer
+                                                            <rs-layer
                                                                 id="slider-1-slide-2-layer-3" 
                                                                 data-type="text"
                                                                 data-color="#fffef7||#fffef7||#fffef7||#ffffff"
@@ -658,9 +676,9 @@
                                                                 data-frame_999="o:0;tp:600;st:w;sR:4290;"
                                                                 style="z-index:6;font-family:'Orpheus Pro';"
                                                             >Promoting Sustainable
-                                                            </rs-layer><!--
+                                                            </rs-layer>
 
-                                                            --><rs-layer
+                                                            <rs-layer
                                                             id="slider-1-slide-2-layer-4" 
                                                                 data-type="text"
                                                                 data-color="#fffef7||#fffef7||#fffef7||#ffffff"
@@ -672,9 +690,9 @@
                                                                 data-frame_999="o:0;tp:600;st:w;sR:4290;"
                                                                 style="z-index:6;font-family:'Orpheus Pro';"
                                                             >Communities
-                                                            </rs-layer><!--
+                                                            </rs-layer>
 
-                                                            --><rs-layer
+                                                            <rs-layer
                                                                 id="slider-1-slide-2-layer-6" 
                                                                 class="rev-btn"
                                                                 data-type="button"
@@ -695,56 +713,19 @@
                                                     </rs-slide>
                                                 </rs-module>
                                             </rs-module-wrap>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div id="cmsmasters_row_ucs4e1cfdh" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_fullwidth">
-                <div class="cmsmasters_row_outer_parent">
-                    <div class="cmsmasters_row_outer">
-                        <div class="cmsmasters_row_inner cmsmasters_row_fullwidth cmsmasters_row_no_margin">
-                            <div class="cmsmasters_row_margin cmsmasters_row_columns_behavior cmsmasters_2313">
-                                <div id="cmsmasters_column_sclh9r6jib" class="cmsmasters_column two_third">
-                                    <div class="cmsmasters_column_inner">
-                                        <div id="cmsmasters_heading_vb4bc56kh4" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                            <h2 class="cmsmasters_heading">Welcome to <br/> Atrium Legacy Foundation </h2>
-                                        </div>
-                                        <!-- <div id="cmsmasters_heading_qr7neufiw" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                            <h5 class="cmsmasters_heading">Green. That’s how we’d like the world to be</h5>
                                         </div> -->
-                                        <div id="cmsmasters_heading_pqvyo1eyi8" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                            <h4 class="cmsmasters_heading">Atrium Legacy Foundation believe that true progress lies in the values we impart, the communities we nurture, and the future we build together. We are dedicated to creating a lasting impact by fostering empathy in our youth, ensuring dignified aging for our seniors, and promoting sustainable solutions that uplift our communities. </h4>
-                                        </div>
-                                        <div id="cmsmasters_fb_wjzk57hjpq" class="cmsmasters_featured_block cmsmasters_custom_margin">
-                                            <div class="featured_block_inner">
-                                                <div class="featured_block_text">
-                                                    <div id="cmsmasters_button_wjzk57hjpe" class="button_wrap"><a href="https://green-planet.cmsmasters.net/about-us/" class="cmsmasters_button"><span>Find Out More</span></a></div>
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div id="cmsmasters_column_1dxj3j9sh7" class="cmsmasters_column one_third">
-                                    <div class="cmsmasters_column_inner">
-                                        <div id="cmsmasters_fb_63i9tt335f" class="cmsmasters_featured_block">
-                                            <div class="featured_block_inner">
-                                                <div class="featured_block_text">
-                                                    <div id="cmsmasters_heading_63i9tt335y" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                                        <h2 class="cmsmasters_heading">We envision communities where every individual is empowered to thrive, with access to
-                                                        the resources and support they need across all stages of life.</h2>
-                                                    </div>
-                                                    <!-- <div id="cmsmasters_heading_63i9tt335f" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                                        <h6 class="cmsmasters_heading">Water covers two-thirds of the surface of the Earth, but Fresh water is 0.002% on Earth. What will your children drink?</h6>
-                                                    </div>
-                                                    <div id="cmsmasters_button_63i9tt335f" class="button_wrap"><a href="https://green-planet.cmsmasters.net/project/saving-the-arctic/" class="cmsmasters_button"><span>Make a difference now!</span></a></div> -->
-
-                                                </div>
+                                        <div class = "banner">
+                                            <div class = "container">
+                                                <h2 class = "banner_title">
+                                                    OUR MISSION
+                                                </h2>
+                                                <h1 class = "banner_header display-3">
+                                                    Fostering Values, <br/>
+                                                    Supporting Wellness & <br/>
+                                                    Promoting Sustainable <br/>
+                                                    Communities
+                                                </h1>
+                                                <div id="cmsmasters_button_wjzk57hjpe" class="button_wrap" style="padding-bottom: 300px; padding-top: 10px"><a href="https://green-planet.cmsmasters.net/about-us/" class="cmsmasters_button"><span>Find Out More</span></a></div>
                                             </div>
                                         </div>
                                     </div>
@@ -755,6 +736,58 @@
                 </div>
             </div>
 
+            <!-- <div class = "container-fluid">  -->
+                <div id="cmsmasters_row_ucs4e1cfdh" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_fullwidth">
+                    <div class="cmsmasters_row_outer_parent">
+                        <div class="cmsmasters_row_outer">
+                            <div class="cmsmasters_row_inner cmsmasters_row_fullwidth cmsmasters_row_no_margin">
+                                <div class="cmsmasters_row_margin cmsmasters_row_columns_behavior cmsmasters_2313">
+                                    <div id="cmsmasters_column_sclh9r6jib" class="cmsmasters_column two_third">
+                                        <div class="cmsmasters_column_inner">
+                                            <div id="cmsmasters_heading_vb4bc56kh4" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
+                                                <h2 class="cmsmasters_heading">Welcome to <br/> Atrium Legacy Foundation </h2>
+                                            </div>
+                                            <!-- <div id="cmsmasters_heading_qr7neufiw" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
+                                                <h5 class="cmsmasters_heading">Green. That’s how we’d like the world to be</h5>
+                                            </div> -->
+                                            <div id="cmsmasters_heading_pqvyo1eyi8" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
+                                                <h4 class="cmsmasters_heading">Atrium Legacy Foundation believe that true progress lies in the values we impart, the communities we nurture, and the future we build together. We are dedicated to creating a lasting impact by fostering empathy in our youth, ensuring dignified aging for our seniors, and promoting sustainable solutions that uplift our communities. </h4>
+                                            </div>
+                                            <div id="cmsmasters_fb_wjzk57hjpq" class="cmsmasters_featured_block cmsmasters_custom_margin">
+                                                <div class="featured_block_inner">
+                                                    <div class="featured_block_text">
+                                                        <div id="cmsmasters_button_wjzk57hjpe" class="button_wrap"><a href="https://green-planet.cmsmasters.net/about-us/" class="cmsmasters_button"><span>Find Out More</span></a></div>
+
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div id="cmsmasters_column_1dxj3j9sh7" class="cmsmasters_column one_third">
+                                        <div class="cmsmasters_column_inner">
+                                            <div id="cmsmasters_fb_63i9tt335f" class="cmsmasters_featured_block">
+                                                <div class="featured_block_inner">
+                                                    <div class="featured_block_text">
+                                                        <div id="cmsmasters_heading_63i9tt335y" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
+                                                            <h2 class="cmsmasters_heading">We envision communities where every individual is empowered to thrive, with access to
+                                                            the resources and support they need across all stages of life.</h2>
+                                                        </div>
+                                                        <!-- <div id="cmsmasters_heading_63i9tt335f" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
+                                                            <h6 class="cmsmasters_heading">Water covers two-thirds of the surface of the Earth, but Fresh water is 0.002% on Earth. What will your children drink?</h6>
+                                                        </div>
+                                                        <div id="cmsmasters_button_63i9tt335f" class="button_wrap"><a href="https://green-planet.cmsmasters.net/project/saving-the-arctic/" class="cmsmasters_button"><span>Make a difference now!</span></a></div> -->
+
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            <!-- </div> -->
             
             <div class="content-section">
                 <div class="container">
@@ -767,8 +800,8 @@
                         </div>
                     </div>
                 </div>
-            <!-- </div>
-            <div class="content-section"> -->
+                <!-- </div>
+                <div class="content-section"> -->
                 <div class="container">
                     <div class="row no-gutters pt-5 pb-5"> 
                         <div class="col-sm-12 col-md-6 col-lg-3 text-content">
@@ -842,96 +875,28 @@
     </div>
     <br>
 
-    <div class="row no-gutters Third Section" style="padding-left: 18%; padding-right: 16%">
-        <div class="col-lg-6">
-            <div class="m-5">
-            <image class="left-side" src="./image/left-side.jpg" alt="left-side-image" ></image>
-            <div class="side-element">
-                <div> Empathy.</div>
-                <div> Wellness.</div>
-                <div> Sustainability.</div>
+    <div class = "container">    
+        <div class="row no-gutters Third Section">
+            <div class="col-lg-6">
+                <div class="m-5">
+                    <image class="left-side" src="./image/left-side.jpg" alt="left-side-image" ></image>
+                    <div class="side-element">
+                        <div> Empathy.</div>
+                        <div> Wellness.</div>
+                        <div> Sustainability.</div>
+                    </div>
+                </div>
             </div>
-            </div>
-        </div>
-        <div class="col-lg-6 ">
-            <div class="text-left m-5 p-5">
-            <h1 class="hedings pb-2", style="color: #000">Together, we can make a difference</h1>
-            <div style="font-family: Orpheus Pro; font-style:italic; font-size:x-large">Join us in making a meaningful impact</div>
-            <p class="mt-4 mb-4" style="font-family: Montserrat;">Whether through donations, volunteer work, or
-                partnerships, your support plays a crucial role in
-                creating a brighter, more inclusive future for everyone.</p>
-            <div id="cmsmasters_button_wjzk57hjpe" class="button_wrap"><a href="" class="cmsmasters_button"><span>Join Us</span></a></div>
+            <div class="col-lg-6 ">
+                <div class="text-left m-5 p-5">
+                    <h1 class="hedings pb-2", style="color: #000">Together, we can make a difference</h1>
+                    <div style="font-family: Orpheus Pro; font-style:italic; font-size:x-large">Join us in making a meaningful impact</div>
+                    <p class="mt-4 mb-4" style="font-family: Montserrat;">Whether through donations, volunteer work, or partnerships, your support plays a crucial role in creating a brighter, more inclusive future for everyone.</p>
+                    <div id="cmsmasters_button_wjzk57hjpe" class="button_wrap"><a href="" class="cmsmasters_button"><span>Join Us</span></a></div>
+                </div>
             </div>
         </div>
     </div>
-
-
-				<!-- <section class="elementor-section elementor-top-section elementor-element elementor-element-2abb0bfb elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default sc_fly_static trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="2abb0bfb" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-extended">
-					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-c8f5ae4 sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="c8f5ae4" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<section class="elementor-section elementor-inner-section elementor-element elementor-element-fe8b3d5 elementor-section-content-bottom elementor-section-boxed elementor-section-height-default elementor-section-height-default sc_fly_static trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="fe8b3d5" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-145e5b7e sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="145e5b7e" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-5c7f48e7 elementor-widget__width-auto no-title animation_type_block sc_fly_static elementor-widget elementor-widget-image trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited animated heart-fadeinup" data-id="5c7f48e7" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;heart-fadeinup&quot;}" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-													<img loading="lazy" decoding="async" width="780" height="963" src="./Non-profit – Heart_files/img-16-copyright.jpg" class="attachment-full size-full wp-image-20604" alt="" srcset="https://heart.axiomthemes.com/wp-content/uploads/2023/08/img-16-copyright.jpg 780w, https://heart.axiomthemes.com/wp-content/uploads/2023/08/img-16-copyright-243x300.jpg 243w, https://heart.axiomthemes.com/wp-content/uploads/2023/08/img-16-copyright-768x948.jpg 768w, https://heart.axiomthemes.com/wp-content/uploads/2023/08/img-16-copyright-370x457.jpg 370w, https://heart.axiomthemes.com/wp-content/uploads/2023/08/img-16-copyright-410x506.jpg 410w, https://heart.axiomthemes.com/wp-content/uploads/2023/08/img-16-copyright-600x741.jpg 600w" sizes="(max-width: 780px) 100vw, 780px">													</div>
-				</div>
-				<div class="elementor-element elementor-element-4ae06352 scheme_dark elementor-widget__width-initial elementor-absolute animation_type_block sc_fly_static elementor-widget elementor-widget-heading trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited animated heart-fadeinup" data-id="4ae06352" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;_animation&quot;:&quot;heart-fadeinup&quot;}" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Join us in making a difference</h3>		</div>
-				</div>
-					</div>
-		</div>
-					</div>
-		</section>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-595b9f4 sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="595b9f4" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-863db18 animation_type_block sc_fly_static elementor-widget elementor-widget-trx_sc_title trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited animated heart-fadeinup" data-id="863db18" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;heart-fadeinup&quot;}" data-widget_type="trx_sc_title.default">
-				<div class="elementor-widget-container">
-			<div class="sc_title sc_title_default"><h1 class="sc_item_title sc_title_title sc_item_title_style_default sc_item_title_tag"><span class="sc_item_title_text">We are a trusted force for good</span></h1></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-ac62da6 sc_fly_static elementor-widget elementor-widget-spacer trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="ac62da6" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-9facc55 has-text-dark-color animation_type_block sc_fly_static elementor-widget elementor-widget-text-editor trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited animated heart-fadeinup" data-id="9facc55" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;heart-fadeinup&quot;,&quot;_animation_delay&quot;:100}" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>Qadipiscing elit, sed do eiusmod tempor incididunt ut labore eli sed do eiu.</p>						</div>
-				</div>
-				<div class="elementor-element elementor-element-e415eb1 sc_fly_static elementor-widget elementor-widget-spacer trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="e415eb1" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-d2d7256 animation_type_block sc_fly_static elementor-widget elementor-widget-text-editor trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited animated heart-fadeinup" data-id="d2d7256" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;heart-fadeinup&quot;,&quot;_animation_delay&quot;:200}" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							Adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.						</div>
-				</div>
-				<div class="elementor-element elementor-element-7626bde5 sc_fly_static elementor-widget elementor-widget-spacer trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="7626bde5" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-70a5cb57 animation_type_block sc_fly_static elementor-widget elementor-widget-trx_sc_button trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited animated heart-fadeinup" data-id="70a5cb57" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;heart-fadeinup&quot;,&quot;_animation_delay&quot;:300}" data-widget_type="trx_sc_button.default">
-				<div class="elementor-widget-container">
-			<div class="sc_item_button sc_button_wrap"><a href="https://heart.axiomthemes.com/volunteer/" class="sc_button sc_button_default sc_button_size_normal sc_button_icon_left color_style_link2"><span class="sc_button_text"><span class="sc_button_title">Read More</span></span></a></div>		</div>
-				</div>
-					</div>
-		</div>
-					</div>
-		</section>
-		 -->
 
     <?php include 'footer.php'; ?> 
 
