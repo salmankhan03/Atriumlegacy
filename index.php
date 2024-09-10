@@ -8,10 +8,12 @@
     <meta content="" name="keywords">
     <meta content="" name="description">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://www.onlinewebfonts.com/download/2aea0ac500c896188f9ad191c231029c" rel="stylesheet">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
     <style>
        body {
             font-family: 'Montserrat', sans-serif;
@@ -24,7 +26,7 @@
         }
 
         .content-section {
-            background-color: #fdfbf8; 
+            background-color: #cfddd0; 
             padding: 20px 0;
         }
 
@@ -39,7 +41,7 @@
         .hedings {
             font-size: 46px;
             line-height: 58px;
-            font-family: 'Montserrat', sans-serif;
+            font-family: 'Orpheus Pro';
         }
 
         .right-headings {
@@ -121,13 +123,15 @@
             padding: 15px;
         }
         .card-fonts-heading-color{
-            color:#000
+            color:#000;
+            font-family:'Orpheus Pro';
         }
         .card-fonts-color{
-            color:#7a7d7e
+            color:#7a7d7e;
+            font-family:'Montserrat';
         }
         .cards:hover .card-fonts-heading-color, .cards:hover .card-fonts-color{
-            color:#FFFFFF
+            color:#FFFFFF;
         }
 
         .cards-body {
@@ -150,6 +154,7 @@
             color: #fff;
             opacity: 0;
             transition: opacity 0.3s;
+            font-family:'Montserrat';
         }
 
         .cards:hover .custom-icon {
@@ -169,17 +174,20 @@
             justify-content: center; 
         }
         .left-side{
-          position: absolute;
+          position: static;
+          width: 80%;
+          height: 80%;
         }
         .side-element{
           position: relative;
           background-color: #0f5194;
-          color: black;
+          color: #fff;
           width: 50%;
           font-size: x-large;
           padding: 40px;
-          left: 60%;
-          top: 320px;
+          left: 40%;
+          top: -100px;
+          font-family: "Montserrat";
         }
 
 
@@ -208,7 +216,7 @@
         } 
 
         #cmsmasters_column_sclh9r6jib .cmsmasters_column_inner { 
-        	padding: 0 24% 0 28%; 
+        	padding: 0 24% 0 31%; 
         } 
         
         
@@ -238,6 +246,9 @@
         
         #cmsmasters_heading_vb4bc56kh4 .cmsmasters_heading { 
         	text-align:left; 
+            font-family:'Orpheus Pro';
+            color: #000;
+            font-weight: bold;
         } 
         
         #cmsmasters_heading_vb4bc56kh4 .cmsmasters_heading, #cmsmasters_heading_vb4bc56kh4 .cmsmasters_heading a { 
@@ -254,7 +265,7 @@
         @media (max-width: 540px) {
         
         #cmsmasters_heading_vb4bc56kh4 .cmsmasters_heading, #cmsmasters_heading_vb4bc56kh4 .cmsmasters_heading a { 
-        	font-size:28px; 
+        	font-size:40px; 
         	line-height:45px; 
         } 
         
@@ -322,7 +333,7 @@
         } 
         
         #cmsmasters_heading_pqvyo1eyi8 .cmsmasters_heading, #cmsmasters_heading_pqvyo1eyi8 .cmsmasters_heading a { 
-        	font-family:'Hind'; 
+        	font-family:'Montserrat';
         	font-size:20px; 
         	line-height:28px; 
         	font-weight:400; 
@@ -410,7 +421,7 @@
         } 
         
         #cmsmasters_column_1dxj3j9sh7 .cmsmasters_column_inner { 
-        	padding: 0 20% 0 18%; 
+        	padding: 0 10% 0 10%; 
         } 
         
         
@@ -469,10 +480,12 @@
         
         #cmsmasters_heading_63i9tt335y .cmsmasters_heading { 
         	text-align:left; 
+            font-family:'Orpheus Pro';
+            font-weight: bold;
         } 
         
         #cmsmasters_heading_63i9tt335y .cmsmasters_heading, #cmsmasters_heading_63i9tt335y .cmsmasters_heading a { 
-        	font-size:40px; 
+        	font-size:38px; 
         	line-height:50px; 
         	color:#ffffff;
         } 
@@ -486,7 +499,7 @@
         @media (max-width: 540px) {
         
         #cmsmasters_heading_63i9tt335y .cmsmasters_heading, #cmsmasters_heading_63i9tt335y .cmsmasters_heading a { 
-        	font-size:28px; 
+        	font-size:40px; 
         	line-height:45px; 
         } 
         
@@ -533,8 +546,56 @@
         	background-color:rgba(255,255,255,0);
         	color:#ffffff;
         } 
+
+        #cmsmasters_button_wjzk57hjpe .cmsmasters_button:before { 
+        	margin-right:.5em; 
+        	margin-left:0; 
+        	vertical-align:baseline; 
+        } 
         
-        				
+        #cmsmasters_button_wjzk57hjpe .cmsmasters_button { 
+            font-size: 16px;
+            line-height: 48px;
+            font-weight: 700;
+            padding-right: 35px;
+            padding-left: 35px;
+            border-width: 2px;
+            background-color: #4789cc;
+            color: #fff;
+            border-color: #4789cc;
+            background-color: #4789cc;
+            color: #fff;
+            border-color: #4789cc;
+            font-family:'Montserrat';
+        } 
+        
+        #cmsmasters_button_wjzk57hjpe .cmsmasters_button:hover { 
+            background-color: rgba(255, 255, 255, 0);
+            color: #4789cc;
+            border-color: #4789cc;
+        } 
+
+        .banner {
+            background-image: url('img/2-2.jpg'); 
+            background-position: top center; 
+            background-repeat: no-repeat; 
+            background-attachment: scroll; 
+            background-size: cover; 
+        }
+
+        .banner-title {
+            color:#fff; 
+            font-family:'Montserrat';
+            padding-top: 300px;
+        }
+
+        .banner-header {
+            color:#fff; 
+            font-family:'Orpheus Pro';
+            font-weight: bold;
+            /* font-size: 62px; */
+        }
+
     </style>
 </head>
 
@@ -554,78 +615,118 @@
                                 <div id="cmsmasters_column_" class="cmsmasters_column one_first">
                                     <div class="cmsmasters_column_inner">
                                         
-                                        <div class="cmsmasters_slider">
-                                            <!-- START home_slider REVOLUTION SLIDER 6.7.15 -->
+                                        <!-- <div class="cmsmasters_slider">
                                             <rs-module-wrap id="rev_slider_1_1_wrapper" data-source="gallery" style="visibility:hidden;background:transparent;padding:0;margin:0px auto;margin-top:0;margin-bottom:0;">
                                                 <rs-module id="rev_slider_1_1" style="" data-version="6.7.15">
                                                     <rs-slides style="overflow: hidden; position: absolute;">
                                                         <rs-slide style="position: absolute;" data-key="rs-2" data-title="Slide" data-thumb="//green-planet.cmsmasters.net/wp-content/uploads/2017/12/1-3-100x50.jpg" data-anim="adpr:false;">
                                                             <img decoding="async" src="img/2-2.jpg" alt="" title="Home" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="img/2-2.jpg" data-panzoom="d:10000;ss:100;se:103;oe:10/0;" data-no-retina>
-                                <!--
-                                                            --><rs-layer
-                                                                id="slider-1-slide-2-layer-1" 
-                                                                data-type="text"
-                                                                data-color="#fffef7||#fffef7||#fffef7||#ffffff"
-                                                                data-rsp_ch="on"
-                                                                data-xy="xo:109px,90px,90px,50px;yo:318px,269px,269px,207px;"
-                                                                data-text="s:62,62,62,48;l:70;fw:900;a:inherit;"
-                                                                data-frame_0="tp:600;"
-                                                                data-frame_1="tp:600;sp:700;sR:10;"
-                                                                data-frame_999="o:0;tp:600;st:w;sR:4290;"
-                                                                style="z-index:5;font-family:'Merriweather';"
-                                                            >A Good Planet is  
-                                                            </rs-layer><!--
-
-                                                            --><rs-layer
-                                                                id="slider-1-slide-2-layer-2" 
-                                                                data-type="text"
-                                                                data-color="#fffef7||#fffef7||#fffef7||#ffffff"
-                                                                data-rsp_ch="on"
-                                                                data-xy="xo:110px,90px,90px,50px;yo:387px,344px,344px,279px;"
-                                                                data-text="s:62,62,62,48;l:70;fw:900;a:inherit;"
-                                                                data-frame_0="tp:600;"
-                                                                data-frame_1="tp:600;sp:700;sR:10;"
-                                                                data-frame_999="o:0;tp:600;st:w;sR:4290;"
-                                                                style="z-index:6;font-family:'Merriweather';"
-                                                            >Hard to Find 
-                                                            </rs-layer><!--
-
-                                                            --><rs-layer
-                                                                id="slider-1-slide-2-layer-3" 
+                                                            <rs-layer
+                                                                id="slider-1-slide-2-layer-3"
                                                                 data-type="text"
                                                                 data-color="#e3e2db||#e3e2db||#e3e2db||#ffffff"
                                                                 data-rsp_ch="on"
-                                                                data-xy="xo:110px,90px,90px,50px;yo:479px,439px,439px,357px;"
+                                                                data-xy="xo:110px,90px,90px,50px;yo:248px,199px,199px,137px;"
                                                                 data-text="w:nowrap,nowrap,nowrap,normal;s:24;l:68,68,68,36;a:inherit;"
                                                                 data-dim="w:auto,auto,auto,364px;"
                                                                 data-frame_0="tp:600;"
                                                                 data-frame_1="tp:600;sp:1300;sR:10;"
                                                                 data-frame_999="o:0;tp:600;st:w;sR:3690;"
-                                                                style="z-index:7;font-family:'Hind';"
-                                                            >Every time history repeats itself the price goes up. 
-                                                            </rs-layer><!--
+                                                                style="z-index:7;font-family:'Montserrat';"
+                                                            >OUR MISSION 
+                                                            </rs-layer>
 
-                                                            --><rs-layer
+                                                            <rs-layer
+                                                                id="slider-1-slide-2-layer-1" 
+                                                                data-type="text"
+                                                                data-color="#fffef7||#fffef7||#fffef7||#ffffff"
+                                                                data-rsp_ch="on"
+                                                                data-xy="xo:110px,90px,90px,50px;yo:318px,269px,269px,207px;"
+                                                                data-text="s:62,62,62,48;l:70;fw:900;a:inherit;"
+                                                                data-frame_0="tp:600;"
+                                                                data-frame_1="tp:600;sp:700;sR:10;"
+                                                                data-frame_999="o:0;tp:600;st:w;sR:4290;"
+                                                                style="z-index:5;font-family:'Orpheus Pro';"
+                                                            >Fostering Values,
+                                                            </rs-layer>
+
+                                                            <rs-layer
+                                                                id="slider-1-slide-2-layer-2" 
+                                                                data-type="text"
+                                                                data-color="#fffef7||#fffef7||#fffef7||#ffffff"
+                                                                data-rsp_ch="on"
+                                                                data-xy="xo:110px,90px,90px,50px;yo:388px,339px,339px,277px;"
+                                                                data-text="s:62,62,62,48;l:70;fw:900;a:inherit;"
+                                                                data-frame_0="tp:600;"
+                                                                data-frame_1="tp:600;sp:700;sR:10;"
+                                                                data-frame_999="o:0;tp:600;st:w;sR:4290;"
+                                                                style="z-index:6;font-family:'Orpheus Pro';"
+                                                            >Supporting Wellness &
+                                                            </rs-layer>
+
+                                                            <rs-layer
+                                                                id="slider-1-slide-2-layer-3" 
+                                                                data-type="text"
+                                                                data-color="#fffef7||#fffef7||#fffef7||#ffffff"
+                                                                data-rsp_ch="on"
+                                                                data-xy="xo:110px,90px,90px,50px;yo:457px,414px,414px,349px;"
+                                                                data-text="s:62,62,62,48;l:70;fw:900;a:inherit;"
+                                                                data-frame_0="tp:600;"
+                                                                data-frame_1="tp:600;sp:700;sR:10;"
+                                                                data-frame_999="o:0;tp:600;st:w;sR:4290;"
+                                                                style="z-index:6;font-family:'Orpheus Pro';"
+                                                            >Promoting Sustainable
+                                                            </rs-layer>
+
+                                                            <rs-layer
+                                                            id="slider-1-slide-2-layer-4" 
+                                                                data-type="text"
+                                                                data-color="#fffef7||#fffef7||#fffef7||#ffffff"
+                                                                data-rsp_ch="on"
+                                                                data-xy="xo:110px,90px,90px,50px;yo:527px,484px,484px,419px;"
+                                                                data-text="s:62,62,62,48;l:70;fw:900;a:inherit;"
+                                                                data-frame_0="tp:600;"
+                                                                data-frame_1="tp:600;sp:700;sR:10;"
+                                                                data-frame_999="o:0;tp:600;st:w;sR:4290;"
+                                                                style="z-index:6;font-family:'Orpheus Pro';"
+                                                            >Communities
+                                                            </rs-layer>
+
+                                                            <rs-layer
                                                                 id="slider-1-slide-2-layer-6" 
                                                                 class="rev-btn"
                                                                 data-type="button"
-                                                                data-color="#ffd444"
+                                                                data-color="#90c1f2"
                                                                 data-rsp_ch="on"
-                                                                data-xy="xo:110px,90px,90px,50px;yo:580px,530px,530px,465px;"
+                                                                data-xy="xo:110px,90px,90px,50px;yo:630px,580px,580px,415px;"
                                                                 data-text="s:16;l:14;fw:700;a:inherit;"
                                                                 data-actions='o:click;a:simplelink;target:_self;url:https://green-planet.cmsmasters.net/about-us/;'
                                                                 data-padding="t:18;r:40;b:18;l:40;"
-                                                                data-border="bos:solid;boc:#ffd444;bow:2,2,2,2;bor:30px,30px,30px,30px;"
+                                                                data-border="bos:solid;boc:#90c1f2;bow:2,2,2,2;bor:30px,30px,30px,30px;"
                                                                 data-frame_0="tp:600;"
                                                                 data-frame_1="tp:600;sp:1800;sR:10;"
                                                                 data-frame_999="o:0;tp:600;st:w;sR:3190;"
-                                                                data-frame_hover="c:#254151;bgc:#efc94c;boc:#efc94c;bor:30px,30px,30px,30px;bos:solid;bow:2px,2px,2px,2px;oX:50;oY:50;e:none;"
-                                                                style="z-index:8;background-color:rgba(255,255,255,0);font-family:'Merriweather Sans';cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;"
+                                                                data-frame_hover="c:#0f5194;bgc:#4789cc;boc:#4789cc;bor:30px,30px,30px,30px;bos:solid;bow:2px,2px,2px,2px;oX:50;oY:50;e:none;"
+                                                                style="z-index:8;background-color:rgba(255,255,255,0);font-family:'Montserrat';cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;"
                                                             >Learn more 
                                                             </rs-layer>
                                                     </rs-slide>
                                                 </rs-module>
                                             </rs-module-wrap>
+                                        </div> -->
+                                        <div class = "banner">
+                                            <div class = "container">
+                                                <h2 class = "banner-title">
+                                                    OUR MISSION
+                                                </h2>
+                                                <h1 class = "banner-header display-3">
+                                                    Fostering Values, <br/>
+                                                    Supporting Wellness & <br/>
+                                                    Promoting Sustainable <br/>
+                                                    Communities
+                                                </h1>
+                                                <div id="cmsmasters_button_wjzk57hjpe" class="button_wrap" style="padding-bottom: 300px; padding-top: 10px"><a href="https://green-planet.cmsmasters.net/about-us/" class="cmsmasters_button"><span>Find Out More</span></a></div>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
@@ -643,13 +744,13 @@
                                 <div id="cmsmasters_column_sclh9r6jib" class="cmsmasters_column two_third">
                                     <div class="cmsmasters_column_inner">
                                         <div id="cmsmasters_heading_vb4bc56kh4" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                            <h2 class="cmsmasters_heading">You Have the Power Today to Change Tomorrow!</h2>
+                                            <h2 class="cmsmasters_heading">Welcome to <br/> Atrium Legacy Foundation </h2>
                                         </div>
-                                        <div id="cmsmasters_heading_qr7neufiw" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
+                                        <!-- <div id="cmsmasters_heading_qr7neufiw" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
                                             <h5 class="cmsmasters_heading">Green. That’s how we’d like the world to be</h5>
-                                        </div>
+                                        </div> -->
                                         <div id="cmsmasters_heading_pqvyo1eyi8" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                            <h4 class="cmsmasters_heading">There are many ways to take small steps in changing your living habits while making big strides in helping the environment.</h4>
+                                            <h4 class="cmsmasters_heading">Atrium Legacy Foundation believe that true progress lies in the values we impart, the communities we nurture, and the future we build together. We are dedicated to creating a lasting impact by fostering empathy in our youth, ensuring dignified aging for our seniors, and promoting sustainable solutions that uplift our communities. </h4>
                                         </div>
                                         <div id="cmsmasters_fb_wjzk57hjpq" class="cmsmasters_featured_block cmsmasters_custom_margin">
                                             <div class="featured_block_inner">
@@ -667,12 +768,13 @@
                                             <div class="featured_block_inner">
                                                 <div class="featured_block_text">
                                                     <div id="cmsmasters_heading_63i9tt335y" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                                        <h2 class="cmsmasters_heading">You must be the change you wish to see in the world</h2>
+                                                        <h2 class="cmsmasters_heading">We envision communities where every individual is empowered to thrive, with access to
+                                                        the resources and support they need across all stages of life.</h2>
                                                     </div>
-                                                    <div id="cmsmasters_heading_63i9tt335f" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
+                                                    <!-- <div id="cmsmasters_heading_63i9tt335f" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
                                                         <h6 class="cmsmasters_heading">Water covers two-thirds of the surface of the Earth, but Fresh water is 0.002% on Earth. What will your children drink?</h6>
                                                     </div>
-                                                    <div id="cmsmasters_button_63i9tt335f" class="button_wrap"><a href="https://green-planet.cmsmasters.net/project/saving-the-arctic/" class="cmsmasters_button"><span>Make a difference now!</span></a></div>
+                                                    <div id="cmsmasters_button_63i9tt335f" class="button_wrap"><a href="https://green-planet.cmsmasters.net/project/saving-the-arctic/" class="cmsmasters_button"><span>Make a difference now!</span></a></div> -->
 
                                                 </div>
                                             </div>
@@ -684,21 +786,20 @@
                     </div>
                 </div>
             </div>
-
             
             <div class="content-section">
                 <div class="container">
                     <div class="row no-gutters pt-5 pb-5"> 
                         <div class="col-sm-12 col-md-6 col-lg-6 text-content">
-                        <h1 class="hedings">Our Initiatives </h1>
+                        <h2 class="hedings mt-4 mb-4" style="color:#000">Our Initiatives </h2>
                         </div>
                         <div class="col-sm-12 col-md-6 col-lg-6 text-content">
-                            <p class="mt-4 mb-4 ">Empowering communities through strategic initiatives that address today’s challenges and build a better tomorrow.</p>
+                            <p class="mt-4 mb-4" style="font-size: 20px">Empowering communities through strategic initiatives that address today’s challenges and build a better tomorrow.</p>
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="content-section">
+                <!-- </div>
+                <div class="content-section"> -->
                 <div class="container">
                     <div class="row no-gutters pt-5 pb-5"> 
                         <div class="col-sm-12 col-md-6 col-lg-3 text-content">
@@ -771,31 +872,30 @@
         </div>
     </div>
     <br>
-    <hr>
-    <!-- <div class="row no-gutters Third Section">
-        <div class="col-lg-6">
-            <div class="m-5">
-            <image class="left-side ml-5" src="./image/left-side.jpg" alt="left-side-image" ></image>
-            <div class="side-element">
-                <div> Empathy.</div>
-                <div>Wellness.</div>
-                <div> Sustainability.</div>
+
+    <div class = "container">    
+        <div class="row no-gutters Third Section">
+            <div class="col-lg-6">
+                <div class="m-5">
+                    <image class="left-side" src="./image/left-side.jpg" alt="left-side-image" ></image>
+                    <div class="side-element">
+                        <div> Empathy.</div>
+                        <div> Wellness.</div>
+                        <div> Sustainability.</div>
+                    </div>
+                </div>
             </div>
-            </div>
-        </div>
-        <div class="col-lg-6 ">
-            <div class="text-left m-5 p-5">
-            <h1 class="hedings pb-2">Together, we can make a difference</h1>
-            <div style="font-family:italic; font-size:x-large">Join us in making a meaningful impact</div>
-            <p class="mt-4 mb-4">Whether through donations, volunteer work, or
-                partnerships, your support plays a crucial role in
-                creating a brighter, more inclusive future for everyone.</p>
-            <button class="custom-btn">
-                Join Us
-            </button>
+            <div class="col-lg-6 ">
+                <div class="text-left m-5 p-5">
+                    <h1 class="hedings pb-2" style="color: #000">Together, we can make a difference</h1>
+                    <div style="font-family: Orpheus Pro; font-style:italic; font-size:x-large">Join us in making a meaningful impact</div>
+                    <p class="mt-4 mb-4" style="font-family: Montserrat;">Whether through donations, volunteer work, or partnerships, your support plays a crucial role in creating a brighter, more inclusive future for everyone.</p>
+                    <div id="cmsmasters_button_wjzk57hjpe" class="button_wrap"><a href="" class="cmsmasters_button"><span>Join Us</span></a></div>
+                </div>
             </div>
         </div>
-    </div> -->
+    </div>
+
     <?php include 'footer.php'; ?> 
 
 

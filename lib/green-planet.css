@@ -116,7 +116,7 @@
 	.top_line_nav > li > a,
 	.footer_nav > li > a,
 	nav > div > ul div.menu-item-mega-container > ul > li > a {
-		font-family:'Hind', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+		font-family:'Montserrat';
 		font-size:16px;
 		line-height:20px;
 		font-weight:600;
@@ -459,7 +459,7 @@
 	input[type=button], 
 	button,
 	.cmsmasters_header_search_form button {
-		font-family:'Merriweather Sans', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+		font-family: "Montserrat";
 		font-size:16px;
 		line-height:40px;
 		font-weight:bold;
@@ -1970,12 +1970,12 @@
 	
 	/* Start Custom Rules */
 	::selection {
-		background:#efc94c;
+		background:#90c1f2 ;
 		color:#fffef7;;
 	}
 	
 	::-moz-selection {
-		background:#efc94c;
+		background:#90c1f2;
 		color:#fffef7;
 	}
 	
