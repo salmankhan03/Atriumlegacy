@@ -2940,7 +2940,7 @@
                      <div class="cmsmasters_row_margin cmsmasters_row_columns_behavior">
                         <div id="cmsmasters_column_70ununv578" class="cmsmasters_column one_half">
                            <div class="cmsmasters_column_inner">
-                              <div id="" class="cmsmasters_featured_block">
+                              <div id="" class="">
                                  <div class="featured_block_inner">
                                     <div class="featured_block_text">
                                        <div id="cmsmasters_heading_7h3t5mz79l"
@@ -2954,7 +2954,7 @@
                         </div>
                         <div id="cmsmasters_column_70ununv579" class="cmsmasters_column one_half" >
                            <div class="cmsmasters_column_inner">
-                              <div id="" class="cmsmasters_featured_block">
+                              <div id="" class="">
                                  <div class="featured_block_inner">
                                     <div class="featured_block_text">
                                     <div class="cmsmasters_column_inner">
