@@ -13,7 +13,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
     <style>
-       body {
+        body {
             font-family: 'Montserrat', sans-serif;
             font-size: 1rem;
             font-weight: 400;
@@ -24,7 +24,7 @@
         }
 
         .content-section {
-            background-color: #fdfbf8; 
+            background-color: #fdfbf8;
             padding: 20px 0;
         }
 
@@ -33,7 +33,7 @@
             display: flex;
             justify-content: center;
             align-items: center;
-            padding: 20px; 
+            padding: 20px;
         }
 
         .hedings {
@@ -58,22 +58,22 @@
 
         .second-section {
             background-color: #e9ecef;
-            padding: 20px; 
+            padding: 20px;
             display: flex;
             justify-content: center;
             align-items: center;
-            height: 100%; 
+            height: 100%;
             background-image: url('./image/right-side.jpg');
             background-position: center;
             background-repeat: no-repeat;
             background-size: cover;
             width: 100%;
-            color: white; 
+            color: white;
             text-align: center;
         }
 
         .inner-div {
-            padding: 0 20% 0 18% !important; 
+            padding: 0 20% 0 18% !important;
         }
 
         .first-section .content {
@@ -98,7 +98,7 @@
         }
 
         .custom-icon {
-            font-size: 30px; 
+            font-size: 30px;
             color: #4db359;
             transition: color 0.3s, background-color 0.3s;
             position: relative;
@@ -120,14 +120,18 @@
         .cards-heading {
             padding: 15px;
         }
-        .card-fonts-heading-color{
-            color:#000
+
+        .card-fonts-heading-color {
+            color: #000
         }
-        .card-fonts-color{
-            color:#7a7d7e
+
+        .card-fonts-color {
+            color: #7a7d7e
         }
-        .cards:hover .card-fonts-heading-color, .cards:hover .card-fonts-color{
-            color:#FFFFFF
+
+        .cards:hover .card-fonts-heading-color,
+        .cards:hover .card-fonts-color {
+            color: #FFFFFF
         }
 
         .cards-body {
@@ -138,12 +142,12 @@
             padding: 15px;
             position: relative;
         }
-        
+
 
         .cards-footer::before {
             content: 'Read More';
             position: absolute;
-            left:30%;
+            left: 30%;
             transform: translateX(-50%);
             bottom: 15px;
             font-size: 14px;
@@ -153,10 +157,11 @@
         }
 
         .cards:hover .custom-icon {
-            color: #fff; 
+            color: #fff;
         }
+
         .cards:hover .custom-icons {
-            margin-left:30px
+            margin-left: 30px
         }
 
         .cards:hover .cards-footer::before {
@@ -165,381 +170,466 @@
 
         .custom-footer-icons-div {
             display: flex;
-            align-items: center; 
-            justify-content: center; 
-        }
-        .left-side{
-          position: absolute;
-        }
-        .side-element{
-          position: relative;
-          background-color: #0f5194;
-          color: black;
-          width: 50%;
-          font-size: x-large;
-          padding: 40px;
-          left: 60%;
-          top: 320px;
+            align-items: center;
+            justify-content: center;
         }
 
+        .left-side {
+            position: absolute;
+            height: 100%;
+        }
 
+        .side-element {
+            position: relative;
+            background-color: #0f5194;
+            color: black;
+            width: 65%;
+            font-size: 24px;
+            padding: 46px;
+            left: 50%;
+            top: 314px;
+        }
+
+        @media only screen and (max-width: 1024px) {
+            .left-side {
+
+            }
+
+            .side-element {
+                width: 55%;
+                font-size: 20px;
+                padding: 30px;
+                left: 65%;
+                top: 443px;
+            }
+        }
+
+        @media only screen and (max-width: 986px) {
+            .left-side {
+             height:135%;
+             width:50%;
+            }
+
+            .side-element {
+                width: 33%;
+                font-size: 20px;
+                padding: 40px;
+                left: 50%;
+                top: 185px;
+            }
+
+            .text-left {
+                padding-top: 105px !important;
+            }
+
+            /* .side-element {
+                top: 443px;
+            } */
+
+        }
+
+        @media only screen and (max-width: 780px) {
+            .left-side {
+
+            }
+
+            .side-element {
+                width: 39%;
+                font-size: 24px;
+                padding: 40px;
+                left: 50%;
+                top: 185px;
+            }
+
+            .text-left {
+                padding-top: 70px !important;
+            }
+
+
+
+        }
+
+        @media only screen and (max-width: 495px) {
+            .side-element {
+                width: 50%;
+                font-size: 13px;
+                padding: 9px;
+                left: 49%;
+                top: 143px;
+            }
+            .left-side{
+              height: 125%;
+            }
+
+
+        }
     </style>
 
     <style id="green-planet-retina-inline-css" type="text/css">
-
-        #cmsmasters_row_ucs4e1cfdh .cmsmasters_row_outer_parent { 
-        	padding-top: 0px; 
-        } 
-        
-        #cmsmasters_row_ucs4e1cfdh .cmsmasters_row_outer_parent { 
-        	padding-bottom: 0px; 
-        } 
-        
-        #cmsmasters_row_ucs4e1cfdh .cmsmasters_row_inner.cmsmasters_row_fullwidth { 
-        	padding-left:0%; 
-        } 
-        #cmsmasters_row_ucs4e1cfdh .cmsmasters_row_inner.cmsmasters_row_fullwidth { 
-        	padding-right:0%; 
-        } 
-          #cmsmasters_heading_vb4bc56kh4 { 
-        	text-align:left; 
-        	margin-top:190px; 
-        	margin-bottom:15px; 
-        } 
-
-        #cmsmasters_column_sclh9r6jib .cmsmasters_column_inner { 
-        	padding: 0 24% 0 28%; 
-        } 
-        
-        
-        			@media only screen and (max-width: 1024px) {
-        				#cmsmasters_column_sclh9r6jib .cmsmasters_column_inner {
-        					padding: 0px 4% 45px 18%;
-        				}
-        			}
-        			
-        			@media only screen and (max-width: 768px) {
-        				#cmsmasters_column_sclh9r6jib .cmsmasters_column_inner {
-        					padding: 0px 5% 45px 10%;
-        				}
-        			}
-        			
-        			@media only screen and (max-width: 540px) {
-        				#cmsmasters_column_sclh9r6jib .cmsmasters_column_inner {
-        					padding: 0px 4% 30px 10%;
-        				}
-        			}
-        			
-        			@media only screen and (max-width: 320px) {
-        				#cmsmasters_column_sclh9r6jib .cmsmasters_column_inner {
-        					padding: 0 4% 35px 10%;
-        				}
-        			}
-        
-        #cmsmasters_heading_vb4bc56kh4 .cmsmasters_heading { 
-        	text-align:left; 
-        } 
-        
-        #cmsmasters_heading_vb4bc56kh4 .cmsmasters_heading, #cmsmasters_heading_vb4bc56kh4 .cmsmasters_heading a { 
-        	font-size:46px; 
-        	line-height:58px; 
-        } 
-        
-        #cmsmasters_heading_vb4bc56kh4 .cmsmasters_heading a:hover { 
-        } 
-        
-        #cmsmasters_heading_vb4bc56kh4 .cmsmasters_heading_divider { 
-        } 
-        
-        @media (max-width: 540px) {
-        
-        #cmsmasters_heading_vb4bc56kh4 .cmsmasters_heading, #cmsmasters_heading_vb4bc56kh4 .cmsmasters_heading a { 
-        	font-size:28px; 
-        	line-height:45px; 
-        } 
-        
-        } 
-        
-        
-        				@media only screen and (max-width: 1024px) {
-        					#cmsmasters_heading_vb4bc56kh4 {
-        						margin-top: 125px;
-        					}
-        				}
-        				
-        				@media only screen and (max-width: 768px) {
-        					#cmsmasters_heading_vb4bc56kh4 {
-        						margin-top: 80px;
-        					}
-        				}
-        				
-        				@media only screen and (max-width: 540px) {
-        					#cmsmasters_heading_vb4bc56kh4 {
-        						margin-top: 75px;
-        					}
-        				}
-
-        #cmsmasters_heading_qr7neufiw { 
-        	text-align:left; 
-        	margin-top:0px; 
-        	margin-bottom:30px; 
-        } 
-        
-        #cmsmasters_heading_qr7neufiw .cmsmasters_heading { 
-        	text-align:left; 
-        } 
-        
-        #cmsmasters_heading_qr7neufiw .cmsmasters_heading, #cmsmasters_heading_qr7neufiw .cmsmasters_heading a { 
-        	font-size:24px; 
-        	line-height:35px; 
-        	font-weight:700; 
-        	font-style:italic; 
-        } 
-        
-        #cmsmasters_heading_qr7neufiw .cmsmasters_heading a:hover { 
-        } 
-        
-        #cmsmasters_heading_qr7neufiw .cmsmasters_heading_divider { 
-        } 
-        
-        @media (max-width: 540px) {
-        
-        #cmsmasters_heading_qr7neufiw .cmsmasters_heading, #cmsmasters_heading_qr7neufiw .cmsmasters_heading a { 
-        	font-size:20px; 
-        	line-height:35px; 
-        } 
-        
-        } 
-
-        #cmsmasters_heading_pqvyo1eyi8 { 
-        	text-align:left; 
-        	margin-top:0px; 
-        	margin-bottom:50px; 
-        } 
-        
-        #cmsmasters_heading_pqvyo1eyi8 .cmsmasters_heading { 
-        	text-align:left; 
-        } 
-        
-        #cmsmasters_heading_pqvyo1eyi8 .cmsmasters_heading, #cmsmasters_heading_pqvyo1eyi8 .cmsmasters_heading a { 
-        	font-family:'Hind'; 
-        	font-size:20px; 
-        	line-height:28px; 
-        	font-weight:400; 
-        	color:#7d7d7d;
-        } 
-
-        #cmsmasters_fb_wjzk57hjpq { 
-        	padding-top:0px; 
-        	padding-bottom:0px; 
-        	background-color:rgba(255,255,255,0);
-        } 
-        
-        #cmsmasters_fb_wjzk57hjpq .featured_block_inner { 
-        	width: 100%; 
-        	text-align: left; 
-        	float:left; 
-        	background-color:rgba(255,255,255,0);
-        } 
-        
-        #cmsmasters_fb_wjzk57hjpq .featured_block_text { 
-        	text-align: left; 
-        } 
-        #cmsmasters_button_rffzwrwsok { 
-        	float:left; 
-        	text-align:left; 
-        	
-        } 
-        
-        #cmsmasters_button_rffzwrwsok .cmsmasters_button:before { 
-        	margin-right:.5em; 
-        	margin-left:0; 
-        	vertical-align:baseline; 
-        } 
-        
-        #cmsmasters_button_rffzwrwsok .cmsmasters_button { 
-        	font-size:16px; 
-        	line-height:48px; 
-        	font-weight:700; 
-        	padding-right:35px; 
-        	padding-left:35px; 
-        	border-width:2px; 
-        	background-color:#efc94c;
-        	color:#254151;
-        	border-color:#efc94c;
-        } 
-        #cmsmasters_button_rffzwrwsok .cmsmasters_button:hover { 
-        	background-color:rgba(255,255,255,0);
-        	color:#254151;
-        	border-color:#efc94c;
+        #cmsmasters_row_ucs4e1cfdh .cmsmasters_row_outer_parent {
+            padding-top: 0px;
         }
 
-        #cmsmasters_button_rffzwrwsos { 
-        	float:left; 
-        	text-align:left; 
-        	
-        } 
-        
-        #cmsmasters_button_rffzwrwsos .cmsmasters_button:before { 
-        	margin-right:.5em; 
-        	margin-left:0; 
-        	vertical-align:baseline; 
-        } 
-        
-        #cmsmasters_button_rffzwrwsos .cmsmasters_button { 
-        	font-size:16px; 
-        	line-height:48px; 
-        	font-weight:700; 
-        	padding-right:0px; 
-        	padding-left:0px; 
-        	border-width:2px; 
-        	background-color:rgba(255,255,255,0);
-        	border-color:rgba(255,255,255,0);
-        } 
-        #cmsmasters_button_rffzwrwsos .cmsmasters_button:hover { 
-        	background-color:rgba(255,255,255,0);
-        	color:#6d7c84;
-        	border-color:rgba(255,255,255,0);
-        } 
-        #cmsmasters_column_1dxj3j9sh7 { 
-        	background-image: url(img/2-1.jpg); 
-        	background-position: top center; 
-        	background-repeat: no-repeat; 
-        	background-attachment: scroll; 
-        	background-size: cover; 
-        } 
-        
-        #cmsmasters_column_1dxj3j9sh7 .cmsmasters_column_inner { 
-        	padding: 0 20% 0 18%; 
-        } 
-        
-        
-        			@media only screen and (max-width: 1024px) {
-        				#cmsmasters_column_1dxj3j9sh7 .cmsmasters_column_inner {
-        					padding: 0 5% 0 5%;
-        				}
-        			}
-                    #cmsmasters_fb_63i9tt335f { 
-        	padding-top:205px; 
-        	padding-bottom:180px; 
-        	background-color:rgba(255,255,255,0);
-        } 
-        
-        #cmsmasters_fb_63i9tt335f .featured_block_inner { 
-        	width: 100%; 
-        	text-align: left; 
-        	float:left; 
-        	background-color:rgba(255,255,255,0);
-        } 
-        
-        #cmsmasters_fb_63i9tt335f .featured_block_text { 
-        	text-align: left; 
-        } 
-        
-        
-        
-        			@media only screen and (max-width: 1024px) {
-        				#cmsmasters_fb_63i9tt335f {
-        					padding-top: 120px;
-        				}
-        			}
-        			
-        			@media only screen and (max-width: 1024px) {
-        				#cmsmasters_fb_63i9tt335f {
-        					padding-bottom: 90px;
-        				}
-        			}
-        			
-        			@media only screen and (max-width: 768px) {
-        				#cmsmasters_fb_63i9tt335f {
-        					padding-top: 80px;
-        				}
-        			}
-        			
-        			@media only screen and (max-width: 768px) {
-        				#cmsmasters_fb_63i9tt335f {
-        					padding-bottom: 75px;
-        				}
-        			}
-                    #cmsmasters_heading_63i9tt335y { 
-        	text-align:left; 
-        	margin-top:0px; 
-        	margin-bottom:30px; 
-        } 
-        
-        #cmsmasters_heading_63i9tt335y .cmsmasters_heading { 
-        	text-align:left; 
-        } 
-        
-        #cmsmasters_heading_63i9tt335y .cmsmasters_heading, #cmsmasters_heading_63i9tt335y .cmsmasters_heading a { 
-        	font-size:40px; 
-        	line-height:50px; 
-        	color:#ffffff;
-        } 
-        
-        #cmsmasters_heading_63i9tt335y .cmsmasters_heading a:hover { 
-        } 
-        
-        #cmsmasters_heading_63i9tt335y .cmsmasters_heading_divider { 
-        } 
-        
+        #cmsmasters_row_ucs4e1cfdh .cmsmasters_row_outer_parent {
+            padding-bottom: 0px;
+        }
+
+        #cmsmasters_row_ucs4e1cfdh .cmsmasters_row_inner.cmsmasters_row_fullwidth {
+            padding-left: 0%;
+        }
+
+        #cmsmasters_row_ucs4e1cfdh .cmsmasters_row_inner.cmsmasters_row_fullwidth {
+            padding-right: 0%;
+        }
+
+        #cmsmasters_heading_vb4bc56kh4 {
+            text-align: left;
+            margin-top: 190px;
+            margin-bottom: 15px;
+        }
+
+        #cmsmasters_column_sclh9r6jib .cmsmasters_column_inner {
+            padding: 0 24% 0 28%;
+        }
+
+
+        @media only screen and (max-width: 1024px) {
+            #cmsmasters_column_sclh9r6jib .cmsmasters_column_inner {
+                padding: 0px 4% 45px 18%;
+            }
+        }
+
+        @media only screen and (max-width: 768px) {
+            #cmsmasters_column_sclh9r6jib .cmsmasters_column_inner {
+                padding: 0px 5% 45px 10%;
+            }
+        }
+
+        @media only screen and (max-width: 540px) {
+            #cmsmasters_column_sclh9r6jib .cmsmasters_column_inner {
+                padding: 0px 4% 30px 10%;
+            }
+        }
+
+        @media only screen and (max-width: 320px) {
+            #cmsmasters_column_sclh9r6jib .cmsmasters_column_inner {
+                padding: 0 4% 35px 10%;
+            }
+        }
+
+        #cmsmasters_heading_vb4bc56kh4 .cmsmasters_heading {
+            text-align: left;
+        }
+
+        #cmsmasters_heading_vb4bc56kh4 .cmsmasters_heading,
+        #cmsmasters_heading_vb4bc56kh4 .cmsmasters_heading a {
+            font-size: 46px;
+            line-height: 58px;
+        }
+
+        #cmsmasters_heading_vb4bc56kh4 .cmsmasters_heading a:hover {}
+
+        #cmsmasters_heading_vb4bc56kh4 .cmsmasters_heading_divider {}
+
         @media (max-width: 540px) {
-        
-        #cmsmasters_heading_63i9tt335y .cmsmasters_heading, #cmsmasters_heading_63i9tt335y .cmsmasters_heading a { 
-        	font-size:28px; 
-        	line-height:45px; 
-        } 
-        
-        } 
-        #cmsmasters_heading_63i9tt335f { 
-        	text-align:left; 
-        	margin-top:0px; 
-        	margin-bottom:35px; 
-        } 
-        
-        #cmsmasters_heading_63i9tt335f .cmsmasters_heading { 
-        	text-align:left; 
-        } 
-        
-        #cmsmasters_heading_63i9tt335f .cmsmasters_heading, #cmsmasters_heading_63i9tt335f .cmsmasters_heading a { 
-        	font-family:'Hind'; 
-        	font-size:18px; 
-        	line-height:26px; 
-        	font-weight:400; 
-        	color:rgba(255,255,255,0.8);
-        } 
-        #cmsmasters_button_63i9tt335f { 
-        	float:left; 
-        	text-align:left; 
-        	
-        } 
-        
-        #cmsmasters_button_63i9tt335f .cmsmasters_button:before { 
-        	margin-right:.5em; 
-        	margin-left:0; 
-        	vertical-align:baseline; 
-        } 
-        
-        #cmsmasters_button_63i9tt335f .cmsmasters_button { 
-        	font-size:18px; 
-        	font-weight:700; 
-        	padding-right:0px; 
-        	padding-left:0px; 
-        	border-width:0px; 
-        	background-color:rgba(255,255,255,0);
-        	color:#efc94c;
-        } 
-        #cmsmasters_button_63i9tt335f .cmsmasters_button:hover { 
-        	background-color:rgba(255,255,255,0);
-        	color:#ffffff;
-        } 
-        
-        				
+
+            #cmsmasters_heading_vb4bc56kh4 .cmsmasters_heading,
+            #cmsmasters_heading_vb4bc56kh4 .cmsmasters_heading a {
+                font-size: 28px;
+                line-height: 45px;
+            }
+
+        }
+
+
+        @media only screen and (max-width: 1024px) {
+            #cmsmasters_heading_vb4bc56kh4 {
+                margin-top: 125px;
+            }
+        }
+
+        @media only screen and (max-width: 768px) {
+            #cmsmasters_heading_vb4bc56kh4 {
+                margin-top: 80px;
+            }
+        }
+
+        @media only screen and (max-width: 540px) {
+            #cmsmasters_heading_vb4bc56kh4 {
+                margin-top: 75px;
+            }
+        }
+
+        #cmsmasters_heading_qr7neufiw {
+            text-align: left;
+            margin-top: 0px;
+            margin-bottom: 30px;
+        }
+
+        #cmsmasters_heading_qr7neufiw .cmsmasters_heading {
+            text-align: left;
+        }
+
+        #cmsmasters_heading_qr7neufiw .cmsmasters_heading,
+        #cmsmasters_heading_qr7neufiw .cmsmasters_heading a {
+            font-size: 24px;
+            line-height: 35px;
+            font-weight: 700;
+            font-style: italic;
+        }
+
+        #cmsmasters_heading_qr7neufiw .cmsmasters_heading a:hover {}
+
+        #cmsmasters_heading_qr7neufiw .cmsmasters_heading_divider {}
+
+        @media (max-width: 540px) {
+
+            #cmsmasters_heading_qr7neufiw .cmsmasters_heading,
+            #cmsmasters_heading_qr7neufiw .cmsmasters_heading a {
+                font-size: 20px;
+                line-height: 35px;
+            }
+
+        }
+
+        #cmsmasters_heading_pqvyo1eyi8 {
+            text-align: left;
+            margin-top: 0px;
+            margin-bottom: 50px;
+        }
+
+        #cmsmasters_heading_pqvyo1eyi8 .cmsmasters_heading {
+            text-align: left;
+        }
+
+        #cmsmasters_heading_pqvyo1eyi8 .cmsmasters_heading,
+        #cmsmasters_heading_pqvyo1eyi8 .cmsmasters_heading a {
+            font-family: 'Hind';
+            font-size: 20px;
+            line-height: 28px;
+            font-weight: 400;
+            color: #7d7d7d;
+        }
+
+        #cmsmasters_fb_wjzk57hjpq {
+            padding-top: 0px;
+            padding-bottom: 0px;
+            background-color: rgba(255, 255, 255, 0);
+        }
+
+        #cmsmasters_fb_wjzk57hjpq .featured_block_inner {
+            width: 100%;
+            text-align: left;
+            float: left;
+            background-color: rgba(255, 255, 255, 0);
+        }
+
+        #cmsmasters_fb_wjzk57hjpq .featured_block_text {
+            text-align: left;
+        }
+
+        #cmsmasters_button_rffzwrwsok {
+            float: left;
+            text-align: left;
+
+        }
+
+        #cmsmasters_button_rffzwrwsok .cmsmasters_button:before {
+            margin-right: .5em;
+            margin-left: 0;
+            vertical-align: baseline;
+        }
+
+        #cmsmasters_button_rffzwrwsok .cmsmasters_button {
+            font-size: 16px;
+            line-height: 48px;
+            font-weight: 700;
+            padding-right: 35px;
+            padding-left: 35px;
+            border-width: 2px;
+            background-color: #efc94c;
+            color: #254151;
+            border-color: #efc94c;
+        }
+
+        #cmsmasters_button_rffzwrwsok .cmsmasters_button:hover {
+            background-color: rgba(255, 255, 255, 0);
+            color: #254151;
+            border-color: #efc94c;
+        }
+
+        #cmsmasters_button_rffzwrwsos {
+            float: left;
+            text-align: left;
+
+        }
+
+        #cmsmasters_button_rffzwrwsos .cmsmasters_button:before {
+            margin-right: .5em;
+            margin-left: 0;
+            vertical-align: baseline;
+        }
+
+        #cmsmasters_button_rffzwrwsos .cmsmasters_button {
+            font-size: 16px;
+            line-height: 48px;
+            font-weight: 700;
+            padding-right: 0px;
+            padding-left: 0px;
+            border-width: 2px;
+            background-color: rgba(255, 255, 255, 0);
+            border-color: rgba(255, 255, 255, 0);
+        }
+
+        #cmsmasters_button_rffzwrwsos .cmsmasters_button:hover {
+            background-color: rgba(255, 255, 255, 0);
+            color: #6d7c84;
+            border-color: rgba(255, 255, 255, 0);
+        }
+
+        #cmsmasters_column_1dxj3j9sh7 {
+            background-image: url(img/2-1.jpg);
+            background-position: top center;
+            background-repeat: no-repeat;
+            background-attachment: scroll;
+            background-size: cover;
+        }
+
+        #cmsmasters_column_1dxj3j9sh7 .cmsmasters_column_inner {
+            padding: 0 20% 0 18%;
+        }
+
+
+        @media only screen and (max-width: 1024px) {
+            #cmsmasters_column_1dxj3j9sh7 .cmsmasters_column_inner {
+                padding: 0 5% 0 5%;
+            }
+        }
+
+        #cmsmasters_fb_63i9tt335f {
+            padding-top: 205px;
+            padding-bottom: 180px;
+            background-color: rgba(255, 255, 255, 0);
+        }
+
+        #cmsmasters_fb_63i9tt335f .featured_block_inner {
+            width: 100%;
+            text-align: left;
+            float: left;
+            background-color: rgba(255, 255, 255, 0);
+        }
+
+        #cmsmasters_fb_63i9tt335f .featured_block_text {
+            text-align: left;
+        }
+
+
+
+        @media only screen and (max-width: 1024px) {
+            #cmsmasters_fb_63i9tt335f {
+                padding-top: 120px;
+            }
+        }
+
+        @media only screen and (max-width: 1024px) {
+            #cmsmasters_fb_63i9tt335f {
+                padding-bottom: 90px;
+            }
+        }
+
+        @media only screen and (max-width: 768px) {
+            #cmsmasters_fb_63i9tt335f {
+                padding-top: 80px;
+            }
+        }
+
+        @media only screen and (max-width: 768px) {
+            #cmsmasters_fb_63i9tt335f {
+                padding-bottom: 75px;
+            }
+        }
+
+        #cmsmasters_heading_63i9tt335y {
+            text-align: left;
+            margin-top: 0px;
+            margin-bottom: 30px;
+        }
+
+        #cmsmasters_heading_63i9tt335y .cmsmasters_heading {
+            text-align: left;
+        }
+
+        #cmsmasters_heading_63i9tt335y .cmsmasters_heading,
+        #cmsmasters_heading_63i9tt335y .cmsmasters_heading a {
+            font-size: 40px;
+            line-height: 50px;
+            color: #ffffff;
+        }
+
+        #cmsmasters_heading_63i9tt335y .cmsmasters_heading a:hover {}
+
+        #cmsmasters_heading_63i9tt335y .cmsmasters_heading_divider {}
+
+        @media (max-width: 540px) {
+
+            #cmsmasters_heading_63i9tt335y .cmsmasters_heading,
+            #cmsmasters_heading_63i9tt335y .cmsmasters_heading a {
+                font-size: 28px;
+                line-height: 45px;
+            }
+
+        }
+
+        #cmsmasters_heading_63i9tt335f {
+            text-align: left;
+            margin-top: 0px;
+            margin-bottom: 35px;
+        }
+
+        #cmsmasters_heading_63i9tt335f .cmsmasters_heading {
+            text-align: left;
+        }
+
+        #cmsmasters_heading_63i9tt335f .cmsmasters_heading,
+        #cmsmasters_heading_63i9tt335f .cmsmasters_heading a {
+            font-family: 'Hind';
+            font-size: 18px;
+            line-height: 26px;
+            font-weight: 400;
+            color: rgba(255, 255, 255, 0.8);
+        }
+
+        #cmsmasters_button_63i9tt335f {
+            float: left;
+            text-align: left;
+
+        }
+
+        #cmsmasters_button_63i9tt335f .cmsmasters_button:before {
+            margin-right: .5em;
+            margin-left: 0;
+            vertical-align: baseline;
+        }
+
+        #cmsmasters_button_63i9tt335f .cmsmasters_button {
+            font-size: 18px;
+            font-weight: 700;
+            padding-right: 0px;
+            padding-left: 0px;
+            border-width: 0px;
+            background-color: rgba(255, 255, 255, 0);
+            color: #efc94c;
+        }
+
+        #cmsmasters_button_63i9tt335f .cmsmasters_button:hover {
+            background-color: rgba(255, 255, 255, 0);
+            color: #ffffff;
+        }
     </style>
 </head>
 
 <body>
-<?php include 'header.php'; ?> 
+    <?php include 'header.php'; ?>
     <div id="middle">
         <div class="middle_inner">
             <div class="content_wrap fullwidth">
@@ -553,7 +643,7 @@
                             <div class="cmsmasters_row_margin cmsmasters_11">
                                 <div id="cmsmasters_column_" class="cmsmasters_column one_first">
                                     <div class="cmsmasters_column_inner">
-                                        
+
                                         <div class="cmsmasters_slider">
                                             <!-- START home_slider REVOLUTION SLIDER 6.7.15 -->
                                             <rs-module-wrap id="rev_slider_1_1_wrapper" data-source="gallery" style="visibility:hidden;background:transparent;padding:0;margin:0px auto;margin-top:0;margin-bottom:0;">
@@ -561,9 +651,9 @@
                                                     <rs-slides style="overflow: hidden; position: absolute;">
                                                         <rs-slide style="position: absolute;" data-key="rs-2" data-title="Slide" data-thumb="//green-planet.cmsmasters.net/wp-content/uploads/2017/12/1-3-100x50.jpg" data-anim="adpr:false;">
                                                             <img decoding="async" src="img/2-2.jpg" alt="" title="Home" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="img/2-2.jpg" data-panzoom="d:10000;ss:100;se:103;oe:10/0;" data-no-retina>
-                                <!--
+                                                            <!--
                                                             --><rs-layer
-                                                                id="slider-1-slide-2-layer-1" 
+                                                                id="slider-1-slide-2-layer-1"
                                                                 data-type="text"
                                                                 data-color="#fffef7||#fffef7||#fffef7||#ffffff"
                                                                 data-rsp_ch="on"
@@ -572,12 +662,11 @@
                                                                 data-frame_0="tp:600;"
                                                                 data-frame_1="tp:600;sp:700;sR:10;"
                                                                 data-frame_999="o:0;tp:600;st:w;sR:4290;"
-                                                                style="z-index:5;font-family:'Merriweather';"
-                                                            >A Good Planet is  
+                                                                style="z-index:5;font-family:'Merriweather';">A Good Planet is
                                                             </rs-layer><!--
 
                                                             --><rs-layer
-                                                                id="slider-1-slide-2-layer-2" 
+                                                                id="slider-1-slide-2-layer-2"
                                                                 data-type="text"
                                                                 data-color="#fffef7||#fffef7||#fffef7||#ffffff"
                                                                 data-rsp_ch="on"
@@ -586,12 +675,11 @@
                                                                 data-frame_0="tp:600;"
                                                                 data-frame_1="tp:600;sp:700;sR:10;"
                                                                 data-frame_999="o:0;tp:600;st:w;sR:4290;"
-                                                                style="z-index:6;font-family:'Merriweather';"
-                                                            >Hard to Find 
+                                                                style="z-index:6;font-family:'Merriweather';">Hard to Find
                                                             </rs-layer><!--
 
                                                             --><rs-layer
-                                                                id="slider-1-slide-2-layer-3" 
+                                                                id="slider-1-slide-2-layer-3"
                                                                 data-type="text"
                                                                 data-color="#e3e2db||#e3e2db||#e3e2db||#ffffff"
                                                                 data-rsp_ch="on"
@@ -601,12 +689,11 @@
                                                                 data-frame_0="tp:600;"
                                                                 data-frame_1="tp:600;sp:1300;sR:10;"
                                                                 data-frame_999="o:0;tp:600;st:w;sR:3690;"
-                                                                style="z-index:7;font-family:'Hind';"
-                                                            >Every time history repeats itself the price goes up. 
+                                                                style="z-index:7;font-family:'Hind';">Every time history repeats itself the price goes up.
                                                             </rs-layer><!--
 
                                                             --><rs-layer
-                                                                id="slider-1-slide-2-layer-6" 
+                                                                id="slider-1-slide-2-layer-6"
                                                                 class="rev-btn"
                                                                 data-type="button"
                                                                 data-color="#ffd444"
@@ -620,10 +707,9 @@
                                                                 data-frame_1="tp:600;sp:1800;sR:10;"
                                                                 data-frame_999="o:0;tp:600;st:w;sR:3190;"
                                                                 data-frame_hover="c:#254151;bgc:#efc94c;boc:#efc94c;bor:30px,30px,30px,30px;bos:solid;bow:2px,2px,2px,2px;oX:50;oY:50;e:none;"
-                                                                style="z-index:8;background-color:rgba(255,255,255,0);font-family:'Merriweather Sans';cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;"
-                                                            >Learn more 
+                                                                style="z-index:8;background-color:rgba(255,255,255,0);font-family:'Merriweather Sans';cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;">Learn more
                                                             </rs-layer>
-                                                    </rs-slide>
+                                                        </rs-slide>
                                                 </rs-module>
                                             </rs-module-wrap>
                                         </div>
@@ -640,7 +726,7 @@
                     <div class="cmsmasters_row_outer">
                         <div class="cmsmasters_row_inner cmsmasters_row_fullwidth cmsmasters_row_no_margin">
                             <div class="cmsmasters_row_margin cmsmasters_row_columns_behavior cmsmasters_2313">
-                                <div id="cmsmasters_column_sclh9r6jib" class="cmsmasters_column two_third">
+                                <div id="cmsmasters_column_sclh9r6jib" class="cmsmasters_column col-md-7 col-sm-6 two_third">
                                     <div class="cmsmasters_column_inner">
                                         <div id="cmsmasters_heading_vb4bc56kh4" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
                                             <h2 class="cmsmasters_heading">You Have the Power Today to Change Tomorrow!</h2>
@@ -661,7 +747,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div id="cmsmasters_column_1dxj3j9sh7" class="cmsmasters_column one_third">
+                                <div id="cmsmasters_column_1dxj3j9sh7" class="cmsmasters_column col-md-5 col-sm-6 one_third">
                                     <div class="cmsmasters_column_inner">
                                         <div id="cmsmasters_fb_63i9tt335f" class="cmsmasters_featured_block">
                                             <div class="featured_block_inner">
@@ -685,12 +771,12 @@
                 </div>
             </div>
 
-            
-            <div class="content-section">
-                <div class="container">
-                    <div class="row no-gutters pt-5 pb-5"> 
+
+            <div class="content-section" style="padding:0 10% 0 17%;">
+                <div class="">
+                    <div class="row no-gutters pt-5 pb-5">
                         <div class="col-sm-12 col-md-6 col-lg-6 text-content">
-                        <h1 class="hedings">Our Initiatives </h1>
+                            <h1 class="hedings">Our Initiatives </h1>
                         </div>
                         <div class="col-sm-12 col-md-6 col-lg-6 text-content">
                             <p class="mt-4 mb-4 ">Empowering communities through strategic initiatives that address today’s challenges and build a better tomorrow.</p>
@@ -698,9 +784,9 @@
                     </div>
                 </div>
             </div>
-            <div class="content-section">
-                <div class="container">
-                    <div class="row no-gutters pt-5 pb-5"> 
+            <div class="content-section" style="padding:0  10% 0 14%;">
+                <div class="">
+                    <div class="row no-gutters pt-5 pb-5">
                         <div class="col-sm-12 col-md-6 col-lg-3 text-content">
                             <div class="cards">
                                 <div class="cards-heading text-center">
@@ -772,33 +858,35 @@
     </div>
     <br>
     <hr>
-    <!-- <div class="row no-gutters Third Section">
-        <div class="col-lg-6">
+    <div class="">
+      <div class="row no-gutters Third-Section">
+        <div class="col-lg-6 col-md-12" style="padding:0 2% 0 10%;">
             <div class="m-5">
-            <image class="left-side ml-5" src="./image/left-side.jpg" alt="left-side-image" ></image>
-            <div class="side-element">
-                <div> Empathy.</div>
-                <div>Wellness.</div>
-                <div> Sustainability.</div>
-            </div>
-            </div>
-        </div>
-        <div class="col-lg-6 ">
-            <div class="text-left m-5 p-5">
-            <h1 class="hedings pb-2">Together, we can make a difference</h1>
-            <div style="font-family:italic; font-size:x-large">Join us in making a meaningful impact</div>
-            <p class="mt-4 mb-4">Whether through donations, volunteer work, or
-                partnerships, your support plays a crucial role in
-                creating a brighter, more inclusive future for everyone.</p>
-            <button class="custom-btn">
-                Join Us
-            </button>
+                <image class="left-side" src="./image/left-side.jpg" alt="left-side-image"></image>
+                <div class="side-element"> 
+                    <div> Empathy.</div>
+                    <div>Wellness.</div>
+                    <div> Sustainability.</div>
+                </div>
             </div>
         </div>
-    </div> -->
-    <?php include 'footer.php'; ?> 
-
-
+        <div class="text-left col-lg-6 col-md-12">
+            <div class="m-5 p-3">
+                <h1 class="hedings pb-2">Together, we can make a difference</h1>
+                <div style="font-family:italic; font-size:x-large">Join us in making a meaningful impact</div>
+                <p class="mt-4 mb-4">Whether through donations, volunteer work, or
+                    partnerships, your support plays a crucial role in
+                    creating a brighter, more inclusive future for everyone.</p>
+                <button class="custom-btn">
+                    Join Us
+                </button>
+            </div>
+        </div>
+      </div>
+    </div>  
+    <br>
+    <br>
+      <?php include 'footer.php'; ?>
 </body>
 
 
