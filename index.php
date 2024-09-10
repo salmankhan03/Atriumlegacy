@@ -583,13 +583,13 @@
             background-size: cover; 
         }
 
-        .banner_title {
+        .banner-title {
             color:#fff; 
             font-family:'Montserrat';
             padding-top: 300px;
         }
 
-        .banner_header {
+        .banner-header {
             color:#fff; 
             font-family:'Orpheus Pro';
             font-weight: bold;
@@ -716,10 +716,10 @@
                                         </div> -->
                                         <div class = "banner">
                                             <div class = "container">
-                                                <h2 class = "banner_title">
+                                                <h2 class = "banner-title">
                                                     OUR MISSION
                                                 </h2>
-                                                <h1 class = "banner_header display-3">
+                                                <h1 class = "banner-header display-3">
                                                     Fostering Values, <br/>
                                                     Supporting Wellness & <br/>
                                                     Promoting Sustainable <br/>
@@ -736,48 +736,46 @@
                 </div>
             </div>
 
-            <!-- <div class = "container-fluid">  -->
-                <div id="cmsmasters_row_ucs4e1cfdh" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_fullwidth">
-                    <div class="cmsmasters_row_outer_parent">
-                        <div class="cmsmasters_row_outer">
-                            <div class="cmsmasters_row_inner cmsmasters_row_fullwidth cmsmasters_row_no_margin">
-                                <div class="cmsmasters_row_margin cmsmasters_row_columns_behavior cmsmasters_2313">
-                                    <div id="cmsmasters_column_sclh9r6jib" class="cmsmasters_column two_third">
-                                        <div class="cmsmasters_column_inner">
-                                            <div id="cmsmasters_heading_vb4bc56kh4" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                                <h2 class="cmsmasters_heading">Welcome to <br/> Atrium Legacy Foundation </h2>
-                                            </div>
-                                            <!-- <div id="cmsmasters_heading_qr7neufiw" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                                <h5 class="cmsmasters_heading">Green. That’s how we’d like the world to be</h5>
-                                            </div> -->
-                                            <div id="cmsmasters_heading_pqvyo1eyi8" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                                <h4 class="cmsmasters_heading">Atrium Legacy Foundation believe that true progress lies in the values we impart, the communities we nurture, and the future we build together. We are dedicated to creating a lasting impact by fostering empathy in our youth, ensuring dignified aging for our seniors, and promoting sustainable solutions that uplift our communities. </h4>
-                                            </div>
-                                            <div id="cmsmasters_fb_wjzk57hjpq" class="cmsmasters_featured_block cmsmasters_custom_margin">
-                                                <div class="featured_block_inner">
-                                                    <div class="featured_block_text">
-                                                        <div id="cmsmasters_button_wjzk57hjpe" class="button_wrap"><a href="https://green-planet.cmsmasters.net/about-us/" class="cmsmasters_button"><span>Find Out More</span></a></div>
+            <div id="cmsmasters_row_ucs4e1cfdh" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_fullwidth">
+                <div class="cmsmasters_row_outer_parent">
+                    <div class="cmsmasters_row_outer">
+                        <div class="cmsmasters_row_inner cmsmasters_row_fullwidth cmsmasters_row_no_margin">
+                            <div class="cmsmasters_row_margin cmsmasters_row_columns_behavior cmsmasters_2313">
+                                <div id="cmsmasters_column_sclh9r6jib" class="cmsmasters_column two_third">
+                                    <div class="cmsmasters_column_inner">
+                                        <div id="cmsmasters_heading_vb4bc56kh4" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
+                                            <h2 class="cmsmasters_heading">Welcome to <br/> Atrium Legacy Foundation </h2>
+                                        </div>
+                                        <!-- <div id="cmsmasters_heading_qr7neufiw" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
+                                            <h5 class="cmsmasters_heading">Green. That’s how we’d like the world to be</h5>
+                                        </div> -->
+                                        <div id="cmsmasters_heading_pqvyo1eyi8" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
+                                            <h4 class="cmsmasters_heading">Atrium Legacy Foundation believe that true progress lies in the values we impart, the communities we nurture, and the future we build together. We are dedicated to creating a lasting impact by fostering empathy in our youth, ensuring dignified aging for our seniors, and promoting sustainable solutions that uplift our communities. </h4>
+                                        </div>
+                                        <div id="cmsmasters_fb_wjzk57hjpq" class="cmsmasters_featured_block cmsmasters_custom_margin">
+                                            <div class="featured_block_inner">
+                                                <div class="featured_block_text">
+                                                    <div id="cmsmasters_button_wjzk57hjpe" class="button_wrap"><a href="https://green-planet.cmsmasters.net/about-us/" class="cmsmasters_button"><span>Find Out More</span></a></div>
 
-                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                    <div id="cmsmasters_column_1dxj3j9sh7" class="cmsmasters_column one_third">
-                                        <div class="cmsmasters_column_inner">
-                                            <div id="cmsmasters_fb_63i9tt335f" class="cmsmasters_featured_block">
-                                                <div class="featured_block_inner">
-                                                    <div class="featured_block_text">
-                                                        <div id="cmsmasters_heading_63i9tt335y" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                                            <h2 class="cmsmasters_heading">We envision communities where every individual is empowered to thrive, with access to
-                                                            the resources and support they need across all stages of life.</h2>
-                                                        </div>
-                                                        <!-- <div id="cmsmasters_heading_63i9tt335f" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                                            <h6 class="cmsmasters_heading">Water covers two-thirds of the surface of the Earth, but Fresh water is 0.002% on Earth. What will your children drink?</h6>
-                                                        </div>
-                                                        <div id="cmsmasters_button_63i9tt335f" class="button_wrap"><a href="https://green-planet.cmsmasters.net/project/saving-the-arctic/" class="cmsmasters_button"><span>Make a difference now!</span></a></div> -->
-
+                                </div>
+                                <div id="cmsmasters_column_1dxj3j9sh7" class="cmsmasters_column one_third">
+                                    <div class="cmsmasters_column_inner">
+                                        <div id="cmsmasters_fb_63i9tt335f" class="cmsmasters_featured_block">
+                                            <div class="featured_block_inner">
+                                                <div class="featured_block_text">
+                                                    <div id="cmsmasters_heading_63i9tt335y" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
+                                                        <h2 class="cmsmasters_heading">We envision communities where every individual is empowered to thrive, with access to
+                                                        the resources and support they need across all stages of life.</h2>
                                                     </div>
+                                                    <!-- <div id="cmsmasters_heading_63i9tt335f" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
+                                                        <h6 class="cmsmasters_heading">Water covers two-thirds of the surface of the Earth, but Fresh water is 0.002% on Earth. What will your children drink?</h6>
+                                                    </div>
+                                                    <div id="cmsmasters_button_63i9tt335f" class="button_wrap"><a href="https://green-planet.cmsmasters.net/project/saving-the-arctic/" class="cmsmasters_button"><span>Make a difference now!</span></a></div> -->
+
                                                 </div>
                                             </div>
                                         </div>
@@ -787,16 +785,16 @@
                         </div>
                     </div>
                 </div>
-            <!-- </div> -->
+            </div>
             
             <div class="content-section">
                 <div class="container">
                     <div class="row no-gutters pt-5 pb-5"> 
                         <div class="col-sm-12 col-md-6 col-lg-6 text-content">
-                        <h2 class="hedings mt-4 mb-4", style="color:#000">Our Initiatives </h2>
+                        <h2 class="hedings mt-4 mb-4" style="color:#000">Our Initiatives </h2>
                         </div>
                         <div class="col-sm-12 col-md-6 col-lg-6 text-content">
-                            <p class="mt-4 mb-4", style="font-size: 20px">Empowering communities through strategic initiatives that address today’s challenges and build a better tomorrow.</p>
+                            <p class="mt-4 mb-4" style="font-size: 20px">Empowering communities through strategic initiatives that address today’s challenges and build a better tomorrow.</p>
                         </div>
                     </div>
                 </div>
@@ -889,7 +887,7 @@
             </div>
             <div class="col-lg-6 ">
                 <div class="text-left m-5 p-5">
-                    <h1 class="hedings pb-2", style="color: #000">Together, we can make a difference</h1>
+                    <h1 class="hedings pb-2" style="color: #000">Together, we can make a difference</h1>
                     <div style="font-family: Orpheus Pro; font-style:italic; font-size:x-large">Join us in making a meaningful impact</div>
                     <p class="mt-4 mb-4" style="font-family: Montserrat;">Whether through donations, volunteer work, or partnerships, your support plays a crucial role in creating a brighter, more inclusive future for everyone.</p>
                     <div id="cmsmasters_button_wjzk57hjpe" class="button_wrap"><a href="" class="cmsmasters_button"><span>Join Us</span></a></div>

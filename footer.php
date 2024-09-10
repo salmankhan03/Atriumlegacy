@@ -85,7 +85,7 @@
 <body>
     <footer>
         <div class = "container">
-            <div class="row w-100", style="padding-top: 40px;">
+            <div class="row w-100" style="padding-top: 40px;">
                 <div class="col-sm-12 col-md-7 col-lg-7  mt-sm-3" >
                     <div class="row">
                         <div class="col-sm-12 col-md-7 col-lg-7 p-xs-0" >

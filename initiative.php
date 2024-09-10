@@ -1472,7 +1472,7 @@
                            <div class="elementor-widget-container">
                               <div class="sc_title sc_title_default">
                                  <h1 class="sc_item_title sc_title_title sc_item_title_style_default sc_item_title_tag">
-                                    <span class="sc_item_title_text", style="font-family:'Orpheus Pro'; color: #000">Atrium Legacy Foundation believe that meaningful change starts with strategic, impactful initiatives.</span>
+                                    <span class="sc_item_title_text" style="font-family:'Orpheus Pro'; color: #000">Atrium Legacy Foundation believe that meaningful change starts with strategic, impactful initiatives.</span>
                                  </h1>
                               </div>
                            </div>
@@ -1485,7 +1485,7 @@
                            </div>
                         </div>
                         <div class="elementor-element elementor-element-1fad025 animation_type_block sc_fly_static elementor-widget elementor-widget-text-editor trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited animated heart-fadeinup" data-id="1fad025" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;heart-fadeinup&quot;,&quot;_animation_delay&quot;:100}" data-widget_type="text-editor.default">
-                           <div class="elementor-widget-container", style="font-family:'Montserrat'">
+                           <div class="elementor-widget-container" style="font-family:'Montserrat'">
                               Our programs are designed to address the most pressing challenges faced by our communities today. By focusing on education, senior wellness, housing, and agricultural technology, we aim to create lasting solutions that empower individuals and strengthen communities.
                            </div>
                            <div class="elementor-element elementor-element-1647951 sc_fly_static elementor-widget elementor-widget-spacer trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="1647951" data-element_type="widget" data-widget_type="spacer.default">
@@ -1546,7 +1546,7 @@
                                                       <div class="mt-5">
                                                          <div class="cards pl-3 pr-3">
                                                             <div class="cards-body text-left mt-4">
-                                                               <h4 class="card-fonts-heading-color mb-5", style="font-style: italic">To nurture a generation that values empathy, social responsibility, and community engagement over material wealth.</h4>
+                                                               <h4 class="card-fonts-heading-color mb-5" style="font-style: italic">To nurture a generation that values empathy, social responsibility, and community engagement over material wealth.</h4>
                                                                <P class="mt-3 text-left" style="font-weight:900; color:#000000" >Overview</p>
                                                                <p class="mt-3 text-left card-fonts-color">The Empathy Education Initiative is dedicated to integrating social impact education into early childhood and primary education. By collaborating with educators, schools, and parents, we aim to counter the prevailing materialistic mindset with lessons that emphasize the importance of empathy and social values. Through interactive learning methods such as storytelling, role-playing, and community involvement projects, we make these vital lessons engaging and relatable for young learners.</p>
                                                                <P class="mt-3 text-left" style="font-weight:900; color:#000000" >Key Actions</p>
@@ -1579,7 +1579,7 @@
                                                       <div class="mt-5">
                                                          <div class="cards pl-3 pr-3">
                                                             <div class="cards-body text-left mt-4">
-                                                               <h4 class="card-fonts-heading-color mb-5", style="font-style: italic">To promote holistic wellness and societal integration for the senior population, ensuring they remain vital members of the community.</h4>
+                                                               <h4 class="card-fonts-heading-color mb-5" style="font-style: italic">To promote holistic wellness and societal integration for the senior population, ensuring they remain vital members of the community.</h4>
                                                                <P class="mt-3 text-left" style="font-weight:900; color:#000000" >Overview</p>
                                                                <p class="mt-3 text-left card-fonts-color">The Holistic Aging Initiative is focused on challenging the traditional norms of elderly care, which often lead to institutionalization and marginalization. Our approach emphasizes comprehensive wellness—physical, mental, and emotional—for seniors, enabling them to lead fulfilling lives within their communities. By developing wellness programs tailored specifically for seniors and creating robust support networks, we strive to ensure that aging is a dignified and respected phase of life.</p>
                                                                <P class="mt-3 text-left" style="font-weight:900; color:#000000" >Key Actions</p>
@@ -1612,7 +1612,7 @@
                                                       <div class="mt-5">
                                                          <div class="cards pl-3 pr-3">
                                                             <div class="cards-body text-left mt-4">
-                                                               <h4 class="card-fonts-heading-color mb-5", style="font-style: italic">To provide fast and affordable housing solutions, fostering stability and security for vulnerable populations.</h4>
+                                                               <h4 class="card-fonts-heading-color mb-5" style="font-style: italic">To provide fast and affordable housing solutions, fostering stability and security for vulnerable populations.</h4>
                                                                <P class="mt-3 text-left" style="font-weight:900; color:#000000" >Overview</p>
                                                                <p class="mt-3 text-left card-fonts-color">The Resilient Homes Initiative addresses the urgent need for affordable housing, particularly in the wake of economic challenges and the pandemic. By innovating construction methodologies that reduce costs and build time without compromising quality, we aim to make secure housing accessible to those who need it most. Our focus is on creating environments that foster stability and character development, particularly for young families and vulnerable populations.</p>
                                                                <P class="mt-3 text-left" style="font-weight:900; color:#000000" >Key Actions</p>
@@ -1645,7 +1645,7 @@
                                                       <div class="mt-5">
                                                          <div class="cards pl-3 pr-3">
                                                             <div class="cards-body text-left mt-4">
-                                                               <h4 class="card-fonts-heading-color mb-5", style="font-style: italic">To enhance global food security by leveraging agricultural technology and promoting sustainable farming practices.</h4>
+                                                               <h4 class="card-fonts-heading-color mb-5" style="font-style: italic">To enhance global food security by leveraging agricultural technology and promoting sustainable farming practices.</h4>
                                                                <P class="mt-3 text-left" style="font-weight:900; color:#000000" >Overview</p>
                                                                <p class="mt-3 text-left card-fonts-color">The Global Harvest Initiative is designed to address global food inequalities by investing in agricultural technologies that boost productivity, particularly in underdeveloped and developing countries. Through international collaborations, we aim to transfer knowledge and technology to regions facing food insecurity. Our focus is on sustainable farming practices that preserve natural resources and reduce dependency on imports, empowering communities to achieve self-sufficiency.</p>
                                                                <P class="mt-3 text-left" style="font-weight:900; color:#000000" >Key Actions</p>

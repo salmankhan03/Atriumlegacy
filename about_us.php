@@ -1754,7 +1754,7 @@
                                     <div id="cmsmasters_column_tsg36hzfki" class="cmsmasters_column one_first">
                                         <div class="cmsmasters_column_inner">
                                             <div id="cmsmasters_heading_rrgejmijg" class="cmsmasters_heading_wrap cmsmasters_heading_align_center">
-                                                <h2 class="cmsmasters_heading", style="font-family: 'Orpheus Pros'; font-weight: bold">About Us</h2>
+                                                <h2 class="cmsmasters_heading" style="font-family: 'Orpheus Pros'; font-weight: bold">About Us</h2>
                                             </div>
                                         </div>
                                     </div>
@@ -1787,7 +1787,7 @@
                                 </div>
                                 <div id="cmsmasters_column_9umckw2emc" class="cmsmasters_column two_third">
                                     <div class="cmsmasters_column_inner"><div id="cmsmasters_heading_k610h6ljqm" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                        <h2 class="cmsmasters_heading", style="font-family: 'Orpheus Pros'; color: #000">Our Story</h2>
+                                        <h2 class="cmsmasters_heading" style="font-family: 'Orpheus Pros'; color: #000">Our Story</h2>
                                     </div>
                                     <!-- <div id="cmsmasters_heading_khr8zu8qc" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
                                         <h5 class="cmsmasters_heading">Green. That’s how we’d like the world to be</h5>
@@ -1877,7 +1877,8 @@
                                             </div>
                                         </div> -->
                                          <!-- Tabs 2 -->
-                                         <div id="cmsmasters_row_56518267de" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_boxed">
+                                         <!-- hide this part for now before getting the content details -->
+                                         <!-- <div id="cmsmasters_row_56518267de" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_boxed">
                                             <div class="cmsmasters_row_outer_parent">
                                                 <div class="cmsmasters_row_outer">
                                                     <div class="cmsmasters_row_inner" style="width:100%; padding:0px"> 
@@ -1912,7 +1913,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div>
+                                        </div> -->
                                         <!-- Tabs 2 -->
                                     </div>
                                 </div>
