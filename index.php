@@ -30,6 +30,9 @@
             /* padding: 20px 0; */
             padding-left:15%; padding-right:15%
         }
+        .contentAlign:{
+            padding: 0 3% 0 3% !important;
+        }
 
         .first-section {
             background-color: #fdfbf8;
@@ -797,10 +800,10 @@
             <div class="content-section">
                 <div class="">
                     <div class="row no-gutters pt-5 pb-5"> 
-                        <div class="col-sm-12 col-md-6 col-lg-6 text-content">
+                        <div class="col-sm-12 col-md-6 col-lg-6 text-content p-4 ">
                         <h2 class="hedings mt-4 mb-4" style="color:#000">Our Initiatives </h2>
                         </div>
-                        <div class="col-sm-12 col-md-6 col-lg-6 text-content">
+                        <div class="col-sm-12 col-md-6 col-lg-6 text-content p-4">
                             <p class="mt-4 mb-4" style="font-size: 20px">Empowering communities through strategic initiatives that address today’s challenges and build a better tomorrow.</p>
                         </div>
                     </div>
@@ -808,7 +811,7 @@
                 <!-- </div>
                 <div class="content-section"> -->
                 <div class="">
-                    <div class="row no-gutters pt-5 pb-5"> 
+                    <div class="row no-gutters pt-5 pb-5 p-4" > 
                         <div class="col-sm-12 col-md-6 col-lg-3 text-content">
                             <div class="cards">
                                 <div class="cards-heading text-center">
