@@ -1367,8 +1367,9 @@
          .tabs-button-style{
             font-size: 25px;
             line-height: 38px;
-            color: #254151;
-            font-family: 'Merriweather', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+            /* color: #254151; */
+            color:#000000;
+            font-family: 'Orpheus Pro';
             font-weight: 900;
             font-style: normal;
             text-transform: none;
@@ -1415,6 +1416,20 @@
          .tabs-icons-size{
             font-size:60px
          }
+
+         .card-fonts-heading-color{
+            font-size: 24px;
+            line-height: 30px;
+            font-weight: 700;
+            font-style: italic;
+            font-family: 'Orpheus Pro';
+            color: #000;
+         }
+         p,
+         li{
+            font-family:'Montserrat' !important;
+         }
+         
          /*  */
          
       </style>
@@ -1474,9 +1489,11 @@
                            <div class="elementor-element elementor-element-247d4d6 animation_type_block sc_fly_static elementor-widget elementor-widget-trx_sc_title trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited animated heart-fadeinup" data-id="247d4d6" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;heart-fadeinup&quot;}" data-widget_type="trx_sc_title.default">
                               <div class="elementor-widget-container">
                                  <div class="sc_title sc_title_default">
-                                    <h1 class="sc_item_title sc_title_title sc_item_title_style_default sc_item_title_tag">
+                                    <!-- <h1 class="sc_item_title sc_title_title sc_item_title_style_default sc_item_title_tag">
                                        <span class="sc_item_title_text" style="font-family:'Orpheus Pro'; color: #000">Atrium Legacy Foundation believe that meaningful change starts with strategic, impactful initiatives.</span>
-                                    </h1>
+                                    </h1> -->
+                                    <h2 class="cmsmasters_heading" style="font-family: 'Orpheus Pros'; font-weight: bold; color: #000000;">Atrium Legacy Foundation believe that meaningful change starts with strategic, impactful initiatives.</h2>
+
                                  </div>
                               </div>
                            </div>
@@ -1525,19 +1542,26 @@
                                  <div class="cmsmasters_tabs tabs_mode_tab">
                                     <div class="tab-buttons cmsmasters_tabs_list" style="text-align:center">
                                        <button class="tab-button tabs-button-style mb-4 active" data-tab="tab1">
-                                          <i class="fa fa-address-book tabs-icons-size" aria-hidden="true" ></i><br/>
+                                          <!-- <i class="fa fa-address-book tabs-icons-size" aria-hidden="true" ></i> -->
+                                          <img src="./img/human-brain.png" style="width:50px">
+                                          <br/>
                                           <span>ReStart Education</span>
                                        </button>
                                        <button class="tab-button tabs-button-style mb-4" data-tab="tab2">
-                                          <i class="fa fa-address-book tabs-icons-size" aria-hidden="true" ></i><br/>
+                                          <!-- <i class="fa fa-address-book tabs-icons-size" aria-hidden="true" ></i> -->
+                                          <img src="./img/building.png" style="width:50px"><br/>
+
                                           <span>Aging Grace</span>
                                        </button>
                                        <button class="tab-button tabs-button-style mb-4" data-tab="tab3">
-                                          <i class="fa fa-address-book tabs-icons-size" aria-hidden="true" ></i><br/>
+                                          <!-- <i class="fa fa-address-book tabs-icons-size" aria-hidden="true" ></i> -->
+                                          <img src="./img/human-brain.png" style="width:50px"><br/>
                                           <span>HomeStrong</span>
                                        </button>
                                        <button class="tab-button tabs-button-style mb-4" data-tab="tab4">
-                                          <i class="fa fa-address-book tabs-icons-size" aria-hidden="true"></i><br/>    
+                                          <!-- <i class="fa fa-address-book tabs-icons-size" aria-hidden="true"></i> -->
+                                          <img src="./img/building.png" style="width:50px">
+                                          <br/>    
                                           <span>AgriThrive</span>
                                        </button>
                                     </div>
