@@ -261,11 +261,19 @@
          border-width:2px; 
          background-color:#efc94c;
          border-color:#efc94c;
+         background-color: #4789cc;
+         color: #fff;
+         border-color: #4789cc;
+         background-color: #4789cc;
+         color: #fff;
+         border-color: #4789cc;
+         font-family:'Montserrat';
+           
          } 
          #cmsmasters_button_cgikenhms .cmsmasters_button:hover { 
          background-color:rgba(255,255,255,0);
-         color:#254151;
-         border-color:#efc94c;
+         color: #4789cc;
+         border-color: #4789cc;
          } 
          #cmsmasters_row_14mg5lb9m { 
          background-color:#ffffff;
@@ -1112,20 +1120,21 @@
          margin: 0 0 20px 0;
          }
          #cmsmasters_button_rffzwrwsok .cmsmasters_button {
-         font-size: 16px;
-         line-height: 48px;
-         font-weight: 700;
-         padding-right: 35px;
-         padding-left: 35px;
-         border-width: 2px;
-         background-color: #efc94c;
-         color: #254151;
-         border-color: #efc94c;
+            font-size: 16px;
+            line-height: 48px;
+            font-weight: 700;
+            padding-right: 35px;
+            padding-left: 35px;
+            border-width: 2px;
+            background-color: #4789cc;
+            color: #fff;
+            border-color: #4789cc;
+            font-family:'Montserrat';
          }
          #cmsmasters_button_rffzwrwsok .cmsmasters_button:hover {
-         background-color: rgba(255, 255, 255, 0);
-         color: #254151;
-         border-color: #efc94c;
+            background-color: rgba(255, 255, 255, 0);
+            color: #4789cc;
+            border-color: #4789cc;rder-color: #efc94c;
          }
          .cmsmasters_more_button .featured_block_text .button_wrap:nth-child(2) {
          margin: 0 0 0 35px !important;
@@ -1917,14 +1926,15 @@
 	padding-left:40px; 
 	border-width:2px; 
 	border-style:default; 
-	background-color:#efc94c;
-	color:#254151;
-	border-color:#efc94c;
+	background-color: #4789cc;
+   color: #fff;
+   border-color: #4789cc;
+   font-family:'Montserrat';
 } 
 #cmsmasters_button_3b6lnlp6f .cmsmasters_button:hover { 
 	background-color:rgba(255,255,255,0);
-	color:#254151;
-	border-color:#efc94c;
+   color: #4789cc;
+   border-color: #4789cc;
 } 
 
 
@@ -2237,15 +2247,15 @@
 	padding-right:37px; 
 	padding-left:37px; 
 	border-width:2px; 
-	border-style:default; 
-	background-color:#efc94c;
-	color:#254151;
-	border-color:#efc94c;
+	background-color: #4789cc;
+   color: #fff;
+   border-color: #4789cc;
+   font-family:'Montserrat';;
 } 
 #cmsmasters_button_1xy53naew6 .cmsmasters_button:hover { 
 	background-color:rgba(255,255,255,0);
-	color:#254151;
-	border-color:#efc94c;
+   color: #4789cc;
+   border-color: #4789cc;
 } 
 
 
@@ -2467,20 +2477,18 @@
 	font-size:16px; 
 	line-height:50px; 
 	font-weight:700; 
-	font-style:default; 
-	text-transform:default; 
 	padding-right:40px; 
 	padding-left:40px; 
-	border-width:2px; 
-	border-style:default; 
-	background-color:#efc94c;
-	color:#254151;
-	border-color:#efc94c;
+	border-width:2px;
+   background-color: #4789cc;
+   color: #fff;
+   border-color: #4789cc;
+   font-family:'Montserrat';
 } 
 #cmsmasters_button_uaiz03ndw9 .cmsmasters_button:hover { 
 	background-color:rgba(255,255,255,0);
-	color:#254151;
-	border-color:#efc94c;
+	color: #4789cc;
+   border-color: #4789cc;
 } 
 
 
@@ -2644,6 +2652,20 @@
 					padding-top: 60px;
 				}
 			}
+         @media only screen and (max-width: 350px) {
+            #cmsmasters_button_uaiz03ndw9 .cmsmasters_button { 
+               font-size:14px; 
+               line-height:50px; 
+               font-weight:700; 
+               padding-right:40px; 
+               padding-left:40px; 
+               border-width:2px;
+               background-color: #4789cc;
+               color: #fff;
+               border-color: #4789cc;
+               font-family:'Montserrat';
+            } 
+         }
 			
 #cmsmasters_heading_h76bhvfp9n { 
 	text-align:left; 
@@ -2895,71 +2917,24 @@
 
 
 </style>
-   </head>
+</head>
    <body>
       <?php include 'header.php'; ?> 
       <div id="middle">
-      <div class="middle_inner">
-      <div class="content_wrap fullwidth">
-         <div class="middle_content entry"></div>
-      </div>
-      <!-- Top Section -->
-      <div id="cmsmasters_row_nofslyz1hn" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_boxed">
-         <div class="cmsmasters_row_outer_parent">
-            <div class="cmsmasters_row_outer">
-               <div class="cmsmasters_row_inner">
-                  <div class="cmsmasters_row_margin cmsmasters_11">
-                     <div id="cmsmasters_column_tsg36hzfki" class="cmsmasters_column one_first">
-                        <div class="cmsmasters_column_inner">
-                           <div id="cmsmasters_heading_rrgejmijg" class="cmsmasters_heading_wrap cmsmasters_heading_align_center">
-                              <h2 class="cmsmasters_heading">Get Involved</h2>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
+         <div class="middle_inner">
+            <div class="content_wrap fullwidth">
+               <div class="middle_content entry"></div>
             </div>
-         </div>
-      </div>
-      <!-- Top Section Close -->
-      <!-- Empty Space  -->
-      <div class="elementor-element elementor-element-7c02393 sc_height_huge sc_fly_static elementor-widget elementor-widget-spacer trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="7c02393" data-element_type="widget" data-widget_type="spacer.default">
-         <div class="elementor-widget-container">
-            <div class="elementor-spacer">
-               <div class="elementor-spacer-inner"></div>
-            </div>
-         </div>
-      </div>
-      <!-- Empty Space -->
-      <!--Ways to Get Involved Section  -->
-         <div id="cmsmasters_row_ftj2oeok3p"
-            class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_fullwidth">
-            <div class="cmsmasters_row_outer_parent">
-               <div class="cmsmasters_row_outer">
-                  <div class="cmsmasters_row_inner cmsmasters_row_fullwidth cmsmasters_row_no_margin">
-                     <div class="cmsmasters_row_margin cmsmasters_row_columns_behavior">
-                        <div id="cmsmasters_column_70ununv578" class="cmsmasters_column one_half">
-                           <div class="cmsmasters_column_inner">
-                              <div id="" class="">
-                                 <div class="featured_block_inner">
-                                    <div class="featured_block_text">
-                                       <div id="cmsmasters_heading_7h3t5mz79l"
-                                          class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                          <h2 class="cmsmasters_heading">Ways to Get Involved</h2>
-                                       </div>                            
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                        <div id="cmsmasters_column_70ununv579" class="cmsmasters_column one_half" >
-                           <div class="cmsmasters_column_inner">
-                              <div id="" class="">
-                                 <div class="featured_block_inner">
-                                    <div class="featured_block_text">
-                                    <div class="cmsmasters_column_inner">
-                                       We understand that creating meaningful social impact requires collective effort. Whether you are an individual, a corporation, or a community organization, there are many ways to get involved and contribute to our mission of fostering empathy, wellness, and sustainability. Your support, time, and resources are invaluable in helping us drive positive change and make a tangible difference in the lives of those we serve
-                                    </div>
+            <!-- Top Section -->
+               <div id="cmsmasters_row_nofslyz1hn" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_boxed">
+                  <div class="cmsmasters_row_outer_parent">
+                     <div class="cmsmasters_row_outer">
+                        <div class="cmsmasters_row_inner">
+                           <div class="cmsmasters_row_margin cmsmasters_11">
+                              <div id="cmsmasters_column_tsg36hzfki" class="cmsmasters_column one_first">
+                                 <div class="cmsmasters_column_inner">
+                                    <div id="cmsmasters_heading_rrgejmijg" class="cmsmasters_heading_wrap cmsmasters_heading_align_center">
+                                       <h2 class="cmsmasters_heading">Get Involved</h2>
                                     </div>
                                  </div>
                               </div>
@@ -2968,109 +2943,111 @@
                      </div>
                   </div>
                </div>
-            </div>
-         </div>
-      <!-- Ways to Get Involved Section Close -->
-       <!-- Empty Space -->
-         <div class="elementor-element elementor-element-7c02393 sc_height_huge sc_fly_static elementor-widget elementor-widget-spacer trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="7c02393" data-element_type="widget" data-widget_type="spacer.default">
-            <div class="elementor-widget-container">
-               <div class="elementor-spacer">
-                  <div class="elementor-spacer-inner"></div>
+            <!-- Top Section Close -->
+            <!-- Empty Space  -->
+               <div class="elementor-element elementor-element-7c02393 sc_height_huge sc_fly_static elementor-widget elementor-widget-spacer trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="7c02393" data-element_type="widget" data-widget_type="spacer.default">
+                  <div class="elementor-widget-container">
+                     <div class="elementor-spacer">
+                        <div class="elementor-spacer-inner"></div>
+                     </div>
+                  </div>
                </div>
-            </div>
-         </div>
-      <!-- Empty Space -->
+            <!-- Empty Space -->
+            <!--Ways to Get Involved Section  -->
+               <div id="cmsmasters_row_ftj2oeok3p"
+                  class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_fullwidth">
+                  <div class="cmsmasters_row_outer_parent">
+                     <div class="cmsmasters_row_outer">
+                        <div class="cmsmasters_row_inner cmsmasters_row_fullwidth cmsmasters_row_no_margin">
+                           <div class="cmsmasters_row_margin cmsmasters_row_columns_behavior">
+                              <div id="cmsmasters_column_70ununv578" class="cmsmasters_column one_half">
+                                 <div class="cmsmasters_column_inner">
+                                    <div id="" class="">
+                                       <div class="featured_block_inner">
+                                          <div class="featured_block_text">
+                                             <div id="cmsmasters_heading_7h3t5mz79l"
+                                                class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
+                                                <h2 class="cmsmasters_heading">Ways to Get Involved</h2>
+                                             </div>                            
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div id="cmsmasters_column_70ununv579" class="cmsmasters_column one_half" >
+                                 <div class="cmsmasters_column_inner">
+                                    <div id="" class="">
+                                       <div class="featured_block_inner">
+                                          <div class="featured_block_text">
+                                          <div class="cmsmasters_column_inner">
+                                             We understand that creating meaningful social impact requires collective effort. Whether you are an individual, a corporation, or a community organization, there are many ways to get involved and contribute to our mission of fostering empathy, wellness, and sustainability. Your support, time, and resources are invaluable in helping us drive positive change and make a tangible difference in the lives of those we serve
+                                          </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            <!-- Ways to Get Involved Section Close -->
+            <!-- Empty Space -->
+               <div class="elementor-element elementor-element-7c02393 sc_height_huge sc_fly_static elementor-widget elementor-widget-spacer trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="7c02393" data-element_type="widget" data-widget_type="spacer.default">
+                  <div class="elementor-widget-container">
+                     <div class="elementor-spacer">
+                        <div class="elementor-spacer-inner"></div>
+                     </div>
+                  </div>
+               </div>
+            <!-- Empty Space -->
 
-      <!-- LATEST -->
-      <div id="cmsmasters_row_ftj2oeok3p"
-         class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_fullwidth">
-         <div class="cmsmasters_row_outer_parent">
-            <div class="cmsmasters_row_outer">
-               <div class="cmsmasters_row_inner cmsmasters_row_fullwidth cmsmasters_row_no_margin">
-                  <div class="cmsmasters_row_margin cmsmasters_row_columns_behavior">
-                     <div id="cmsmasters_column_70ununv57" class="cmsmasters_column one_half">
-                        <div class="cmsmasters_column_inner">
-                           <div id="cmsmasters_fb_y6q3pqu05g" class="cmsmasters_featured_block">
-                              <div class="featured_block_inner">
-                                 <div class="featured_block_text">
-                                    <div id="cmsmasters_heading_7h3t5mz79l"
-                                       class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                       <h2 class="cmsmasters_heading">Donate</h2>
+            <!-- LATEST -->
+               <div id="cmsmasters_row_ftj2oeok3p"
+                  class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_fullwidth">
+                  <div class="cmsmasters_row_outer_parent">
+                     <div class="cmsmasters_row_outer">
+                        <div class="cmsmasters_row_inner cmsmasters_row_fullwidth cmsmasters_row_no_margin">
+                           <div class="cmsmasters_row_margin cmsmasters_row_columns_behavior">
+                              <div id="cmsmasters_column_70ununv57" class="cmsmasters_column one_half">
+                                 <div class="cmsmasters_column_inner">
+                                    <div id="cmsmasters_fb_y6q3pqu05g" class="cmsmasters_featured_block">
+                                       <div class="featured_block_inner">
+                                          <div class="featured_block_text">
+                                             <div id="cmsmasters_heading_7h3t5mz79l"
+                                                class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
+                                                <h2 class="cmsmasters_heading">Donate</h2>
+                                             </div>
+                                             <div id="cmsmasters_heading_vg49mhk6u"
+                                                class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
+                                                <h5 class="cmsmasters_heading">
+                                                   Your financial support allows us to continue our work and expand our initiatives.
+                                                </h5>
+                                             </div>
+                                             <div id="cmsmasters_heading_xwr3nyianz"
+                                                class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
+                                                <h6 class="cmsmasters_heading">Every contribution, big or small, helps us create programs that foster empathy in children, support the well-being of seniors, provide affordable housing, and enhance 
+                                                global food security.</h6>
+                                             </div>
+                                             <div id="cmsmasters_button_3b6lnlp6f" class="button_wrap"><a
+                                                   href="https://green-planet.cmsmasters.net/contacts/"
+                                                   class="cmsmasters_button"><span>Join Us</span></a></div>
+                                             <!-- <div id="cmsmasters_button_4fovz5tvzp" class="button_wrap"><a
+                                                   href="https://green-planet.cmsmasters.net/about-us/"
+                                                   class="cmsmasters_button"><span>Find Out More</span></a></div> -->
+                                          </div>
+                                       </div>
                                     </div>
-                                    <div id="cmsmasters_heading_vg49mhk6u"
-                                       class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                       <h5 class="cmsmasters_heading">
-                                          Your financial support allows us to continue our work and expand our initiatives.
-                                       </h5>
-                                    </div>
-                                    <div id="cmsmasters_heading_xwr3nyianz"
-                                       class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                       <h6 class="cmsmasters_heading">Every contribution, big or small, helps us create programs that foster empathy in children, support the well-being of seniors, provide affordable housing, and enhance 
-                                       global food security.</h6>
-                                    </div>
-                                    <div id="cmsmasters_button_3b6lnlp6f" class="button_wrap"><a
-                                          href="https://green-planet.cmsmasters.net/contacts/"
-                                          class="cmsmasters_button"><span>Join Us</span></a></div>
-                                    <!-- <div id="cmsmasters_button_4fovz5tvzp" class="button_wrap"><a
-                                          href="https://green-planet.cmsmasters.net/about-us/"
-                                          class="cmsmasters_button"><span>Find Out More</span></a></div> -->
                                  </div>
                               </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div id="cmsmasters_column_0m2g2ihc5" class="cmsmasters_column one_half">
-                        <div class="cmsmasters_column_inner">
-                           <div id="cmsmasters_fb_esv6fx1pld" class="cmsmasters_featured_block">
-                              <div class="featured_block_inner">
-                                 <div class="featured_block_text"></div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
-      <div id="cmsmasters_row_xrn1lop7s8"
-         class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_fullwidth">
-         <div class="cmsmasters_row_outer_parent">
-            <div class="cmsmasters_row_outer">
-               <div class="cmsmasters_row_inner cmsmasters_row_fullwidth cmsmasters_row_no_margin">
-                  <div class="cmsmasters_row_margin cmsmasters_row_columns_behavior">
-                     <div id="cmsmasters_column_w5mcy4hj3h" class="cmsmasters_column one_half">
-                        <div class="cmsmasters_column_inner">
-                           <div id="cmsmasters_fb_pz4i059qlw" class="cmsmasters_featured_block">
-                              <div class="featured_block_inner">
-                                 <div class="featured_block_text"></div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div id="cmsmasters_column_74stejdpnl" class="cmsmasters_column one_half">
-                        <div class="cmsmasters_column_inner">
-                           <div id="cmsmasters_fb_q4s4shfhw9" class="cmsmasters_featured_block">
-                              <div class="featured_block_inner">
-                                 <div class="featured_block_text">
-                                    <div id="cmsmasters_heading_sn46aqzonq"
-                                       class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                       <h2 class="cmsmasters_heading">Volunteer</h2>
+                              <div id="cmsmasters_column_0m2g2ihc5" class="cmsmasters_column one_half">
+                                 <div class="cmsmasters_column_inner">
+                                    <div id="cmsmasters_fb_esv6fx1pld" class="cmsmasters_featured_block">
+                                       <div class="featured_block_inner">
+                                          <div class="featured_block_text"></div>
+                                       </div>
                                     </div>
-                                    <div id="cmsmasters_heading_5qkurz1985"
-                                       class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                       <h5 class="cmsmasters_heading">Volunteers are the backbone of our foundation.</h5>
-                                    </div>
-                                    <div id="cmsmasters_heading_q97o5tbzrp"
-                                       class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                       <h6 class="cmsmasters_heading">By offering your time and skills, you can directly contribute to our initiatives and see the impact of your efforts firsthand. We offer a range of volunteer opportunities, from working with children and seniors to supporting our housing and agricultural projects.</h6>
-                                    </div>
-                                    <div id="cmsmasters_button_1xy53naew6" class="button_wrap"><a
-                                          href="https://green-planet.cmsmasters.net/about-us/"
-                                          class="cmsmasters_button"><span>Apply to Volunteer</span></a></div>
-                                    <!-- <div id="cmsmasters_button_xkljygwlfk" class="button_wrap"><a
-                                          href="https://green-planet.cmsmasters.net/events/list/"
-                                          class="cmsmasters_button"><span>Find Out More</span></a></div> -->
                                  </div>
                               </div>
                            </div>
@@ -3078,96 +3055,47 @@
                      </div>
                   </div>
                </div>
-            </div>
-         </div>
-      </div>
-      <div id="cmsmasters_row_q8vov8pnz5"
-         class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_fullwidth">
-         <div class="cmsmasters_row_outer_parent">
-            <div class="cmsmasters_row_outer">
-               <div class="cmsmasters_row_inner cmsmasters_row_fullwidth cmsmasters_row_no_margin">
-                  <div class="cmsmasters_row_margin cmsmasters_row_columns_behavior">
-                     <div id="cmsmasters_column_8q5i5fyan" class="cmsmasters_column one_half">
-                        <div class="cmsmasters_column_inner">
-                           <div id="cmsmasters_fb_38an65cmof" class="cmsmasters_featured_block">
-                              <div class="featured_block_inner">
-                                 <div class="featured_block_text">
-                                    <div id="cmsmasters_heading_st9ov3n19"
-                                       class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                       <h2 class="cmsmasters_heading">Partner with Us</h2>
+               <div id="cmsmasters_row_xrn1lop7s8"
+                  class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_fullwidth">
+                  <div class="cmsmasters_row_outer_parent">
+                     <div class="cmsmasters_row_outer">
+                        <div class="cmsmasters_row_inner cmsmasters_row_fullwidth cmsmasters_row_no_margin">
+                           <div class="cmsmasters_row_margin cmsmasters_row_columns_behavior">
+                              <div id="cmsmasters_column_w5mcy4hj3h" class="cmsmasters_column one_half">
+                                 <div class="cmsmasters_column_inner">
+                                    <div id="cmsmasters_fb_pz4i059qlw" class="cmsmasters_featured_block">
+                                       <div class="featured_block_inner">
+                                          <div class="featured_block_text"></div>
+                                       </div>
                                     </div>
-                                    <div id="cmsmasters_heading_g23no6guu7"
-                                       class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                       <h5 class="cmsmasters_heading">We are always looking to collaborate with like-minded organizations, businesses, and community groups.</h5>
-                                    </div>
-                                    <div id="cmsmasters_heading_pagbk75d5"
-                                       class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                       <h3 class="cmsmasters_heading">By partnering with Atrium Legacy Foundation, you can help amplify our impact and reach more people in need. Whether through corporate sponsorship, joint initiatives, or in-kind donations, your partnership can drive positive change.</h3>
-                                    </div>
-                                    <div id="cmsmasters_button_uaiz03ndw9" class="button_wrap"><a
-                                          href="https://green-planet.cmsmasters.net/contacts/"
-                                          class="cmsmasters_button"><span>Contact Us for Partnerships</span></a></div>
-                                    <!-- <div id="cmsmasters_button_n3wk9i4xy" class="button_wrap"><a
-                                          href="https://green-planet.cmsmasters.net/about-us/"
-                                          class="cmsmasters_button"><span>Find Out More</span></a></div> -->
                                  </div>
                               </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div id="cmsmasters_column_e71mt4yxph" class="cmsmasters_column one_half">
-                        <div class="cmsmasters_column_inner">
-                           <div id="cmsmasters_fb_c213ic9xs7" class="cmsmasters_featured_block">
-                              <div class="featured_block_inner">
-                                 <div class="featured_block_text"></div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
-      <div id="cmsmasters_row_xrn1lop7s8"
-         class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_fullwidth">
-         <div class="cmsmasters_row_outer_parent">
-            <div class="cmsmasters_row_outer">
-               <div class="cmsmasters_row_inner cmsmasters_row_fullwidth cmsmasters_row_no_margin">
-                  <div class="cmsmasters_row_margin cmsmasters_row_columns_behavior">
-                     <div id="cmsmasters_column_w5mcy4hj3h" class="cmsmasters_column one_half">
-                        <div class="cmsmasters_column_inner">
-                           <div id="cmsmasters_fb_pz4i059qlw" class="cmsmasters_featured_block">
-                              <div class="featured_block_inner">
-                                 <div class="featured_block_text"></div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div id="cmsmasters_column_74stejdpnl" class="cmsmasters_column one_half">
-                        <div class="cmsmasters_column_inner">
-                           <div id="cmsmasters_fb_q4s4shfhw9" class="cmsmasters_featured_block">
-                              <div class="featured_block_inner">
-                                 <div class="featured_block_text">
-                                    <div id="cmsmasters_heading_sn46aqzonq"
-                                       class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                       <h2 class="cmsmasters_heading">Attend an Event</h2>
+                              <div id="cmsmasters_column_74stejdpnl" class="cmsmasters_column one_half">
+                                 <div class="cmsmasters_column_inner">
+                                    <div id="cmsmasters_fb_q4s4shfhw9" class="cmsmasters_featured_block">
+                                       <div class="featured_block_inner">
+                                          <div class="featured_block_text">
+                                             <div id="cmsmasters_heading_sn46aqzonq"
+                                                class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
+                                                <h2 class="cmsmasters_heading">Volunteer</h2>
+                                             </div>
+                                             <div id="cmsmasters_heading_5qkurz1985"
+                                                class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
+                                                <h5 class="cmsmasters_heading">Volunteers are the backbone of our foundation.</h5>
+                                             </div>
+                                             <div id="cmsmasters_heading_q97o5tbzrp"
+                                                class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
+                                                <h6 class="cmsmasters_heading">By offering your time and skills, you can directly contribute to our initiatives and see the impact of your efforts firsthand. We offer a range of volunteer opportunities, from working with children and seniors to supporting our housing and agricultural projects.</h6>
+                                             </div>
+                                             <div id="cmsmasters_button_1xy53naew6" class="button_wrap"><a
+                                                   href="https://green-planet.cmsmasters.net/about-us/"
+                                                   class="cmsmasters_button"><span>Apply to Volunteer</span></a></div>
+                                             <!-- <div id="cmsmasters_button_xkljygwlfk" class="button_wrap"><a
+                                                   href="https://green-planet.cmsmasters.net/events/list/"
+                                                   class="cmsmasters_button"><span>Find Out More</span></a></div> -->
+                                          </div>
+                                       </div>
                                     </div>
-                                    <div id="cmsmasters_heading_5qkurz1985"
-                                       class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                       <h5 class="cmsmasters_heading">Advancing the study of environmental science
-                                       </h5>
-                                    </div>
-                                    <div id="cmsmasters_heading_q97o5tbzrp"
-                                       class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                       <h6 class="cmsmasters_heading">Our events are an excellent way to support our mission while engaging with our community. From fundraising galas to educational workshops, every event brings us closer to achieving our goals. Your participation not only helps raise funds but also spreads awareness about the critical issues we are addressing.</h6>
-                                    </div>
-                                    <div id="cmsmasters_button_1xy53naew6" class="button_wrap"><a
-                                          href="https://green-planet.cmsmasters.net/about-us/"
-                                          class="cmsmasters_button"><span>View All Events</span></a></div>
-                                    <div id="cmsmasters_button_xkljygwlfk" class="button_wrap"><a
-                                          href="https://green-planet.cmsmasters.net/events/list/"
-                                          class="cmsmasters_button"><span>Find Out More</span></a></div>
                                  </div>
                               </div>
                            </div>
@@ -3175,48 +3103,140 @@
                      </div>
                   </div>
                </div>
-            </div>
+               <div id="cmsmasters_row_q8vov8pnz5"
+                  class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_fullwidth">
+                  <div class="cmsmasters_row_outer_parent">
+                     <div class="cmsmasters_row_outer">
+                        <div class="cmsmasters_row_inner cmsmasters_row_fullwidth cmsmasters_row_no_margin">
+                           <div class="cmsmasters_row_margin cmsmasters_row_columns_behavior">
+                              <div id="cmsmasters_column_8q5i5fyan" class="cmsmasters_column one_half">
+                                 <div class="cmsmasters_column_inner">
+                                    <div id="cmsmasters_fb_38an65cmof" class="cmsmasters_featured_block">
+                                       <div class="featured_block_inner">
+                                          <div class="featured_block_text">
+                                             <div id="cmsmasters_heading_st9ov3n19"
+                                                class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
+                                                <h2 class="cmsmasters_heading">Partner with Us</h2>
+                                             </div>
+                                             <div id="cmsmasters_heading_g23no6guu7"
+                                                class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
+                                                <h5 class="cmsmasters_heading">We are always looking to collaborate with like-minded organizations, businesses, and community groups.</h5>
+                                             </div>
+                                             <div id="cmsmasters_heading_pagbk75d5"
+                                                class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
+                                                <h3 class="cmsmasters_heading">By partnering with Atrium Legacy Foundation, you can help amplify our impact and reach more people in need. Whether through corporate sponsorship, joint initiatives, or in-kind donations, your partnership can drive positive change.</h3>
+                                             </div>
+                                             <div id="cmsmasters_button_uaiz03ndw9" class="button_wrap"><a
+                                                   href="https://green-planet.cmsmasters.net/contacts/"
+                                                   class="cmsmasters_button"><span>Contact Us for Partnerships</span></a></div>
+                                             <!-- <div id="cmsmasters_button_n3wk9i4xy" class="button_wrap"><a
+                                                   href="https://green-planet.cmsmasters.net/about-us/"
+                                                   class="cmsmasters_button"><span>Find Out More</span></a></div> -->
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div id="cmsmasters_column_e71mt4yxph" class="cmsmasters_column one_half">
+                                 <div class="cmsmasters_column_inner">
+                                    <div id="cmsmasters_fb_c213ic9xs7" class="cmsmasters_featured_block">
+                                       <div class="featured_block_inner">
+                                          <div class="featured_block_text"></div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div id="cmsmasters_row_xrn1lop7s8"
+                  class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_fullwidth">
+                  <div class="cmsmasters_row_outer_parent">
+                     <div class="cmsmasters_row_outer">
+                        <div class="cmsmasters_row_inner cmsmasters_row_fullwidth cmsmasters_row_no_margin">
+                           <div class="cmsmasters_row_margin cmsmasters_row_columns_behavior">
+                              <div id="cmsmasters_column_w5mcy4hj3h" class="cmsmasters_column one_half">
+                                 <div class="cmsmasters_column_inner">
+                                    <div id="cmsmasters_fb_pz4i059qlw" class="cmsmasters_featured_block">
+                                       <div class="featured_block_inner">
+                                          <div class="featured_block_text"></div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div id="cmsmasters_column_74stejdpnl" class="cmsmasters_column one_half">
+                                 <div class="cmsmasters_column_inner">
+                                    <div id="cmsmasters_fb_q4s4shfhw9" class="cmsmasters_featured_block">
+                                       <div class="featured_block_inner">
+                                          <div class="featured_block_text">
+                                             <div id="cmsmasters_heading_sn46aqzonq"
+                                                class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
+                                                <h2 class="cmsmasters_heading">Attend an Event</h2>
+                                             </div>
+                                             <div id="cmsmasters_heading_5qkurz1985"
+                                                class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
+                                                <h5 class="cmsmasters_heading">Advancing the study of environmental science
+                                                </h5>
+                                             </div>
+                                             <div id="cmsmasters_heading_q97o5tbzrp"
+                                                class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
+                                                <h6 class="cmsmasters_heading">Our events are an excellent way to support our mission while engaging with our community. From fundraising galas to educational workshops, every event brings us closer to achieving our goals. Your participation not only helps raise funds but also spreads awareness about the critical issues we are addressing.</h6>
+                                             </div>
+                                             <div id="cmsmasters_button_1xy53naew6" class="button_wrap"><a
+                                                   href="https://green-planet.cmsmasters.net/about-us/"
+                                                   class="cmsmasters_button"><span>View All Events</span></a></div>
+                                             <!-- <div id="cmsmasters_button_xkljygwlfk" class="button_wrap"><a
+                                                   href="https://green-planet.cmsmasters.net/events/list/"
+                                                   class="cmsmasters_button"><span>Find Out More</span></a></div> -->
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            <!-- LATEST -->
+            <!-- Why Get Involved Section  -->
+               <div id="cmsmasters_row_47292o7tzc" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_fullwidth">
+                  <div class="cmsmasters_row_outer_parent pb-0">
+                     <div class="cmsmasters_row_outer">
+                        <div class="cmsmasters_row_inner cmsmasters_row_fullwidth cmsmasters_row_no_margin">
+                           <div class="cmsmasters_row_margin cmsmasters_1212">
+                              <div id="cmsmasters_column_sclh9r6jib" class="cmsmasters_column one_half">
+                                 <div class="cmsmasters_column_inner">
+                                    <div id="cmsmasters_heading_vb4bc56kh4" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
+                                       <h2 class="cmsmasters_heading">Why Get Involved?</h2>
+                                    </div>
+                                    <div id="cmsmasters_heading_ca57ezmza"
+                                       class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
+                                       <h3 class="cmsmasters_heading">Getting involved with Atrium Legacy Foundation is not just about giving; it’s about joining a collective effort to foster a supportive, equitable, and thriving society. By working together, we can create communities where every generation is empowered, respected, and has the opportunity to flourish. Your involvement helps us pave the way for a brighter future for all.</h3>
+                                    </div>
+                                    <div id="cmsmasters_fb_rffzwrwsos" class="cmsmasters_featured_block cmsmasters_more_button">
+                                       <div class="featured_block_inner">
+                                          <div class="featured_block_text">
+                                             <div id="cmsmasters_button_rffzwrwsok" class="button_wrap"><a
+                                                href="https://green-planet.cmsmasters.net/contacts/"
+                                                class="cmsmasters_button"><span>Join Us Today</span></a></div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div id="cmsmasters_column_5gdbuf4sco" class="cmsmasters_column one_half">
+                                 <div class="cmsmasters_column_inner"></div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            <!--  -->
          </div>
-      </div>
-      <!-- LATEST -->
-      <!-- Why Get Involved Section  -->
-      <div id="cmsmasters_row_47292o7tzc" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_fullwidth">
-      <div class="cmsmasters_row_outer_parent pb-0">
-      <div class="cmsmasters_row_outer">
-      <div class="cmsmasters_row_inner cmsmasters_row_fullwidth cmsmasters_row_no_margin">
-      <div class="cmsmasters_row_margin cmsmasters_1212">
-      <div id="cmsmasters_column_sclh9r6jib" class="cmsmasters_column one_half">
-      <div class="cmsmasters_column_inner">
-      <div id="cmsmasters_heading_vb4bc56kh4" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-      <h2 class="cmsmasters_heading">Why Get Involved?</h2>
-      </div>
-      <div id="cmsmasters_heading_ca57ezmza"
-         class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-      <h3 class="cmsmasters_heading">Getting involved with Atrium Legacy Foundation is not just about giving; it’s about joining a collective effort to foster a supportive, equitable, and thriving society. By working together, we can create communities where every generation is empowered, respected, and has the opportunity to flourish. Your involvement helps us pave the way for a brighter future for all.</h3>
-      </div>
-      <div id="cmsmasters_fb_rffzwrwsos" class="cmsmasters_featured_block cmsmasters_more_button">
-                                            <div class="featured_block_inner">
-                                                <div class="featured_block_text">
-                                                    <div id="cmsmasters_button_rffzwrwsok" class="button_wrap"><a
-                                                            href="https://green-planet.cmsmasters.net/contacts/"
-                                                            class="cmsmasters_button"><span>Join Us Today</span></a></div>                                    
-                                                </div>
-                                            </div>
-                                        </div>
-    
-      <!-- Tabs End -->
-      </div>
-      </div>
-      <div id="cmsmasters_column_5gdbuf4sco" class="cmsmasters_column one_half">
-      <div class="cmsmasters_column_inner"></div>
-      </div>
-      </div>
-      </div>
-      </div>
-      </div>
-      </div>
-      <!--  -->
-      </div>
       </div>
    </body>
 </html>
