@@ -82,7 +82,7 @@
          #cmsmasters_heading_rrgejmijg { 
          text-align:center; 
          margin-top:0px; 
-         margin-bottom:20px; 
+         /* margin-bottom:20px;  */
          } 
          #cmsmasters_heading_rrgejmijg .cmsmasters_heading { 
          text-align:center; 
@@ -166,7 +166,7 @@
          text-align:left; 
          } 
          #cmsmasters_heading_4emuo3src .cmsmasters_heading, #cmsmasters_heading_4emuo3src .cmsmasters_heading a { 
-         font-family:'Hind'; 
+         font-family:'Montserrat'; 
          font-size:18px; 
          line-height:26px; 
          font-weight:400; 
@@ -246,7 +246,7 @@
          text-align:left; 
          } 
          #cmsmasters_heading_k4eli1cq0l .cmsmasters_heading, #cmsmasters_heading_k4eli1cq0l .cmsmasters_heading a { 
-         font-family:'Hind'; 
+         font-family:'Montserrat'; 
          font-size:18px; 
          line-height:28px; 
          font-weight:400; 
@@ -360,7 +360,7 @@
          text-align:left; 
          } 
          #cmsmasters_heading_nfszxodkx .cmsmasters_heading, #cmsmasters_heading_nfszxodkx .cmsmasters_heading a { 
-         font-family:'Hind'; 
+         font-family:'Montserrat'; 
          font-size:18px; 
          line-height:26px; 
          font-weight:400; 
@@ -460,7 +460,7 @@
          text-align:left; 
          } 
          #cmsmasters_heading_s826aavppl .cmsmasters_heading, #cmsmasters_heading_s826aavppl .cmsmasters_heading a { 
-         font-family:'Hind'; 
+         font-family:'Montserrat'; 
          font-size:18px; 
          line-height:26px; 
          font-weight:400; 
@@ -636,7 +636,7 @@
          text-align:left; 
          } 
          #cmsmasters_heading_djnpkivjm4 .cmsmasters_heading, #cmsmasters_heading_djnpkivjm4 .cmsmasters_heading a { 
-         font-family:'Hind'; 
+         font-family:'Montserrat'; 
          font-size:18px; 
          line-height:26px; 
          font-weight:400; 
@@ -763,7 +763,7 @@
          text-align:left; 
          } 
          #cmsmasters_heading_fim5jxda2h .cmsmasters_heading, #cmsmasters_heading_fim5jxda2h .cmsmasters_heading a { 
-         font-family:'Hind'; 
+         font-family:'Montserrat'; 
          line-height:30px; 
          font-weight:400; 
          color:#7d7d7d;
@@ -878,7 +878,7 @@
          } 
          #cmsmasters_heading_vb4bc56kh4 { 
          text-align:left; 
-         margin-top:190px; 
+         margin-top:150px; 
          margin-bottom:15px; 
          } 
          #cmsmasters_column_sclh9r6jib .cmsmasters_column_inner { 
@@ -922,7 +922,7 @@
          text-align:left; 
          } 
          #cmsmasters_heading_pqvyo1eyi8 .cmsmasters_heading, #cmsmasters_heading_pqvyo1eyi8 .cmsmasters_heading a { 
-         font-family:'Hind'; 
+         font-family:'Montserrat'; 
          font-size:20px; 
          line-height:28px; 
          font-weight:400; 
@@ -992,7 +992,7 @@
          text-align:left; 
          } 
          #cmsmasters_heading_63i9tt335f .cmsmasters_heading, #cmsmasters_heading_63i9tt335f .cmsmasters_heading a { 
-         font-family:'Hind'; 
+         font-family:'Montserrat'; 
          font-size:18px; 
          line-height:26px; 
          font-weight:400; 
@@ -1163,11 +1163,11 @@
          border-color: rgba(255, 255, 255, 0);
          }
          #cmsmasters_heading_ca57ezmza .cmsmasters_heading, #cmsmasters_heading_ca57ezmza .cmsmasters_heading a {
-         font-family: 'Hind';
+         font-family: 'Montserrat';
          font-size: 20px;
          line-height: 30px;
          font-weight: 400;
-         color: #7d7d7d;
+         color: #000;
          }
          #cmsmasters_row_47292o7tzc .cmsmasters_row_outer_parent {
          padding-bottom: 0px;
@@ -1759,7 +1759,7 @@
 	border-style:default; 
 } 
 #cmsmasters_column_70ununv578 .cmsmasters_column_inner { 
-	padding: 0 5% 0 23%; 
+	padding: 40px 5% 0 23%; 
 } 
 #cmsmasters_column_70ununv579 .cmsmasters_column_inner { 
 	padding: 0 10% 0 0; 
@@ -1770,7 +1770,7 @@
 					padding: 0 4% 0 5%;
 				}
             #cmsmasters_column_70ununv578 .cmsmasters_column_inner {
-					padding: 0 4% 0 5%;
+					padding: 60px 4% 0 5%;
 				}
             #cmsmasters_column_70ununv579 .cmsmasters_column_inner { 
                padding: 0 4% 0 3%;
@@ -1904,7 +1904,7 @@
 } 
 
 #cmsmasters_heading_xwr3nyianz .cmsmasters_heading, #cmsmasters_heading_xwr3nyianz .cmsmasters_heading a { 
-	font-family:'Hind'; 
+	font-family:'Montserrat'; 
 	font-size:20px; 
 	line-height:28px; 
 	font-weight:400; 
@@ -2226,7 +2226,7 @@
 } 
 
 #cmsmasters_heading_q97o5tbzrp .cmsmasters_heading, #cmsmasters_heading_q97o5tbzrp .cmsmasters_heading a { 
-	font-family:'Hind'; 
+	font-family:'Montserrat'; 
 	font-size:20px; 
 	line-height:28px; 
 	font-weight:400; 
@@ -2461,7 +2461,7 @@
 } 
 
 #cmsmasters_heading_pagbk75d5 .cmsmasters_heading, #cmsmasters_heading_pagbk75d5 .cmsmasters_heading a { 
-	font-family:'Hind'; 
+	font-family:'Montserrat'; 
 	font-size:20px; 
 	line-height:28px; 
 	font-weight:400; 
@@ -2723,7 +2723,7 @@
 } 
 
 #cmsmasters_heading_46yrmp0kqt .cmsmasters_heading, #cmsmasters_heading_46yrmp0kqt .cmsmasters_heading a { 
-	font-family:'Hind'; 
+	font-family:'Montserrat'; 
 	font-size:18px; 
 	line-height:26px; 
 	font-weight:400; 
@@ -2886,7 +2886,7 @@
 } 
 
 #cmsmasters_heading_lxcd0nrag8 .cmsmasters_heading, #cmsmasters_heading_lxcd0nrag8 .cmsmasters_heading a { 
-	font-family:'Hind'; 
+	font-family:'Montserrat'; 
 	font-size:18px; 
 	line-height:26px; 
 	font-weight:400; 
@@ -2993,7 +2993,7 @@
                                        <div class="featured_block_inner">
                                           <div class="featured_block_text">
                                           <div class="cmsmasters_column_inner">
-                                             We understand that creating meaningful social impact requires collective effort. Whether you are an individual, a corporation, or a community organization, there are many ways to get involved and contribute to our mission of fostering empathy, wellness, and sustainability. Your support, time, and resources are invaluable in helping us drive positive change and make a tangible difference in the lives of those we serve
+                                             We understand that creating meaningful social impact requires collective effort. Whether you are an individual, a corporation, or a community organization, there are many ways to get involved and contribute to our mission of fostering empathy, wellness, and sustainability. Your support, time, and resources are invaluable in helping us drive positive change and make a tangible difference in the lives of those we serve.
                                           </div>
                                           </div>
                                        </div>
@@ -3045,7 +3045,7 @@
                                              </div>
                                              <div id="cmsmasters_button_3b6lnlp6f" class="button_wrap"><a
                                                    href="#"
-                                                   class="cmsmasters_button"><span>Join Us</span></a></div>
+                                                   class="cmsmasters_button"><span>Donate Now</span></a></div>
                                              <!-- <div id="cmsmasters_button_4fovz5tvzp" class="button_wrap"><a
                                                    href="https://green-planet.cmsmasters.net/about-us/"
                                                    class="cmsmasters_button"><span>Find Out More</span></a></div> -->
@@ -3217,32 +3217,35 @@
             <!-- Why Get Involved Section  -->
                <div id="cmsmasters_row_47292o7tzc" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_fullwidth">
                   <div class="cmsmasters_row_outer_parent pb-0">
-                     <div class="cmsmasters_row_outer container">
+                     <div class="cmsmasters_row_outer">
                         <div class="cmsmasters_row_inner cmsmasters_row_fullwidth cmsmasters_row_no_margin">
                            <div class="cmsmasters_row_margin cmsmasters_1212">
-                              <div id="cmsmasters_column_sclh9r6jib" class="cmsmasters_column one_half">
-                                 <div class="cmsmasters_column_inner">
-                                    <div id="cmsmasters_heading_vb4bc56kh4" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                       <h2 class="cmsmasters_heading">Why Get Involved?</h2>
-                                    </div>
-                                    <div id="cmsmasters_heading_ca57ezmza"
-                                       class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                       <h3 class="cmsmasters_heading">Getting involved with Atrium Legacy Foundation is not just about giving; it’s about joining a collective effort to foster a supportive, equitable, and thriving society. By working together, we can create communities where every generation is empowered, respected, and has the opportunity to flourish. Your involvement helps us pave the way for a brighter future for all.</h3>
-                                    </div>
-                                    <div id="cmsmasters_fb_rffzwrwsos" class="cmsmasters_featured_block cmsmasters_more_button">
-                                       <div class="featured_block_inner">
-                                          <div class="featured_block_text">
-                                             <div id="cmsmasters_button_rffzwrwsok" class="button_wrap"><a
-                                                href="#"
-                                                class="cmsmasters_button"><span>Join Us Today</span></a></div>
+                              <div class = "container">
+                                 <!-- <div id="cmsmasters_column_sclh9r6jib" class="cmsmasters_column one_half"> -->
+                                 <div class="cmsmasters_column one_half">
+                                    <div class="cmsmasters_column_inner" style="margin-bottom: 150px;">
+                                       <div id="cmsmasters_heading_vb4bc56kh4" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
+                                          <h2 class="cmsmasters_heading">Why Get Involved?</h2>
+                                       </div>
+                                       <div id="cmsmasters_heading_ca57ezmza"
+                                          class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
+                                          <h3 class="cmsmasters_heading">Getting involved with Atrium Legacy Foundation is not just about giving; it’s about joining a collective effort to foster a supportive, equitable, and thriving society. By working together, we can create communities where every generation is empowered, respected, and has the opportunity to flourish. Your involvement helps us pave the way for a brighter future for all.</h3>
+                                       </div>
+                                       <div id="cmsmasters_fb_rffzwrwsos" class="cmsmasters_featured_block cmsmasters_more_button">
+                                          <div class="featured_block_inner">
+                                             <div class="featured_block_text">
+                                                <div id="cmsmasters_button_rffzwrwsok" class="button_wrap"><a
+                                                   href="#"
+                                                   class="cmsmasters_button"><span>Join Us Today</span></a></div>
+                                             </div>
                                           </div>
                                        </div>
                                     </div>
-                                 </div>
+                                 <!-- </div> -->
                               </div>
-                              <div id="cmsmasters_column_5gdbuf4sco" class="cmsmasters_column one_half">
+                              <!-- <div id="cmsmasters_column_5gdbuf4sco" class="cmsmasters_column one_half">
                                  <div class="cmsmasters_column_inner"></div>
-                              </div>
+                              </div> -->
                            </div>
                         </div>
                      </div>
