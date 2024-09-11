@@ -261,11 +261,19 @@
          border-width:2px; 
          background-color:#efc94c;
          border-color:#efc94c;
+         background-color: #4789cc;
+         color: #fff;
+         border-color: #4789cc;
+         background-color: #4789cc;
+         color: #fff;
+         border-color: #4789cc;
+         font-family:'Montserrat';
+           
          } 
          #cmsmasters_button_cgikenhms .cmsmasters_button:hover { 
          background-color:rgba(255,255,255,0);
-         color:#254151;
-         border-color:#efc94c;
+         color: #4789cc;
+         border-color: #4789cc;
          } 
          #cmsmasters_row_14mg5lb9m { 
          background-color:#ffffff;
@@ -1112,20 +1120,21 @@
          margin: 0 0 20px 0;
          }
          #cmsmasters_button_rffzwrwsok .cmsmasters_button {
-         font-size: 16px;
-         line-height: 48px;
-         font-weight: 700;
-         padding-right: 35px;
-         padding-left: 35px;
-         border-width: 2px;
-         background-color: #efc94c;
-         color: #254151;
-         border-color: #efc94c;
+            font-size: 16px;
+            line-height: 48px;
+            font-weight: 700;
+            padding-right: 35px;
+            padding-left: 35px;
+            border-width: 2px;
+            background-color: #4789cc;
+            color: #fff;
+            border-color: #4789cc;
+            font-family:'Montserrat';
          }
          #cmsmasters_button_rffzwrwsok .cmsmasters_button:hover {
-         background-color: rgba(255, 255, 255, 0);
-         color: #254151;
-         border-color: #efc94c;
+            background-color: rgba(255, 255, 255, 0);
+            color: #4789cc;
+            border-color: #4789cc;rder-color: #efc94c;
          }
          .cmsmasters_more_button .featured_block_text .button_wrap:nth-child(2) {
          margin: 0 0 0 35px !important;
@@ -1917,14 +1926,15 @@
 	padding-left:40px; 
 	border-width:2px; 
 	border-style:default; 
-	background-color:#efc94c;
-	color:#254151;
-	border-color:#efc94c;
+	background-color: #4789cc;
+   color: #fff;
+   border-color: #4789cc;
+   font-family:'Montserrat';
 } 
 #cmsmasters_button_3b6lnlp6f .cmsmasters_button:hover { 
 	background-color:rgba(255,255,255,0);
-	color:#254151;
-	border-color:#efc94c;
+   color: #4789cc;
+   border-color: #4789cc;
 } 
 
 
@@ -2237,15 +2247,15 @@
 	padding-right:37px; 
 	padding-left:37px; 
 	border-width:2px; 
-	border-style:default; 
-	background-color:#efc94c;
-	color:#254151;
-	border-color:#efc94c;
+	background-color: #4789cc;
+   color: #fff;
+   border-color: #4789cc;
+   font-family:'Montserrat';;
 } 
 #cmsmasters_button_1xy53naew6 .cmsmasters_button:hover { 
 	background-color:rgba(255,255,255,0);
-	color:#254151;
-	border-color:#efc94c;
+   color: #4789cc;
+   border-color: #4789cc;
 } 
 
 
@@ -2471,16 +2481,16 @@
 	text-transform:default; 
 	padding-right:40px; 
 	padding-left:40px; 
-	border-width:2px; 
-	border-style:default; 
-	background-color:#efc94c;
-	color:#254151;
-	border-color:#efc94c;
+	border-width:2px;
+   background-color: #4789cc;
+   color: #fff;
+   border-color: #4789cc;
+   font-family:'Montserrat';
 } 
 #cmsmasters_button_uaiz03ndw9 .cmsmasters_button:hover { 
 	background-color:rgba(255,255,255,0);
-	color:#254151;
-	border-color:#efc94c;
+	color: #4789cc;
+   border-color: #4789cc;
 } 
 
 
@@ -3165,9 +3175,9 @@
                                              <div id="cmsmasters_button_1xy53naew6" class="button_wrap"><a
                                                    href="https://green-planet.cmsmasters.net/about-us/"
                                                    class="cmsmasters_button"><span>View All Events</span></a></div>
-                                             <div id="cmsmasters_button_xkljygwlfk" class="button_wrap"><a
+                                             <!-- <div id="cmsmasters_button_xkljygwlfk" class="button_wrap"><a
                                                    href="https://green-planet.cmsmasters.net/events/list/"
-                                                   class="cmsmasters_button"><span>Find Out More</span></a></div>
+                                                   class="cmsmasters_button"><span>Find Out More</span></a></div> -->
                                           </div>
                                        </div>
                                     </div>
