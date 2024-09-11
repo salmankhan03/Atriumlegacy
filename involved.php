@@ -2946,8 +2946,8 @@
                            <div class="cmsmasters_row_margin cmsmasters_11">
                               <div id="cmsmasters_column_tsg36hzfki" class="cmsmasters_column one_first">
                                  <div class="cmsmasters_column_inner">
-                                    <div id="cmsmasters_heading_rrgejmijg" class="cmsmasters_heading_wrap cmsmasters_heading_align_center">
-                                       <h2 class="cmsmasters_heading">Get Involved</h2>
+                                    <div id="cmsmasters_heading_rrgejmijg" class="cmsmasters_heading_wrap cmsmasters_heading_align_center">                                    
+                                       <h2 class="cmsmasters_heading" style="font-family: 'Orpheus Pros'; font-weight: bold">Get Involved</h2>
                                     </div>
                                  </div>
                               </div>
