@@ -157,7 +157,7 @@
                 </div>
                 <div class="col-sm-12 col-md-5 col-lg-5 d-flex align-items-center justify-content-center text-center">
                     <div>
-                        <a href="https://axiomthemes.com/" target="_blank" rel="noopener">AxiomThemes</a>
+                        <a href="#" target="_blank" rel="noopener">AxiomThemes</a>
                         © 2024. All Rights Reserved.
                     </div>
                 </div>
