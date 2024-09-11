@@ -607,7 +607,7 @@
                 <!-- Start Content -->
                 <div class="middle_content entry"></div>
             </div>
-            <div id="cmsmasters_row_83hce86sns" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_fullwidth">
+            <!-- <div id="cmsmasters_row_83hce86sns" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_fullwidth">
                 <div class="cmsmasters_row_outer_parent">
                     <div class="cmsmasters_row_outer">
                         <div class="cmsmasters_row_inner cmsmasters_row_fullwidth">
@@ -615,7 +615,7 @@
                                 <div id="cmsmasters_column_" class="cmsmasters_column one_first">
                                     <div class="cmsmasters_column_inner">
                                         
-                                        <!-- <div class="cmsmasters_slider">
+                                        <div class="cmsmasters_slider">
                                             <rs-module-wrap id="rev_slider_1_1_wrapper" data-source="gallery" style="visibility:hidden;background:transparent;padding:0;margin:0px auto;margin-top:0;margin-bottom:0;">
                                                 <rs-module id="rev_slider_1_1" style="" data-version="6.7.15">
                                                     <rs-slides style="overflow: hidden; position: absolute;">
@@ -713,25 +713,31 @@
                                                     </rs-slide>
                                                 </rs-module>
                                             </rs-module-wrap>
-                                        </div> -->
-                                        <div class = "banner">
-                                            <div class = "container">
-                                                <h2 class = "banner-title">
-                                                    OUR MISSION
-                                                </h2>
-                                                <h1 class = "banner-header display-3">
-                                                    Fostering Values, <br/>
-                                                    Supporting Wellness & <br/>
-                                                    Promoting Sustainable <br/>
-                                                    Communities
-                                                </h1>
-                                                <div id="cmsmasters_button_wjzk57hjpe" class="button_wrap" style="padding-bottom: 300px; padding-top: 10px"><a href="https://green-planet.cmsmasters.net/about-us/" class="cmsmasters_button"><span>Find Out More</span></a></div>
-                                            </div>
                                         </div>
+
                                     </div>
                                 </div>
                             </div>
                         </div>
+                    </div>
+                </div>
+            </div> -->
+
+            <div class = "banner">
+                <div class = "container">
+                    <h2 class = "banner-title">
+                        OUR MISSION
+                    </h2>
+                    <h1 class = "banner-header display-3">
+                        Fostering Values, <br/>
+                        Supporting Wellness & <br/>
+                        Promoting Sustainable <br/>
+                        Communities
+                    </h1>
+                    <div id="cmsmasters_button_wjzk57hjpe" class="button_wrap" style="padding-bottom: 300px; padding-top: 10px">
+                        <a href="https://green-planet.cmsmasters.net/about-us/" class="cmsmasters_button">
+                            <span>Find Out More</span>
+                        </a>
                     </div>
                 </div>
             </div>

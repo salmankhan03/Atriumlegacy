@@ -83,7 +83,7 @@
         #cmsmasters_heading_rrgejmijg { 
             text-align:center; 
             margin-top:0px; 
-            margin-bottom:20px; 
+            /* margin-bottom:20px;  */
         } 
 
         #cmsmasters_heading_rrgejmijg .cmsmasters_heading { 
@@ -1385,7 +1385,7 @@
           
 
         #cmsmasters_column_70ununv57 .cmsmasters_column_inner {
-            padding: 0 5% 0 10%;
+            padding: 0 5% 0 5%;
         }
         #cmsmasters_row_jnwhwrcnoe .cmsmasters_row_outer_parent {
             padding-bottom: 160px;
@@ -1747,21 +1747,23 @@
             </div>
             <!-- Top Section -->
                 <div id="cmsmasters_row_nofslyz1hn" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_boxed">
-                    <div class="cmsmasters_row_outer_parent">
-                        <div class="cmsmasters_row_outer">
-                            <div class="cmsmasters_row_inner">
-                                <div class="cmsmasters_row_margin cmsmasters_11">
-                                    <div id="cmsmasters_column_tsg36hzfki" class="cmsmasters_column one_first">
-                                        <div class="cmsmasters_column_inner">
-                                            <div id="cmsmasters_heading_rrgejmijg" class="cmsmasters_heading_wrap cmsmasters_heading_align_center">
-                                                <h2 class="cmsmasters_heading" style="font-family: 'Orpheus Pros'; font-weight: bold">About Us</h2>
+                    <!-- <div class = "container"> -->
+                        <div class="cmsmasters_row_outer_parent">
+                            <div class="cmsmasters_row_outer">
+                                <div class="cmsmasters_row_inner">
+                                    <div class="cmsmasters_row_margin cmsmasters_11">
+                                        <div id="cmsmasters_column_tsg36hzfki" class="cmsmasters_column one_first">
+                                            <div class="cmsmasters_column_inner">
+                                                <div id="cmsmasters_heading_rrgejmijg" class="cmsmasters_heading_wrap cmsmasters_heading_align_center">
+                                                    <h2 class="cmsmasters_heading" style="font-family: 'Orpheus Pros'; font-weight: bold">About Us</h2>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    <!-- </div> -->
                 </div>
             <!-- Top Section Close -->
             <!-- Our Story Section  -->
@@ -1809,41 +1811,42 @@
             <!-- Our Vission Mission Section  -->
            
             <div id="cmsmasters_row_jnwhwrcnoe" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_fullwidth" style="background-attachment: scroll;">
-                <div class="cmsmasters_row_outer_parent">
-                    <div class="cmsmasters_row_outer">
-                        <div class="cmsmasters_row_inner cmsmasters_row_fullwidth">
-                            <div class="cmsmasters_row_margin cmsmasters_14141414">
-                                <div id="cmsmasters_column_70ununv57" class="cmsmasters_column one_half">
-                                    <div class="cmsmasters_column_inner">
+                <div class = "container">
+                    <div class="cmsmasters_row_outer_parent">
+                        <div class="cmsmasters_row_outer">
+                            <div class="cmsmasters_row_inner cmsmasters_row_fullwidth">
+                                <div class="cmsmasters_row_margin cmsmasters_14141414">
+                                    <div id="cmsmasters_column_70ununv57" class="cmsmasters_column one_half">
                                         <div class="cmsmasters_column_inner">
-                                            <div id="cmsmasters_heading_k610h6ljqm" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                                <h4 class="cmsmasters_heading">OUR MISSION</h4>
-                                            </div>
-                                            <div id="cmsmasters_heading_khr8zu8qc" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                                <h2 class="cmsmasters_heading" style="font-weight:900">Our mission is to empower communities by instilling social values, supporting holistic wellness, and creating sustainable futures</h2>
-                                            </div>
-                                            <div id="cmsmasters_heading_k4eli1cq0l" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                                <h6 class="cmsmasters_heading">Through our initiatives, we aim to address pressing societal challenges with innovative approaches that prioritize empathy, social responsibility, and community engagement.</h6>
-                                            </div>
+                                            <!-- <div class="cmsmasters_column_inner"> -->
+                                                <div id="cmsmasters_heading_k610h6ljqm" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
+                                                    <h4 class="cmsmasters_heading">OUR MISSION</h4>
+                                                </div>
+                                                <div id="cmsmasters_heading_khr8zu8qc" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
+                                                    <h2 class="cmsmasters_heading" style="font-weight:900">Our mission is to empower communities by instilling social values, supporting holistic wellness, and creating sustainable futures</h2>
+                                                </div>
+                                                <div id="cmsmasters_heading_k4eli1cq0l" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
+                                                    <h6 class="cmsmasters_heading">Through our initiatives, we aim to address pressing societal challenges with innovative approaches that prioritize empathy, social responsibility, and community engagement.</h6>
+                                                </div>
+                                            <!-- </div> -->
                                         </div>
-                                     </div>
-                                </div>
-                                <div id="cmsmasters_column_70ununv57" class="cmsmasters_column one_half">
-                                    <div class="cmsmasters_column_inner">
+                                    </div>
+                                    <div id="cmsmasters_column_70ununv57" class="cmsmasters_column one_half">
                                         <div class="cmsmasters_column_inner">
-                                            <div id="cmsmasters_heading_k610h6ljqm" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                                <h4 class="cmsmasters_heading">OUR VISION</h4>
-                                            </div>
-                                            <div id="cmsmasters_heading_khr8zu8qc" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                                <h2 class="cmsmasters_heading" style="font-weight:900">We envision communities where every individual is empowered to thrive, with access to the resources and support they need across all stages of life.</h2>
-                                            </div>
-                                            <div id="cmsmasters_heading_k4eli1cq0l" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                                <h6 class="cmsmasters_heading">By fostering collaboration and innovation, we aim to create lasting impact that uplifts not just the present generation, but also future ones.</h6>
-                                            </div>
+                                            <!-- <div class="cmsmasters_column_inner"> -->
+                                                <div id="cmsmasters_heading_k610h6ljqm" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
+                                                    <h4 class="cmsmasters_heading">OUR VISION</h4>
+                                                </div>
+                                                <div id="cmsmasters_heading_khr8zu8qc" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
+                                                    <h2 class="cmsmasters_heading" style="font-weight:900">We envision communities where every individual is empowered to thrive, with access to the resources and support they need across all stages of life.</h2>
+                                                </div>
+                                                <div id="cmsmasters_heading_k4eli1cq0l" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
+                                                    <h6 class="cmsmasters_heading">By fostering collaboration and innovation, we aim to create lasting impact that uplifts not just the present generation, but also future ones.</h6>
+                                                </div>
+                                            <!-- </div> -->
                                         </div>
-                                     </div>
+                                    </div>
                                 </div>
-                            
                             </div>
                         </div>
                     </div>
@@ -1877,8 +1880,7 @@
                                             </div>
                                         </div> -->
                                          <!-- Tabs 2 -->
-                                         <!-- hide this part for now before getting the content details -->
-                                         <!-- <div id="cmsmasters_row_56518267de" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_boxed">
+                                         <div id="cmsmasters_row_56518267de" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_boxed">
                                             <div class="cmsmasters_row_outer_parent">
                                                 <div class="cmsmasters_row_outer">
                                                     <div class="cmsmasters_row_inner" style="width:100%; padding:0px"> 
@@ -1887,8 +1889,8 @@
                                                                 <div class="">
                                                                     <div class="cmsmasters_tabs tabs_mode_tour tabs_pos_left">
                                                                         <div class="tab-buttons cmsmasters_tabs_list">
-                                                                            <button class="tab-button active" data-tab="tab1" style="border:none; border: 0;font-size:12px; ">Founder & CEO</button>
-                                                                            <button class="tab-button" data-tab="tab2" style="border:none; border: 0; font-size:12px; ">Treasurer</button>
+                                                                            <button class="tab-button active" data-tab="tab1" style="border:none; border: 0;font-size:12px; ">Founder & CEO: [Name Placeholder]</button>
+                                                                            <button class="tab-button" data-tab="tab2" style="border:none; border: 0; font-size:12px; ">Treasurer: [Name Placeholder]</button>
                                                                             <button class="tab-button" data-tab="tab3" style="border:none; border: 0; font-size:12px; ">Advisory Board</button>
                                                                             <button class="tab-button" data-tab="tab4" style="border:none; border: 0; font-size:12px; ">Board Members</button>
                                                                         </div>
@@ -1913,7 +1915,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div> -->
+                                        </div>
                                         <!-- Tabs 2 -->
                                     </div>
                                 </div>
@@ -1941,44 +1943,37 @@
                 </div>
             </div>
             <!-- Our Team Section  -->
-             <!-- Partnership Section  -->
-            <div id="cmsmasters_row_47292o7tzc" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_fullwidth">
-                <div class="cmsmasters_row_outer_parent">
-                    <div class="cmsmasters_row_outer">
-                        <div class="cmsmasters_row_inner cmsmasters_row_fullwidth cmsmasters_row_no_margin">
-                            <div class="cmsmasters_row_margin cmsmasters_1212">
-                                <div id="cmsmasters_column_sclh9r6jib" class="cmsmasters_column one_half">
-                                    <div class="cmsmasters_column_inner">
-                                        <div id="cmsmasters_heading_vb4bc56kh4" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                            <h2 class="cmsmasters_heading">Partnership Opportunities </h2>
-                                        </div>
-                                        <div id="cmsmasters_heading_ca57ezmza"
-                                            class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                            <h3 class="cmsmasters_heading">The Atrium Legacy Foundation is always looking for new partners who share our commitment to social impact. Whether you are a corporation, non-profit, or community group, we invite you to join us in building a better future. Contact us to explore collaboration opportunities.</h3>
-                                        </div>
-                                        <div id="cmsmasters_fb_rffzwrwsos" class="cmsmasters_featured_block cmsmasters_more_button">
-                                            <div class="featured_block_inner">
-                                                <div class="featured_block_text">
-                                                    <div id="cmsmasters_button_rffzwrwsok" class="button_wrap"><a
-                                                            href="https://green-planet.cmsmasters.net/contacts/"
-                                                            class="cmsmasters_button"><span>Join Us Now!</span></a></div>
-                                                    <!-- <div id="cmsmasters_button_rffzwrwsos" class="button_wrap">
-                                                        <a
-                                                            href="https://green-planet.cmsmasters.net/about-us/"
-                                                            class="cmsmasters_button"><span>Find out more</span></a>
-                                                    </div> -->
 
+            <!-- Partnership Section  -->
+            <div id="cmsmasters_row_47292o7tzc" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_fullwidth">
+                <div class = "container">
+                    <div class="cmsmasters_row_outer_parent">
+                        <div class="cmsmasters_row_outer">
+                            <div class="cmsmasters_row_inner cmsmasters_row_fullwidth cmsmasters_row_no_margin">
+                                <div class="cmsmasters_row_margin cmsmasters_1212">
+                                    <!-- <div id="cmsmasters_column_sclh9r6jib" class="cmsmasters_column one_half"> -->
+                                    <div class="cmsmasters_column one_half">
+                                        <div class="cmsmasters_column_inner">
+                                            <div id="cmsmasters_heading_vb4bc56kh4" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
+                                                <h2 class="cmsmasters_heading">Partnership Opportunities </h2>
+                                            </div>
+                                            <div id="cmsmasters_heading_ca57ezmza"
+                                                class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
+                                                <h3 class="cmsmasters_heading">The Atrium Legacy Foundation is always looking for new partners who share our commitment to social impact. Whether you are a corporation, non-profit, or community group, we invite you to join us in building a better future. Contact us to explore collaboration opportunities.</h3>
+                                            </div>
+                                            <div id="cmsmasters_fb_rffzwrwsos" class="cmsmasters_featured_block cmsmasters_more_button">
+                                                <div class="featured_block_inner">
+                                                    <div class="featured_block_text">
+                                                        <div id="cmsmasters_button_rffzwrwsok" class="button_wrap"><a
+                                                            href="https://green-planet.cmsmasters.net/contacts/"
+                                                            class="cmsmasters_button"><span>Join Us Now!</span></a>
+                                                        </div>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
-                                         <!-- Tabs End -->
-
                                     </div>
                                 </div>
-                                <div id="cmsmasters_column_5gdbuf4sco" class="cmsmasters_column one_half">
-                                    <div class="cmsmasters_column_inner"></div>
-                                </div>
-                                
                             </div>
                         </div>
                     </div>

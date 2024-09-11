@@ -9,7 +9,7 @@
       <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-      <link rel="stylesheet" href="./css/initiative.css"
+      <link rel="stylesheet" href="./css/initiative.css">
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
       <style id='green-planet-retina-inline-css' type='text/css'>
@@ -69,7 +69,7 @@
          #cmsmasters_heading_rrgejmijg { 
          text-align:center; 
          margin-top:0px; 
-         margin-bottom:20px; 
+         /* margin-bottom:20px;  */
          } 
          #cmsmasters_heading_rrgejmijg .cmsmasters_heading { 
          text-align:center; 
@@ -871,6 +871,7 @@
          font-size:46px; 
          line-height:58px; 
          font-family:Orpheus Pro;
+         color:#000
          } 
          #cmsmasters_heading_vb4bc56kh4 .cmsmasters_heading a:hover { 
          } 
@@ -1166,18 +1167,18 @@
          align-items: center;
          }
          .elementor-element-populated {
-         margin: 0% 12% 0% 18% !important;
+         /* margin: 0% 12% 0% 18% !important;
          --e-column-margin-right: 12% !important;
-         --e-column-margin-left: 18% !important;
+         --e-column-margin-left: 18% !important; */
          }
          .elementor-widget-spacer.sc_height_huge .elementor-spacer-inner {
          height: 120px !important;
          }
          @media (max-width: 1279px) {
          .elementor-element-populated {
-         margin: 0% 10% 0% 10% !important;
+         /* margin: 0% 10% 0% 10% !important;
          --e-column-margin-right: 10% !important;
-         --e-column-margin-left: 10% !important;
+         --e-column-margin-left: 10% !important; */
          }
          .elementor-widget-spacer.sc_height_huge .elementor-spacer-inner {
          height: 90px !important;
@@ -1435,7 +1436,7 @@
                            <div id="cmsmasters_column_tsg36hzfki" class="cmsmasters_column one_first">
                               <div class="cmsmasters_column_inner">
                                  <div id="cmsmasters_heading_rrgejmijg" class="cmsmasters_heading_wrap cmsmasters_heading_align_center">
-                                    <h2 class="cmsmasters_heading">Our Initiatives</h2>
+                                    <h2 class="cmsmasters_heading" style="font-family: 'Orpheus Pros'; font-weight: bold">Our Initiatives</h2>
                                  </div>
                               </div>
                            </div>
@@ -1445,6 +1446,7 @@
                </div>
             </div>
             <!-- Top Section Close -->
+
             <!-- Empty Space  -->
             <div class="elementor-element elementor-element-7c02393 sc_height_huge sc_fly_static elementor-widget elementor-widget-spacer trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="7c02393" data-element_type="widget" data-widget_type="spacer.default">
                <div class="elementor-widget-container">
@@ -1455,50 +1457,53 @@
             </div>
             <!-- Empty Space -->
             <!--  -->
-            <section class="elementor-section elementor-inner-section elementor-element elementor-element-5e31116 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default sc_fly_static trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="5e31116" data-element_type="section">
-               <div class="elementor-container elementor-column-gap-no">
-                  <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-a992ab3 sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="a992ab3" data-element_type="column">
-                     <div class="elementor-widget-wrap elementor-element-populated">
-                        <div class="elementor-element elementor-element-47b281f animation_type_block sc_fly_static elementor-widget elementor-widget-image trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited animated heart-fadeinup" data-id="47b281f" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;heart-fadeinup&quot;}" data-widget_type="image.default">
-                           <div class="elementor-widget-container">
-                              <img loading="lazy" decoding="async" width="780" height="963" src="./img/about-us.jpg" class="attachment-full size-full wp-image-18890" alt="" srcset="https://heart.axiomthemes.com/wp-content/uploads/2023/08/img-7-copyright-min.jpg 780w, https://heart.axiomthemes.com/wp-content/uploads/2023/08/img-7-copyright-min-243x300.jpg 243w, https://heart.axiomthemes.com/wp-content/uploads/2023/08/img-7-copyright-min-768x948.jpg 768w, https://heart.axiomthemes.com/wp-content/uploads/2023/08/img-7-copyright-min-370x457.jpg 370w, https://heart.axiomthemes.com/wp-content/uploads/2023/08/img-7-copyright-min-410x506.jpg 410w, https://heart.axiomthemes.com/wp-content/uploads/2023/08/img-7-copyright-min-600x741.jpg 600w" sizes="(max-width: 780px) 100vw, 780px">													
+            <div class = "container">
+               <section class="elementor-section elementor-inner-section elementor-element elementor-element-5e31116 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default sc_fly_static trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="5e31116" data-element_type="section">
+                  <div class="elementor-container elementor-column-gap-no">
+                     <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-a992ab3 sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="a992ab3" data-element_type="column">
+                        <div class="elementor-widget-wrap elementor-element-populated">
+                           <div class="elementor-element elementor-element-47b281f animation_type_block sc_fly_static elementor-widget elementor-widget-image trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited animated heart-fadeinup" data-id="47b281f" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;heart-fadeinup&quot;}" data-widget_type="image.default">
+                              <div class="elementor-widget-container">
+                                 <img loading="lazy" decoding="async" width="780" height="963" src="./img/about-us.jpg" class="attachment-full size-full wp-image-18890" alt="" srcset="https://heart.axiomthemes.com/wp-content/uploads/2023/08/img-7-copyright-min.jpg 780w, https://heart.axiomthemes.com/wp-content/uploads/2023/08/img-7-copyright-min-243x300.jpg 243w, https://heart.axiomthemes.com/wp-content/uploads/2023/08/img-7-copyright-min-768x948.jpg 768w, https://heart.axiomthemes.com/wp-content/uploads/2023/08/img-7-copyright-min-370x457.jpg 370w, https://heart.axiomthemes.com/wp-content/uploads/2023/08/img-7-copyright-min-410x506.jpg 410w, https://heart.axiomthemes.com/wp-content/uploads/2023/08/img-7-copyright-min-600x741.jpg 600w" sizes="(max-width: 780px) 100vw, 780px">													
+                              </div>
                            </div>
                         </div>
                      </div>
-                  </div>
-                  <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-05f896a sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="05f896a" data-element_type="column">
-                     <div class="elementor-widget-wrap elementor-element-populated">
-                        <div class="elementor-element elementor-element-247d4d6 animation_type_block sc_fly_static elementor-widget elementor-widget-trx_sc_title trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited animated heart-fadeinup" data-id="247d4d6" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;heart-fadeinup&quot;}" data-widget_type="trx_sc_title.default">
-                           <div class="elementor-widget-container">
-                              <div class="sc_title sc_title_default">
-                                 <h1 class="sc_item_title sc_title_title sc_item_title_style_default sc_item_title_tag">
-                                    <span class="sc_item_title_text" style="font-family:'Orpheus Pro'; color: #000">Atrium Legacy Foundation believe that meaningful change starts with strategic, impactful initiatives.</span>
-                                 </h1>
+                     <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-05f896a sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="05f896a" data-element_type="column">
+                        <div class="elementor-widget-wrap elementor-element-populated" style="margin-left: 5%">
+                           <div class="elementor-element elementor-element-247d4d6 animation_type_block sc_fly_static elementor-widget elementor-widget-trx_sc_title trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited animated heart-fadeinup" data-id="247d4d6" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;heart-fadeinup&quot;}" data-widget_type="trx_sc_title.default">
+                              <div class="elementor-widget-container">
+                                 <div class="sc_title sc_title_default">
+                                    <h1 class="sc_item_title sc_title_title sc_item_title_style_default sc_item_title_tag">
+                                       <span class="sc_item_title_text" style="font-family:'Orpheus Pro'; color: #000">Atrium Legacy Foundation believe that meaningful change starts with strategic, impactful initiatives.</span>
+                                    </h1>
+                                 </div>
                               </div>
                            </div>
-                        </div>
-                        <div class="elementor-element elementor-element-f2fbea1 sc_fly_static elementor-widget elementor-widget-spacer trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="f2fbea1" data-element_type="widget" data-widget_type="spacer.default">
-                           <div class="elementor-widget-container">
-                              <div class="elementor-spacer">
-                                 <div class="elementor-spacer-inner"></div>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="elementor-element elementor-element-1fad025 animation_type_block sc_fly_static elementor-widget elementor-widget-text-editor trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited animated heart-fadeinup" data-id="1fad025" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;heart-fadeinup&quot;,&quot;_animation_delay&quot;:100}" data-widget_type="text-editor.default">
-                           <div class="elementor-widget-container" style="font-family:'Montserrat'">
-                              Our programs are designed to address the most pressing challenges faced by our communities today. By focusing on education, senior wellness, housing, and agricultural technology, we aim to create lasting solutions that empower individuals and strengthen communities.
-                           </div>
-                           <div class="elementor-element elementor-element-1647951 sc_fly_static elementor-widget elementor-widget-spacer trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="1647951" data-element_type="widget" data-widget_type="spacer.default">
+                           <!-- <div class="elementor-element elementor-element-f2fbea1 sc_fly_static elementor-widget elementor-widget-spacer trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="f2fbea1" data-element_type="widget" data-widget_type="spacer.default">
                               <div class="elementor-widget-container">
                                  <div class="elementor-spacer">
                                     <div class="elementor-spacer-inner"></div>
                                  </div>
                               </div>
+                           </div> -->
+                           <div class="elementor-element elementor-element-1fad025 animation_type_block sc_fly_static elementor-widget elementor-widget-text-editor trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited animated heart-fadeinup" data-id="1fad025" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;heart-fadeinup&quot;,&quot;_animation_delay&quot;:100}" data-widget_type="text-editor.default">
+                              <div class="elementor-widget-container" style="font-family:'Montserrat'">
+                                 Our programs are designed to address the most pressing challenges faced by our communities today. By focusing on education, senior wellness, housing, and agricultural technology, we aim to create lasting solutions that empower individuals and strengthen communities.
+                              </div>
+                              <!-- <div class="elementor-element elementor-element-1647951 sc_fly_static elementor-widget elementor-widget-spacer trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="1647951" data-element_type="widget" data-widget_type="spacer.default">
+                                 <div class="elementor-widget-container">
+                                    <div class="elementor-spacer">
+                                       <div class="elementor-spacer-inner"></div>
+                                    </div>
+                                 </div>
+                              </div> -->
                            </div>
                         </div>
                      </div>
                   </div>
-            </section>
+               </section>
+            </div>
             <!--  -->
             <!-- Empty Space -->
             <div class="elementor-element elementor-element-df4c366 sc_height_huge sc_fly_static elementor-widget elementor-widget-spacer trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="df4c366" data-element_type="widget" data-widget_type="spacer.default">
@@ -1687,36 +1692,41 @@
                   </div>
                </div>
                <!-- Empty Space --> 
-               <!-- Partnership Section  -->
+               <!-- Future Initiatives Section  -->
                <div id="cmsmasters_row_47292o7tzc" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_fullwidth">
-                  <div class="cmsmasters_row_outer_parent">
-                     <div class="cmsmasters_row_outer">
-                        <div class="cmsmasters_row_inner cmsmasters_row_fullwidth cmsmasters_row_no_margin">
-                           <div class="cmsmasters_row_margin cmsmasters_1212">
-                              <div id="cmsmasters_column_sclh9r6jib" class="cmsmasters_column one_half">
-                                 <div class="cmsmasters_column_inner">
-                                    <div id="cmsmasters_heading_vb4bc56kh4" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                       <h2 class="cmsmasters_heading">Future Initiatives </h2>
+                  <div class = "container">
+                     <div class="cmsmasters_row_outer_parent">
+                        <div class="cmsmasters_row_outer">
+                           <div class="cmsmasters_row_inner cmsmasters_row_fullwidth cmsmasters_row_no_margin">
+                              <div class="cmsmasters_row_margin cmsmasters_1212">
+                                 <div id="cmsmasters_column_sclh9r6jib" class="cmsmasters_column one_half">
+                                    <div class="cmsmasters_column_inner">
+                                       <div id="cmsmasters_heading_vb4bc56kh4" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
+                                          <h2 class="cmsmasters_heading">Future Initiatives </h2>
+                                       </div>
+                                       <div id="cmsmasters_heading_ca57ezmza"
+                                          class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
+                                          <h3 class="cmsmasters_heading">As we continue to grow and learn from our communities, Atrium Legacy Foundation is committed to expanding our portfolio of initiatives. Our goal is to remain responsive to emerging needs and challenges, ensuring that our work continues to create positive and sustainable change.</h3>
+                                       </div>
+            
+                                    <!-- Tabs End -->
                                     </div>
-                                    <div id="cmsmasters_heading_ca57ezmza"
-                                       class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                       <h3 class="cmsmasters_heading">As we continue to grow and learn from our communities, Atrium Legacy Foundation is committed to expanding our portfolio of initiatives. Our goal is to remain responsive to emerging needs and challenges, ensuring that our work continues to create positive and sustainable change.</h3>
-                                    </div>
-         
-                                 <!-- Tabs End -->
                                  </div>
-                              </div>
-                              <div id="cmsmasters_column_5gdbuf4sco" class="cmsmasters_column one_half">
-                                 <div class="cmsmasters_column_inner"></div>
+                                 <!-- <div id="cmsmasters_column_5gdbuf4sco" class="cmsmasters_column one_half">
+                                    <div class="cmsmasters_column_inner"></div>
+                                 </div> -->
                               </div>
                            </div>
                         </div>
                      </div>
                   </div>
                </div>
-            <!--  -->
             </div>
+            <!--  -->
+         </div>
       </div>
+
+      <?php include 'footer.php'; ?> 
       <!-- Tabs Script -->        
       <script>
          document.querySelectorAll('.tab-button').forEach(button => {
