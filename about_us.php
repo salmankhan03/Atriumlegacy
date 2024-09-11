@@ -14,6 +14,9 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
     <style id='green-planet-retina-inline-css' type='text/css'>
+        .contentAlign{
+            padding-left:15%; padding-right:15%
+        }
         #cmsmasters_row_nofslyz1hn { 
             background-image: url('./img/about-us.jpg'); 
             background-position: top center; 
@@ -1811,7 +1814,7 @@
             <!-- Our Vission Mission Section  -->
            
             <div id="cmsmasters_row_jnwhwrcnoe" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_fullwidth" style="background-attachment: scroll;">
-                <div class = "container">
+                <div class = "contentAlign" >
                     <div class="cmsmasters_row_outer_parent">
                         <div class="cmsmasters_row_outer">
                             <div class="cmsmasters_row_inner cmsmasters_row_fullwidth">
