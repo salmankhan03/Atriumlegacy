@@ -117,7 +117,7 @@
 
         .cards:hover {
             background-color: #4db359;
-            transform: scale(1.02);
+            /* transform: scale(1.02); */
         }
 
         .cards-heading {
@@ -162,7 +162,7 @@
             color: #fff; 
         }
         .cards:hover .custom-icons {
-            margin-left:30px
+            margin-left:50px
         }
 
         .cards:hover .cards-footer::before {
@@ -593,6 +593,7 @@
         .banner-header {
             color:#fff; 
             font-family:'Orpheus Pro';
+            /* font-family:'Montserrat'; */
             font-weight: bold;
             /* font-size: 62px; */
         }
@@ -736,7 +737,7 @@
                         Communities
                     </h1>
                     <div id="cmsmasters_button_wjzk57hjpe" class="button_wrap" style="padding-bottom: 300px; padding-top: 10px">
-                        <a href="https://green-planet.cmsmasters.net/about-us/" class="cmsmasters_button">
+                        <a href="#" class="cmsmasters_button">
                             <span>Find Out More</span>
                         </a>
                     </div>
@@ -762,7 +763,7 @@
                                         <div id="cmsmasters_fb_wjzk57hjpq" class="cmsmasters_featured_block cmsmasters_custom_margin">
                                             <div class="featured_block_inner">
                                                 <div class="featured_block_text">
-                                                    <div id="cmsmasters_button_wjzk57hjpe" class="button_wrap"><a href="https://green-planet.cmsmasters.net/about-us/" class="cmsmasters_button"><span>Find Out More</span></a></div>
+                                                    <div id="cmsmasters_button_wjzk57hjpe" class="button_wrap"><a href="#" class="cmsmasters_button"><span>Find Out More</span></a></div>
 
                                                 </div>
                                             </div>
@@ -812,7 +813,8 @@
                         <div class="col-sm-12 col-md-6 col-lg-3 text-content">
                             <div class="cards">
                                 <div class="cards-heading text-center">
-                                    <i class="fa fa-medkit custom-icon" style="font-size:60px" aria-hidden="true"></i>
+                                    <!-- <i class="fa fa-medkit custom-icon" style="font-size:60px" aria-hidden="true"></i> -->
+                                    <img src="./img/first-aid-kit.png" style="width:50px">
                                 </div>
                                 <div class="cards-body text-center mt-4">
                                     <h4 class="card-fonts-heading-color">ReStart Education</h4>
@@ -828,7 +830,8 @@
                         <div class="col-sm-12 col-md-6 col-lg-3 text-content">
                             <div class="cards">
                                 <div class="cards-heading text-center">
-                                    <i class="fa fa-medkit custom-icon" style="font-size:60px" aria-hidden="true"></i>
+                                    <!-- <i class="fa fa-medkit custom-icon" style="font-size:60px" aria-hidden="true"></i> -->
+                                    <img src="./img/heart.png" style="width:50px">
                                 </div>
                                 <div class="cards-body text-center mt-4">
                                     <h4 class="card-fonts-heading-color">Aging Grace</h4>
@@ -844,7 +847,8 @@
                         <div class="col-sm-12 col-md-6 col-lg-3 text-content">
                             <div class="cards">
                                 <div class="cards-heading text-center">
-                                    <i class="fa fa-medkit custom-icon" style="font-size:60px" aria-hidden="true"></i>
+                                    <!-- <i class="fa fa-medkit custom-icon" style="font-size:60px" aria-hidden="true"></i> -->
+                                    <img src="./img/fashion.png" style="width:50px">
                                 </div>
                                 <div class="cards-body text-center mt-4">
                                     <h4 class="card-fonts-heading-color">HomeStrong </h4>
@@ -860,7 +864,8 @@
                         <div class="col-sm-12 col-md-6 col-lg-3 text-content">
                             <div class="cards">
                                 <div class="cards-heading text-center">
-                                    <i class="fa fa-medkit custom-icon" style="font-size:60px" aria-hidden="true"></i>
+                                    <!-- <i class="fa fa-medkit custom-icon" style="font-size:60px" aria-hidden="true"></i> -->
+                                    <img src="./img/piggy-bank.png" style="width:50px">
                                 </div>
                                 <div class="cards-body text-center mt-4">
                                     <h4 class="card-fonts-heading-color">AgriThrive</h4>
@@ -897,7 +902,7 @@
                     <h1 class="hedings pb-2" style="color: #000">Together, we can make a difference</h1>
                     <div style="font-family: Orpheus Pro; font-style:italic; font-size:x-large">Join us in making a meaningful impact</div>
                     <p class="mt-4 mb-4" style="font-family: Montserrat;">Whether through donations, volunteer work, or partnerships, your support plays a crucial role in creating a brighter, more inclusive future for everyone.</p>
-                    <div id="cmsmasters_button_wjzk57hjpe" class="button_wrap"><a href="" class="cmsmasters_button"><span>Join Us</span></a></div>
+                    <div id="cmsmasters_button_wjzk57hjpe" class="button_wrap"><a href="#" class="cmsmasters_button"><span>Join Us</span></a></div>
                 </div>
             </div>
         </div>
