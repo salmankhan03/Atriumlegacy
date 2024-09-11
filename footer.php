@@ -64,6 +64,18 @@
             border-radius: 0;
             
         }
+        .scrollToTop:hover{
+            color: #4789cc;
+            background-color: #fff;
+            border-color: #4789cc;
+            width: 2.7em;
+            height: 2.7em;
+            text-align: center;
+            -webkit-border-radius: 0;
+            -ms-border-radius: 0;
+            border-radius: 0;
+
+        }
         @media (max-width: 767px) {
             .title h2 , h3{
                 font-size: 1rem !important;
@@ -154,7 +166,7 @@
         
     </footer>
 
-    <button id="scrollToTopBtn" class="btn scrollToTop" onclick="scrollToTop()" style="position: fixed; bottom: 20px; right: 20px; display: none;">
+    <button id="scrollToTopBtn" class="btn scrollToTop" onclick="scrollToTop()" style="position: fixed; bottom: 20px; right: 20px; display: none; z-index:99">
         ↑ 
     </button>
 
