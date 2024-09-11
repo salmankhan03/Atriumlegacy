@@ -30,9 +30,6 @@
             /* padding: 20px 0; */
             padding-left:15%; padding-right:15%
         }
-        .contentAlign:{
-            padding: 0 3% 0 3% !important;
-        }
 
         .first-section {
             background-color: #fdfbf8;
