@@ -27,7 +27,8 @@
 
         .content-section {
             background-color: #cfddd0; 
-            padding: 20px 0;
+            /* padding: 20px 0; */
+            padding-left:15%; padding-right:15%
         }
 
         .first-section {
@@ -794,7 +795,7 @@
             </div>
             
             <div class="content-section">
-                <div class="container">
+                <div class="">
                     <div class="row no-gutters pt-5 pb-5"> 
                         <div class="col-sm-12 col-md-6 col-lg-6 text-content">
                         <h2 class="hedings mt-4 mb-4" style="color:#000">Our Initiatives </h2>
@@ -806,7 +807,7 @@
                 </div>
                 <!-- </div>
                 <div class="content-section"> -->
-                <div class="container">
+                <div class="">
                     <div class="row no-gutters pt-5 pb-5"> 
                         <div class="col-sm-12 col-md-6 col-lg-3 text-content">
                             <div class="cards">
