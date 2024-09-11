@@ -9,10 +9,21 @@
             <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
             <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-            <link rel="stylesheet" href="./css/initiative.css">
+            <!-- <link rel="stylesheet" href="./css/initiative.css"> -->
             <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
             <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
             <style id='green-planet-retina-inline-css' type='text/css'>
+                  body{
+                        font-family: 'Montserrat', sans-serif !important;
+                
+                    }
+                    h2{
+                        font-family: 'Montserrat', sans-serif !important;
+                        /* font-size: 2rem !important;
+                        font-weight: 500 !important;
+                        line-height: 1.2 !important; */
+
+                    }
                  #cmsmasters_row_nofslyz1hn { 
                     background-image: url('./img/about-us.jpg'); 
                     background-position: top center; 
@@ -165,7 +176,7 @@
             /* Form Css */
             /* Basic form container style */
                 .form-style-3 {
-                    font-family: Arial, sans-serif;
+                    font-family: 'Montserrat' !important;
                     /* background-color: #f9f9f9; */
                     padding: 20px;
                     /* border-radius: 8px;
