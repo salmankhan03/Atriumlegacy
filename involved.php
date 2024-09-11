@@ -2477,8 +2477,6 @@
 	font-size:16px; 
 	line-height:50px; 
 	font-weight:700; 
-	font-style:default; 
-	text-transform:default; 
 	padding-right:40px; 
 	padding-left:40px; 
 	border-width:2px;
@@ -2654,6 +2652,20 @@
 					padding-top: 60px;
 				}
 			}
+         @media only screen and (max-width: 350px) {
+            #cmsmasters_button_uaiz03ndw9 .cmsmasters_button { 
+               font-size:14px; 
+               line-height:50px; 
+               font-weight:700; 
+               padding-right:40px; 
+               padding-left:40px; 
+               border-width:2px;
+               background-color: #4789cc;
+               color: #fff;
+               border-color: #4789cc;
+               font-family:'Montserrat';
+            } 
+         }
 			
 #cmsmasters_heading_h76bhvfp9n { 
 	text-align:left; 
