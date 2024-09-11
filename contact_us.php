@@ -343,27 +343,27 @@
             <?php include 'header.php'; ?> 
                 <div id="middle">
                     <div class="middle_inner">
-                        <div class="content_wrap fullwidth">
-                            <div class="middle_content entry"></div>
-                        </div>
+                            <div class="content_wrap fullwidth">
+                                <div class="middle_content entry"></div>
+                            </div>
                         <!-- Top Sections -->
-                        <div id="cmsmasters_row_nofslyz1hn" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_boxed">
-                            <div class="cmsmasters_row_outer_parent">
-                                <div class="cmsmasters_row_outer">
-                                <div class="cmsmasters_row_inner">
-                                    <div class="cmsmasters_row_margin cmsmasters_11">
-                                        <div id="cmsmasters_column_tsg36hzfki" class="cmsmasters_column one_first">
-                                            <div class="cmsmasters_column_inner">
-                                            <div id="cmsmasters_heading_rrgejmijg" class="cmsmasters_heading_wrap cmsmasters_heading_align_center">
-                                                <h2 class="cmsmasters_heading">Contact Us</h2>
-                                            </div>
+                            <div id="cmsmasters_row_nofslyz1hn" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_boxed">
+                                <div class="cmsmasters_row_outer_parent">
+                                    <div class="cmsmasters_row_outer">
+                                    <div class="cmsmasters_row_inner">
+                                        <div class="cmsmasters_row_margin cmsmasters_11">
+                                            <div id="cmsmasters_column_tsg36hzfki" class="cmsmasters_column one_first">
+                                                <div class="cmsmasters_column_inner">
+                                                <div id="cmsmasters_heading_rrgejmijg" class="cmsmasters_heading_wrap cmsmasters_heading_align_center">
+                                                    <h2 class="cmsmasters_heading">Contact Us</h2>
+                                                </div>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
-                                </div>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
                         <!-- Top Sections Close -->
                         <!-- Spacer -->
                             <div class="elementor-element elementor-element-7c02393 sc_height_huge sc_fly_static elementor-widget elementor-widget-spacer trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="7c02393" data-element_type="widget" data-widget_type="spacer.default">
@@ -375,168 +375,171 @@
                             </div>
                         <!-- Spacer -->
                         <!-- Intro Section -->
-                        <div id="cmsmasters_row_nofslyz1hr" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_boxed">
-                            <div class="cmsmasters_row_outer_parent">
-                                <div class="cmsmasters_row_outer">
-                                <div class="cmsmasters_row_inner">
-                                    <div class="cmsmasters_row_margin cmsmasters_11">
-                                        <div id="cmsmasters_column_tsg36hzfki" class="cmsmasters_column one_first">
-                                            <div class="cmsmasters_column_inner">
-                                            <div id="cmsmasters_heading_rrgejmijg" class="cmsmasters_heading_wrap cmsmasters_heading_align_center">
-                                                <h2 class="cmsmasters_custom_heading">We are here to connect with you, answer your questions, and explore how we can work together to create a lasting impact. Please don’t hesitate to reach out to us using the contact details below.</h2>
-                                            </div>
+                            <div id="cmsmasters_row_nofslyz1hr" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_boxed">
+                                <div class="cmsmasters_row_outer_parent">
+                                    <div class="cmsmasters_row_outer">
+                                    <div class="cmsmasters_row_inner">
+                                        <div class="cmsmasters_row_margin cmsmasters_11">
+                                            <div id="cmsmasters_column_tsg36hzfki" class="cmsmasters_column one_first">
+                                                <div class="cmsmasters_column_inner">
+                                                <div id="cmsmasters_heading_rrgejmijg" class="cmsmasters_heading_wrap cmsmasters_heading_align_center">
+                                                    <h2 class="cmsmasters_custom_heading">We are here to connect with you, answer your questions, and explore how we can work together to create a lasting impact. Please don’t hesitate to reach out to us using the contact details below.</h2>
+                                                </div>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
-                                </div>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
                         <!-- Intro Section Close -->
                         <!-- Main Section -->
-                        <div id="cmsmasters_row_ftj2oeok3p"
-                            class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_fullwidth">
-                            <div class="cmsmasters_row_outer_parent">
-                            <div class="cmsmasters_row_outer">
-                                <div class="cmsmasters_row_inner cmsmasters_row_fullwidth cmsmasters_row_no_margin">
-                                    <div class="cmsmasters_row_margin cmsmasters_row_columns_behavior">
-                                        <div id="cmsmasters_column_70ununv578" class="cmsmasters_column one_third">
-                                        <div class="cmsmasters_column_inner">
-                                            <div id="" class="">
-                                                <div class="featured_block_inner">
-                                                    <div class="featured_block_text">
-                                                        <div id="cmsmasters_heading_7h3t5mz79l"
-                                                            class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                                            <h2 class="cmsmasters_heading marginBottom">Contact Details</h2>
-                                                        </div>
-                                                        <div class="cmsmasters_column_inner cmsmasters_heading_7h3t5mz79l mb-3">
-                                                            785 15h Street, Office 478- <br/>
-                                                            Berlin, De 81556
-                                                        </div>
-                                                        <div class="cmsmasters_column_inner cmsmasters_heading_7h3t5mz79l mb-3">
-                                                            info@email.com
-                                                        </div>
-                                                        <div id="cmsmasters_heading_7h3t5mz79l"
-                                                            class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                                            <h2 class="cmsmasters_heading marginBottom">+1840 841 25 69</h2>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        </div>
-                                        <div id="cmsmasters_column_70ununv579" class="cmsmasters_column two_third" >
-                                        <div class="cmsmasters_column_inner">
-                                            <div id="" class="">
-                                                <div class="featured_block_inner">
-                                                    <div class="featured_block_text">
-                                                    <div class="cmsmasters_column_inner">
-                                                        <form action="" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init" data-inited-validation="1">
-                                                            <div style="display: none;">
-                                                            <input type="hidden" name="_wpcf7" value="1324" >
-                                                            <input type="hidden" name="_wpcf7_version" value="5.9.8">
-                                                            <input type="hidden" name="_wpcf7_locale" value="en_US">
-                                                            <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f1324-p18859-o1">
-                                                            <input type="hidden" name="_wpcf7_container_post" value="18859">
-                                                            <input type="hidden" name="_wpcf7_posted_data_hash" value="">
+                            <div id="cmsmasters_row_ftj2oeok3p"
+                                class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_fullwidth">
+                                <div class="cmsmasters_row_outer_parent">
+                                <div class="cmsmasters_row_outer">
+                                    <div class="cmsmasters_row_inner cmsmasters_row_fullwidth cmsmasters_row_no_margin">
+                                        <div class="cmsmasters_row_margin cmsmasters_row_columns_behavior">
+                                            <div id="cmsmasters_column_70ununv578" class="cmsmasters_column one_third">
+                                            <div class="cmsmasters_column_inner">
+                                                <div id="" class="">
+                                                    <div class="featured_block_inner">
+                                                        <div class="featured_block_text">
+                                                            <div id="cmsmasters_heading_7h3t5mz79l"
+                                                                class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
+                                                                <h2 class="cmsmasters_heading marginBottom">Contact Details</h2>
                                                             </div>
-                                                            <div class="form-style-3">
-                                                                <div class="columns_wrap">
-                                                                    <div class="column-1_2">
-                                                                        <p>
-                                                                            <span class="style-line icon-name">
-                                                                                <span class="wpcf7-form-control-wrap" data-name="your-name">
-                                                                                    <input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required fill_inited" aria-required="true" aria-invalid="false" placeholder="Name" value="" type="text" name="your-name" style="border: none !important;border-radius: 0px !important;border-bottom: 1px solid #ddd !important;background-color: transparent">
-                                                                                <span class="line">
-                                                                                </span>
-                                                                            </span></span>
-                                                                        </p>
-                                                                    </div>
-                                                                    <div class="column-1_2">
-                                                                        <p>
-                                                                            <span class="style-line icon-email">
-                                                                                <span class="wpcf7-form-control-wrap" data-name="your-email">
-                                                                                    <input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email fill_inited" aria-required="true" aria-invalid="false" placeholder="Email Address" value="" type="email" name="your-email" style="border: none !important;border-radius: 0px !important;border-bottom: 1px solid #ddd !important;background-color: transparent">
-                                                                                    <span class="line"></span>
-                                                                                </span></span>
-                                                                        </p>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="columns_wrap">
-                                                                    <div class="column-1_2">
-                                                                        <p>
-                                                                            <span class="style-line icon-phone">
-                                                                                <span class="wpcf7-form-control-wrap" data-name="phone">
-                                                                                    <input size="40" maxlength="400" class="wpcf7-form-control wpcf7-tel wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-tel fill_inited" aria-required="true" aria-invalid="false" placeholder="Phone" value="" type="tel" name="phone"style="border: none !important;border-radius: 0px !important;border-bottom: 1px solid #ddd !important;background-color: transparent">
-                                                                                <span class="line"></span>
-                                                                            </span></span>
-                                                                        </p>
-                                                                    </div>
-                                                                    <div class="column-1_2">
-                                                                        <p>
-                                                                            <span class="style-line icon-subject">
-                                                                                <span class="wpcf7-form-control-wrap" data-name="subject">
-                                                                                    <input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required fill_inited" aria-required="true" aria-invalid="false" placeholder="Subject" value="" type="text" name="subject" style="border: none !important;border-radius: 0px !important;border-bottom: 1px solid #ddd !important;background-color: transparent">
-                                                                                    <span class="line"></span>
-                                                                                </span></span>
-                                                                        </p>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="columns_wrap margin-bottom">
-                                                                    <div class="column-1_1">
-                                                                        <p>
-                                                                            <span class="style-line icon-textarea">
-                                                                                <span class="wpcf7-form-control-wrap" data-name="your-message" style="width:100%">
-                                                                                    <textarea cols="40" rows="3" maxlength="2000" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required fill_inited" aria-required="true" aria-invalid="false" placeholder="How can we help you? Feel free to get in touch!" name="your-message" style="border: none !important;border-radius: 0px !important;border-bottom: 1px solid #ddd !important;background-color: transparent"></textarea>
-                                                                                <span class="line"></span>
-                                                                            </span></span>
-                                                                        </p>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="columns_wrap margin-bottom">
-                                                                    <div class="column-1_1">
-                                                                        <p>
-                                                                            <span class="wpcf7-submit-style">
-                                                                                <input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="Get In Touch">
-                                                                                <span class="submit-style-in"></span>
-                                                                                <!-- <span class="wpcf7-list-item"> -->
-                                                                                        <label class="ml-3">
-                                                                                            <input type="checkbox" name="acceptance" value="1" aria-invalid="false" class="inited">
-                                                                                            <span class="wpcf7-list-item-label checkbox_position">I agree that my data is 
-                                                                                                <a href="/privacy-policy/">collected and stored</a>.
-                                                                                            </span>
-                                                                                        </label>
-                                                                                    <!-- </span> -->
-                                                                            </span>
-                                                                            <!-- <span class="wpcf7-spinner"></span>
-                                                                            <span class="wpcf7-form-control-wrap" data-name="acceptance">
-                                                                                <span class="wpcf7-form-control wpcf7-acceptance">
-                                                                                    <span class="wpcf7-list-item">
-                                                                                        <label>
-                                                                                            <input type="checkbox" name="acceptance" value="1" aria-invalid="false" class="inited">
-                                                                                            <span class="wpcf7-list-item-label">I agree that my data is 
-                                                                                                <a href="/privacy-policy/">collected and stored</a>.
-                                                                                            </span>
-                                                                                        </label>
-                                                                                    </span>
-                                                                                </span>
-                                                                            </span> -->
-                                                                        </p>
-                                                                    </div>
-                                                                </div>
-                                                            </div><div class="wpcf7-response-output" aria-hidden="true"></div>
-                                                        </form>
-                                                    </div>
+                                                            <div class="cmsmasters_column_inner cmsmasters_heading_7h3t5mz79l mb-3">
+                                                                785 15h Street, Office 478- <br/>
+                                                                Berlin, De 81556
+                                                            </div>
+                                                            <div class="cmsmasters_column_inner cmsmasters_heading_7h3t5mz79l mb-3">
+                                                                info@email.com
+                                                            </div>
+                                                            <div id="cmsmasters_heading_7h3t5mz79l"
+                                                                class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
+                                                                <h2 class="cmsmasters_heading marginBottom">+1840 841 25 69</h2>
+                                                            </div>
+                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div>
+                                            </div>
+                                            <div id="cmsmasters_column_70ununv579" class="cmsmasters_column two_third" >
+                                            <div class="cmsmasters_column_inner">
+                                                <div id="" class="">
+                                                    <div class="featured_block_inner">
+                                                        <div class="featured_block_text">
+                                                        <div class="cmsmasters_column_inner">
+                                                            <form action="" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init" data-inited-validation="1">
+                                                                <div style="display: none;">
+                                                                <input type="hidden" name="_wpcf7" value="1324" >
+                                                                <input type="hidden" name="_wpcf7_version" value="5.9.8">
+                                                                <input type="hidden" name="_wpcf7_locale" value="en_US">
+                                                                <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f1324-p18859-o1">
+                                                                <input type="hidden" name="_wpcf7_container_post" value="18859">
+                                                                <input type="hidden" name="_wpcf7_posted_data_hash" value="">
+                                                                </div>
+                                                                <div class="form-style-3">
+                                                                    <div class="columns_wrap">
+                                                                        <div class="column-1_2">
+                                                                            <p>
+                                                                                <span class="style-line icon-name">
+                                                                                    <span class="wpcf7-form-control-wrap" data-name="your-name">
+                                                                                        <input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required fill_inited" aria-required="true" aria-invalid="false" placeholder="Name" value="" type="text" name="your-name" style="border: none !important;border-radius: 0px !important;border-bottom: 1px solid #ddd !important;background-color: transparent">
+                                                                                    <span class="line">
+                                                                                    </span>
+                                                                                </span></span>
+                                                                            </p>
+                                                                        </div>
+                                                                        <div class="column-1_2">
+                                                                            <p>
+                                                                                <span class="style-line icon-email">
+                                                                                    <span class="wpcf7-form-control-wrap" data-name="your-email">
+                                                                                        <input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email fill_inited" aria-required="true" aria-invalid="false" placeholder="Email Address" value="" type="email" name="your-email" style="border: none !important;border-radius: 0px !important;border-bottom: 1px solid #ddd !important;background-color: transparent">
+                                                                                        <span class="line"></span>
+                                                                                    </span></span>
+                                                                            </p>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="columns_wrap">
+                                                                        <div class="column-1_2">
+                                                                            <p>
+                                                                                <span class="style-line icon-phone">
+                                                                                    <span class="wpcf7-form-control-wrap" data-name="phone">
+                                                                                        <input size="40" maxlength="400" class="wpcf7-form-control wpcf7-tel wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-tel fill_inited" aria-required="true" aria-invalid="false" placeholder="Phone" value="" type="tel" name="phone"style="border: none !important;border-radius: 0px !important;border-bottom: 1px solid #ddd !important;background-color: transparent">
+                                                                                    <span class="line"></span>
+                                                                                </span></span>
+                                                                            </p>
+                                                                        </div>
+                                                                        <div class="column-1_2">
+                                                                            <p>
+                                                                                <span class="style-line icon-subject">
+                                                                                    <span class="wpcf7-form-control-wrap" data-name="subject">
+                                                                                        <input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required fill_inited" aria-required="true" aria-invalid="false" placeholder="Subject" value="" type="text" name="subject" style="border: none !important;border-radius: 0px !important;border-bottom: 1px solid #ddd !important;background-color: transparent">
+                                                                                        <span class="line"></span>
+                                                                                    </span></span>
+                                                                            </p>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="columns_wrap margin-bottom">
+                                                                        <div class="column-1_1">
+                                                                            <p>
+                                                                                <span class="style-line icon-textarea">
+                                                                                    <span class="wpcf7-form-control-wrap" data-name="your-message" style="width:100%">
+                                                                                        <textarea cols="40" rows="3" maxlength="2000" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required fill_inited" aria-required="true" aria-invalid="false" placeholder="How can we help you? Feel free to get in touch!" name="your-message" style="border: none !important;border-radius: 0px !important;border-bottom: 1px solid #ddd !important;background-color: transparent"></textarea>
+                                                                                    <span class="line"></span>
+                                                                                </span></span>
+                                                                            </p>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="columns_wrap margin-bottom">
+                                                                        <div class="column-1_1">
+                                                                            <p>
+                                                                                <span class="wpcf7-submit-style">
+                                                                                    <input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="Get In Touch">
+                                                                                    <span class="submit-style-in"></span>
+                                                                                    <!-- <span class="wpcf7-list-item"> -->
+                                                                                            <label class="ml-3">
+                                                                                                <input type="checkbox" name="acceptance" value="1" aria-invalid="false" class="inited">
+                                                                                                <span class="wpcf7-list-item-label checkbox_position">I agree that my data is 
+                                                                                                    <a href="/privacy-policy/">collected and stored</a>.
+                                                                                                </span>
+                                                                                            </label>
+                                                                                        <!-- </span> -->
+                                                                                </span>
+                                                                                <!-- <span class="wpcf7-spinner"></span>
+                                                                                <span class="wpcf7-form-control-wrap" data-name="acceptance">
+                                                                                    <span class="wpcf7-form-control wpcf7-acceptance">
+                                                                                        <span class="wpcf7-list-item">
+                                                                                            <label>
+                                                                                                <input type="checkbox" name="acceptance" value="1" aria-invalid="false" class="inited">
+                                                                                                <span class="wpcf7-list-item-label">I agree that my data is 
+                                                                                                    <a href="/privacy-policy/">collected and stored</a>.
+                                                                                                </span>
+                                                                                            </label>
+                                                                                        </span>
+                                                                                    </span>
+                                                                                </span> -->
+                                                                            </p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div><div class="wpcf7-response-output" aria-hidden="true"></div>
+                                                            </form>
+                                                        </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
+                                </div>
                             </div>
-                            </div>
-                        </div>
                         <!-- Main Section -->
+                    </div>
+                </div> 
+                <?php include 'footer.php'; ?>
             </body>
     </html>
