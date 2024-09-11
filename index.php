@@ -581,22 +581,32 @@
             background-position: top center; 
             background-repeat: no-repeat; 
             background-attachment: scroll; 
-            background-size: cover; 
+            background-size: cover;
+            padding: 250px 0 150px 0;
         }
 
         .banner-title {
             color:#fff; 
             font-family:'Montserrat';
-            padding-top: 300px;
         }
 
         .banner-header {
             color:#fff; 
             font-family:'Orpheus Pro';
-            /* font-family:'Montserrat'; */
             font-weight: bold;
-            /* font-size: 62px; */
         }
+
+        @media (max-width: 1024px) {
+            .banner {
+                padding: 100px 0 100px 0;
+            }
+        } 
+
+        @media (max-width: 768px) {
+            .banner {
+                padding: 50px 0 50px 0;
+            }
+        } 
 
     </style>
 </head>
@@ -736,9 +746,9 @@
                         Promoting Sustainable <br/>
                         Communities
                     </h1>
-                    <div id="cmsmasters_button_wjzk57hjpe" class="button_wrap" style="padding-bottom: 300px; padding-top: 10px">
+                    <div id="cmsmasters_button_wjzk57hjpe" class="button_wrap" style="padding-top: 10px;">
                         <a href="#" class="cmsmasters_button">
-                            <span>Find Out More</span>
+                            <span>Learn More</span>
                         </a>
                     </div>
                 </div>
