@@ -13,6 +13,19 @@
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
       <style id='green-planet-retina-inline-css' type='text/css'>
+
+         h2{
+            text-align: left;
+            font-family: 'Orpheus Pro' !important;
+            font-weight: bold;
+            color: #000 !important;
+         }
+         h5{
+            text-align: left;
+            font-family: 'Orpheus Pro' !important;
+            font-weight: bold;
+            color: #000 !important;
+         }
          #cmsmasters_row_nofslyz1hn { 
          background-image: url('./img/about-us.jpg'); 
          background-position: top center; 
@@ -77,7 +90,7 @@
          #cmsmasters_heading_rrgejmijg .cmsmasters_heading, #cmsmasters_heading_rrgejmijg .cmsmasters_heading a { 
          font-size:62px; 
          line-height:70px; 
-         color:#ffffff;
+         color:#ffffff !important;
          } 
          #cmsmasters_heading_rrgejmijg .cmsmasters_heading a:hover { 
          } 
