@@ -282,21 +282,25 @@
                     font-size: 14px;
                 }
 
-                /* Submit button */
-                .wpcf7-submit {
-                    background-color: #007bff;
-                    color: white;
-                    padding: 12px 24px;
-                    border: none;
-                    border-radius: 4px;
+                input[type=submit]{
                     font-size: 16px;
-                    cursor: pointer;
-                    transition: background-color 0.3s;
+                    line-height: 48px;
+                    font-weight: 700;
+                    padding-right: 35px;
+                    padding-left: 35px;
+                    border-width: 2px;
+                    background-color: #4789cc !important;
+                    color: #fff !important;
+                    border-color: #4789cc !important;                
+                    font-family:'Montserrat' !important;
                 }
-
-                .wpcf7-submit:hover {
-                    background-color: #0056b3;
-                }
+                input[type=submit]:hover { 
+                    background-color: rgba(255, 255, 255, 0) !important;
+                    color: #4789cc !important;
+                    border-color: #4789cc !important;
+                } 
+                /* Submit button */
+            
 
                 /* Checkbox */
                 .wpcf7-acceptance {
@@ -342,7 +346,7 @@
         <body>
             <?php include 'header.php'; ?> 
                 <div id="middle">
-                    <div class="middle_inner">
+                    <div class="middle_inner ">
                             <div class="content_wrap fullwidth">
                                 <div class="middle_content entry"></div>
                             </div>
@@ -394,17 +398,17 @@
                             </div>
                         <!-- Intro Section Close -->
                         <!-- Main Section -->
-                            <div id="cmsmasters_row_ftj2oeok3p"
+                            <div id="cmsmasters_row_ftj2oeok3p "
                                 class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_fullwidth">
                                 <div class="cmsmasters_row_outer_parent">
-                                <div class="cmsmasters_row_outer">
+                                <div class="cmsmasters_row_outer container">
                                     <div class="cmsmasters_row_inner cmsmasters_row_fullwidth cmsmasters_row_no_margin">
                                         <div class="cmsmasters_row_margin cmsmasters_row_columns_behavior">
                                             <div id="cmsmasters_column_70ununv578" class="cmsmasters_column one_third">
                                             <div class="cmsmasters_column_inner">
                                                 <div id="" class="">
                                                     <div class="featured_block_inner">
-                                                        <div class="featured_block_text">
+                                                        <div class="featured_block_text pt-4">
                                                             <div id="cmsmasters_heading_7h3t5mz79l"
                                                                 class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
                                                                 <h2 class="cmsmasters_heading marginBottom">Contact Details</h2>
@@ -418,7 +422,7 @@
                                                             </div>
                                                             <div id="cmsmasters_heading_7h3t5mz79l"
                                                                 class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                                                <h2 class="cmsmasters_heading marginBottom">+1840 841 25 69</h2>
+                                                                <h4 class="cmsmasters_heading marginBottom">+1840 841 25 69</h4>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -498,6 +502,7 @@
                                                                             <p>
                                                                                 <span class="wpcf7-submit-style">
                                                                                     <input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="Get In Touch">
+                                                                                    
                                                                                     <span class="submit-style-in"></span>
                                                                                     <!-- <span class="wpcf7-list-item"> -->
                                                                                             <label class="ml-3">
