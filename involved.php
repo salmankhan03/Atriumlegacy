@@ -3031,7 +3031,7 @@
                                                 global food security.</h6>
                                              </div>
                                              <div id="cmsmasters_button_3b6lnlp6f" class="button_wrap"><a
-                                                   href="https://green-planet.cmsmasters.net/contacts/"
+                                                   href="#"
                                                    class="cmsmasters_button"><span>Join Us</span></a></div>
                                              <!-- <div id="cmsmasters_button_4fovz5tvzp" class="button_wrap"><a
                                                    href="https://green-planet.cmsmasters.net/about-us/"
@@ -3088,7 +3088,7 @@
                                                 <h6 class="cmsmasters_heading">By offering your time and skills, you can directly contribute to our initiatives and see the impact of your efforts firsthand. We offer a range of volunteer opportunities, from working with children and seniors to supporting our housing and agricultural projects.</h6>
                                              </div>
                                              <div id="cmsmasters_button_1xy53naew6" class="button_wrap"><a
-                                                   href="https://green-planet.cmsmasters.net/about-us/"
+                                                   href="#"
                                                    class="cmsmasters_button"><span>Apply to Volunteer</span></a></div>
                                              <!-- <div id="cmsmasters_button_xkljygwlfk" class="button_wrap"><a
                                                    href="https://green-planet.cmsmasters.net/events/list/"
@@ -3127,7 +3127,7 @@
                                                 <h3 class="cmsmasters_heading">By partnering with Atrium Legacy Foundation, you can help amplify our impact and reach more people in need. Whether through corporate sponsorship, joint initiatives, or in-kind donations, your partnership can drive positive change.</h3>
                                              </div>
                                              <div id="cmsmasters_button_uaiz03ndw9" class="button_wrap"><a
-                                                   href="https://green-planet.cmsmasters.net/contacts/"
+                                                   href="#"
                                                    class="cmsmasters_button"><span>Contact Us for Partnerships</span></a></div>
                                              <!-- <div id="cmsmasters_button_n3wk9i4xy" class="button_wrap"><a
                                                    href="https://green-planet.cmsmasters.net/about-us/"
@@ -3185,7 +3185,7 @@
                                                 <h6 class="cmsmasters_heading">Our events are an excellent way to support our mission while engaging with our community. From fundraising galas to educational workshops, every event brings us closer to achieving our goals. Your participation not only helps raise funds but also spreads awareness about the critical issues we are addressing.</h6>
                                              </div>
                                              <div id="cmsmasters_button_1xy53naew6" class="button_wrap"><a
-                                                   href="https://green-planet.cmsmasters.net/about-us/"
+                                                   href="#"
                                                    class="cmsmasters_button"><span>View All Events</span></a></div>
                                              <!-- <div id="cmsmasters_button_xkljygwlfk" class="button_wrap"><a
                                                    href="https://green-planet.cmsmasters.net/events/list/"
@@ -3220,7 +3220,7 @@
                                        <div class="featured_block_inner">
                                           <div class="featured_block_text">
                                              <div id="cmsmasters_button_rffzwrwsok" class="button_wrap"><a
-                                                href="https://green-planet.cmsmasters.net/contacts/"
+                                                href="#"
                                                 class="cmsmasters_button"><span>Join Us Today</span></a></div>
                                           </div>
                                        </div>
@@ -3238,5 +3238,6 @@
             <!--  -->
          </div>
       </div>
+      <?php include 'footer.php'; ?> 
    </body>
 </html>
