@@ -3204,7 +3204,7 @@
             <!-- Why Get Involved Section  -->
                <div id="cmsmasters_row_47292o7tzc" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_fullwidth">
                   <div class="cmsmasters_row_outer_parent pb-0">
-                     <div class="cmsmasters_row_outer">
+                     <div class="cmsmasters_row_outer container">
                         <div class="cmsmasters_row_inner cmsmasters_row_fullwidth cmsmasters_row_no_margin">
                            <div class="cmsmasters_row_margin cmsmasters_1212">
                               <div id="cmsmasters_column_sclh9r6jib" class="cmsmasters_column one_half">
