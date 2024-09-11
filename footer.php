@@ -179,6 +179,12 @@
             });
         }
     </script>
-    
+
+   <script type="text/javascript" src="lib/waypoints.min.js" id="waypoints-js"></script>
+    <script type="text/javascript" id="green-planet-script-js-extra">
+        var cmsmasters_script = {"theme_url":"https:\/\/green-planet.cmsmasters.net\/wp-content\/themes\/green-planet","site_url":"https:\/\/green-planet.cmsmasters.net\/","ajaxurl":"https:\/\/green-planet.cmsmasters.net\/wp-admin\/admin-ajax.php","nonce_ajax_like":"44eb097f84","nonce_ajax_view":"6d9b429948","project_puzzle_proportion":"0.7069","gmap_api_key":"AIzaSyCdSU-5IJU54ENHjX1zZgo-N8Tj1JJVppk","gmap_api_key_notice":"Please add your Google Maps API key","gmap_api_key_notice_link":"read more how","primary_color":"#2e404b","ilightbox_skin":"dark","ilightbox_path":"vertical","ilightbox_infinite":"0","ilightbox_aspect_ratio":"1","ilightbox_mobile_optimizer":"0","ilightbox_max_scale":"1","ilightbox_min_scale":"0.2","ilightbox_inner_toolbar":"0","ilightbox_smart_recognition":"0","ilightbox_fullscreen_one_slide":"0","ilightbox_fullscreen_viewport":"center","ilightbox_controls_toolbar":"1","ilightbox_controls_arrows":"0","ilightbox_controls_fullscreen":"1","ilightbox_controls_thumbnail":"1","ilightbox_controls_keyboard":"1","ilightbox_controls_mousewheel":"1","ilightbox_controls_swipe":"1","ilightbox_controls_slideshow":"0","ilightbox_close_text":"Close","ilightbox_enter_fullscreen_text":"Enter Fullscreen (Shift+Enter)","ilightbox_exit_fullscreen_text":"Exit Fullscreen (Shift+Enter)","ilightbox_slideshow_text":"Slideshow","ilightbox_next_text":"Next","ilightbox_previous_text":"Previous","ilightbox_load_image_error":"An error occurred when trying to load photo.","ilightbox_load_contents_error":"An error occurred when trying to load contents.","ilightbox_missing_plugin_error":"The content your are attempting to view requires the <a href='{pluginspage}' target='_blank'>{type} plugin<\\\/a>."};
+    </script>
+    <script type="text/javascript" src="lib/jquery.script.js" id="green-planet-script-js"></script>
+   <script type="text/javascript" src="lib/jquery.theme-script.js" id="green-planet-theme-script-js"></script>
 </body>
 </html>
