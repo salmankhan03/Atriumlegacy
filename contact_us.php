@@ -17,12 +17,18 @@
                         font-family: 'Montserrat', sans-serif !important;
                 
                     }
-                    h2{
+                    /* h2{
                         font-family: 'Montserrat', sans-serif !important;
                         /* font-size: 2rem !important;
                         font-weight: 500 !important;
-                        line-height: 1.2 !important; */
+                        line-height: 1.2 !important; 
 
+                    } */
+                    .cmsmasters_heading {
+                        text-align: left;
+                        font-family: 'Orpheus Pro' !important;
+                        font-weight: bold;
+                        color: #000;
                     }
                  #cmsmasters_row_nofslyz1hn { 
                     background-image: url('./img/about-us.jpg'); 
@@ -124,6 +130,8 @@
                         line-height: 30px;
                         font-weight: 700;
                         font-style: italic;
+                        font-family: 'Orpheus Pro';
+                        color: #000;
                     }
                     @media only screen and (max-width: 1024px) {
                         #cmsmasters_row_nofslyz1hr .cmsmasters_row_outer_parent {
