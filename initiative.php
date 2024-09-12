@@ -861,9 +861,9 @@
          margin-top:190px; 
          margin-bottom:15px; 
          } 
-         #cmsmasters_column_sclh9r6jib .cmsmasters_column_inner { 
+         /* #cmsmasters_column_sclh9r6jib .cmsmasters_column_inner { 
          padding: 0 24% 0 28%; 
-         } 
+         }  */
          #cmsmasters_heading_vb4bc56kh4 .cmsmasters_heading { 
          text-align:left; 
          } 
@@ -1017,7 +1017,7 @@
          line-height:35px; 
          } 
          }
-         @media only screen and (max-width: 1024px) {
+         /* @media only screen and (max-width: 1024px) {
          #cmsmasters_column_sclh9r6jib .cmsmasters_column_inner {
          padding: 0px 4% 45px 18%;
          }
@@ -1036,7 +1036,7 @@
          #cmsmasters_column_sclh9r6jib .cmsmasters_column_inner {
          padding: 0 4% 35px 10%;
          }
-         }
+         } */
          @media (max-width: 540px) {        
          #cmsmasters_heading_vb4bc56kh4 .cmsmasters_heading, #cmsmasters_heading_vb4bc56kh4 .cmsmasters_heading a { 
          font-size:28px; 
@@ -1144,11 +1144,11 @@
          border-color: rgba(255, 255, 255, 0);
          }
          #cmsmasters_heading_ca57ezmza .cmsmasters_heading, #cmsmasters_heading_ca57ezmza .cmsmasters_heading a {
-         font-family: 'Hind';
+         font-family: 'Montserrat';
          font-size: 20px;
          line-height: 30px;
          font-weight: 400;
-         color: #7d7d7d;
+         color: #000;
          }
          #cmsmasters_row_47292o7tzc .cmsmasters_row_outer_parent {
          padding-bottom: 160px;
@@ -1159,7 +1159,7 @@
          #cmsmasters_heading_ca57ezmza {
          text-align: left;
          margin-top: 0px;
-         margin-bottom: 38px;
+         margin-bottom: 190px;
          }
          /*  */
          .elementor-widget-wrap {
@@ -1478,7 +1478,7 @@
                      <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-a992ab3 sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="a992ab3" data-element_type="column">
                         <div class="elementor-widget-wrap elementor-element-populated">
                            <div class="elementor-element elementor-element-47b281f animation_type_block sc_fly_static elementor-widget elementor-widget-image trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited animated heart-fadeinup" data-id="47b281f" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;heart-fadeinup&quot;}" data-widget_type="image.default">
-                              <div class="elementor-widget-container">
+                              <div class="elementor-widget-container p-3">
                                  <img loading="lazy" decoding="async" width="780" height="963" src="./img/about-us.jpg" class="attachment-full size-full wp-image-18890" alt="" srcset="https://heart.axiomthemes.com/wp-content/uploads/2023/08/img-7-copyright-min.jpg 780w, https://heart.axiomthemes.com/wp-content/uploads/2023/08/img-7-copyright-min-243x300.jpg 243w, https://heart.axiomthemes.com/wp-content/uploads/2023/08/img-7-copyright-min-768x948.jpg 768w, https://heart.axiomthemes.com/wp-content/uploads/2023/08/img-7-copyright-min-370x457.jpg 370w, https://heart.axiomthemes.com/wp-content/uploads/2023/08/img-7-copyright-min-410x506.jpg 410w, https://heart.axiomthemes.com/wp-content/uploads/2023/08/img-7-copyright-min-600x741.jpg 600w" sizes="(max-width: 780px) 100vw, 780px">													
                               </div>
                            </div>
@@ -1718,22 +1718,24 @@
                <!-- Empty Space --> 
                <!-- Future Initiatives Section  -->
                <div id="cmsmasters_row_47292o7tzc" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_fullwidth">
-                  <div class = "container">
+                  <!-- <div class = "container"> -->
                      <div class="cmsmasters_row_outer_parent">
                         <div class="cmsmasters_row_outer">
                            <div class="cmsmasters_row_inner cmsmasters_row_fullwidth cmsmasters_row_no_margin">
                               <div class="cmsmasters_row_margin cmsmasters_1212">
-                                 <div id="cmsmasters_column_sclh9r6jib" class="cmsmasters_column one_half">
-                                    <div class="cmsmasters_column_inner">
-                                       <div id="cmsmasters_heading_vb4bc56kh4" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                          <h2 class="cmsmasters_heading">Future Initiatives </h2>
+                                 <div class = "container">
+                                    <div id="cmsmasters_column_sclh9r6jib" class="cmsmasters_column one_half">
+                                       <div class="cmsmasters_column_inner">
+                                          <div id="cmsmasters_heading_vb4bc56kh4" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
+                                             <h2 class="cmsmasters_heading">Future Initiatives </h2>
+                                          </div>
+                                          <div id="cmsmasters_heading_ca57ezmza"
+                                             class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
+                                             <h3 class="cmsmasters_heading">As we continue to grow and learn from our communities, Atrium Legacy Foundation is committed to expanding our portfolio of initiatives. Our goal is to remain responsive to emerging needs and challenges, ensuring that our work continues to create positive and sustainable change.</h3>
+                                          </div>
+               
+                                       <!-- Tabs End -->
                                        </div>
-                                       <div id="cmsmasters_heading_ca57ezmza"
-                                          class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                          <h3 class="cmsmasters_heading">As we continue to grow and learn from our communities, Atrium Legacy Foundation is committed to expanding our portfolio of initiatives. Our goal is to remain responsive to emerging needs and challenges, ensuring that our work continues to create positive and sustainable change.</h3>
-                                       </div>
-            
-                                    <!-- Tabs End -->
                                     </div>
                                  </div>
                                  <!-- <div id="cmsmasters_column_5gdbuf4sco" class="cmsmasters_column one_half">
@@ -1743,7 +1745,7 @@
                            </div>
                         </div>
                      </div>
-                  </div>
+                  <!-- </div> -->
                </div>
             </div>
             <!--  -->

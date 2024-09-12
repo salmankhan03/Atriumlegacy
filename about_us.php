@@ -1148,7 +1148,7 @@
         } 
         #cmsmasters_heading_vb4bc56kh4 { 
         	text-align:left; 
-        	margin-top:190px; 
+        	margin-top:150px; 
         	margin-bottom:15px; 
         } 
         #cmsmasters_column_sclh9r6jib .cmsmasters_column_inner { 
@@ -1492,7 +1492,7 @@
             font-size: 20px;
             line-height: 30px;
             font-weight: 400;
-            color: #7d7d7d;
+            color: #000;
         }
         #cmsmasters_row_47292o7tzc .cmsmasters_row_outer_parent {
             padding-bottom: 160px;
@@ -1500,6 +1500,13 @@
         #cmsmasters_row_47292o7tzc .cmsmasters_row_outer_parent {
             padding-top: 188px;
         }
+
+        @media only screen and (max-width: 1024px) {
+            #cmsmasters_row_47292o7tzc .cmsmasters_row_outer_parent {
+                padding: 30px 0 20px 0;
+            }
+        }
+
         #cmsmasters_heading_ca57ezmza {
         text-align: left;
         margin-top: 0px;
@@ -1949,27 +1956,29 @@
 
             <!-- Partnership Section  -->
             <div id="cmsmasters_row_47292o7tzc" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_fullwidth">
-                <div class = "container">
+                <!-- <div class = "container"> -->
                     <div class="cmsmasters_row_outer_parent">
                         <div class="cmsmasters_row_outer">
                             <div class="cmsmasters_row_inner cmsmasters_row_fullwidth cmsmasters_row_no_margin">
                                 <div class="cmsmasters_row_margin cmsmasters_1212">
-                                    <!-- <div id="cmsmasters_column_sclh9r6jib" class="cmsmasters_column one_half"> -->
-                                    <div class="cmsmasters_column one_half">
-                                        <div class="cmsmasters_column_inner">
-                                            <div id="cmsmasters_heading_vb4bc56kh4" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                                <h2 class="cmsmasters_heading">Partnership Opportunities </h2>
-                                            </div>
-                                            <div id="cmsmasters_heading_ca57ezmza"
-                                                class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                                <h3 class="cmsmasters_heading">The Atrium Legacy Foundation is always looking for new partners who share our commitment to social impact. Whether you are a corporation, non-profit, or community group, we invite you to join us in building a better future. Contact us to explore collaboration opportunities.</h3>
-                                            </div>
-                                            <div id="cmsmasters_fb_rffzwrwsos" class="cmsmasters_featured_block cmsmasters_more_button">
-                                                <div class="featured_block_inner">
-                                                    <div class="featured_block_text">
-                                                        <div id="cmsmasters_button_rffzwrwsok" class="button_wrap"><a
-                                                            href="https://green-planet.cmsmasters.net/contacts/"
-                                                            class="cmsmasters_button"><span>Join Us Now!</span></a>
+                                    <div class = "container">
+                                        <!-- <div id="cmsmasters_column_sclh9r6jib" class="cmsmasters_column one_half"> -->
+                                        <div class="cmsmasters_column one_half">
+                                            <div class="cmsmasters_column_inner">
+                                                <div id="cmsmasters_heading_vb4bc56kh4" class="cmsmasters_heading_wrap cmsmasters_heading_align_left" style="margin-top:0">
+                                                    <h2 class="cmsmasters_heading">Partnership Opportunities </h2>
+                                                </div>
+                                                <div id="cmsmasters_heading_ca57ezmza"
+                                                    class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
+                                                    <h3 class="cmsmasters_heading">The Atrium Legacy Foundation is always looking for new partners who share our commitment to social impact. Whether you are a corporation, non-profit, or community group, we invite you to join us in building a better future. Contact us to explore collaboration opportunities.</h3>
+                                                </div>
+                                                <div id="cmsmasters_fb_rffzwrwsos" class="cmsmasters_featured_block cmsmasters_more_button">
+                                                    <div class="featured_block_inner">
+                                                        <div class="featured_block_text">
+                                                            <div id="cmsmasters_button_rffzwrwsok" class="button_wrap"><a
+                                                                href="https://green-planet.cmsmasters.net/contacts/"
+                                                                class="cmsmasters_button"><span>Join Us Now!</span></a>
+                                                            </div>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1980,7 +1989,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                <!-- </div> -->
             </div>
               <!--  -->
         </div>
