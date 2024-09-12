@@ -1410,7 +1410,7 @@
 
         /* Partner Section */
         #cmsmasters_row_47292o7tzc {
-            background-image: url(img/partner.jpg);
+            background-image: url(img/about_us_4.jpg);
             background-position: center center;
             background-repeat: no-repeat;
             background-attachment: scroll;

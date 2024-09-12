@@ -32,7 +32,7 @@
                         color: #000;
                     }
                  #cmsmasters_row_nofslyz1hn { 
-                    background-image: url('./img/about-us.jpg'); 
+                    background-image: url(img/contact_us.jpg); 
                     background-position: top center; 
                     background-repeat: no-repeat; 
                     background-attachment: scroll; 
