@@ -18,7 +18,7 @@
             padding-left:15%; padding-right:15%
         }
         #cmsmasters_row_nofslyz1hn { 
-            background-image: url('./img/about-us.jpg'); 
+            background-image: url('./img/about_us_1.jpg'); 
             background-position: top center; 
             background-repeat: no-repeat; 
             background-attachment: scroll; 
@@ -131,7 +131,7 @@
         } 
 
         #cmsmasters_column_fds70fuqos { 
-            background-image: url('./img/story-left.jpg'); 
+            background-image: url('./img/about_us_2.jpg'); 
             background-position: top center; 
             background-repeat: no-repeat; 
             background-attachment: scroll; 
@@ -1224,7 +1224,7 @@
         	text-align: left; 
         }  
         #cmsmasters_column_1dxj3j9sh7 { 
-            background-image: url(img/story-left.jpg); 
+            background-image: url(img/about_us_3.jpg); 
         	background-position: top center; 
         	background-repeat: no-repeat; 
         	background-attachment: scroll; 

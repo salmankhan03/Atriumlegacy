@@ -205,14 +205,14 @@ body {
     padding: 0 6% 0 20% !important;
 }
 .home-right-bg{
-    background-image: url('../img/2-1.jpg');
+    background-image: url('../img/home_2.jpg');
     background-position: top center;
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-size: cover;
 }
 .involved-right-bg{
-    background-image: url('../img/1-2.jpg');
+    background-image: url('../img/get_involved_2.jpg');
     background-position: top center;
     background-repeat: no-repeat;
     background-attachment: scroll;
@@ -220,15 +220,23 @@ body {
     min-height: 400px;
 }
 .involved-right-3-bg{
-    background-image: url('../img/2-21.jpg');
+    background-image: url('../img/get_involved_4.jpg');
     background-position: top center;
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-size: cover;
     min-height: 400px;
 }
-.involved-left-bg{
-    background-image: url('../img/6-1.jpg');
+.involved-left-2-bg{
+    background-image: url('../img/get_involved_3.jpg');
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    min-height: 400px;
+}
+.involved-left-4-bg{
+    background-image: url('../img/get_involved_5.jpg');
     background-position: top center;
     background-repeat: no-repeat;
     background-attachment: scroll;
@@ -281,7 +289,7 @@ body {
 }
 
 .banner {
-    background-image: url('../img/2-2.jpg'); 
+    background-image: url('../img/home_1.jpg'); 
     background-position: top center; 
     background-repeat: no-repeat; 
     background-attachment: scroll; 

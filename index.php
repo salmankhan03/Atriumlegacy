@@ -886,7 +886,7 @@
                 <div class="row ml-0 mr-0" >
                     <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0">
                         <div class="mt-5">
-                            <image class="left-side" src="./image/left-side.jpg" alt="left-side-image" ></image>
+                            <image class="left-side" src="./img/home_3.jpg" alt="left-side-image" ></image>
                             <div class="side-element">
                                 <div> Empathy.</div>
                                 <div> Wellness.</div>

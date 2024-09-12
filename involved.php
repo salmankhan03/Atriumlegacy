@@ -2933,7 +2933,7 @@
 </style> -->
 <style>
    .involvedBanner {
-   background-image: url('./img/about-us.jpg');
+   background-image: url('./img/get_involved_1.jpg');
    background-position: top center; 
     background-repeat: no-repeat; 
     background-attachment: scroll; 
@@ -2949,7 +2949,7 @@
 
 /*  */
 .custom-banner {
-         background-image: url('./img/partner.jpg');
+         background-image: url('./img/get_involved_6.jpg');
          background-position: center center;
          background-repeat: no-repeat;
          background-attachment: scroll;
@@ -3138,7 +3138,7 @@
                </div>
             </div>
             <div class="row equal-height">    
-               <div class="col-md-6 col-lg-6 d-flex align-items-center justify-content-center involved-left-bg">
+               <div class="col-md-6 col-lg-6 d-flex align-items-center justify-content-center involved-left-2-bg">
                   <div class="text-center right-content-padding ">
                   </div>
                </div>
@@ -3190,7 +3190,7 @@
                </div>
             </div>
             <div class="row equal-height">    
-               <div class="col-md-6 col-lg-6 d-flex align-items-center justify-content-center involved-left-bg">
+               <div class="col-md-6 col-lg-6 d-flex align-items-center justify-content-center involved-left-4-bg">
                   <div class="text-center right-content-padding ">
                   </div>
                </div>
@@ -3440,29 +3440,28 @@
                </div> -->
                <div class="row custom-banner">
                   <div>
-                  <div class="col-md-6 col-lg-6">
-                        <div class="bottom-banner-content-padding left-margin-top-bottom">
-                            <div class="h2-heading-section-space">
-                                <h2 class="h2-title">Why Get Involved?</h2>
-                            </div>
-                            <div class="text-content-space">
-                              <h4 class="text-content">
-                                 Getting involved with Atrium Legacy Foundation is not just about giving; it’s about joining a collective effort to foster a supportive, equitable, and thriving society. By working together, we can create communities where every generation is empowered, respected, and has the opportunity to flourish. Your involvement helps us pave the way for a brighter future for all.
-                              </h4>
-                            </div>
-                            <div id="" class="button_wrap">
-                              <a href="#" class="custom-btn">
-                                 <span>Join Us Today</span>
-                              </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-6 d-flex align-items-center justify-content-center home-right-bg">
-                        <div class="text-center right-content-padding ">
-                            
-                        </div>
-                    </div>
-                  
+                     <div class="col-md-6 col-lg-6">
+                           <div class="bottom-banner-content-padding left-margin-top-bottom">
+                              <div class="h2-heading-section-space">
+                                 <h2 class="h2-title">Why Get Involved?</h2>
+                              </div>
+                              <div class="text-content-space">
+                                 <h4 class="text-content">
+                                    Getting involved with Atrium Legacy Foundation is not just about giving; it’s about joining a collective effort to foster a supportive, equitable, and thriving society. By working together, we can create communities where every generation is empowered, respected, and has the opportunity to flourish. Your involvement helps us pave the way for a brighter future for all.
+                                 </h4>
+                              </div>
+                              <div id="" class="button_wrap">
+                                 <a href="#" class="custom-btn">
+                                    <span>Join Us Today</span>
+                                 </a>
+                              </div>
+                           </div>
+                     </div>
+                     <div class="col-md-6 col-lg-6 d-flex align-items-center justify-content-center home-right-bg">
+                           <div class="text-center right-content-padding ">
+                              
+                           </div>
+                     </div>
                </div>
             <!--  -->
          </div>
