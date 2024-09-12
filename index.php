@@ -652,8 +652,8 @@
                                     Atrium Legacy Foundation believes that true progress lies in the values we impart, the communities we nurture, and the future we build together. We are dedicated to creating a lasting impact by fostering empathy in our youth, ensuring dignified aging for our seniors, and promoting sustainable solutions that uplift our communities.
                                 </h4>
                             </div>
-                            <div id="cmsmasters_button_wjzk57hjpe" class="button_wrap">
-                                <a href="#" class="cmsmasters_button">
+                            <div id="" class="button_wrap">
+                                <a href="#" class="custom-btn">
                                     <span>Find Out More</span>
                                 </a>
                             </div>
