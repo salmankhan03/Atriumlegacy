@@ -201,12 +201,39 @@ body {
     padding: 0 24% 0 20%;
 }
 
+.bottom-banner-content-padding{
+    padding: 0 6% 0 20% !important;
+}
 .home-right-bg{
     background-image: url('../img/2-1.jpg');
     background-position: top center;
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-size: cover;
+}
+.involved-right-bg{
+    background-image: url('../img/1-2.jpg');
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    min-height: 400px;
+}
+.involved-right-3-bg{
+    background-image: url('../img/2-21.jpg');
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    min-height: 400px;
+}
+.involved-left-bg{
+    background-image: url('../img/6-1.jpg');
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    min-height: 400px;
 }
 .h2-title{
     font-size: 46px;
@@ -263,14 +290,22 @@ body {
 }
 
 .banner-title {
-    color:#fff; 
-    font-family:'Montserrat';
+    color:#fff !important; 
+    font-family:'Montserrat' !important;
 }
 
 .banner-header {
-    color:#fff; 
-    font-family:'Orpheus Pro';
-    font-weight: bold;
+    color:#fff !important; 
+    font-family:'Orpheus Pro' !important;
+    font-weight: bold !important;
+}
+.italic-heading{
+    font-size: 24px;
+    line-height: 35px;
+    font-weight: 700;
+    font-style: italic;
+    font-family:'Orpheus Pro' !important;
+    letter-spacing: 3px !important ;
 }
 
 

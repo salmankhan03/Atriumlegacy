@@ -6,13 +6,14 @@
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <meta content="" name="keywords">
       <meta content="" name="description">
+      <link rel="stylesheet" href="./css/style.css">
       <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
       <link rel="stylesheet" href="./css/initiative.css">
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-      <style id='green-planet-retina-inline-css' type='text/css'>
+      <!-- <style id='green-planet-retina-inline-css' type='text/css'>
 
          h2{
             text-align: left;
@@ -1230,9 +1231,9 @@
          }
          }
          /*  */
-      </style>
+      </style> -->
   
-      <style id='green-planet-retina-inline-css' type='text/css'>
+      <!-- <style id='green-planet-retina-inline-css' type='text/css'>
 #cmsmasters_row_qqwqmedij7 { 
 	background-image: url(https://green-planet.cmsmasters.net/wp-content/uploads/2017/08/1-1.jpg); 
 	background-position: top center; 
@@ -2929,6 +2930,72 @@
 } 
 
 
+</style> -->
+<style>
+   .involvedBanner {
+   background-image: url('./img/about-us.jpg');
+   background-position: top center; 
+    background-repeat: no-repeat; 
+    background-attachment: scroll; 
+    background-size: cover;
+    /* padding: 250px 0 150px 0; */
+}
+.banner-paddings { 
+   padding-top: 300px; 
+} 
+.banner-paddings { 
+   padding-bottom: 320px; 
+}
+
+/*  */
+.custom-banner {
+         background-image: url('./img/partner.jpg');
+         background-position: center center;
+         background-repeat: no-repeat;
+         background-attachment: scroll;
+         background-size: cover;
+         }
+/*  */
+@media only screen and (max-width: 1024px) {
+   .banner-paddings {
+      padding-top: 160px;
+   }
+}
+@media only screen and (max-width: 1024px) {
+   .banner-paddings {
+      padding-bottom: 180px;
+   }
+}
+@media only screen and (max-width: 768px) {
+   .banner-paddings {
+      padding-top: 100px;
+   }
+}
+@media only screen and (max-width: 768px) {
+   .banner-paddings {
+      padding-bottom: 120px;
+   }
+}
+@media only screen and (max-width: 540px) {
+   .banner-paddings {
+      padding-top: 100px;
+   }
+}
+@media only screen and (max-width: 540px) {
+   .banner-paddings {
+      padding-bottom: 120px;
+   }
+}
+@media only screen and (max-width: 320px) {
+   .banner-paddings {
+      padding-top: 70px;
+   }
+}
+@media only screen and (max-width: 320px) {
+   .banner-paddings {
+      padding-bottom: 90px;
+   }
+}
 </style>
 </head>
    <body>
@@ -2938,8 +3005,17 @@
             <div class="content_wrap fullwidth">
                <div class="middle_content entry"></div>
             </div>
+            <!-- Banner -->
+            <div class = "involvedBanner ">
+                <div class = "container text-center banner-paddings">
+                  <h2 class = "banner-header text-center white-text">
+                    Get Involved
+                  </h2>                  
+                </div>
+            </div> 
+            <!-- Banner -->
             <!-- Top Section -->
-               <div id="cmsmasters_row_nofslyz1hn" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_boxed">
+               <!-- <div id="cmsmasters_row_nofslyz1hn" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_boxed">
                   <div class="cmsmasters_row_outer_parent">
                      <div class="cmsmasters_row_outer">
                         <div class="cmsmasters_row_inner">
@@ -2955,7 +3031,7 @@
                         </div>
                      </div>
                   </div>
-               </div>
+               </div> -->
             <!-- Top Section Close -->
             <!-- Empty Space  -->
                <div class="elementor-element elementor-element-7c02393 sc_height_huge sc_fly_static elementor-widget elementor-widget-spacer trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="7c02393" data-element_type="widget" data-widget_type="spacer.default">
@@ -2966,8 +3042,25 @@
                   </div>
                </div>
             <!-- Empty Space -->
+
+            <!-- second Section -->
+            <div class="header_mid_inner pd-0">
+                    <div class="row ml-0 mr-0" >
+                        <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0">
+                            <div class="pt-5 pb-5 p-xs-0 ">
+                                <h2 class="hedings mt-4 mb-4 mobile-left-section-padding" style="color:#000">Ways to Get Involved</h2>
+                            </div>
+                        </div>
+                        <div class="col-sm-12 col-md-6 col-lg-6 text-content p-4">
+                            <div class="pt-5 pb-5">
+                                <p class="" style="font-size: 20px">We understand that creating meaningful social impact requires collective effort. Whether you are an individual, a corporation, or a community organization, there are many ways to get involved and contribute to our mission of fostering empathy, wellness, and sustainability. Your support, time, and resources are invaluable in helping us drive positive change and make a tangible difference in the lives of those we serve.</p>
+                            </div>
+                        </div>
+                    </div>
+            </div>
+             <!-- second Section -->
             <!--Ways to Get Involved Section  -->
-               <div id="cmsmasters_row_ftj2oeok3p"
+               <!-- <div id="cmsmasters_row_ftj2oeok3p"
                   class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_fullwidth">
                   <div class="cmsmasters_row_outer_parent">
                      <div class="cmsmasters_row_outer">
@@ -3004,7 +3097,7 @@
                         </div>
                      </div>
                   </div>
-               </div>
+               </div> -->
             <!-- Ways to Get Involved Section Close -->
             <!-- Empty Space -->
                <div class="elementor-element elementor-element-7c02393 sc_height_huge sc_fly_static elementor-widget elementor-widget-spacer trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="7c02393" data-element_type="widget" data-widget_type="spacer.default">
@@ -3015,9 +3108,119 @@
                   </div>
                </div>
             <!-- Empty Space -->
+            <!--Third Section  -->
+            <div class="row equal-height">
+               <div class="col-md-6 col-lg-6">
+                  <div class="left-section-padding left-margin-top-bottom">
+                        <div class="h2-heading-section-space mb-5">
+                           <h2 class="h2-title mb-4">Donate</h2>
+                           <h5 class="italic-heading">
+                              Your financial support allows us to continue our work and expand our initiatives.
+                           </h5>
+                        </div>
+                        <div class="text-content-space">
+                           <h4 class="text-content">
+                              Every contribution, big or small, helps us create programs that foster empathy in children, support
+                              the well-being of seniors, provide affordable housing, and enhance
+                              global food security.
+                           </h4>
+                        </div>
+                        <div id="" class="button_wrap">
+                           <a href="#" class="custom-btn">
+                              <span>Donate Now</span>
+                           </a>
+                        </div>
+                  </div>
+               </div>
+               <div class="col-md-6 col-lg-6 d-flex align-items-center justify-content-center involved-right-bg">
+                  <div class="text-center right-content-padding ">
+                  </div>
+               </div>
+            </div>
+            <div class="row equal-height">    
+               <div class="col-md-6 col-lg-6 d-flex align-items-center justify-content-center involved-left-bg">
+                  <div class="text-center right-content-padding ">
+                  </div>
+               </div>
+               <div class="col-md-6 col-lg-6">
+                  <div class="left-section-padding left-margin-top-bottom">
+                        <div class="h2-heading-section-space mb-5">
+                           <h2 class="h2-title mb-4">Volunteer</h2>
+                           <h5 class="italic-heading">
+                              Volunteers are the backbone of our foundation.
+                           </h5>
+                        </div>
+                        <div class="text-content-space">
+                           <h4 class="text-content">
+                              By offering your time and skills, you can directly contribute to our initiatives and see the impact of your efforts firsthand. We offer a range of volunteer opportunities, from working with children and seniors to supporting our housing and agricultural projects.
+                           </h4>
+                        </div>
+                        <div id="" class="button_wrap">
+                           <a href="#" class="custom-btn">
+                              <span>Apply to Volunteer</span>
+                           </a>
+                        </div>
+                  </div>
+               </div>
+            </div>
+            <div class="row equal-height">
+               <div class="col-md-6 col-lg-6">
+                  <div class="left-section-padding left-margin-top-bottom">
+                        <div class="h2-heading-section-space mb-5">
+                           <h2 class="h2-title mb-4">Partner with Us</h2>
+                           <h5 class="italic-heading">
+                              We are always looking to collaborate with like-minded organizations, businesses, and community groups.
+                           </h5>
+                        </div>
+                        <div class="text-content-space">
+                           <h4 class="text-content">
+                              By partnering with Atrium Legacy Foundation, you can help amplify our impact and reach more people in need. Whether through corporate sponsorship, joint initiatives, or in-kind donations, your partnership can drive positive change.
+                           </h4>
+                        </div>
+                        <div id="" class="button_wrap">
+                           <a href="#" class="custom-btn">
+                              <span>Contact Us for Partnerships</span>
+                           </a>
+                        </div>
+                  </div>
+               </div>
+               <div class="col-md-6 col-lg-6 d-flex align-items-center justify-content-center involved-right-3-bg">
+                  <div class="text-center right-content-padding ">
+                  </div>
+               </div>
+            </div>
+            <div class="row equal-height">    
+               <div class="col-md-6 col-lg-6 d-flex align-items-center justify-content-center involved-left-bg">
+                  <div class="text-center right-content-padding ">
+                  </div>
+               </div>
+               <div class="col-md-6 col-lg-6">
+                  <div class="left-section-padding left-margin-top-bottom">
+                        <div class="h2-heading-section-space mb-5">
+                           <h2 class="h2-title mb-4">Attend an Event</h2>
+                           <h5 class="italic-heading">
+                              Advancing the study of environmental science.
+                           </h5>
+                        </div>
+                        <div class="text-content-space">
+                           <h4 class="text-content">
+                              Our events are an excellent way to support our mission while engaging with our community. From fundraising galas to educational workshops, every event brings us closer to achieving our goals. Your participation not only helps raise funds but also spreads awareness about the critical issues we are addressing.
+                           </h4>
+                        </div>
+                        <div id="" class="button_wrap">
+                           <a href="#" class="custom-btn">
+                              <span>Apply to Volunteer</span>
+                           </a>
+                        </div>
+                  </div>
+               </div>
+            </div>
+
+            <!--Third Section  -->
+            
 
             <!-- LATEST -->
-               <div id="cmsmasters_row_ftj2oeok3p"
+               <!-- <div id="cmsmasters_row_ftj2oeok3p"
                   class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_fullwidth">
                   <div class="cmsmasters_row_outer_parent">
                      <div class="cmsmasters_row_outer">
@@ -3045,10 +3248,8 @@
                                              </div>
                                              <div id="cmsmasters_button_3b6lnlp6f" class="button_wrap"><a
                                                    href="#"
-                                                   class="cmsmasters_button"><span>Donate Now</span></a></div>
-                                             <!-- <div id="cmsmasters_button_4fovz5tvzp" class="button_wrap"><a
-                                                   href="https://green-planet.cmsmasters.net/about-us/"
-                                                   class="cmsmasters_button"><span>Find Out More</span></a></div> -->
+                                                   class="cmsmasters_button"><span>Donate Now</span></a>
+                                             </div>                              
                                           </div>
                                        </div>
                                     </div>
@@ -3102,10 +3303,7 @@
                                              </div>
                                              <div id="cmsmasters_button_1xy53naew6" class="button_wrap"><a
                                                    href="#"
-                                                   class="cmsmasters_button"><span>Apply to Volunteer</span></a></div>
-                                             <!-- <div id="cmsmasters_button_xkljygwlfk" class="button_wrap"><a
-                                                   href="https://green-planet.cmsmasters.net/events/list/"
-                                                   class="cmsmasters_button"><span>Find Out More</span></a></div> -->
+                                                   class="cmsmasters_button"><span>Apply to Volunteer</span></a></div>                  
                                           </div>
                                        </div>
                                     </div>
@@ -3141,10 +3339,7 @@
                                              </div>
                                              <div id="cmsmasters_button_uaiz03ndw9" class="button_wrap"><a
                                                    href="#"
-                                                   class="cmsmasters_button"><span>Contact Us for Partnerships</span></a></div>
-                                             <!-- <div id="cmsmasters_button_n3wk9i4xy" class="button_wrap"><a
-                                                   href="https://green-planet.cmsmasters.net/about-us/"
-                                                   class="cmsmasters_button"><span>Find Out More</span></a></div> -->
+                                                   class="cmsmasters_button"><span>Contact Us for Partnerships</span></a></div>                                             
                                           </div>
                                        </div>
                                     </div>
@@ -3199,10 +3394,7 @@
                                              </div>
                                              <div id="cmsmasters_button_1xy53naew6" class="button_wrap"><a
                                                    href="#"
-                                                   class="cmsmasters_button"><span>View All Events</span></a></div>
-                                             <!-- <div id="cmsmasters_button_xkljygwlfk" class="button_wrap"><a
-                                                   href="https://green-planet.cmsmasters.net/events/list/"
-                                                   class="cmsmasters_button"><span>Find Out More</span></a></div> -->
+                                                   class="cmsmasters_button"><span>View All Events</span></a></div>                                             
                                           </div>
                                        </div>
                                     </div>
@@ -3212,16 +3404,15 @@
                         </div>
                      </div>
                   </div>
-               </div>
+               </div> -->
             <!-- LATEST -->
             <!-- Why Get Involved Section  -->
-               <div id="cmsmasters_row_47292o7tzc" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_fullwidth">
+               <!-- <div id="cmsmasters_row_47292o7tzc" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_fullwidth">
                   <div class="cmsmasters_row_outer_parent pb-0">
                      <div class="cmsmasters_row_outer">
                         <div class="cmsmasters_row_inner cmsmasters_row_fullwidth cmsmasters_row_no_margin">
                            <div class="cmsmasters_row_margin cmsmasters_1212">
                               <div class = "container">
-                                 <!-- <div id="cmsmasters_column_sclh9r6jib" class="cmsmasters_column one_half"> -->
                                  <div class="cmsmasters_column one_half">
                                     <div class="cmsmasters_column_inner" style="margin-bottom: 150px;">
                                        <div id="cmsmasters_heading_vb4bc56kh4" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
@@ -3241,15 +3432,37 @@
                                           </div>
                                        </div>
                                     </div>
-                                 <!-- </div> -->
-                              </div>
-                              <!-- <div id="cmsmasters_column_5gdbuf4sco" class="cmsmasters_column one_half">
-                                 <div class="cmsmasters_column_inner"></div>
-                              </div> -->
+                              </div>                     
                            </div>
                         </div>
                      </div>
                   </div>
+               </div> -->
+               <div class="row custom-banner">
+                  <div>
+                  <div class="col-md-6 col-lg-6">
+                        <div class="bottom-banner-content-padding left-margin-top-bottom">
+                            <div class="h2-heading-section-space">
+                                <h2 class="h2-title">Welcome to <br/> Atrium Legacy Foundation</h2>
+                            </div>
+                            <div class="text-content-space">
+                                <h4 class="text-content">
+                                    Atrium Legacy Foundation believes that true progress lies in the values we impart, the communities we nurture, and the future we build together. We are dedicated to creating a lasting impact by fostering empathy in our youth, ensuring dignified aging for our seniors, and promoting sustainable solutions that uplift our communities.
+                                </h4>
+                            </div>
+                            <div id="" class="button_wrap">
+                              <a href="#" class="custom-btn">
+                                    <span>Join Us Today</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-6 d-flex align-items-center justify-content-center home-right-bg">
+                        <div class="text-center right-content-padding ">
+                            
+                        </div>
+                    </div>
+                  
                </div>
             <!--  -->
          </div>
