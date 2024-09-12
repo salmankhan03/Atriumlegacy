@@ -1500,6 +1500,13 @@
         #cmsmasters_row_47292o7tzc .cmsmasters_row_outer_parent {
             padding-top: 188px;
         }
+
+        @media only screen and (max-width: 1024px) {
+            #cmsmasters_row_47292o7tzc .cmsmasters_row_outer_parent {
+                padding: 30px 0 20px 0;
+            }
+        }
+
         #cmsmasters_heading_ca57ezmza {
         text-align: left;
         margin-top: 0px;
