@@ -20,7 +20,7 @@
             letter-spacing: 0.1px;
         }
         .footerSlogan{
-            font-family: 'Orpheus Pro';
+            font-family: 'Moisette';
             color: white;
         }
     

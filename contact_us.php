@@ -27,7 +27,7 @@
                     } */
                     .cmsmasters_heading {
                         text-align: left;
-                        font-family: 'Orpheus Pro' !important;
+                        font-family: 'Moisette' !important;
                         font-weight: bold;
                         color: #000;
                     }
@@ -131,7 +131,7 @@
                         line-height: 30px;
                         font-weight: 700;
                         font-style: italic;
-                        font-family: 'Orpheus Pro';
+                        font-family: 'Moisette';
                         color: #000;
                     }
                     @media only screen and (max-width: 1024px) {

@@ -171,7 +171,7 @@
             font-size:40px; 
             line-height:50px; 
             color:#ffffff;
-            font-family: Orpheus Pro
+            font-family: 'Moisette'
         } 
 
         #cmsmasters_heading_0lgp4yrd9u .cmsmasters_heading a:hover { 
@@ -251,8 +251,8 @@
         #cmsmasters_heading_k610h6ljqm .cmsmasters_heading, #cmsmasters_heading_k610h6ljqm .cmsmasters_heading a { 
             font-size:46px; 
             line-height:52px; 
-            font-family: Orpheus Pro;
-            color: #000
+            font-family: 'Moisette';
+            color: #000;
         } 
 
         #cmsmasters_heading_k610h6ljqm .cmsmasters_heading a:hover { 
@@ -286,7 +286,7 @@
             font-size:24px; 
             line-height:35px; 
             font-weight:700; 
-            font-family: Orpheus Pro;
+            font-family: 'Moisette';
             color: #000
         } 
 
@@ -1161,7 +1161,7 @@
         #cmsmasters_heading_vb4bc56kh4 .cmsmasters_heading, #cmsmasters_heading_vb4bc56kh4 .cmsmasters_heading a { 
         	font-size:46px; 
         	line-height:58px; 
-            font-family: Orpheus Pro;
+            font-family: 'Moisette';
             color: #000;
         } 
         #cmsmasters_heading_vb4bc56kh4 .cmsmasters_heading a:hover { 
@@ -1265,7 +1265,7 @@
         	font-size:40px; 
         	line-height:50px; 
         	color:#ffffff;
-            font-family: Orpheus Pro
+            font-family: 'Moisette'
         } 
         
         #cmsmasters_heading_63i9tt335y .cmsmasters_heading a:hover { 
@@ -1766,7 +1766,7 @@
                                         <div id="cmsmasters_column_tsg36hzfki" class="cmsmasters_column one_first">
                                             <div class="cmsmasters_column_inner">
                                                 <div id="cmsmasters_heading_rrgejmijg" class="cmsmasters_heading_wrap cmsmasters_heading_align_center">
-                                                    <h2 class="cmsmasters_heading" style="font-family: 'Orpheus Pro'; font-weight: bold">About Us</h2>
+                                                    <h2 class="cmsmasters_heading" style="font-family: 'Moisette'; font-weight: bold">About Us</h2>
                                                 </div>
                                             </div>
                                         </div>
@@ -1800,7 +1800,7 @@
                                 </div>
                                 <div id="cmsmasters_column_9umckw2emc" class="cmsmasters_column two_third">
                                     <div class="cmsmasters_column_inner"><div id="cmsmasters_heading_k610h6ljqm" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                        <h2 class="cmsmasters_heading" style="font-family: 'Orpheus Pro'; color: #000">Our Story</h2>
+                                        <h2 class="cmsmasters_heading" style="font-family: 'Moisette'; color: #000">Our Story</h2>
                                     </div>
                                     <!-- <div id="cmsmasters_heading_khr8zu8qc" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
                                         <h5 class="cmsmasters_heading">Green. That’s how we’d like the world to be</h5>

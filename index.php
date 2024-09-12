@@ -718,7 +718,7 @@
                     <div class="row ml-0 mr-0" >
                         <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0">
                             <div class="pt-5 pb-5 p-xs-0 ">
-                                <h2 class="hedings mt-4 mb-4 mobile-left-section-padding" style="color:#000">Our Initiatives </h2>
+                                <h2 class="hedings mt-5 mb-4 mobile-left-section-padding" style="color:#000; text-align:center">Our Initiatives </h2>
                             </div>
                         </div>
                         <div class="col-sm-12 col-md-6 col-lg-6 text-content p-4">
@@ -738,11 +738,13 @@
                                     <h4 class="card-fonts-heading-color">ReStart Education</h4>
                                     <p class="mt-3 text-center card-fonts-color">Cultivating the next generation to prioritize social values, empathy, and community engagement over material wealth.</p>
                                 </div>
-                                <div class="cards-footer mt-4 text-center">
-                                    <div class="custom-footer-icons-div">
-                                        <i class="fa fa-arrow-right  custom-icons custom-icon" aria-hidden="true"></i>
+                                <a href="initiative.php#tab1" style="text-decoration: none;">
+                                    <div class="cards-footer mt-4 text-center">
+                                        <div class="custom-footer-icons-div">
+                                            <i class="fa fa-arrow-right  custom-icons custom-icon" aria-hidden="true"></i>
+                                        </div>
                                     </div>
-                                </div>
+                                </a>
                             </div>
                         </div>
                         <div class="col-sm-12 col-md-6 col-lg-3 text-content">
@@ -755,11 +757,13 @@
                                     <h4 class="card-fonts-heading-color">Aging Grace</h4>
                                     <p class="mt-3 text-center card-fonts-color">Promoting comprehensive wellness and societal integration for seniors, ensuring they remain vital members of the community.</p>
                                 </div>
-                                <div class="cards-footer mt-4 text-center">
-                                    <div class="custom-footer-icons-div">
-                                        <i class="fa fa-arrow-right custom-icons custom-icon" aria-hidden="true"></i>
+                                <a href="initiative.php#tab2" style="text-decoration: none;">
+                                    <div class="cards-footer mt-4 text-center">
+                                        <div class="custom-footer-icons-div">
+                                            <i class="fa fa-arrow-right custom-icons custom-icon" aria-hidden="true"></i>
+                                        </div>
                                     </div>
-                                </div>
+                                </a>
                             </div>
                         </div>
                         <div class="col-sm-12 col-md-6 col-lg-3 text-content">
@@ -897,7 +901,7 @@
                     <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0">
                         <div class="text-left p-0 p-md-5 right-content-padding">
                             <h1 class="hedings pb-2" style="color: #000">Together, we can make a difference</h1>
-                            <div style="font-family: Orpheus Pro; font-style:italic; font-size:x-large">Join us in making a meaningful impact</div>
+                            <div style="font-family: Moisette; font-style:italic; font-size:x-large">Join us in making a meaningful impact</div>
                             <p class="mt-4 mb-4" style="font-family: Montserrat;">Whether through donations, volunteer work, or partnerships, your support plays a crucial role in creating a brighter, more inclusive future for everyone.</p>
                             <div id="" class="button_wrap">
                                 <a href="#" class="custom-btn">

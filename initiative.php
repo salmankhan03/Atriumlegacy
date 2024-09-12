@@ -79,7 +79,7 @@
          font-size:62px; 
          line-height:70px; 
          color:#ffffff;
-         font-family: Orpheus Pro
+         font-family: 'Moisette'
          } 
          #cmsmasters_heading_rrgejmijg .cmsmasters_heading a:hover { 
          } 
@@ -871,7 +871,7 @@
          #cmsmasters_heading_vb4bc56kh4 .cmsmasters_heading, #cmsmasters_heading_vb4bc56kh4 .cmsmasters_heading a { 
          font-size:46px; 
          line-height:58px; 
-         font-family:Orpheus Pro;
+         font-family:'Moisette';
          color:#000
          } 
          #cmsmasters_heading_vb4bc56kh4 .cmsmasters_heading a:hover { 
@@ -1370,7 +1370,7 @@
             line-height: 38px;
             /* color: #254151; */
             color:#000000;
-            font-family: 'Orpheus Pro';
+            font-family: 'Moisette';
             font-weight: 900;
             font-style: normal;
             text-transform: none;
@@ -1423,7 +1423,7 @@
             line-height: 30px;
             font-weight: 700;
             font-style: italic;
-            font-family: 'Orpheus Pro';
+            font-family: 'Moisette';
             color: #000;
          }
          p,
@@ -1452,7 +1452,7 @@
                            <div id="cmsmasters_column_tsg36hzfki" class="cmsmasters_column one_first">
                               <div class="cmsmasters_column_inner">
                                  <div id="cmsmasters_heading_rrgejmijg" class="cmsmasters_heading_wrap cmsmasters_heading_align_center">
-                                    <h2 class="cmsmasters_heading" style="font-family: 'Orpheus Pro'; font-weight: bold">Our Initiatives</h2>
+                                    <h2 class="cmsmasters_heading" style="font-family: 'Moisette'; font-weight: bold">Our Initiatives</h2>
                                  </div>
                               </div>
                            </div>
@@ -1491,9 +1491,9 @@
                               <div class="elementor-widget-container">
                                  <div class="sc_title sc_title_default">
                                     <!-- <h1 class="sc_item_title sc_title_title sc_item_title_style_default sc_item_title_tag">
-                                       <span class="sc_item_title_text" style="font-family:'Orpheus Pro'; color: #000">Atrium Legacy Foundation believe that meaningful change starts with strategic, impactful initiatives.</span>
+                                       <span class="sc_item_title_text" style="font-family:'Moisette'; color: #000">Atrium Legacy Foundation believe that meaningful change starts with strategic, impactful initiatives.</span>
                                     </h1> -->
-                                    <h2 class="cmsmasters_heading" style="font-family: 'Orpheus Pro'; font-weight: bold; color: #000000;">Atrium Legacy Foundation believe that meaningful change starts with strategic, impactful initiatives.</h2>
+                                    <h2 class="cmsmasters_heading" style="font-family: 'Moisette'; font-weight: bold; color: #000000;">Atrium Legacy Foundation believe that meaningful change starts with strategic, impactful initiatives.</h2>
 
                                  </div>
                               </div>
