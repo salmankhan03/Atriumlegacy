@@ -6,7 +6,8 @@
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <meta content="" name="keywords">
       <meta content="" name="description">
-      <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+      <link rel="stylesheet" href="./css/style.css">
+      <!-- <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet"> -->
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
       <link rel="stylesheet" href="./css/initiative.css">
@@ -1451,7 +1452,7 @@
                            <div id="cmsmasters_column_tsg36hzfki" class="cmsmasters_column one_first">
                               <div class="cmsmasters_column_inner">
                                  <div id="cmsmasters_heading_rrgejmijg" class="cmsmasters_heading_wrap cmsmasters_heading_align_center">
-                                    <h2 class="cmsmasters_heading" style="font-family: 'Orpheus Pros'; font-weight: bold">Our Initiatives</h2>
+                                    <h2 class="cmsmasters_heading" style="font-family: 'Orpheus Pro'; font-weight: bold">Our Initiatives</h2>
                                  </div>
                               </div>
                            </div>
@@ -1492,7 +1493,7 @@
                                     <!-- <h1 class="sc_item_title sc_title_title sc_item_title_style_default sc_item_title_tag">
                                        <span class="sc_item_title_text" style="font-family:'Orpheus Pro'; color: #000">Atrium Legacy Foundation believe that meaningful change starts with strategic, impactful initiatives.</span>
                                     </h1> -->
-                                    <h2 class="cmsmasters_heading" style="font-family: 'Orpheus Pros'; font-weight: bold; color: #000000;">Atrium Legacy Foundation believe that meaningful change starts with strategic, impactful initiatives.</h2>
+                                    <h2 class="cmsmasters_heading" style="font-family: 'Orpheus Pro'; font-weight: bold; color: #000000;">Atrium Legacy Foundation believe that meaningful change starts with strategic, impactful initiatives.</h2>
 
                                  </div>
                               </div>
