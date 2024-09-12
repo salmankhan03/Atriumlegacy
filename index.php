@@ -732,11 +732,13 @@
                             <div class="cards">
                                 <div class="cards-heading text-center">
                                     <!-- <i class="fa fa-medkit custom-icon" style="font-size:60px" aria-hidden="true"></i> -->
-                                    <img src="./img/first-aid-kit.png" style="width:50px">
+                                    <img src="./img/ALF_Web_Icons/Green/ReStart_Education.png" style="width:75px">
                                 </div>
                                 <div class="cards-body text-center mt-4">
                                     <h4 class="card-fonts-heading-color">ReStart Education</h4>
-                                    <p class="mt-3 text-center card-fonts-color">Cultivating the next generation to prioritize social values, empathy, and community engagement over material wealth.</p>
+                                    <p class="mt-3 text-center card-fonts-color">
+                                        Cultivating empathy, social responsibility, and community engagement values over materialism.
+                                    </p>
                                 </div>
                                 <a href="initiative.php#tab1" style="text-decoration: none;">
                                     <div class="cards-footer mt-4 text-center">
@@ -751,11 +753,13 @@
                             <div class="cards">
                                 <div class="cards-heading text-center">
                                     <!-- <i class="fa fa-medkit custom-icon" style="font-size:60px" aria-hidden="true"></i> -->
-                                    <img src="./img/heart.png" style="width:50px">
+                                    <img src="./img/ALF_Web_Icons/Green/Aging_Grace.png" style="width:75px">
                                 </div>
                                 <div class="cards-body text-center mt-4">
                                     <h4 class="card-fonts-heading-color">Aging Grace</h4>
-                                    <p class="mt-3 text-center card-fonts-color">Promoting comprehensive wellness and societal integration for seniors, ensuring they remain vital members of the community.</p>
+                                    <p class="mt-3 text-center card-fonts-color">
+                                        Promoting comprehensive wellness and societal integration for seniors to enhance community involvement.
+                                    </p>
                                 </div>
                                 <a href="initiative.php#tab2" style="text-decoration: none;">
                                     <div class="cards-footer mt-4 text-center">
@@ -770,11 +774,13 @@
                             <div class="cards">
                                 <div class="cards-heading text-center">
                                     <!-- <i class="fa fa-medkit custom-icon" style="font-size:60px" aria-hidden="true"></i> -->
-                                    <img src="./img/fashion.png" style="width:50px">
+                                    <img src="./img/ALF_Web_Icons/Green/HomeStrong.png" style="width:75px">
                                 </div>
                                 <div class="cards-body text-center mt-4">
                                     <h4 class="card-fonts-heading-color">HomeStrong </h4>
-                                    <p class="mt-3 text-center card-fonts-color">Addressing the urgent need for fast and affordable housing solutions, fostering stability and security for vulnerable populations.</p>
+                                    <p class="mt-3 text-center card-fonts-color">
+                                        Addressing the need for fast and affordable housing solutions to create stability and security for vulnerable populations.
+                                    </p>
                                 </div>
                                 <div class="cards-footer mt-4 text-center">
                                     <div class="custom-footer-icons-div">
@@ -787,11 +793,13 @@
                             <div class="cards">
                                 <div class="cards-heading text-center">
                                     <!-- <i class="fa fa-medkit custom-icon" style="font-size:60px" aria-hidden="true"></i> -->
-                                    <img src="./img/piggy-bank.png" style="width:50px">
+                                    <img src="./img/ALF_Web_Icons/Green/AgriThrive.png" style="width:75px">
                                 </div>
                                 <div class="cards-body text-center mt-4">
                                     <h4 class="card-fonts-heading-color">AgriThrive</h4>
-                                    <p class="mt-3 text-center card-fonts-color">Leveraging agricultural technology to enhance global food security and empower communities to achieve self-sufficiency.</p>
+                                    <p class="mt-3 text-center card-fonts-color">
+                                        Leveraging agricultural technology to improve food security and empower communities toward self-sufficiency.
+                                    </p>
                                 </div>
                                 <div class="cards-footer mt-4 text-center">
                                     <div class="custom-footer-icons-div">
@@ -898,11 +906,11 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0">
+                    <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 pb-5">
                         <div class="text-left p-0 p-md-5 right-content-padding">
                             <h1 class="hedings pb-2" style="color: #000">Together, we can make a difference</h1>
-                            <div style="font-family: Moisette; font-style:italic; font-size:x-large">Join us in making a meaningful impact</div>
-                            <p class="mt-4 mb-4" style="font-family: Montserrat;">Whether through donations, volunteer work, or partnerships, your support plays a crucial role in creating a brighter, more inclusive future for everyone.</p>
+                            <div style="font-family: Moisette; font-style:italic; font-size:26px; color:#000;">Join us in making a meaningful impact</div>
+                            <p class="mt-4 mb-4" style="font-family: Montserrat; color:#000; font-size:18px">Whether through donations, volunteer work, or partnerships, your support plays a crucial role in creating a brighter, more inclusive future for everyone.</p>
                             <div id="" class="button_wrap">
                                 <a href="#" class="custom-btn">
                                     <span>Join Us</span>

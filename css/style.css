@@ -122,7 +122,7 @@ body {
  .cards {
      background-color: transparent;
      overflow: hidden;
-     padding: 15px;
+     /* padding: 15px; */
      position: relative;
      transition: background-color 0.3s, transform 0.3s;
  }
@@ -138,9 +138,10 @@ body {
  .card-fonts-heading-color{
      color:#000;
      font-family:'Moisette';
+     font-size: 26px;
  }
  .card-fonts-color{
-     color:#7a7d7e;
+     color:#000;
      font-family:'Montserrat';
  }
  .cards:hover .card-fonts-heading-color, .cards:hover .card-fonts-color{
@@ -274,7 +275,7 @@ body {
 }
 .text-content{
     font-family: 'Montserrat';
-    font-size: 20px;
+    font-size: 18px !important;
     line-height: 28px;
     font-weight: 400;
     color: #000;
@@ -344,7 +345,7 @@ body {
         padding: 0 4% 35px 10%;
     } 
     .right-content-padding{
-        padding: 0 5% 0 10% !important;
+        padding: 10px 5% 10px 10% !important;
     }
     .zero-margin{
         margin:0px !important;
