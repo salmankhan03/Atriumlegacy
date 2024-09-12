@@ -132,7 +132,7 @@
                                 <h3 class="text-white" style="font-family: 'Montserrat';font-size: 15px; font-weight: bold">Contact</h3>    
                             </div>
                             <div class="text-left">
-                            <p class="mb-0">
+                            <p class="mb-0 pb-2">
                                 <a class="underline_anim underline_do_hover" href="mailto:info@email.com" style="text-decoration:underline">
                                     info@email.com
                                 </a>
