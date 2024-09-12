@@ -3443,17 +3443,17 @@
                   <div class="col-md-6 col-lg-6">
                         <div class="bottom-banner-content-padding left-margin-top-bottom">
                             <div class="h2-heading-section-space">
-                                <h2 class="h2-title">Welcome to <br/> Atrium Legacy Foundation</h2>
+                                <h2 class="h2-title">Why Get Involved?</h2>
                             </div>
                             <div class="text-content-space">
-                                <h4 class="text-content">
-                                    Atrium Legacy Foundation believes that true progress lies in the values we impart, the communities we nurture, and the future we build together. We are dedicated to creating a lasting impact by fostering empathy in our youth, ensuring dignified aging for our seniors, and promoting sustainable solutions that uplift our communities.
-                                </h4>
+                              <h4 class="text-content">
+                                 Getting involved with Atrium Legacy Foundation is not just about giving; it’s about joining a collective effort to foster a supportive, equitable, and thriving society. By working together, we can create communities where every generation is empowered, respected, and has the opportunity to flourish. Your involvement helps us pave the way for a brighter future for all.
+                              </h4>
                             </div>
                             <div id="" class="button_wrap">
                               <a href="#" class="custom-btn">
-                                    <span>Join Us Today</span>
-                                </a>
+                                 <span>Join Us Today</span>
+                              </a>
                             </div>
                         </div>
                     </div>
