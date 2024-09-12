@@ -1,0 +1,330 @@
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../css/fonts/Montserrat/Montserrat-VariableFont_wght.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Orpheus Pro';
+    src: url('../css/fonts/Orpheus/OrpheusPro/Orpheus\ Pro.woff2') format('woff2'),
+         url('../css/fonts/Orpheus/OrpheusPro/Orpheus\ Pro.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+body {
+     font-family: 'Montserrat', sans-serif;
+     font-size: 1rem;
+     font-weight: 400;
+     font-style: normal;
+     line-height: 1.62em;
+     text-transform: none;
+     letter-spacing: 0.1px;
+ }
+
+ .content-section {
+     background-color: #cfddd0; 
+     /* padding: 20px 0; */
+     padding-left:15%; padding-right:15%
+ }
+
+ .first-section {
+     background-color: #fdfbf8;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     padding: 20px; 
+ }
+
+ .hedings {
+     font-size: 46px;
+     line-height: 58px;
+     font-family: 'Orpheus Pro';
+ }
+
+ .right-headings {
+     line-height: 50px;
+     color: #ffffff;
+     font-family: 'Montserrat', sans-serif;
+ }
+
+ .content {
+     padding: 0 24% 0 28% !important;
+ }
+
+ p {
+     font-family: 'Montserrat', sans-serif;
+ }
+
+ .second-section {
+     background-color: #e9ecef;
+     padding: 20px; 
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     height: 100%; 
+     background-image: url('./image/right-side.jpg');
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     width: 100%;
+     color: white; 
+     text-align: center;
+ }
+
+ .inner-div {
+     padding: 0 20% 0 18% !important; 
+ }
+
+ .first-section .content {
+     text-align: center;
+ }
+
+ .custom-btn {
+     font-size: 16px;
+     line-height: 50px;
+     font-weight: 700;
+     background-color: transparent;
+     color: #4789cc;
+     display: inline-block;
+     padding: 0 30px;
+     cursor: pointer;
+     position: relative;
+     border-width: 2px;
+     border-style: solid;
+     border-radius: 30px;
+     letter-spacing: -1px;
+     vertical-align: top;
+ }
+
+ .custom-btn:hover {
+    background-color: #4789cc;
+    border-color: #4789cc;
+    color:#fff;
+ }
+
+ .custom-icon {
+     font-size: 30px; 
+     color: #4db359;
+     transition: color 0.3s, background-color 0.3s;
+     position: relative;
+ }
+
+ .cards {
+     background-color: transparent;
+     overflow: hidden;
+     padding: 15px;
+     position: relative;
+     transition: background-color 0.3s, transform 0.3s;
+ }
+
+ .cards:hover {
+     background-color: #4db359;
+     /* transform: scale(1.02); */
+ }
+
+ .cards-heading {
+     padding: 15px;
+ }
+ .card-fonts-heading-color{
+     color:#000;
+     font-family:'Orpheus Pro';
+ }
+ .card-fonts-color{
+     color:#7a7d7e;
+     font-family:'Montserrat';
+ }
+ .cards:hover .card-fonts-heading-color, .cards:hover .card-fonts-color{
+     color:#FFFFFF;
+ }
+
+ .cards-body {
+     padding: 10px;
+ }
+
+ .cards-footer {
+     padding: 15px;
+     position: relative;
+ }
+ 
+
+ .cards-footer::before {
+     content: 'Read More';
+     position: absolute;
+     left:30%;
+     transform: translateX(-50%);
+     bottom: 15px;
+     font-size: 14px;
+     color: #fff;
+     opacity: 0;
+     transition: opacity 0.3s;
+     font-family:'Montserrat';
+ }
+
+ .cards:hover .custom-icon {
+     color: #fff; 
+ }
+ .cards:hover .custom-icons {
+     margin-left:50px
+ }
+
+ .cards:hover .cards-footer::before {
+     opacity: 1;
+ }
+
+ .custom-footer-icons-div {
+     display: flex;
+     align-items: center; 
+     justify-content: center; 
+ }
+ .left-side{
+   position: static;
+   width: 80%;
+   height: 80%;
+ }
+ .side-element{
+   position: relative;
+   background-color: #0f5194;
+   color: #fff;
+   width: 50%;
+   font-size: x-large;
+   padding: 40px;
+   left: 40%;
+   top: -100px;
+   font-family: "Montserrat";
+ }
+
+
+.left-section-padding{
+    padding: 0 24% 0 20%;
+}
+
+.home-right-bg{
+    background-image: url('../img/2-1.jpg');
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+}
+.h2-title{
+    font-size: 46px;
+    line-height: 58px;
+    text-align: left;
+    font-family: 'Orpheus Pro';
+    color: #000;
+    font-weight: bold;
+}
+.h2-heading-section-space{
+    text-align: left;
+    /* margin-top: 190px; */
+    margin-bottom: 15px;
+}
+.left-margin-top-bottom{
+    margin-top: 100px;
+    margin-bottom:70px
+}
+.text-content-space{
+    text-align: left;
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+.text-content{
+    font-family: 'Montserrat';
+    font-size: 20px;
+    line-height: 28px;
+    font-weight: 400;
+    color: #7d7d7d;
+}
+.right-content-padding{
+    padding: 0 10% 0 10%;
+}
+
+.right-content{
+    font-size: 38px;
+    line-height: 50px;
+    color: #ffffff;
+    text-align: left;
+    font-family: 'Orpheus Pro';
+    font-weight: bold;
+
+} .pd-0{
+    /* padding: 0px !important; */
+}
+
+.banner {
+    background-image: url('../img/2-2.jpg'); 
+    background-position: top center; 
+    background-repeat: no-repeat; 
+    background-attachment: scroll; 
+    background-size: cover;
+    padding: 250px 0 150px 0;
+}
+
+.banner-title {
+    color:#fff; 
+    font-family:'Montserrat';
+}
+
+.banner-header {
+    color:#fff; 
+    font-family:'Orpheus Pro';
+    font-weight: bold;
+}
+
+
+
+@media (max-width: 1024px) {
+    .banner {
+        padding: 100px 0 100px 0;
+    }
+} 
+
+@media (max-width: 768px) {
+    .banner {
+        padding: 50px 0 50px 0;
+    }
+    
+
+@media only screen and (max-width: 767px) {
+    .left-section-padding {
+        padding: 0 4% 35px 10%;
+    } 
+    .right-content-padding{
+        padding: 0 10% 0 10% !important;
+    }
+    .zero-margin{
+        margin:0px !important;
+    }
+    
+    .zero-padding{
+        padding:0px !important;
+    }
+} 
+    .p-xs-0{
+        padding-top: 0px !important;
+        padding-bottom: 0px !important;
+    }
+    .display-3 {
+        font-size: 1.5rem !important;
+        font-weight: 300;
+        line-height: 1.2;
+    }
+    .side-element{
+        padding: 20px !important;
+        font-size: medium !important;
+    }
+}
+@media only screen and (max-width: 1024px) {
+    .left-section-padding {
+        padding: 0 5% 35px 10%;
+    }
+    .pd-0{
+        /* padding: 0px !important; */
+    }
+    .mobile-left-section-padding {
+        padding: 0 5% 35px 10% !important;
+    }
+    
+}

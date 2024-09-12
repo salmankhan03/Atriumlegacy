@@ -7,14 +7,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta content="" name="keywords">
     <meta content="" name="description">
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
-    <link href="https://www.onlinewebfonts.com/download/2aea0ac500c896188f9ad191c231029c" rel="stylesheet">
+    <link rel="stylesheet" href="./css/style.css">
+    <!-- <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://www.onlinewebfonts.com/download/2aea0ac500c896188f9ad191c231029c" rel="stylesheet"> -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
-    <style>
+    <!-- <style>
        body {
             font-family: 'Montserrat', sans-serif;
             font-size: 1rem;
@@ -192,9 +193,9 @@
         }
 
 
-    </style>
+    </style> -->
 
-    <style id="green-planet-retina-inline-css" type="text/css">
+    <!-- <style id="green-planet-retina-inline-css" type="text/css">
 
         #cmsmasters_row_ucs4e1cfdh .cmsmasters_row_outer_parent { 
         	padding-top: 0px; 
@@ -608,7 +609,7 @@
             }
         } 
 
-    </style>
+    </style> -->
 </head>
 
 <body>
@@ -619,121 +620,7 @@
                 <!-- Start Content -->
                 <div class="middle_content entry"></div>
             </div>
-            <!-- <div id="cmsmasters_row_83hce86sns" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_fullwidth">
-                <div class="cmsmasters_row_outer_parent">
-                    <div class="cmsmasters_row_outer">
-                        <div class="cmsmasters_row_inner cmsmasters_row_fullwidth">
-                            <div class="cmsmasters_row_margin cmsmasters_11">
-                                <div id="cmsmasters_column_" class="cmsmasters_column one_first">
-                                    <div class="cmsmasters_column_inner">
-                                        
-                                        <div class="cmsmasters_slider">
-                                            <rs-module-wrap id="rev_slider_1_1_wrapper" data-source="gallery" style="visibility:hidden;background:transparent;padding:0;margin:0px auto;margin-top:0;margin-bottom:0;">
-                                                <rs-module id="rev_slider_1_1" style="" data-version="6.7.15">
-                                                    <rs-slides style="overflow: hidden; position: absolute;">
-                                                        <rs-slide style="position: absolute;" data-key="rs-2" data-title="Slide" data-thumb="//green-planet.cmsmasters.net/wp-content/uploads/2017/12/1-3-100x50.jpg" data-anim="adpr:false;">
-                                                            <img decoding="async" src="img/2-2.jpg" alt="" title="Home" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="img/2-2.jpg" data-panzoom="d:10000;ss:100;se:103;oe:10/0;" data-no-retina>
-                                                            <rs-layer
-                                                                id="slider-1-slide-2-layer-3"
-                                                                data-type="text"
-                                                                data-color="#e3e2db||#e3e2db||#e3e2db||#ffffff"
-                                                                data-rsp_ch="on"
-                                                                data-xy="xo:110px,90px,90px,50px;yo:248px,199px,199px,137px;"
-                                                                data-text="w:nowrap,nowrap,nowrap,normal;s:24;l:68,68,68,36;a:inherit;"
-                                                                data-dim="w:auto,auto,auto,364px;"
-                                                                data-frame_0="tp:600;"
-                                                                data-frame_1="tp:600;sp:1300;sR:10;"
-                                                                data-frame_999="o:0;tp:600;st:w;sR:3690;"
-                                                                style="z-index:7;font-family:'Montserrat';"
-                                                            >OUR MISSION 
-                                                            </rs-layer>
-
-                                                            <rs-layer
-                                                                id="slider-1-slide-2-layer-1" 
-                                                                data-type="text"
-                                                                data-color="#fffef7||#fffef7||#fffef7||#ffffff"
-                                                                data-rsp_ch="on"
-                                                                data-xy="xo:110px,90px,90px,50px;yo:318px,269px,269px,207px;"
-                                                                data-text="s:62,62,62,48;l:70;fw:900;a:inherit;"
-                                                                data-frame_0="tp:600;"
-                                                                data-frame_1="tp:600;sp:700;sR:10;"
-                                                                data-frame_999="o:0;tp:600;st:w;sR:4290;"
-                                                                style="z-index:5;font-family:'Orpheus Pro';"
-                                                            >Fostering Values,
-                                                            </rs-layer>
-
-                                                            <rs-layer
-                                                                id="slider-1-slide-2-layer-2" 
-                                                                data-type="text"
-                                                                data-color="#fffef7||#fffef7||#fffef7||#ffffff"
-                                                                data-rsp_ch="on"
-                                                                data-xy="xo:110px,90px,90px,50px;yo:388px,339px,339px,277px;"
-                                                                data-text="s:62,62,62,48;l:70;fw:900;a:inherit;"
-                                                                data-frame_0="tp:600;"
-                                                                data-frame_1="tp:600;sp:700;sR:10;"
-                                                                data-frame_999="o:0;tp:600;st:w;sR:4290;"
-                                                                style="z-index:6;font-family:'Orpheus Pro';"
-                                                            >Supporting Wellness &
-                                                            </rs-layer>
-
-                                                            <rs-layer
-                                                                id="slider-1-slide-2-layer-3" 
-                                                                data-type="text"
-                                                                data-color="#fffef7||#fffef7||#fffef7||#ffffff"
-                                                                data-rsp_ch="on"
-                                                                data-xy="xo:110px,90px,90px,50px;yo:457px,414px,414px,349px;"
-                                                                data-text="s:62,62,62,48;l:70;fw:900;a:inherit;"
-                                                                data-frame_0="tp:600;"
-                                                                data-frame_1="tp:600;sp:700;sR:10;"
-                                                                data-frame_999="o:0;tp:600;st:w;sR:4290;"
-                                                                style="z-index:6;font-family:'Orpheus Pro';"
-                                                            >Promoting Sustainable
-                                                            </rs-layer>
-
-                                                            <rs-layer
-                                                            id="slider-1-slide-2-layer-4" 
-                                                                data-type="text"
-                                                                data-color="#fffef7||#fffef7||#fffef7||#ffffff"
-                                                                data-rsp_ch="on"
-                                                                data-xy="xo:110px,90px,90px,50px;yo:527px,484px,484px,419px;"
-                                                                data-text="s:62,62,62,48;l:70;fw:900;a:inherit;"
-                                                                data-frame_0="tp:600;"
-                                                                data-frame_1="tp:600;sp:700;sR:10;"
-                                                                data-frame_999="o:0;tp:600;st:w;sR:4290;"
-                                                                style="z-index:6;font-family:'Orpheus Pro';"
-                                                            >Communities
-                                                            </rs-layer>
-
-                                                            <rs-layer
-                                                                id="slider-1-slide-2-layer-6" 
-                                                                class="rev-btn"
-                                                                data-type="button"
-                                                                data-color="#90c1f2"
-                                                                data-rsp_ch="on"
-                                                                data-xy="xo:110px,90px,90px,50px;yo:630px,580px,580px,415px;"
-                                                                data-text="s:16;l:14;fw:700;a:inherit;"
-                                                                data-actions='o:click;a:simplelink;target:_self;url:https://green-planet.cmsmasters.net/about-us/;'
-                                                                data-padding="t:18;r:40;b:18;l:40;"
-                                                                data-border="bos:solid;boc:#90c1f2;bow:2,2,2,2;bor:30px,30px,30px,30px;"
-                                                                data-frame_0="tp:600;"
-                                                                data-frame_1="tp:600;sp:1800;sR:10;"
-                                                                data-frame_999="o:0;tp:600;st:w;sR:3190;"
-                                                                data-frame_hover="c:#0f5194;bgc:#4789cc;boc:#4789cc;bor:30px,30px,30px,30px;bos:solid;bow:2px,2px,2px,2px;oX:50;oY:50;e:none;"
-                                                                style="z-index:8;background-color:rgba(255,255,255,0);font-family:'Montserrat';cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;"
-                                                            >Learn more 
-                                                            </rs-layer>
-                                                    </rs-slide>
-                                                </rs-module>
-                                            </rs-module-wrap>
-                                        </div>
-
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div> -->
+            
 
             <div class = "banner">
                 <div class = "container">
@@ -746,15 +633,44 @@
                         Promoting Sustainable <br/>
                         Communities
                     </h1>
-                    <div id="cmsmasters_button_wjzk57hjpe" class="button_wrap" style="padding-top: 10px;">
-                        <a href="#" class="cmsmasters_button">
+                    <div id="" class="button_wrap" style="padding-top: 10px;">
+                        <a href="#" class="custom-btn">
                             <span>Learn More</span>
                         </a>
                     </div>
                 </div>
-            </div>
+            </div>  
+            <!-- fIRST SECTION -->
+                <div class="row equal-height">
+                    <div class="col-md-8 col-lg-8">
+                        <div class="left-section-padding left-margin-top-bottom">
+                            <div class="h2-heading-section-space">
+                                <h2 class="h2-title">Welcome to <br/> Atrium Legacy Foundation</h2>
+                            </div>
+                            <div class="text-content-space">
+                                <h4 class="text-content">
+                                    Atrium Legacy Foundation believes that true progress lies in the values we impart, the communities we nurture, and the future we build together. We are dedicated to creating a lasting impact by fostering empathy in our youth, ensuring dignified aging for our seniors, and promoting sustainable solutions that uplift our communities.
+                                </h4>
+                            </div>
+                            <div id="cmsmasters_button_wjzk57hjpe" class="button_wrap">
+                                <a href="#" class="cmsmasters_button">
+                                    <span>Find Out More</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-lg-4 d-flex align-items-center justify-content-center home-right-bg">
+                        <div class="text-center right-content-padding ">
+                            <h2 class="right-content ">
+                                We envision communities where every individual is empowered to thrive, with access to the resources and support they need across all stages of life.
+                            </h2>
+                        </div>
+                    </div>
 
-            <div id="cmsmasters_row_ucs4e1cfdh" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_fullwidth">
+                </div>
+            <!-- fIRST SECTION -->
+
+            <!-- <div id="cmsmasters_row_ucs4e1cfdh" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_fullwidth">
                 <div class="cmsmasters_row_outer_parent">
                     <div class="cmsmasters_row_outer">
                         <div class="cmsmasters_row_inner cmsmasters_row_fullwidth cmsmasters_row_no_margin">
@@ -763,10 +679,7 @@
                                     <div class="cmsmasters_column_inner">
                                         <div id="cmsmasters_heading_vb4bc56kh4" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
                                             <h2 class="cmsmasters_heading">Welcome to <br/> Atrium Legacy Foundation </h2>
-                                        </div>
-                                        <!-- <div id="cmsmasters_heading_qr7neufiw" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                            <h5 class="cmsmasters_heading">Green. That’s how we’d like the world to be</h5>
-                                        </div> -->
+                                        </div>                                
                                         <div id="cmsmasters_heading_pqvyo1eyi8" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
                                             <h4 class="cmsmasters_heading">Atrium Legacy Foundation believe that true progress lies in the values we impart, the communities we nurture, and the future we build together. We are dedicated to creating a lasting impact by fostering empathy in our youth, ensuring dignified aging for our seniors, and promoting sustainable solutions that uplift our communities. </h4>
                                         </div>
@@ -788,12 +701,7 @@
                                                     <div id="cmsmasters_heading_63i9tt335y" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
                                                         <h2 class="cmsmasters_heading">We envision communities where every individual is empowered to thrive, with access to
                                                         the resources and support they need across all stages of life.</h2>
-                                                    </div>
-                                                    <!-- <div id="cmsmasters_heading_63i9tt335f" class="cmsmasters_heading_wrap cmsmasters_heading_align_left">
-                                                        <h6 class="cmsmasters_heading">Water covers two-thirds of the surface of the Earth, but Fresh water is 0.002% on Earth. What will your children drink?</h6>
-                                                    </div>
-                                                    <div id="cmsmasters_button_63i9tt335f" class="button_wrap"><a href="https://green-planet.cmsmasters.net/project/saving-the-arctic/" class="cmsmasters_button"><span>Make a difference now!</span></a></div> -->
-
+                                                    </div>                                                   
                                                 </div>
                                             </div>
                                         </div>
@@ -803,23 +711,23 @@
                         </div>
                     </div>
                 </div>
-            </div>
-            
-            <div class="content-section">
-                <div class="">
-                    <div class="row no-gutters pt-5 pb-5"> 
-                        <div class="col-sm-12 col-md-6 col-lg-6 text-content p-4 ">
-                        <h2 class="hedings mt-4 mb-4" style="color:#000">Our Initiatives </h2>
+            </div> -->
+            <!-- SECOND SECTION -->
+            <div style="background-color: #cfddd0;">
+                <div class="header_mid_inner pd-0">
+                    <div class="row ml-0 mr-0" >
+                        <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0">
+                            <div class="pt-5 pb-5 p-xs-0 ">
+                                <h2 class="hedings mt-4 mb-4 mobile-left-section-padding" style="color:#000">Our Initiatives </h2>
+                            </div>
                         </div>
                         <div class="col-sm-12 col-md-6 col-lg-6 text-content p-4">
-                            <p class="mt-4 mb-4" style="font-size: 20px">Empowering communities through strategic initiatives that address today’s challenges and build a better tomorrow.</p>
+                            <div class="pt-5 pb-5">
+                                <p class="" style="font-size: 20px">Empowering communities through strategic initiatives that address today’s challenges and build a better tomorrow.</p>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <!-- </div>
-                <div class="content-section"> -->
-                <div class="">
-                    <div class="row no-gutters pt-5 pb-5 p-4" > 
+                    <div class="row pt-5 pb-5"> 
                         <div class="col-sm-12 col-md-6 col-lg-3 text-content">
                             <div class="cards">
                                 <div class="cards-heading text-center">
@@ -891,11 +799,117 @@
                     </div>
                 </div>
             </div>
-        </div>
-    </div>
-    <br>
+            
+             <!-- SECOND SECTION -->
+            <!-- <div class="content-section">
+                <div class="">
+                    <div class="row no-gutters pt-5 pb-5"> 
+                        <div class="col-sm-12 col-md-6 col-lg-6 text-content p-4 ">
+                        <h2 class="hedings mt-4 mb-4" style="color:#000">Our Initiatives </h2>
+                        </div>
+                        <div class="col-sm-12 col-md-6 col-lg-6 text-content p-4">
+                            <p class="mt-4 mb-4" style="font-size: 20px">Empowering communities through strategic initiatives that address today’s challenges and build a better tomorrow.</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="">
+                    <div class="row no-gutters pt-5 pb-5 p-4" > 
+                        <div class="col-sm-12 col-md-6 col-lg-3 text-content">
+                            <div class="cards">
+                                <div class="cards-heading text-center">
+                                    <img src="./img/first-aid-kit.png" style="width:50px">
+                                </div>
+                                <div class="cards-body text-center mt-4">
+                                    <h4 class="card-fonts-heading-color">ReStart Education</h4>
+                                    <p class="mt-3 text-center card-fonts-color">Cultivating the next generation to prioritize social values, empathy, and community engagement over material wealth.</p>
+                                </div>
+                                <div class="cards-footer mt-4 text-center">
+                                    <div class="custom-footer-icons-div">
+                                        <i class="fa fa-arrow-right  custom-icons custom-icon" aria-hidden="true"></i>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-12 col-md-6 col-lg-3 text-content">
+                            <div class="cards">
+                                <div class="cards-heading text-center">
+                                    <img src="./img/heart.png" style="width:50px">
+                                </div>
+                                <div class="cards-body text-center mt-4">
+                                    <h4 class="card-fonts-heading-color">Aging Grace</h4>
+                                    <p class="mt-3 text-center card-fonts-color">Promoting comprehensive wellness and societal integration for seniors, ensuring they remain vital members of the community.</p>
+                                </div>
+                                <div class="cards-footer mt-4 text-center">
+                                    <div class="custom-footer-icons-div">
+                                        <i class="fa fa-arrow-right custom-icons custom-icon" aria-hidden="true"></i>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-12 col-md-6 col-lg-3 text-content">
+                            <div class="cards">
+                                <div class="cards-heading text-center">
+                                    <img src="./img/fashion.png" style="width:50px">
+                                </div>
+                                <div class="cards-body text-center mt-4">
+                                    <h4 class="card-fonts-heading-color">HomeStrong </h4>
+                                    <p class="mt-3 text-center card-fonts-color">Addressing the urgent need for fast and affordable housing solutions, fostering stability and security for vulnerable populations.</p>
+                                </div>
+                                <div class="cards-footer mt-4 text-center">
+                                    <div class="custom-footer-icons-div">
+                                        <i class="fa fa-arrow-right custom-icons custom-icon" aria-hidden="true"></i>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-12 col-md-6 col-lg-3 text-content">
+                            <div class="cards">
+                                <div class="cards-heading text-center">
+                                    <img src="./img/piggy-bank.png" style="width:50px">
+                                </div>
+                                <div class="cards-body text-center mt-4">
+                                    <h4 class="card-fonts-heading-color">AgriThrive</h4>
+                                    <p class="mt-3 text-center card-fonts-color">Leveraging agricultural technology to enhance global food security and empower communities to achieve self-sufficiency.</p>
+                                </div>
+                                <div class="cards-footer mt-4 text-center">
+                                    <div class="custom-footer-icons-div">
+                                        <i class="fa fa-arrow-right custom-icons custom-icon" aria-hidden="true"></i>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div> -->
+            <div class="header_mid_inner pd-0">
+                <div class="row ml-0 mr-0" >
+                    <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0">
+                        <div class="mt-5">
+                            <image class="left-side" src="./image/left-side.jpg" alt="left-side-image" ></image>
+                            <div class="side-element">
+                                <div> Empathy.</div>
+                                <div> Wellness.</div>
+                                <div> Sustainability.</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0">
+                        <div class="text-left p-0 p-md-5 right-content-padding">
+                            <h1 class="hedings pb-2" style="color: #000">Together, we can make a difference</h1>
+                            <div style="font-family: Orpheus Pro; font-style:italic; font-size:x-large">Join us in making a meaningful impact</div>
+                            <p class="mt-4 mb-4" style="font-family: Montserrat;">Whether through donations, volunteer work, or partnerships, your support plays a crucial role in creating a brighter, more inclusive future for everyone.</p>
+                            <div id="" class="button_wrap">
+                                <a href="#" class="custom-btn">
+                                    <span>Join Us</span>
+                                </a>
+                            </div>
+                        </div>                
+                    </div>
+                </div>
+            </div> 
 
-    <div class = "container">    
+    <!-- <div class="container">    
         <div class="row no-gutters Third Section">
             <div class="col-lg-6">
                 <div class="m-5">
@@ -916,7 +930,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <?php include 'footer.php'; ?> 
 
