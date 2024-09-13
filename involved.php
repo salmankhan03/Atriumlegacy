@@ -3048,7 +3048,7 @@
                     <div class="row ml-0 mr-0" >
                         <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 d-flex align-items-center">
                             <div class="p-xs-0 ">
-                                <h2 class="hedings mb-0" style="color:#000">Ways to Get Involved</h2>
+                                <h2 class="hedings mb-0" style="color:#000; font-weight:bold">Ways to Get Involved</h2>
                             </div>
                         </div>
                         <div class="col-sm-12 col-md-6 col-lg-6 text-content p-4">

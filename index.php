@@ -727,7 +727,7 @@
                     <div class="row ml-0 mr-0" >
                         <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0">
                             <div class="pt-5 pb-5 p-xs-0 ">
-                                <h2 class="hedings mt-5 mb-4 mobile-left-section-padding" style="color:#000; text-align:center">Our Initiatives </h2>
+                                <h2 class="hedings mt-5 mb-4 mobile-left-section-padding" style="color:#000; text-align:center; font-weight:bold;">Our Initiatives </h2>
                             </div>
                         </div>
                         <div class="col-sm-12 col-md-6 col-lg-6 text-content p-4">
@@ -937,7 +937,7 @@
                     </div>
                     <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 pb-5 d-flex align-items-center">
                         <div class="text-left p-0 p-md-5 right-content-padding">
-                            <h1 class="hedings pb-2" style="color: #000">Together, we can make a difference</h1>
+                            <h1 class="hedings pb-2" style="color: #000; font-weight:bold">Together, we can make a difference</h1>
                             <div style="font-family: Moisette; font-style:italic; font-size:26px; color:#000;">Join us in making a meaningful impact</div>
                             <p class="mt-4 mb-4" style="font-family: Montserrat; color:#000; font-size:18px">Whether through donations, volunteer work, or partnerships, your support plays a crucial role in creating a brighter, more inclusive future for everyone.</p>
                             <div id="" class="button_wrap">
