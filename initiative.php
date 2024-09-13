@@ -1544,24 +1544,24 @@
                                     <div class="tab-buttons cmsmasters_tabs_list" style="text-align:center">
                                        <button class="tab-button tabs-button-style mb-4 active" data-tab="tab1">
                                           <!-- <i class="fa fa-address-book tabs-icons-size" aria-hidden="true" ></i> -->
-                                          <img src="./img/human-brain.png" style="width:50px">
+                                          <img src="./img/ALF_Web_Icons/Green/ReStart_Education.png" style="width:75px">
                                           <br/>
                                           <span>ReStart Education</span>
                                        </button>
                                        <button class="tab-button tabs-button-style mb-4" data-tab="tab2">
                                           <!-- <i class="fa fa-address-book tabs-icons-size" aria-hidden="true" ></i> -->
-                                          <img src="./img/building.png" style="width:50px"><br/>
+                                          <img src="./img/ALF_Web_Icons/Green/Aging_Grace.png" style="width:75px"><br/>
 
                                           <span>Aging Grace</span>
                                        </button>
                                        <button class="tab-button tabs-button-style mb-4" data-tab="tab3">
                                           <!-- <i class="fa fa-address-book tabs-icons-size" aria-hidden="true" ></i> -->
-                                          <img src="./img/human-brain.png" style="width:50px"><br/>
+                                          <img src="./img/ALF_Web_Icons/Green/HomeStrong.png" style="width:75px"><br/>
                                           <span>HomeStrong</span>
                                        </button>
                                        <button class="tab-button tabs-button-style mb-4" data-tab="tab4">
                                           <!-- <i class="fa fa-address-book tabs-icons-size" aria-hidden="true"></i> -->
-                                          <img src="./img/building.png" style="width:50px">
+                                          <img src="./img/ALF_Web_Icons/Green/AgriThrive.png" style="width:75px">
                                           <br/>    
                                           <span>AgriThrive</span>
                                        </button>
