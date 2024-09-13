@@ -113,7 +113,7 @@
                 <div class = "aboutUsBanner">
                     <div class = "container text-center banner-paddings">
                         <h2 class = "banner-header text-center white-text">
-                            Contact Us
+                            About Us
                         </h2>                  
                     </div>
                 </div> 
@@ -142,7 +142,7 @@
             <div class="row equal-height">
                <div class="col-md-4 col-lg-4 col-sm-12 d-flex align-items-center justify-content-center about-story-bg">
                   <div class="text-center right-content-padding ">
-                    <h2 class="" style="font-size: 40px;line-height: 50px;color: #ffffff;font-family: 'Moisette';"> Founded on the belief that true progress is achieved through empathy, respect, and sustainability </h2>
+                    <h2 class="" style="font-size: 38px;line-height: 50px;color: #ffffff;font-family: 'Moisette';"> Founded on the belief that true progress is achieved through empathy, respect, and sustainability </h2>
                   </div>
                </div>
                <div class="col-md-8 col-lg-8 col-sm-12">
@@ -192,17 +192,17 @@
                     <div class="row ml-0 mr-0" >
                         <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 ">
                             <div class="pt-5 pb-5 p-xs-0 pr-3">
-                                <h2 class="hedings mt-5 mb-4 mobile-left-section-padding" style="color:#000; text-align:left">OUR MISSION </h2>
+                                <h2 class="hedings mt-5 mb-4" style="color:#000; text-align:left">OUR MISSION </h2>
                                 <h4 class="mb-4" style="color:#000; text-align:left;font-family: 'Moisette';">Our mission is to empower communities by instilling social values, supporting holistic wellness, and creating sustainable futures.</h4>
-                                <p class="" style="font-family: 'Montserrat';font-size: 18px;line-height: 28px;font-weight: 400;color: #7d7d7d;">Through our initiatives, we aim to address pressing societal challenges with innovative approaches that prioritize empathy, social responsibility, and community engagement.</p>
+                                <p class="" style="font-family: 'Montserrat';font-size: 18px;line-height: 28px;font-weight: 400;color: #000;">Through our initiatives, we aim to address pressing societal challenges with innovative approaches that prioritize empathy, social responsibility, and community engagement.</p>
 
                             </div>
                         </div>
                         <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 pr-3">
                             <div class="pt-5 pb-5 pl-3">
-                                <h2 class="hedings mt-5 mb-4 mobile-left-section-padding" style="color:#000; text-align:left">OUR MISSION </h2>
+                                <h2 class="hedings mt-5 mb-4" style="color:#000; text-align:left">OUR VISION </h2>
                                 <h4 class="mb-4" style="color:#000; text-align:left;font-family: 'Moisette';">We envision communities where every individual is empowered to thrive, with access to the resources and support they need across all stages of life.</h4>
-                                <p class="" style="font-family: 'Montserrat';font-size: 18px;line-height: 28px;font-weight: 400;color: #7d7d7d;">By fostering collaboration and innovation, we aim to create lasting impact that uplifts not just the present generation, but also future ones.</p>
+                                <p class="" style="font-family: 'Montserrat';font-size: 18px;line-height: 28px;font-weight: 400;color: #000;">By fostering collaboration and innovation, we aim to create lasting impact that uplifts not just the present generation, but also future ones.</p>
                             </div>
                         </div>
                     </div>    
@@ -405,11 +405,11 @@
                            <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0">
                               <div class="pt-5 pb-5 p-xs-0 ">
                                  <div class="h2-heading-section-space">
-                                    <h2 class="h2-title">Partnership Opportunities</h2>
+                                    <h2 class="h2-title" style="color: #ffffff;">Partnership Opportunities</h2>
                                  </div>
                                  <div class="text-content-space">
-                                    <h4 class="text-content">
-                                    The Atrium Legacy Foundation is always looking for new partners who share our commitment to social impact. Whether you are a corporation, non-profit, or community group, we invite you to join us in building a better future. Contact us to explore collaboration opportunities.
+                                    <h4 class="text-content" style="color: #ffffff;">
+                                        The Atrium Legacy Foundation is always looking for new partners who share our commitment to social impact. Whether you are a corporation, non-profit, or community group, we invite you to join us in building a better future. Contact us to explore collaboration opportunities.
                                     </h4>
                                  </div>
                                  <div id="" class="button_wrap">

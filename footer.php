@@ -98,14 +98,15 @@
     <footer>
         <div class = "container">
             <div class="row w-100" style="padding-top: 40px;">
-                <div class="col-sm-12 col-md-7 col-lg-7  mt-sm-3" >
-                    <div class="row">
-                        <div class="col-sm-12 col-md-7 col-lg-7 p-xs-0" >
-                            <div class="title">
+                <div class="col-sm-12 col-md-7 col-lg-7 mb-sm-2">
+                    <div class="row h-100">
+                        <div class="col-sm-12 col-md-7 col-lg-7 d-flex align-items-center" >
+                            <!-- <div class="title">
                                 <h2 class="text-left">
                                     <span class="footerSlogan" style="font-size: 46px">We need <br/> solutions now!</span>
                                 </h2>
-                            </div>
+                            </div> -->
+                            <img src="img/ALF_logo_4C.svg" style="width: 250px;">
                         </div>
                     <!-- <div class="col-sm-12 col-md-5 col-lg-5" >
                     

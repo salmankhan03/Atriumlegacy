@@ -727,7 +727,7 @@
                     <div class="row ml-0 mr-0" >
                         <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0">
                             <div class="pt-5 pb-5 p-xs-0 ">
-                                <h2 class="hedings mt-5 mb-4 mobile-left-section-padding" style="color:#000; text-align:left">Our Initiatives </h2>
+                                <h2 class="hedings mt-5 mb-4 mobile-left-section-padding" style="color:#000; text-align:center">Our Initiatives </h2>
                             </div>
                         </div>
                         <div class="col-sm-12 col-md-6 col-lg-6 text-content p-4">
@@ -751,7 +751,7 @@
                                 <div class="cards-body text-center mt-4">
                                     <h4 class="card-fonts-heading-color">ReStart Education</h4>
                                     <p class="mt-3 text-center card-fonts-color">
-                                        Cultivating empathy, social responsibility, and community engagement values over materialism.
+                                        Cultivate a generation that values empathy, social responsibility, and community engagement over material wealth.
                                     </p>
                                 </div>
                                 <a href="initiative.php#tab1" style="text-decoration: none;">
