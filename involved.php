@@ -3438,11 +3438,12 @@
                      </div>
                   </div>
                </div> -->
-               <div class="row custom-banner">
-                  <div>
-                  <div class="col-md-6 col-lg-6">
-                        <div class="bottom-banner-content-padding left-margin-top-bottom">
-                            <div class="h2-heading-section-space">
+               <div class="custom-banner w-100">
+                  <div class="header_mid_inner pd-0 ">
+                     <div class="row ml-0 mr-0" >
+                           <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0">
+                              <div class="pt-5 pb-5 p-xs-0 ">
+                                <div class="h2-heading-section-space">
                                 <h2 class="h2-title">Welcome to <br/> Atrium Legacy Foundation</h2>
                             </div>
                             <div class="text-content-space">
@@ -3456,15 +3457,14 @@
                                 </a>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-md-6 col-lg-6 d-flex align-items-center justify-content-center home-right-bg">
-                        <div class="text-center right-content-padding ">
-                            
-                        </div>
-                    </div>
-                  
+                              </div>
+                           </div>
+                           <div class="col-sm-12 col-md-6 col-lg-6 text-content p-4">
+                              <div class="pt-5 pb-5">
+                              </div>
+                           </div>
+                     </div>
                </div>
-            <!--  -->
          </div>
       </div>
       <?php include 'footer.php'; ?> 
