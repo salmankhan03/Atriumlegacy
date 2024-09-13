@@ -6,7 +6,8 @@
             <meta name="viewport" content="width=device-width, initial-scale=1">
             <meta content="" name="keywords">
             <meta content="" name="description">
-            <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+            <link rel="stylesheet" href="./css/style.css">
+            <!-- <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet"> -->
             <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
             <!-- <link rel="stylesheet" href="./css/initiative.css"> -->
@@ -26,12 +27,12 @@
                     } */
                     .cmsmasters_heading {
                         text-align: left;
-                        font-family: 'Orpheus Pro' !important;
+                        font-family: 'Moisette' !important;
                         font-weight: bold;
                         color: #000;
                     }
                  #cmsmasters_row_nofslyz1hn { 
-                    background-image: url('./img/about-us.jpg'); 
+                    background-image: url(img/contact_us.jpg); 
                     background-position: top center; 
                     background-repeat: no-repeat; 
                     background-attachment: scroll; 
@@ -130,7 +131,7 @@
                         line-height: 30px;
                         font-weight: 700;
                         font-style: italic;
-                        font-family: 'Orpheus Pro';
+                        font-family: 'Moisette';
                         color: #000;
                     }
                     @media only screen and (max-width: 1024px) {

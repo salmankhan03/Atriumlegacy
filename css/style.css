@@ -14,6 +14,13 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'Moisette';
+    src: url('../css/fonts/Montserrat/static/Montserrat-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 body {
      font-family: 'Montserrat', sans-serif;
      font-size: 1rem;
@@ -41,7 +48,7 @@ body {
  .hedings {
      font-size: 46px;
      line-height: 58px;
-     font-family: 'Orpheus Pro';
+     font-family: 'Moisette';
  }
 
  .right-headings {
@@ -115,7 +122,7 @@ body {
  .cards {
      background-color: transparent;
      overflow: hidden;
-     padding: 15px;
+     /* padding: 15px; */
      position: relative;
      transition: background-color 0.3s, transform 0.3s;
  }
@@ -130,10 +137,11 @@ body {
  }
  .card-fonts-heading-color{
      color:#000;
-     font-family:'Orpheus Pro';
+     font-family:'Moisette';
+     font-size: 26px;
  }
  .card-fonts-color{
-     color:#7a7d7e;
+     color:#000;
      font-family:'Montserrat';
  }
  .cards:hover .card-fonts-heading-color, .cards:hover .card-fonts-color{
@@ -205,14 +213,15 @@ body {
     padding: 0 6% 0 20% !important;
 }
 .home-right-bg{
-    background-image: url('../img/2-1.jpg');
+    /* test */
+    background-image: url('../img/home_2.jpg');
     background-position: top center;
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-size: cover;
 }
 .involved-right-bg{
-    background-image: url('../img/1-2.jpg');
+    background-image: url('../img/get_involved_2.jpg');
     background-position: top center;
     background-repeat: no-repeat;
     background-attachment: scroll;
@@ -220,15 +229,23 @@ body {
     min-height: 400px;
 }
 .involved-right-3-bg{
-    background-image: url('../img/2-21.jpg');
+    background-image: url('../img/get_involved_4.jpg');
     background-position: top center;
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-size: cover;
     min-height: 400px;
 }
-.involved-left-bg{
-    background-image: url('../img/6-1.jpg');
+.involved-left-2-bg{
+    background-image: url('../img/get_involved_3.jpg');
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    min-height: 400px;
+}
+.involved-left-4-bg{
+    background-image: url('../img/get_involved_5.jpg');
     background-position: top center;
     background-repeat: no-repeat;
     background-attachment: scroll;
@@ -239,7 +256,7 @@ body {
     font-size: 46px;
     line-height: 58px;
     text-align: left;
-    font-family: 'Orpheus Pro';
+    font-family: 'Moisette';
     color: #000;
     font-weight: bold;
 }
@@ -259,13 +276,13 @@ body {
 }
 .text-content{
     font-family: 'Montserrat';
-    font-size: 20px;
+    font-size: 18px !important;
     line-height: 28px;
     font-weight: 400;
-    color: #7d7d7d;
+    color: #000;
 }
 .right-content-padding{
-    padding: 0 10% 0 10%;
+    padding: 0 5% 0 10%;
 }
 
 .right-content{
@@ -273,15 +290,16 @@ body {
     line-height: 50px;
     color: #ffffff;
     text-align: left;
-    font-family: 'Orpheus Pro';
+    font-family: 'Moisette';
     font-weight: bold;
 
 } .pd-0{
     /* padding: 0px !important; */
+    /* Test */
 }
 
 .banner {
-    background-image: url('../img/2-2.jpg'); 
+    background-image: url('../img/home_1.jpg'); 
     background-position: top center; 
     background-repeat: no-repeat; 
     background-attachment: scroll; 
@@ -296,16 +314,18 @@ body {
 
 .banner-header {
     color:#fff !important; 
-    font-family:'Orpheus Pro' !important;
+    font-family:'Moisette' !important;
     font-weight: bold !important;
+    font-size: 62px;
 }
 .italic-heading{
     font-size: 24px;
     line-height: 35px;
     font-weight: 700;
     font-style: italic;
-    font-family:'Orpheus Pro' !important;
+    font-family:'Moisette' !important;
     letter-spacing: 3px !important ;
+    color: #000;
 }
 
 
@@ -327,7 +347,7 @@ body {
         padding: 0 4% 35px 10%;
     } 
     .right-content-padding{
-        padding: 0 10% 0 10% !important;
+        padding: 10px 5% 10px 10% !important;
     }
     .zero-margin{
         margin:0px !important;
@@ -359,7 +379,7 @@ body {
         /* padding: 0px !important; */
     }
     .mobile-left-section-padding {
-        padding: 0 5% 35px 10% !important;
+        padding: 0 5% 0px 5% !important;
     }
     
 }

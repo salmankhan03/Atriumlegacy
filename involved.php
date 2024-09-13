@@ -10,7 +10,7 @@
       <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-      <link rel="stylesheet" href="./css/initiative.css">
+      <!-- <link rel="stylesheet" href="./css/initiative.css"> -->
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
       <!-- <style id='green-planet-retina-inline-css' type='text/css'>
@@ -2933,7 +2933,7 @@
 </style> -->
 <style>
    .involvedBanner {
-   background-image: url('./img/about-us.jpg');
+   background-image: url('./img/get_involved_1.jpg');
    background-position: top center; 
     background-repeat: no-repeat; 
     background-attachment: scroll; 
@@ -2949,7 +2949,7 @@
 
 /*  */
 .custom-banner {
-         background-image: url('./img/partner.jpg');
+         background-image: url('./img/get_involved_6.jpg');
          background-position: center center;
          background-repeat: no-repeat;
          background-attachment: scroll;
@@ -3023,7 +3023,7 @@
                               <div id="cmsmasters_column_tsg36hzfki" class="cmsmasters_column one_first">
                                  <div class="cmsmasters_column_inner">
                                     <div id="cmsmasters_heading_rrgejmijg" class="cmsmasters_heading_wrap cmsmasters_heading_align_center">                                    
-                                       <h2 class="cmsmasters_heading" style="font-family: 'Orpheus Pros'; font-weight: bold">Get Involved</h2>
+                                       <h2 class="cmsmasters_heading" style="font-family: 'Orpheus Pro'; font-weight: bold">Get Involved</h2>
                                     </div>
                                  </div>
                               </div>
@@ -3138,7 +3138,7 @@
                </div>
             </div>
             <div class="row equal-height">    
-               <div class="col-md-6 col-lg-6 d-flex align-items-center justify-content-center involved-left-bg">
+               <div class="col-md-6 col-lg-6 d-flex align-items-center justify-content-center involved-left-2-bg">
                   <div class="text-center right-content-padding ">
                   </div>
                </div>
@@ -3190,7 +3190,7 @@
                </div>
             </div>
             <div class="row equal-height">    
-               <div class="col-md-6 col-lg-6 d-flex align-items-center justify-content-center involved-left-bg">
+               <div class="col-md-6 col-lg-6 d-flex align-items-center justify-content-center involved-left-4-bg">
                   <div class="text-center right-content-padding ">
                   </div>
                </div>
@@ -3443,30 +3443,31 @@
                      <div class="row ml-0 mr-0" >
                            <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0">
                               <div class="pt-5 pb-5 p-xs-0 ">
-                                <div class="h2-heading-section-space">
-                                <h2 class="h2-title">Welcome to <br/> Atrium Legacy Foundation</h2>
-                            </div>
-                            <div class="text-content-space">
-                                <h4 class="text-content">
-                                    Atrium Legacy Foundation believes that true progress lies in the values we impart, the communities we nurture, and the future we build together. We are dedicated to creating a lasting impact by fostering empathy in our youth, ensuring dignified aging for our seniors, and promoting sustainable solutions that uplift our communities.
-                                </h4>
-                            </div>
-                            <div id="" class="button_wrap">
-                              <a href="#" class="custom-btn">
-                                    <span>Join Us Today</span>
-                                </a>
-                            </div>
-                        </div>
+                                 <div class="h2-heading-section-space">
+                                    <h2 class="h2-title">Why Get Involved?</h2>
+                                 </div>
+                                 <div class="text-content-space">
+                                    <h4 class="text-content">
+                                       Getting involved with Atrium Legacy Foundation is not just about giving; it’s about joining a collective effort to foster a supportive, equitable, and thriving society. By working together, we can create communities where every generation is empowered, respected, and has the opportunity to flourish. Your involvement helps us pave the way for a brighter future for all.
+                                    </h4>
+                                 </div>
+                                 <div id="" class="button_wrap">
+                                    <a href="#" class="custom-btn">
+                                          <span>Join Us Today</span>
+                                    </a>
+                                 </div>
                               </div>
                            </div>
                            <div class="col-sm-12 col-md-6 col-lg-6 text-content p-4">
                               <div class="pt-5 pb-5">
                               </div>
                            </div>
-                     </div>
-               </div>
-         </div>
-      </div>
+                     </div>  
+                  </div>
+               </div>        
+              
+         <!-- </div>
+      </div> -->
       <?php include 'footer.php'; ?> 
    </body>
 </html>
