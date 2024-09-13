@@ -5222,11 +5222,12 @@
 	@media only screen and (min-width: 1025px) {
 		ul.navigation > li > a, 
 		ul.navigation > li > a .nav_tag {
-			color:#e3e2db;
+			color:#fff;
+			/* font-size: 18px; */
 		}
 		
 		ul.navigation > li > a .nav_tag {
-			border-color:#e3e2db;
+			border-color:#fff;
 		}
 	}
 	/* Finish Navigation Title Link Color */
