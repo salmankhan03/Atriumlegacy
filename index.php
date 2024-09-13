@@ -935,7 +935,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 pb-5">
+                    <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 pb-5 d-flex align-items-center">
                         <div class="text-left p-0 p-md-5 right-content-padding">
                             <h1 class="hedings pb-2" style="color: #000">Together, we can make a difference</h1>
                             <div style="font-family: Moisette; font-style:italic; font-size:26px; color:#000;">Join us in making a meaningful impact</div>
