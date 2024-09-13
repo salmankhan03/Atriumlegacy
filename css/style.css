@@ -219,6 +219,23 @@ body {
     background-attachment: scroll;
     background-size: cover;
 }
+.about-story-bg{
+    background-image: url('../img/about_us_2.jpg') !important;
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;    
+    min-height: 400px;
+
+}
+.about-team-bg{
+    background-image: url('../img/about_us_3.jpg') !important;
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;    
+    min-height: 400px;
+}
 .involved-right-bg{
     background-image: url('../img/get_involved_2.jpg');
     background-position: top center;
