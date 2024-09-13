@@ -737,7 +737,7 @@
                         </div>
                     </div>
                     <div class="row pt-5 pb-5"> 
-                        <div class="col-sm-12 col-md-6 col-lg-3 text-content">
+                        <div class="col-sm-12 col-md-6 col-lg-3 text-content d-flex">
                             <div class="cards" id = "card1">
                                 <div class="cards-heading text-center">
                                     <!-- <i class="fa fa-medkit custom-icon" style="font-size:60px" aria-hidden="true"></i> -->
@@ -750,20 +750,20 @@
                                 </div>
                                 <div class="cards-body text-center mt-4">
                                     <h4 class="card-fonts-heading-color">ReStart Education</h4>
-                                    <p class="mt-3 text-center card-fonts-color">
+                                    <p class="mt-3 text-center card-fonts-color pb-0 mb-0">
                                         Cultivate a generation that values empathy, social responsibility, and community engagement over material wealth.
                                     </p>
                                 </div>
-                                <a href="initiative.php#tab1" style="text-decoration: none;">
-                                    <div class="cards-footer mt-4 text-center">
+                                <!-- <a href="initiative.php#tab1" style="text-decoration: none;"> -->
+                                    <div class="cards-footer text-center">
                                         <div class="custom-footer-icons-div">
                                             <i class="fa fa-arrow-right  custom-icons custom-icon" aria-hidden="true"></i>
                                         </div>
                                     </div>
-                                </a>
+                                <!-- </a> -->
                             </div>
                         </div>
-                        <div class="col-sm-12 col-md-6 col-lg-3 text-content">
+                        <div class="col-sm-12 col-md-6 col-lg-3 text-content d-flex">
                             <div class="cards" id = "card2">
                                 <div class="cards-heading text-center">
                                     <!-- <i class="fa fa-medkit custom-icon" style="font-size:60px" aria-hidden="true"></i> -->
@@ -776,20 +776,20 @@
                                 </div>
                                 <div class="cards-body text-center mt-4">
                                     <h4 class="card-fonts-heading-color">Aging Grace</h4>
-                                    <p class="mt-3 text-center card-fonts-color">
+                                    <p class="mt-3 text-center card-fonts-color pb-0 mb-0">
                                         Promoting comprehensive wellness and societal integration for seniors to enhance community involvement.
                                     </p>
                                 </div>
-                                <a href="initiative.php#tab2" style="text-decoration: none;">
-                                    <div class="cards-footer mt-4 text-center">
+                                <!-- <a href="initiative.php#tab2" style="text-decoration: none;"> -->
+                                    <div class="cards-footer text-center">
                                         <div class="custom-footer-icons-div">
                                             <i class="fa fa-arrow-right custom-icons custom-icon" aria-hidden="true"></i>
                                         </div>
                                     </div>
-                                </a>
+                                <!-- </a> -->
                             </div>
                         </div>
-                        <div class="col-sm-12 col-md-6 col-lg-3 text-content">
+                        <div class="col-sm-12 col-md-6 col-lg-3 text-content d-flex">
                             <div class="cards" id = "card3">
                                 <div class="cards-heading text-center">
                                     <!-- <i class="fa fa-medkit custom-icon" style="font-size:60px" aria-hidden="true"></i> -->
@@ -802,18 +802,18 @@
                                 </div>
                                 <div class="cards-body text-center mt-4">
                                     <h4 class="card-fonts-heading-color">HomeStrong </h4>
-                                    <p class="mt-3 text-center card-fonts-color">
+                                    <p class="mt-3 text-center card-fonts-color pb-0 mb-0">
                                         Addressing the need for fast and affordable housing solutions to create stability and security for vulnerable populations.
                                     </p>
                                 </div>
-                                <div class="cards-footer mt-4 text-center">
+                                <div class="cards-footer text-center">
                                     <div class="custom-footer-icons-div">
                                         <i class="fa fa-arrow-right custom-icons custom-icon" aria-hidden="true"></i>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-sm-12 col-md-6 col-lg-3 text-content">
+                        <div class="col-sm-12 col-md-6 col-lg-3 text-content d-flex">
                             <div class="cards" id = "card4">
                                 <div class="cards-heading text-center">
                                     <!-- <i class="fa fa-medkit custom-icon" style="font-size:60px" aria-hidden="true"></i> -->
@@ -826,11 +826,11 @@
                                 </div>
                                 <div class="cards-body text-center mt-4">
                                     <h4 class="card-fonts-heading-color">AgriThrive</h4>
-                                    <p class="mt-3 text-center card-fonts-color">
+                                    <p class="mt-3 text-center card-fonts-color pb-0 mb-0">
                                         Leveraging agricultural technology to improve food security and empower communities toward self-sufficiency.
                                     </p>
                                 </div>
-                                <div class="cards-footer mt-4 text-center">
+                                <div class="cards-footer text-center">
                                     <div class="custom-footer-icons-div">
                                         <i class="fa fa-arrow-right custom-icons custom-icon" aria-hidden="true"></i>
                                     </div>
