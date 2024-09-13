@@ -409,3 +409,7 @@ body {
 a {
     text-decoration: none !important;
   }
+
+.tabs-cards-body{
+    font-size: 18px;
+}
