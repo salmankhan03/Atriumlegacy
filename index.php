@@ -610,6 +610,15 @@
         } 
 
     </style> -->
+
+    <!-- change icon when hovering -->
+    <script>
+        function changeImageOnHover(card, icon, newSrc, originalSrc) {
+            card.onmouseover = () => icon.src = newSrc;
+            card.onmouseout = () => icon.src = originalSrc;
+        }
+    </script>
+
 </head>
 
 <body>
@@ -729,10 +738,15 @@
                     </div>
                     <div class="row pt-5 pb-5"> 
                         <div class="col-sm-12 col-md-6 col-lg-3 text-content">
-                            <div class="cards">
+                            <div class="cards" id = "card1">
                                 <div class="cards-heading text-center">
                                     <!-- <i class="fa fa-medkit custom-icon" style="font-size:60px" aria-hidden="true"></i> -->
-                                    <img src="./img/ALF_Web_Icons/Green/ReStart_Education.png" style="width:75px">
+                                    <img src="./img/ALF_Web_Icons/Green/ReStart_Education.png" style="width:75px" id="icon1">
+                                    <script>
+                                        const card1 = document.getElementById('card1');
+                                        const icon1 = document.getElementById('icon1');
+                                        changeImageOnHover(card1, icon1, "./img/ALF_Web_Icons/White/ReStart_Education.png", "./img/ALF_Web_Icons/Green/ReStart_Education.png");
+                                    </script>
                                 </div>
                                 <div class="cards-body text-center mt-4">
                                     <h4 class="card-fonts-heading-color">ReStart Education</h4>
@@ -750,10 +764,15 @@
                             </div>
                         </div>
                         <div class="col-sm-12 col-md-6 col-lg-3 text-content">
-                            <div class="cards">
+                            <div class="cards" id = "card2">
                                 <div class="cards-heading text-center">
                                     <!-- <i class="fa fa-medkit custom-icon" style="font-size:60px" aria-hidden="true"></i> -->
-                                    <img src="./img/ALF_Web_Icons/Green/Aging_Grace.png" style="width:75px">
+                                    <img src="./img/ALF_Web_Icons/Green/Aging_Grace.png" style="width:75px" id = "icon2">
+                                    <script>
+                                        const card2 = document.getElementById('card2');
+                                        const icon2 = document.getElementById('icon2');
+                                        changeImageOnHover(card2, icon2, "./img/ALF_Web_Icons/White/Aging_Grace.png", "./img/ALF_Web_Icons/Green/Aging_Grace.png");
+                                    </script>
                                 </div>
                                 <div class="cards-body text-center mt-4">
                                     <h4 class="card-fonts-heading-color">Aging Grace</h4>
@@ -771,10 +790,15 @@
                             </div>
                         </div>
                         <div class="col-sm-12 col-md-6 col-lg-3 text-content">
-                            <div class="cards">
+                            <div class="cards" id = "card3">
                                 <div class="cards-heading text-center">
                                     <!-- <i class="fa fa-medkit custom-icon" style="font-size:60px" aria-hidden="true"></i> -->
-                                    <img src="./img/ALF_Web_Icons/Green/HomeStrong.png" style="width:75px">
+                                    <img src="./img/ALF_Web_Icons/Green/HomeStrong.png" style="width:75px" id = "icon3">
+                                    <script>
+                                        const card3 = document.getElementById('card3');
+                                        const icon3 = document.getElementById('icon3');
+                                        changeImageOnHover(card3, icon3, "./img/ALF_Web_Icons/White/HomeStrong.png", "./img/ALF_Web_Icons/Green/HomeStrong.png");
+                                    </script>
                                 </div>
                                 <div class="cards-body text-center mt-4">
                                     <h4 class="card-fonts-heading-color">HomeStrong </h4>
@@ -790,10 +814,15 @@
                             </div>
                         </div>
                         <div class="col-sm-12 col-md-6 col-lg-3 text-content">
-                            <div class="cards">
+                            <div class="cards" id = "card4">
                                 <div class="cards-heading text-center">
                                     <!-- <i class="fa fa-medkit custom-icon" style="font-size:60px" aria-hidden="true"></i> -->
-                                    <img src="./img/ALF_Web_Icons/Green/AgriThrive.png" style="width:75px">
+                                    <img src="./img/ALF_Web_Icons/Green/AgriThrive.png" style="width:75px" id = "icon4">
+                                    <script>
+                                        const card4 = document.getElementById('card4');
+                                        const icon4 = document.getElementById('icon4');
+                                        changeImageOnHover(card4, icon4, "./img/ALF_Web_Icons/White/AgriThrive.png", "./img/ALF_Web_Icons/Green/AgriThrive.png");
+                                    </script>
                                 </div>
                                 <div class="cards-body text-center mt-4">
                                     <h4 class="card-fonts-heading-color">AgriThrive</h4>
