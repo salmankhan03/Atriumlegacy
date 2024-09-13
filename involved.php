@@ -3044,16 +3044,16 @@
             <!-- Empty Space -->
 
             <!-- second Section -->
-            <div class="header_mid_inner pd-0">
+            <div class="header_mid_inner pd-0 mt-5 mb-5">
                     <div class="row ml-0 mr-0" >
-                        <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0">
-                            <div class="pt-5 pb-5 p-xs-0 ">
-                                <h2 class="hedings mt-4 mb-4 mobile-left-section-padding" style="color:#000">Ways to Get Involved</h2>
+                        <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 d-flex align-items-center">
+                            <div class="p-xs-0 ">
+                                <h2 class="hedings mb-0" style="color:#000">Ways to Get Involved</h2>
                             </div>
                         </div>
                         <div class="col-sm-12 col-md-6 col-lg-6 text-content p-4">
-                            <div class="pt-5 pb-5">
-                                <p class="" style="font-size: 20px">We understand that creating meaningful social impact requires collective effort. Whether you are an individual, a corporation, or a community organization, there are many ways to get involved and contribute to our mission of fostering empathy, wellness, and sustainability. Your support, time, and resources are invaluable in helping us drive positive change and make a tangible difference in the lives of those we serve.</p>
+                            <div class="">
+                                <p class="mb-0 pb-0" style="font-size: 18px">We understand that creating meaningful social impact requires collective effort. Whether you are an individual, a corporation, or a community organization, there are many ways to get involved and contribute to our mission of fostering empathy, wellness, and sustainability. Your support, time, and resources are invaluable in helping us drive positive change and make a tangible difference in the lives of those we serve.</p>
                             </div>
                         </div>
                     </div>
