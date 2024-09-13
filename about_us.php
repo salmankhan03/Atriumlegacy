@@ -42,9 +42,19 @@
                         }
                 /*  */
 
-                .nav-tabs .nav-link {
+                .nav-link {
                   display: flex;
                   align-items: center;
+                  color: #000;
+               }
+               .nav-link.active,
+               .nav-item.show .nav-link {
+                    color: #000 !important;
+                }
+                .nav-tabs {
+                  display: flex;
+                  align-items: left;
+                  flex-direction: column;
                }
                .nav-tabs .nav-link:hover {
                   color:#000000
@@ -192,17 +202,25 @@
                     <div class="row ml-0 mr-0" >
                         <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 ">
                             <div class="pt-5 pb-5 p-xs-0 pr-3">
-                                <h2 class="hedings mt-5 mb-4" style="color:#000; text-align:left">OUR MISSION </h2>
-                                <h4 class="mb-4" style="color:#000; text-align:left;font-family: 'Moisette';">Our mission is to empower communities by instilling social values, supporting holistic wellness, and creating sustainable futures.</h4>
-                                <p class="" style="font-family: 'Montserrat';font-size: 18px;line-height: 28px;font-weight: 400;color: #000;">Through our initiatives, we aim to address pressing societal challenges with innovative approaches that prioritize empathy, social responsibility, and community engagement.</p>
+                                <div class="mt-5 mb-4" style="color:#000; text-align:left; font-size: 26px">OUR MISSION </div>
+                                <h4 class="mb-4" style="color:#000; text-align:left; font-family:'Moisette'; font-size:38px">
+                                    Our mission is to empower communities by instilling social values, supporting holistic wellness, and creating sustainable futures.
+                                </h4>
+                                <p class="" style="font-family: 'Montserrat';font-size: 18px;line-height: 28px;font-weight: 400;color: #000;">
+                                    Through our initiatives, we aim to address pressing societal challenges with innovative approaches that prioritize empathy, social responsibility, and community engagement.
+                                </p>
 
                             </div>
                         </div>
                         <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 pr-3">
                             <div class="pt-5 pb-5 pl-3">
-                                <h2 class="hedings mt-5 mb-4" style="color:#000; text-align:left">OUR VISION </h2>
-                                <h4 class="mb-4" style="color:#000; text-align:left;font-family: 'Moisette';">We envision communities where every individual is empowered to thrive, with access to the resources and support they need across all stages of life.</h4>
-                                <p class="" style="font-family: 'Montserrat';font-size: 18px;line-height: 28px;font-weight: 400;color: #000;">By fostering collaboration and innovation, we aim to create lasting impact that uplifts not just the present generation, but also future ones.</p>
+                                <div class="mt-5 mb-4" style="color:#000; text-align:left; font-size: 26px">OUR VISION </div>
+                                <h4 class="mb-4" style="color:#000; text-align:left; font-family:'Moisette'; font-size:38px">
+                                    We envision communities where every individual is empowered to thrive, with access to the resources and support they need across all stages of life.
+                                </h4>
+                                <p class="" style="font-family: 'Montserrat';font-size: 18px;line-height: 28px;font-weight: 400;color: #000;">
+                                    By fostering collaboration and innovation, we aim to create lasting impact that uplifts not just the present generation, but also future ones.
+                                </p>
                             </div>
                         </div>
                     </div>    
@@ -274,28 +292,28 @@
                                             <li class="nav-item p-0" role="presentation">
                                                 <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true" style="background-color:transparent;border:none">
                                                     <div>
-                                                        <span>Founder & CEO: [Name Placeholder]</span>
+                                                        <span>Founder & CEO:</span>
                                                     </div>
                                                 </a>
                                             </li>
                                             <li class="nav-item p-0" role="presentation">
                                                 <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false" style="background-color:transparent;border:none">
                                                     <div>
-                                                        <span>Treasurer: [Name Placeholder]</span>
+                                                        <span>Treasurer:</span>
                                                     </div>
                                                 </a>
                                             </li>
                                             <li class="nav-item p-0" role="presentation">
                                                 <a class="nav-link" id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="false" style="background-color:transparent;border:none">
                                                     <div>
-                                                        <span>Advisory Board</span>
+                                                        <span>Advisory Board:</span>
                                                     </div>
                                                 </a>
                                             </li>
                                             <li class="nav-item p-0" role="presentation">
                                                 <a class="nav-link" id="agriThrive-tab" data-toggle="tab" href="#agriThrive" role="tab" aria-controls="agriThrive" aria-selected="false" style="background-color:transparent;border:none;">
                                                     <div>
-                                                        <span>Board Members</span>
+                                                        <span>Board Members:</span>
                                                     </div>
                                                 </a>
                                             </li>
