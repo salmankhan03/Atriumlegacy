@@ -718,7 +718,7 @@
                     <div class="row ml-0 mr-0" >
                         <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0">
                             <div class="pt-5 pb-5 p-xs-0 ">
-                                <h2 class="hedings mt-5 mb-4 mobile-left-section-padding" style="color:#000; text-align:center">Our Initiatives </h2>
+                                <h2 class="hedings mt-5 mb-4 mobile-left-section-padding" style="color:#000; text-align:left">Our Initiatives </h2>
                             </div>
                         </div>
                         <div class="col-sm-12 col-md-6 col-lg-6 text-content p-4">
