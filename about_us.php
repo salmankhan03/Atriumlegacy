@@ -108,6 +108,14 @@
                         padding-bottom: 90px;
                     }
                 }
+                .blue-header{
+                    font-size:38px;
+                    line-height:50px;
+                    color:#ffffff;
+                    font-family:'Moisette';
+                    font-weight:bold;
+                    text-align:left;
+                }
    </style>
 </head>
 
@@ -152,7 +160,7 @@
             <div class="row equal-height">
                <div class="col-md-4 col-lg-4 col-sm-12 d-flex align-items-center justify-content-center about-story-bg">
                   <div class="text-center right-content-padding ">
-                    <h2 class="" style="font-size:38px; line-height:50px; color:#ffffff; font-family:'Moisette'; font-weight:bold"> Founded on the belief that true progress is achieved through empathy, respect, and sustainability </h2>
+                    <h2 class="blue-header"> Founded on the belief that true progress is achieved through empathy, respect, and sustainability </h2>
                   </div>
                </div>
                <div class="col-md-8 col-lg-8 col-sm-12">
@@ -288,32 +296,32 @@
                             <div class="row">
                                 <div class="col-md-5 col-lg-5 col-sm-12 pl-0 pr-0">
                                     <div class="d-block">
-                                        <ul class="nav nav-tabs w-100 d-flex no-bullets" id="myTab" role="tablist" style=" justify-content: space-between;    border-bottom: none;">
+                                        <ul class="nav nav-tabs w-100 d-flex no-bullets" id="myTab" role="tablist" style=" justify-content: space-between; border-bottom: none;">
                                             <li class="nav-item p-0" role="presentation">
                                                 <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true" style="background-color:transparent;border:none">
                                                     <div>
-                                                        <span>Founder & CEO:</span>
+                                                        <span style="font-size:18px">Founder & CEO:</span>
                                                     </div>
                                                 </a>
                                             </li>
                                             <li class="nav-item p-0" role="presentation">
                                                 <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false" style="background-color:transparent;border:none">
                                                     <div>
-                                                        <span>Treasurer:</span>
+                                                        <span style="font-size:18px">Treasurer:</span>
                                                     </div>
                                                 </a>
                                             </li>
                                             <li class="nav-item p-0" role="presentation">
                                                 <a class="nav-link" id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="false" style="background-color:transparent;border:none">
                                                     <div>
-                                                        <span>Advisory Board:</span>
+                                                        <span style="font-size:18px">Advisory Board:</span>
                                                     </div>
                                                 </a>
                                             </li>
                                             <li class="nav-item p-0" role="presentation">
                                                 <a class="nav-link" id="agriThrive-tab" data-toggle="tab" href="#agriThrive" role="tab" aria-controls="agriThrive" aria-selected="false" style="background-color:transparent;border:none;">
                                                     <div>
-                                                        <span>Board Members:</span>
+                                                        <span style="font-size:18px">Board Members:</span>
                                                     </div>
                                                 </a>
                                             </li>
@@ -321,7 +329,7 @@
                                     </div>
                                 </div>
                                 <div class="col-md-7 col-lg-7 col-sm-12">
-                                    <div class="tab-content mt-5 pl-3" id="myTabContent" style="border-left:1px solid #ccc " >
+                                    <div class="tab-content mt-5 pl-3" id="myTabContent" style="border-left:1px solid #ccc; font-size:18px" >
                                         <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
                                             <p>A visionary leader with a deep commitment to social impact, our CEO has been the driving force beMontserrat the foundation's mission to empower communities and create lasting change.</p>   
                                         </div>
@@ -342,7 +350,7 @@
             </div>
                <div class="col-md-4 col-lg-4 col-sm-12 d-flex align-items-center justify-content-center about-team-bg">
                   <div class="text-center right-content-padding ">
-                    <h2 class="" style="font-size: 40px;line-height: 50px;color: #ffffff;font-family: 'Moisette'; font-weight:bold">Together, we work tirelessly to develop and implement programs that address the most urgent needs of our communities.</h2>
+                    <h2 class="blue-header">Together, we work tirelessly to develop and implement programs that address the most urgent needs of our communities.</h2>
                   </div>
                </div>
             </div>
