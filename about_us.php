@@ -167,7 +167,7 @@
                   <div class="left-section-padding left-margin-top-bottom">
                         <div class="h2-heading-section-space mb-5">
                            <!-- <h2 class="h2-title mb-4">Donate</h2> -->
-                           <h2 class="h2-title mb-4" style="font-family: 'Moisette'; color: #000">Our Story</h2>
+                           <h2 class="h2-title mb-4">Our Story</h2>
                         </div>
                         <div class="text-content-space">
                            <h4 class="text-content">
@@ -288,7 +288,7 @@
                     <div class="header_mid_inner ">
                         <div class="left-section-padding left-margin-top-bottom">
                             <div class="h2-heading-section-space mb-5">
-                                <h2 class="h2-title mb-4" style="font-family: 'Moisette'; color: #000">Our Team</h2>
+                                <h2 class="h2-title mb-4">Our Team</h2>
                             </div>
                             <div class="text-content-space">
                                 <h4 class="text-content">

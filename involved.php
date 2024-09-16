@@ -1234,1700 +1234,1700 @@
       </style> -->
   
       <!-- <style id='green-planet-retina-inline-css' type='text/css'>
-#cmsmasters_row_qqwqmedij7 { 
-	background-image: url(https://green-planet.cmsmasters.net/wp-content/uploads/2017/08/1-1.jpg); 
-	background-position: top center; 
-	background-repeat: no-repeat; 
-	background-attachment: scroll; 
-	background-size: cover; 
-} 
-
-#cmsmasters_row_qqwqmedij7 .cmsmasters_row_outer_parent { 
-	padding-top: 355px; 
-} 
-
-#cmsmasters_row_qqwqmedij7 .cmsmasters_row_outer_parent { 
-	padding-bottom: 215px; 
-} 
-
-
-			@media only screen and (max-width: 1024px) {
-				#cmsmasters_row_qqwqmedij7 .cmsmasters_row_outer_parent {
-					padding-top: 200px;
-				}
-			}
-			
-			@media only screen and (max-width: 1024px) {
-				#cmsmasters_row_qqwqmedij7 .cmsmasters_row_outer_parent {
-					padding-bottom: 125px;
-				}
-			}
-			
-			@media only screen and (max-width: 768px) {
-				#cmsmasters_row_qqwqmedij7 .cmsmasters_row_outer_parent {
-					padding-top: 150px;
-				}
-			}
-			
-			@media only screen and (max-width: 768px) {
-				#cmsmasters_row_qqwqmedij7 .cmsmasters_row_outer_parent {
-					padding-bottom: 90px;
-				}
-			}
-			
-			@media only screen and (max-width: 540px) {
-				#cmsmasters_row_qqwqmedij7 .cmsmasters_row_outer_parent {
-					padding-top: 110px;
-				}
-			}
-			
-			@media only screen and (max-width: 540px) {
-				#cmsmasters_row_qqwqmedij7 .cmsmasters_row_outer_parent {
-					padding-bottom: 70px;
-				}
-			}
-			
-#cmsmasters_column_0xb7i0706e { 
-	border-style:default; 
-} 
-
-
-#cmsmasters_heading_hv8nh37g4 { 
-	text-align:center; 
-	margin-top:0px; 
-	margin-bottom:20px; 
-} 
-
-#cmsmasters_heading_hv8nh37g4 .cmsmasters_heading { 
-	text-align:center; 
-} 
-
-#cmsmasters_heading_hv8nh37g4 .cmsmasters_heading, #cmsmasters_heading_hv8nh37g4 .cmsmasters_heading a { 
-	font-size:62px; 
-	line-height:70px; 
-	color:#ffffff;
-} 
-
-#cmsmasters_heading_hv8nh37g4 .cmsmasters_heading a:hover { 
-} 
-
-#cmsmasters_heading_hv8nh37g4 .cmsmasters_heading_divider { 
-} 
-
-@media (max-width: 540px) {
-
-#cmsmasters_heading_hv8nh37g4 .cmsmasters_heading, #cmsmasters_heading_hv8nh37g4 .cmsmasters_heading a { 
-	font-size:45px; 
-	line-height:70px; 
-} 
-
-} 
-
-
-#cmsmasters_row_q1t7j86ye9 .cmsmasters_row_outer_parent { 
-	padding-top: 0px; 
-} 
-
-#cmsmasters_row_q1t7j86ye9 .cmsmasters_row_outer_parent { 
-	padding-bottom: 0px; 
-} 
-
-#cmsmasters_row_q1t7j86ye9 .cmsmasters_row_inner.cmsmasters_row_fullwidth { 
-	padding-left:0%; 
-} 
-#cmsmasters_row_q1t7j86ye9 .cmsmasters_row_inner.cmsmasters_row_fullwidth { 
-	padding-right:0%; 
-} 
-
-#cmsmasters_column_q71kv2eoef { 
-	border-style:default; 
-	background-image: url(https://green-planet.cmsmasters.net/wp-content/uploads/2017/08/5-1.jpg); 
-	background-position: top center; 
-	background-repeat: no-repeat; 
-	background-attachment: scroll; 
-	background-size: cover; 
-} 
-
-#cmsmasters_column_q71kv2eoef .cmsmasters_column_inner { 
-	padding: 186px 0% 50px 16%; 
-} 
-
-
-			@media only screen and (max-width: 1024px) {
-				#cmsmasters_column_q71kv2eoef .cmsmasters_column_inner {
-					padding:  95px 0% 50px 7%;
-				}
-			}
-			
-			@media only screen and (max-width: 768px) {
-				#cmsmasters_column_q71kv2eoef .cmsmasters_column_inner {
-					padding:  95px 0% 30px 6%;
-				}
-			}
-			
-#cmsmasters_heading_8oxg3s0x7p { 
-	text-align:left; 
-	margin-top:0px; 
-	margin-bottom:0px; 
-} 
-
-#cmsmasters_heading_8oxg3s0x7p .cmsmasters_heading { 
-	text-align:left; 
-} 
-
-#cmsmasters_heading_8oxg3s0x7p .cmsmasters_heading, #cmsmasters_heading_8oxg3s0x7p .cmsmasters_heading a { 
-	font-size:30px; 
-	line-height:38px; 
-	color:#ffffff;
-} 
-
-#cmsmasters_heading_8oxg3s0x7p .cmsmasters_heading a:hover { 
-} 
-
-#cmsmasters_heading_8oxg3s0x7p .cmsmasters_heading_divider { 
-} 
-
-@media (max-width: 1024px) {
-
-#cmsmasters_heading_8oxg3s0x7p .cmsmasters_heading, #cmsmasters_heading_8oxg3s0x7p .cmsmasters_heading a { 
-	font-size:25px; 
-	line-height:35px; 
-} 
-
-} 
-
-
-
-#cmsmasters_heading_jz7jbyuzuq { 
-	text-align:left; 
-	margin-top:0px; 
-	margin-bottom:20px; 
-} 
-
-#cmsmasters_heading_jz7jbyuzuq .cmsmasters_heading { 
-	text-align:left; 
-} 
-
-#cmsmasters_heading_jz7jbyuzuq .cmsmasters_heading, #cmsmasters_heading_jz7jbyuzuq .cmsmasters_heading a { 
-	font-size:30px; 
-	line-height:38px; 
-	color:#ffffff;
-} 
-
-#cmsmasters_heading_jz7jbyuzuq .cmsmasters_heading a:hover { 
-} 
-
-#cmsmasters_heading_jz7jbyuzuq .cmsmasters_heading_divider { 
-} 
-
-@media (max-width: 1024px) {
-
-#cmsmasters_heading_jz7jbyuzuq .cmsmasters_heading, #cmsmasters_heading_jz7jbyuzuq .cmsmasters_heading a { 
-	font-size:25px; 
-	line-height:35px; 
-} 
-
-} 
-
-
-
-#cmsmasters_column_s1e1taf28s { 
-	border-style:default; 
-	background-image: url(https://green-planet.cmsmasters.net/wp-content/uploads/2017/08/4-1.jpg); 
-	background-position: top center; 
-	background-repeat: no-repeat; 
-	background-attachment: scroll; 
-	background-size: cover; 
-} 
-
-#cmsmasters_column_s1e1taf28s .cmsmasters_column_inner { 
-	padding: 186px 34% 50px 16%; 
-} 
-
-
-			@media only screen and (max-width: 1024px) {
-				#cmsmasters_column_s1e1taf28s .cmsmasters_column_inner {
-					padding: 95px 0% 30px 7%;
-				}
-			}
-			
-#cmsmasters_heading_ryrsyganz { 
-	text-align:left; 
-	margin-top:0px; 
-	margin-bottom:0px; 
-} 
-
-#cmsmasters_heading_ryrsyganz .cmsmasters_heading { 
-	text-align:left; 
-} 
-
-#cmsmasters_heading_ryrsyganz .cmsmasters_heading, #cmsmasters_heading_ryrsyganz .cmsmasters_heading a { 
-	font-size:30px; 
-	line-height:38px; 
-	color:#ffffff;
-} 
-
-#cmsmasters_heading_ryrsyganz .cmsmasters_heading a:hover { 
-} 
-
-#cmsmasters_heading_ryrsyganz .cmsmasters_heading_divider { 
-} 
-
-@media (max-width: 1024px) {
-
-#cmsmasters_heading_ryrsyganz .cmsmasters_heading, #cmsmasters_heading_ryrsyganz .cmsmasters_heading a { 
-	font-size:25px; 
-	line-height:35px; 
-} 
-
-} 
-
-
-				@media only screen and (max-width: 1024px) {
-					#cmsmasters_heading_ryrsyganz {
-						margin-top: 0px;
-					}
-				}
-				
-
-#cmsmasters_heading_blu1kalsg8 { 
-	text-align:left; 
-	margin-top:0px; 
-	margin-bottom:20px; 
-} 
-
-#cmsmasters_heading_blu1kalsg8 .cmsmasters_heading { 
-	text-align:left; 
-} 
-
-#cmsmasters_heading_blu1kalsg8 .cmsmasters_heading, #cmsmasters_heading_blu1kalsg8 .cmsmasters_heading a { 
-	font-size:30px; 
-	line-height:38px; 
-	color:#ffffff;
-} 
-
-#cmsmasters_heading_blu1kalsg8 .cmsmasters_heading a:hover { 
-} 
-
-#cmsmasters_heading_blu1kalsg8 .cmsmasters_heading_divider { 
-} 
-
-@media (max-width: 1024px) {
-
-#cmsmasters_heading_blu1kalsg8 .cmsmasters_heading, #cmsmasters_heading_blu1kalsg8 .cmsmasters_heading a { 
-	font-size:25px; 
-	line-height:35px; 
-} 
-
-} 
-
-
-				@media only screen and (max-width: 1024px) {
-					#cmsmasters_heading_blu1kalsg8 {
-						margin-bottom: 40px;
-					}
-				}
-				
-
-#cmsmasters_column_026nuh762i { 
-	border-style:default; 
-	background-image: url(https://green-planet.cmsmasters.net/wp-content/uploads/2017/08/3-1.jpg); 
-	background-position: top center; 
-	background-repeat: no-repeat; 
-	background-attachment: scroll; 
-	background-size: cover; 
-} 
-
-#cmsmasters_column_026nuh762i .cmsmasters_column_inner { 
-	padding: 186px 5% 50px 11%; 
-} 
-
-
-			@media only screen and (max-width: 1024px) {
-				#cmsmasters_column_026nuh762i .cmsmasters_column_inner {
-					padding: 91px 0% 0 7%;
-				}
-			}
-			
-			@media only screen and (max-width: 768px) {
-				#cmsmasters_column_026nuh762i .cmsmasters_column_inner {
-					padding: 91px 7% 30px 7%;
-				}
-			}
-			
-#cmsmasters_heading_hq3uepdvsx { 
-	text-align:left; 
-	margin-top:0px; 
-	margin-bottom:0px; 
-} 
-
-#cmsmasters_heading_hq3uepdvsx .cmsmasters_heading { 
-	text-align:left; 
-} 
-
-#cmsmasters_heading_hq3uepdvsx .cmsmasters_heading, #cmsmasters_heading_hq3uepdvsx .cmsmasters_heading a { 
-	font-size:30px; 
-	line-height:38px; 
-	color:#ffffff;
-} 
-
-#cmsmasters_heading_hq3uepdvsx .cmsmasters_heading a:hover { 
-} 
-
-#cmsmasters_heading_hq3uepdvsx .cmsmasters_heading_divider { 
-} 
-
-@media (max-width: 1024px) {
-
-#cmsmasters_heading_hq3uepdvsx .cmsmasters_heading, #cmsmasters_heading_hq3uepdvsx .cmsmasters_heading a { 
-	font-size:25px; 
-	line-height:35px; 
-} 
-
-} 
-
-
-				@media only screen and (max-width: 1024px) {
-					#cmsmasters_heading_hq3uepdvsx {
-						margin-top: 0px;
-					}
-				}
-				
-
-#cmsmasters_heading_xjxf31jo5e { 
-	text-align:left; 
-	margin-top:0px; 
-	margin-bottom:20px; 
-} 
-
-#cmsmasters_heading_xjxf31jo5e .cmsmasters_heading { 
-	text-align:left; 
-} 
-
-#cmsmasters_heading_xjxf31jo5e .cmsmasters_heading, #cmsmasters_heading_xjxf31jo5e .cmsmasters_heading a { 
-	font-size:30px; 
-	line-height:38px; 
-	color:#ffffff;
-} 
-
-#cmsmasters_heading_xjxf31jo5e .cmsmasters_heading a:hover { 
-} 
-
-#cmsmasters_heading_xjxf31jo5e .cmsmasters_heading_divider { 
-} 
-
-@media (max-width: 1024px) {
-
-#cmsmasters_heading_xjxf31jo5e .cmsmasters_heading, #cmsmasters_heading_xjxf31jo5e .cmsmasters_heading a { 
-	font-size:25px; 
-	line-height:35px; 
-} 
-
-} 
-
-
-				@media only screen and (max-width: 1024px) {
-					#cmsmasters_heading_xjxf31jo5e {
-						margin-bottom: 67px;
-					}
-				}
-				
-
-#cmsmasters_column_jm14gv8tv6 { 
-	border-style:default; 
-	background-image: url(https://green-planet.cmsmasters.net/wp-content/uploads/2017/08/2-1.jpg); 
-	background-position: top center; 
-	background-repeat: no-repeat; 
-	background-attachment: scroll; 
-	background-size: cover; 
-} 
-
-#cmsmasters_column_jm14gv8tv6 .cmsmasters_column_inner { 
-	padding: 186px 25% 50px 15%; 
-} 
-
-
-			@media only screen and (max-width: 1024px) {
-				#cmsmasters_column_jm14gv8tv6 .cmsmasters_column_inner {
-					padding: 91px 0% 0 7%;
-				}
-			}
-			
-			@media only screen and (max-width: 768px) {
-				#cmsmasters_column_jm14gv8tv6 .cmsmasters_column_inner {
-					padding: 91px 0% 30px 7%;
-				}
-			}
-			
-#cmsmasters_heading_2gw4doll14 { 
-	text-align:left; 
-	margin-top:0px; 
-	margin-bottom:0px; 
-} 
-
-#cmsmasters_heading_2gw4doll14 .cmsmasters_heading { 
-	text-align:left; 
-} 
-
-#cmsmasters_heading_2gw4doll14 .cmsmasters_heading, #cmsmasters_heading_2gw4doll14 .cmsmasters_heading a { 
-	font-size:30px; 
-	line-height:38px; 
-	color:#ffffff;
-} 
-
-#cmsmasters_heading_2gw4doll14 .cmsmasters_heading a:hover { 
-} 
-
-#cmsmasters_heading_2gw4doll14 .cmsmasters_heading_divider { 
-} 
-
-@media (max-width: 1024px) {
-
-#cmsmasters_heading_2gw4doll14 .cmsmasters_heading, #cmsmasters_heading_2gw4doll14 .cmsmasters_heading a { 
-	font-size:25px; 
-	line-height:35px; 
-} 
-
-} 
-
-
-
-#cmsmasters_heading_g9ob48lkr { 
-	text-align:left; 
-	margin-top:0px; 
-	margin-bottom:20px; 
-} 
-
-#cmsmasters_heading_g9ob48lkr .cmsmasters_heading { 
-	text-align:left; 
-} 
-
-#cmsmasters_heading_g9ob48lkr .cmsmasters_heading, #cmsmasters_heading_g9ob48lkr .cmsmasters_heading a { 
-	font-size:30px; 
-	line-height:38px; 
-	color:#ffffff;
-} 
-
-#cmsmasters_heading_g9ob48lkr .cmsmasters_heading a:hover { 
-} 
-
-#cmsmasters_heading_g9ob48lkr .cmsmasters_heading_divider { 
-} 
-
-@media (max-width: 1024px) {
-
-#cmsmasters_heading_g9ob48lkr .cmsmasters_heading, #cmsmasters_heading_g9ob48lkr .cmsmasters_heading a { 
-	font-size:25px; 
-	line-height:35px; 
-} 
-
-} 
-
-
-				@media only screen and (max-width: 1024px) {
-					#cmsmasters_heading_g9ob48lkr {
-						margin-bottom: 64px;
-					}
-				}
-				
-#cmsmasters_row_ftj2oeok3p { 
-	background-color:#fdfbf8;
-} 
-
-#cmsmasters_row_ftj2oeok3p .cmsmasters_row_outer_parent { 
-	padding-top: 0px; 
-} 
-
-#cmsmasters_row_ftj2oeok3p .cmsmasters_row_outer_parent { 
-	padding-bottom: 0px; 
-} 
-
-#cmsmasters_row_ftj2oeok3p .cmsmasters_row_inner.cmsmasters_row_fullwidth { 
-	padding-left:0%; 
-} 
-#cmsmasters_row_ftj2oeok3p .cmsmasters_row_inner.cmsmasters_row_fullwidth { 
-	padding-right:0%; 
-} 
-
-#cmsmasters_column_70ununv57 { 
-	border-style:default; 
-} 
-
-#cmsmasters_column_70ununv57 .cmsmasters_column_inner { 
-	padding: 0 14% 0 23%; 
-} 
-#cmsmasters_column_70ununv578 { 
-	border-style:default; 
-} 
-#cmsmasters_column_70ununv578 .cmsmasters_column_inner { 
-	padding: 40px 5% 0 23%; 
-} 
-#cmsmasters_column_70ununv579 .cmsmasters_column_inner { 
-	padding: 0 10% 0 0; 
-} 
-
-			@media only screen and (max-width: 1024px) {
-				#cmsmasters_column_70ununv57 .cmsmasters_column_inner {
-					padding: 0 4% 0 5%;
-				}
-            #cmsmasters_column_70ununv578 .cmsmasters_column_inner {
-					padding: 60px 4% 0 5%;
-				}
-            #cmsmasters_column_70ununv579 .cmsmasters_column_inner { 
-               padding: 0 4% 0 3%;
-            } 
-			}
-			
-			@media only screen and (max-width: 320px) {
-				#cmsmasters_column_70ununv57 .cmsmasters_column_inner {
-					padding: 0 4% 0 5%;
-				}
-            #cmsmasters_column_70ununv578 .cmsmasters_column_inner {
-					padding: 0 4% 0 5%;
-				}
-            #cmsmasters_column_70ununv579 .cmsmasters_column_inner { 
-               padding: 0 4% 0 3%;
-            } 
-			}
-			
-#cmsmasters_fb_y6q3pqu05g { 
-	padding-top:210px; 
-	padding-bottom:190px; 
-	background-color:rgba(255,255,255,0);
-} 
-
-#cmsmasters_fb_y6q3pqu05g .featured_block_inner { 
-	width: 96%; 
-	padding: ; 
-	text-align: left; 
-	float:left; 
-	background-color:rgba(255,255,255,0);
-} 
-
-#cmsmasters_fb_y6q3pqu05g .featured_block_text { 
-	text-align: left; 
-} 
-
-
-
-			@media only screen and (max-width: 1024px) {
-				#cmsmasters_fb_y6q3pqu05g {
-					padding-top: 125px;
-				}
-			}
-			
-			@media only screen and (max-width: 1024px) {
-				#cmsmasters_fb_y6q3pqu05g {
-					padding-bottom: 80px;
-				}
-			}
-			
-			@media only screen and (max-width: 768px) {
-				#cmsmasters_fb_y6q3pqu05g {
-					padding-top: 90px;
-				}
-			}
-			
-#cmsmasters_heading_7h3t5mz79l { 
-	text-align:left; 
-	margin-top:0px; 
-	margin-bottom:20px; 
-} 
-
-#cmsmasters_heading_7h3t5mz79l .cmsmasters_heading { 
-	text-align:left; 
-} 
-
-#cmsmasters_heading_7h3t5mz79l .cmsmasters_heading, #cmsmasters_heading_7h3t5mz79l .cmsmasters_heading a { 
-	font-size:46px; 
-	line-height:52px; 
-} 
-
-#cmsmasters_heading_7h3t5mz79l .cmsmasters_heading a:hover { 
-} 
-
-#cmsmasters_heading_7h3t5mz79l .cmsmasters_heading_divider { 
-} 
-
-@media (max-width: 540px) {
-
-#cmsmasters_heading_7h3t5mz79l .cmsmasters_heading, #cmsmasters_heading_7h3t5mz79l .cmsmasters_heading a { 
-	font-size:30px; 
-	line-height:45px; 
-} 
-
-} 
-
-
-
-#cmsmasters_heading_vg49mhk6u { 
-	text-align:left; 
-	margin-top:0px; 
-	margin-bottom:30px; 
-} 
-
-#cmsmasters_heading_vg49mhk6u .cmsmasters_heading { 
-	text-align:left; 
-} 
-
-#cmsmasters_heading_vg49mhk6u .cmsmasters_heading, #cmsmasters_heading_vg49mhk6u .cmsmasters_heading a { 
-	font-size:24px; 
-	line-height:30px; 
-	font-weight:700; 
-	font-style:italic; 
-} 
-
-#cmsmasters_heading_vg49mhk6u .cmsmasters_heading a:hover { 
-} 
-
-#cmsmasters_heading_vg49mhk6u .cmsmasters_heading_divider { 
-} 
-
-@media (max-width: 540px) {
-
-#cmsmasters_heading_vg49mhk6u .cmsmasters_heading, #cmsmasters_heading_vg49mhk6u .cmsmasters_heading a { 
-	font-size:20px; 
-	line-height:30px; 
-} 
-
-} 
-
-
-
-#cmsmasters_heading_xwr3nyianz { 
-	text-align:left; 
-	margin-top:0px; 
-	margin-bottom:50px; 
-} 
-
-#cmsmasters_heading_xwr3nyianz .cmsmasters_heading { 
-	text-align:left; 
-} 
-
-#cmsmasters_heading_xwr3nyianz .cmsmasters_heading, #cmsmasters_heading_xwr3nyianz .cmsmasters_heading a { 
-	font-family:'Montserrat'; 
-	font-size:20px; 
-	line-height:28px; 
-	font-weight:400; 
-	color:#7d7d7d;
-} 
-
-#cmsmasters_heading_xwr3nyianz .cmsmasters_heading a:hover { 
-} 
-
-#cmsmasters_heading_xwr3nyianz .cmsmasters_heading_divider { 
-} 
-
-
-
-#cmsmasters_button_3b6lnlp6f { 
-	float:left; 
-} 
-
-#cmsmasters_button_3b6lnlp6f .cmsmasters_button:before { 
-	margin-right:.5em; 
-	margin-left:0; 
-	vertical-align:baseline; 
-} 
-
-#cmsmasters_button_3b6lnlp6f .cmsmasters_button { 
-	font-size:16px; 
-	line-height:50px; 
-	font-weight:700; 
-	font-style:default; 
-	text-transform:default; 
-	padding-right:40px; 
-	padding-left:40px; 
-	border-width:2px; 
-	border-style:default; 
-	background-color: #4789cc;
-   color: #fff;
-   border-color: #4789cc;
-   font-family:'Montserrat';
-} 
-#cmsmasters_button_3b6lnlp6f .cmsmasters_button:hover { 
-	background-color:rgba(255,255,255,0);
-   color: #4789cc;
-   border-color: #4789cc;
-} 
-
-
-#cmsmasters_button_4fovz5tvzp { 
-	float:left; 
-} 
-
-#cmsmasters_button_4fovz5tvzp .cmsmasters_button:before { 
-	margin-right:.5em; 
-	margin-left:0; 
-	vertical-align:baseline; 
-} 
-
-#cmsmasters_button_4fovz5tvzp .cmsmasters_button { 
-	font-size:16px; 
-	line-height:50px; 
-	font-weight:700; 
-	font-style:default; 
-	text-transform:default; 
-	padding-right:26px; 
-	padding-left:26px; 
-	border-width:0px; 
-	border-style:default; 
-	background-color:rgba(255,255,255,0);
-	color:#254151;
-} 
-#cmsmasters_button_4fovz5tvzp .cmsmasters_button:hover { 
-	background-color:rgba(255,255,255,0);
-	color:#6d7c84;
-} 
-
-
-#cmsmasters_column_0m2g2ihc5 { 
-	border-style:default; 
-} 
-
-
-#cmsmasters_fb_esv6fx1pld { 
-	padding-top:375px; 
-	padding-bottom:370px; 
-	background-image: url('img/1-2.jpg'); 
-	background-position: top center; 
-	background-repeat: no-repeat; 
-	background-attachment: scroll; 
-	background-size: cover; 
-} 
-
-#cmsmasters_fb_esv6fx1pld .featured_block_inner { 
-	width: 100%; 
-	padding: ; 
-	text-align: left; 
-	margin:0 auto; 
-} 
-
-#cmsmasters_fb_esv6fx1pld .featured_block_text { 
-	text-align: left; 
-} 
-
-
-
-			@media only screen and (max-width: 1024px) {
-				#cmsmasters_fb_esv6fx1pld {
-					padding-top: 100px;
-				}
-			}
-			
-			@media only screen and (max-width: 1024px) {
-				#cmsmasters_fb_esv6fx1pld {
-					padding-bottom: 100px;
-				}
-			}
-			
-			@media only screen and (max-width: 768px) {
-				#cmsmasters_fb_esv6fx1pld {
-					padding-top: 0px;
-				}
-			}
-			
-			@media only screen and (max-width: 768px) {
-				#cmsmasters_fb_esv6fx1pld {
-					padding-bottom: 0px;
-				}
-			}
-			#cmsmasters_row_xrn1lop7s8 { 
-	background-color:#fdfbf8;
-} 
-
-#cmsmasters_row_xrn1lop7s8 .cmsmasters_row_outer_parent { 
-	padding-top: 0px; 
-} 
-
-#cmsmasters_row_xrn1lop7s8 .cmsmasters_row_outer_parent { 
-	padding-bottom: 0px; 
-} 
-
-#cmsmasters_row_xrn1lop7s8 .cmsmasters_row_inner.cmsmasters_row_fullwidth { 
-	padding-left:0%; 
-} 
-#cmsmasters_row_xrn1lop7s8 .cmsmasters_row_inner.cmsmasters_row_fullwidth { 
-	padding-right:0%; 
-} 
-
-#cmsmasters_column_w5mcy4hj3h { 
-	border-style:default; 
-} 
-
-
-#cmsmasters_fb_pz4i059qlw { 
-	padding-top:375px; 
-	padding-bottom:370px; 
-	background-image: url('img/6-1.jpg'); 
-	background-position: center center; 
-	background-repeat: no-repeat; 
-	background-attachment: scroll; 
-	background-size: cover; 
-} 
-
-#cmsmasters_fb_pz4i059qlw .featured_block_inner { 
-	width: 100%; 
-	padding: ; 
-	text-align: center; 
-	margin:0 auto; 
-} 
-
-#cmsmasters_fb_pz4i059qlw .featured_block_text { 
-	text-align: center; 
-} 
-
-
-
-			@media only screen and (max-width: 768px) {
-				#cmsmasters_fb_pz4i059qlw {
-					padding-top: 0px;
-				}
-			}
-			
-			@media only screen and (max-width: 768px) {
-				#cmsmasters_fb_pz4i059qlw {
-					padding-bottom: 0px;
-				}
-			}
-			
-#cmsmasters_column_74stejdpnl { 
-	border-style:default; 
-} 
-
-#cmsmasters_column_74stejdpnl .cmsmasters_column_inner { 
-	padding: 0 10% 40px 6%; 
-} 
-
-
-			@media only screen and (max-width: 1024px) {
-				#cmsmasters_column_74stejdpnl .cmsmasters_column_inner {
-					padding: 0 0% 0 0%;
-				}
-			}
-			
-			@media only screen and (max-width: 768px) {
-				#cmsmasters_column_74stejdpnl .cmsmasters_column_inner {
-					padding: 0 6% 0 7%;
-				}
-			}
-			
-			@media only screen and (max-width: 320px) {
-				#cmsmasters_column_74stejdpnl .cmsmasters_column_inner {
-					padding: 0 6% 0 7%;
-				}
-			}
-			
-#cmsmasters_fb_q4s4shfhw9 { 
-	padding-top:220px; 
-	padding-bottom:0px; 
-	background-color:rgba(255,255,255,0);
-} 
-
-#cmsmasters_fb_q4s4shfhw9 .featured_block_inner { 
-	width: 75%; 
-	padding: ; 
-	text-align: left; 
-	margin:0 auto; 
-	background-color:rgba(255,255,255,0);
-} 
-
-#cmsmasters_fb_q4s4shfhw9 .featured_block_text { 
-	text-align: left; 
-} 
-
-
-
-			@media only screen and (max-width: 1024px) {
-				#cmsmasters_fb_q4s4shfhw9 {
-					padding-top: 125px;
-				}
-			}
-			
-			@media only screen and (max-width: 768px) {
-				#cmsmasters_fb_q4s4shfhw9 {
-					padding-top: 90px;
-				}
-			}
-			
-#cmsmasters_heading_sn46aqzonq { 
-	text-align:left; 
-	margin-top:0px; 
-	margin-bottom:25px; 
-} 
-
-#cmsmasters_heading_sn46aqzonq .cmsmasters_heading { 
-	text-align:left; 
-} 
-
-#cmsmasters_heading_sn46aqzonq .cmsmasters_heading, #cmsmasters_heading_sn46aqzonq .cmsmasters_heading a { 
-	font-size:46px; 
-	line-height:57px; 
-} 
-
-#cmsmasters_heading_sn46aqzonq .cmsmasters_heading a:hover { 
-} 
-
-#cmsmasters_heading_sn46aqzonq .cmsmasters_heading_divider { 
-} 
-
-@media (max-width: 540px) {
-
-#cmsmasters_heading_sn46aqzonq .cmsmasters_heading, #cmsmasters_heading_sn46aqzonq .cmsmasters_heading a { 
-	font-size:30px; 
-	line-height:45px; 
-} 
-
-} 
-
-
-
-#cmsmasters_heading_5qkurz1985 { 
-	text-align:left; 
-	margin-top:0px; 
-	margin-bottom:30px; 
-} 
-
-#cmsmasters_heading_5qkurz1985 .cmsmasters_heading { 
-	text-align:left; 
-} 
-
-#cmsmasters_heading_5qkurz1985 .cmsmasters_heading, #cmsmasters_heading_5qkurz1985 .cmsmasters_heading a { 
-	font-size:24px; 
-	line-height:30px; 
-	font-weight:700; 
-	font-style:italic; 
-} 
-
-#cmsmasters_heading_5qkurz1985 .cmsmasters_heading a:hover { 
-} 
-
-#cmsmasters_heading_5qkurz1985 .cmsmasters_heading_divider { 
-} 
-
-@media (max-width: 540px) {
-
-#cmsmasters_heading_5qkurz1985 .cmsmasters_heading, #cmsmasters_heading_5qkurz1985 .cmsmasters_heading a { 
-	font-size:20px; 
-	line-height:30px; 
-} 
-
-} 
-
-
-
-#cmsmasters_heading_q97o5tbzrp { 
-	text-align:left; 
-	margin-top:0px; 
-	margin-bottom:50px; 
-} 
-
-#cmsmasters_heading_q97o5tbzrp .cmsmasters_heading { 
-	text-align:left; 
-} 
-
-#cmsmasters_heading_q97o5tbzrp .cmsmasters_heading, #cmsmasters_heading_q97o5tbzrp .cmsmasters_heading a { 
-	font-family:'Montserrat'; 
-	font-size:20px; 
-	line-height:28px; 
-	font-weight:400; 
-	color:#7d7d7d;
-} 
-
-#cmsmasters_heading_q97o5tbzrp .cmsmasters_heading a:hover { 
-} 
-
-#cmsmasters_heading_q97o5tbzrp .cmsmasters_heading_divider { 
-} 
-
-
-
-#cmsmasters_button_1xy53naew6 { 
-	float:left; 
-} 
-
-#cmsmasters_button_1xy53naew6 .cmsmasters_button:before { 
-	margin-right:.5em; 
-	margin-left:0; 
-	vertical-align:baseline; 
-} 
-
-#cmsmasters_button_1xy53naew6 .cmsmasters_button { 
-	font-size:16px; 
-	line-height:50px; 
-	font-weight:700; 
-	font-style:default; 
-	text-transform:default; 
-	padding-right:37px; 
-	padding-left:37px; 
-	border-width:2px; 
-	background-color: #4789cc;
-   color: #fff;
-   border-color: #4789cc;
-   font-family:'Montserrat';;
-} 
-#cmsmasters_button_1xy53naew6 .cmsmasters_button:hover { 
-	background-color:rgba(255,255,255,0);
-   color: #4789cc;
-   border-color: #4789cc;
-} 
-
-
-#cmsmasters_button_xkljygwlfk { 
-	float:left; 
-} 
-
-#cmsmasters_button_xkljygwlfk .cmsmasters_button:before { 
-	margin-right:.5em; 
-	margin-left:0; 
-	vertical-align:baseline; 
-} 
-
-#cmsmasters_button_xkljygwlfk .cmsmasters_button { 
-	font-size:16px; 
-	line-height:50px; 
-	font-weight:700; 
-	font-style:default; 
-	text-transform:default; 
-	padding-right:26px; 
-	padding-left:26px; 
-	border-width:0px; 
-	border-style:default; 
-	background-color:rgba(255,255,255,0);
-	color:#254151;
-} 
-#cmsmasters_button_xkljygwlfk .cmsmasters_button:hover { 
-	background-color:rgba(255,255,255,0);
-	color:#6d7c84;
-} 
-
-#cmsmasters_row_q8vov8pnz5 { 
-	background-color:#fdfbf8;
-} 
-
-#cmsmasters_row_q8vov8pnz5 .cmsmasters_row_outer_parent { 
-	padding-top: 0px; 
-} 
-
-#cmsmasters_row_q8vov8pnz5 .cmsmasters_row_outer_parent { 
-	padding-bottom: 0px; 
-} 
-
-#cmsmasters_row_q8vov8pnz5 .cmsmasters_row_inner.cmsmasters_row_fullwidth { 
-	padding-left:0%; 
-} 
-#cmsmasters_row_q8vov8pnz5 .cmsmasters_row_inner.cmsmasters_row_fullwidth { 
-	padding-right:0%; 
-} 
-
-#cmsmasters_column_8q5i5fyan { 
-	border-style:default; 
-} 
-
-#cmsmasters_column_8q5i5fyan .cmsmasters_column_inner { 
-	padding: 0 23% 40px 20%; 
-} 
-
-
-			@media only screen and (max-width: 1024px) {
-				#cmsmasters_column_8q5i5fyan .cmsmasters_column_inner {
-					padding: 0 3% 0 8%;
-				}
-			}
-			
-			@media only screen and (max-width: 320px) {
-				#cmsmasters_column_8q5i5fyan .cmsmasters_column_inner {
-					padding: 0 7% 0 10%;
-				}
-			}
-			
-#cmsmasters_fb_38an65cmof { 
-	padding-top:205px; 
-	padding-bottom:0px; 
-	background-color:rgba(255,255,255,0);
-} 
-
-#cmsmasters_fb_38an65cmof .featured_block_inner { 
-	width: 94%; 
-	padding: ; 
-	text-align: left; 
-	float:left; 
-	background-color:rgba(255,255,255,0);
-} 
-
-#cmsmasters_fb_38an65cmof .featured_block_text { 
-	text-align: left; 
-} 
-
-
-
-			@media only screen and (max-width: 1024px) {
-				#cmsmasters_fb_38an65cmof {
-					padding-top: 125px;
-				}
-			}
-			
-			@media only screen and (max-width: 1024px) {
-				#cmsmasters_fb_38an65cmof {
-					padding-bottom: 55px;
-				}
-			}
-			
-			@media only screen and (max-width: 768px) {
-				#cmsmasters_fb_38an65cmof {
-					padding-top: 90px;
-				}
-			}
-			
-			@media only screen and (max-width: 768px) {
-				#cmsmasters_fb_38an65cmof {
-					padding-bottom: 40px;
-				}
-			}
-			
-#cmsmasters_heading_st9ov3n19 { 
-	text-align:left; 
-	margin-top:0px; 
-	margin-bottom:25px; 
-} 
-
-#cmsmasters_heading_st9ov3n19 .cmsmasters_heading { 
-	text-align:left; 
-} 
-
-#cmsmasters_heading_st9ov3n19 .cmsmasters_heading, #cmsmasters_heading_st9ov3n19 .cmsmasters_heading a { 
-	font-size:46px; 
-	line-height:52px; 
-	color:#254151;
-} 
-
-#cmsmasters_heading_st9ov3n19 .cmsmasters_heading a:hover { 
-} 
-
-#cmsmasters_heading_st9ov3n19 .cmsmasters_heading_divider { 
-} 
-
-@media (max-width: 540px) {
-
-#cmsmasters_heading_st9ov3n19 .cmsmasters_heading, #cmsmasters_heading_st9ov3n19 .cmsmasters_heading a { 
-	font-size:30px; 
-} 
-
-} 
-
-
-
-#cmsmasters_heading_g23no6guu7 { 
-	text-align:left; 
-	margin-top:0px; 
-	margin-bottom:30px; 
-} 
-
-#cmsmasters_heading_g23no6guu7 .cmsmasters_heading { 
-	text-align:left; 
-} 
-
-#cmsmasters_heading_g23no6guu7 .cmsmasters_heading, #cmsmasters_heading_g23no6guu7 .cmsmasters_heading a { 
-	font-size:24px; 
-	line-height:30px; 
-	font-weight:700; 
-	font-style:italic; 
-} 
-
-#cmsmasters_heading_g23no6guu7 .cmsmasters_heading a:hover { 
-} 
-
-#cmsmasters_heading_g23no6guu7 .cmsmasters_heading_divider { 
-} 
-
-@media (max-width: 540px) {
-
-#cmsmasters_heading_g23no6guu7 .cmsmasters_heading, #cmsmasters_heading_g23no6guu7 .cmsmasters_heading a { 
-	font-size:20px; 
-	line-height:30px; 
-} 
-
-} 
-
-
-
-#cmsmasters_heading_pagbk75d5 { 
-	text-align:left; 
-	margin-top:0px; 
-	margin-bottom:50px; 
-} 
-
-#cmsmasters_heading_pagbk75d5 .cmsmasters_heading { 
-	text-align:left; 
-} 
-
-#cmsmasters_heading_pagbk75d5 .cmsmasters_heading, #cmsmasters_heading_pagbk75d5 .cmsmasters_heading a { 
-	font-family:'Montserrat'; 
-	font-size:20px; 
-	line-height:28px; 
-	font-weight:400; 
-	color:#7d7d7d;
-} 
-
-#cmsmasters_heading_pagbk75d5 .cmsmasters_heading a:hover { 
-} 
-
-#cmsmasters_heading_pagbk75d5 .cmsmasters_heading_divider { 
-} 
-
-
-
-#cmsmasters_button_uaiz03ndw9 { 
-	float:left; 
-} 
-
-#cmsmasters_button_uaiz03ndw9 .cmsmasters_button:before { 
-	margin-right:.5em; 
-	margin-left:0; 
-	vertical-align:baseline; 
-} 
-
-#cmsmasters_button_uaiz03ndw9 .cmsmasters_button { 
-	font-size:16px; 
-	line-height:50px; 
-	font-weight:700; 
-	padding-right:40px; 
-	padding-left:40px; 
-	border-width:2px;
-   background-color: #4789cc;
-   color: #fff;
-   border-color: #4789cc;
-   font-family:'Montserrat';
-} 
-#cmsmasters_button_uaiz03ndw9 .cmsmasters_button:hover { 
-	background-color:rgba(255,255,255,0);
-	color: #4789cc;
-   border-color: #4789cc;
-} 
-
-
-#cmsmasters_button_n3wk9i4xy { 
-	float:left; 
-} 
-
-#cmsmasters_button_n3wk9i4xy .cmsmasters_button:before { 
-	margin-right:.5em; 
-	margin-left:0; 
-	vertical-align:baseline; 
-} 
-
-#cmsmasters_button_n3wk9i4xy .cmsmasters_button { 
-	font-size:16px; 
-	line-height:50px; 
-	font-weight:default; 
-	font-style:default; 
-	text-transform:default; 
-	padding-right:26px; 
-	padding-left:26px; 
-	border-width:0px; 
-	border-style:default; 
-	background-color:rgba(255,255,255,0);
-	color:#254151;
-} 
-#cmsmasters_button_n3wk9i4xy .cmsmasters_button:hover { 
-	background-color:rgba(255,255,255,0);
-	color:#6d7c84;
-} 
-
-
-
-#cmsmasters_fb_c213ic9xs7 { 
-	padding-top:375px; 
-	padding-bottom:370px; 
-	background-image: url('img/2-21.jpg'); 
-	background-position: top center; 
-	background-repeat: no-repeat; 
-	background-attachment: scroll; 
-	background-size: cover; 
-} 
-
-#cmsmasters_fb_c213ic9xs7 .featured_block_inner { 
-	width: 100%; 
-	padding: ; 
-	text-align: right; 
-	float:right; 
-} 
-
-#cmsmasters_fb_c213ic9xs7 .featured_block_text { 
-	text-align: right; 
-} 
-
-
-
-			@media only screen and (max-width: 1024px) {
-				#cmsmasters_fb_c213ic9xs7 {
-					padding-top: 0px;
-				}
-			}
-			
-			@media only screen and (max-width: 1024px) {
-				#cmsmasters_fb_c213ic9xs7 {
-					padding-bottom: 0px;
-				}
-			}
-			
-			@media only screen and (max-width: 768px) {
-				#cmsmasters_fb_c213ic9xs7 {
-					padding-top: 0px;
-				}
-			}
-			
-			@media only screen and (max-width: 768px) {
-				#cmsmasters_fb_c213ic9xs7 {
-					padding-bottom: 0px;
-				}
-			}
-			#cmsmasters_row_s2piqza7mw .cmsmasters_row_outer_parent { 
-	padding-top: 0px; 
-} 
-
-#cmsmasters_row_s2piqza7mw .cmsmasters_row_outer_parent { 
-	padding-bottom: 0px; 
-} 
-
-#cmsmasters_row_s2piqza7mw .cmsmasters_row_inner.cmsmasters_row_fullwidth { 
-	padding-left:0%; 
-} 
-#cmsmasters_row_s2piqza7mw .cmsmasters_row_inner.cmsmasters_row_fullwidth { 
-	padding-right:0%; 
-} 
-
-#cmsmasters_column_0myx9kb7z { 
-	border-style:default; 
-	background-image: url(https://green-planet.cmsmasters.net/wp-content/uploads/2017/08/7-1.jpg); 
-	background-position: top center; 
-	background-repeat: no-repeat; 
-	background-attachment: scroll; 
-	background-size: cover; 
-} 
-
-#cmsmasters_column_0myx9kb7z .cmsmasters_column_inner { 
-	padding: 0 12% 0 13%; 
-} 
-
-
-			@media only screen and (max-width: 1024px) {
-				#cmsmasters_column_0myx9kb7z .cmsmasters_column_inner {
-					padding: 0 0% 0 0%;
-				}
-			}
-			
-			@media only screen and (max-width: 768px) {
-				#cmsmasters_column_0myx9kb7z .cmsmasters_column_inner {
-					padding: 0 7% 0 7%;
-				}
-			}
-			
-			@media only screen and (max-width: 540px) {
-				#cmsmasters_column_0myx9kb7z .cmsmasters_column_inner {
-					padding: 0 7% 0 7%;
-				}
-			}
-			
-#cmsmasters_fb_zuc35hsc58 { 
-	padding-top:203px; 
-	padding-bottom:188px; 
-	background-color:rgba(239,201,76,0);
-} 
-
-#cmsmasters_fb_zuc35hsc58 .featured_block_inner { 
-	width: 58%; 
-	padding: ; 
-	text-align: center; 
-	margin:0 auto; 
-	background-color:rgba(255,255,255,0);
-} 
-
-#cmsmasters_fb_zuc35hsc58 .featured_block_text { 
-	text-align: center; 
-} 
-
-
-
-			@media only screen and (max-width: 1024px) {
-				#cmsmasters_fb_zuc35hsc58 {
-					padding-top: 100px;
-				}
-			}
-			
-			@media only screen and (max-width: 768px) {
-				#cmsmasters_fb_zuc35hsc58 {
-					padding-bottom: 95px;
-				}
-			}
-			
-			@media only screen and (max-width: 320px) {
-				#cmsmasters_fb_zuc35hsc58 {
-					padding-top: 60px;
-				}
-			}
-         @media only screen and (max-width: 350px) {
-            #cmsmasters_button_uaiz03ndw9 .cmsmasters_button { 
-               font-size:14px; 
-               line-height:50px; 
-               font-weight:700; 
-               padding-right:40px; 
-               padding-left:40px; 
-               border-width:2px;
-               background-color: #4789cc;
-               color: #fff;
-               border-color: #4789cc;
-               font-family:'Montserrat';
-            } 
-         }
-			
-#cmsmasters_heading_h76bhvfp9n { 
-	text-align:left; 
-	margin-top:0px; 
-	margin-bottom:30px; 
-} 
-
-#cmsmasters_heading_h76bhvfp9n .cmsmasters_heading { 
-	text-align:left; 
-} 
-
-#cmsmasters_heading_h76bhvfp9n .cmsmasters_heading, #cmsmasters_heading_h76bhvfp9n .cmsmasters_heading a { 
-	font-size:40px; 
-	line-height:50px; 
-	color:#ffffff;
-} 
-
-#cmsmasters_heading_h76bhvfp9n .cmsmasters_heading a:hover { 
-} 
-
-#cmsmasters_heading_h76bhvfp9n .cmsmasters_heading_divider { 
-} 
-
-@media (max-width: 540px) {
-
-#cmsmasters_heading_h76bhvfp9n .cmsmasters_heading, #cmsmasters_heading_h76bhvfp9n .cmsmasters_heading a { 
-	font-size:30px; 
-} 
-
-} 
-
-
-
-#cmsmasters_heading_46yrmp0kqt { 
-	text-align:left; 
-	margin-top:0px; 
-	margin-bottom:50px; 
-} 
-
-#cmsmasters_heading_46yrmp0kqt .cmsmasters_heading { 
-	text-align:left; 
-} 
-
-#cmsmasters_heading_46yrmp0kqt .cmsmasters_heading, #cmsmasters_heading_46yrmp0kqt .cmsmasters_heading a { 
-	font-family:'Montserrat'; 
-	font-size:18px; 
-	line-height:26px; 
-	font-weight:400; 
-	color:#ffffff;
-} 
-
-#cmsmasters_heading_46yrmp0kqt .cmsmasters_heading a:hover { 
-} 
-
-#cmsmasters_heading_46yrmp0kqt .cmsmasters_heading_divider { 
-} 
-
-
-
-#cmsmasters_button_21cb50vhtl { 
-	float:left; 
-} 
-
-#cmsmasters_button_21cb50vhtl .cmsmasters_button:before { 
-	margin-right:.5em; 
-	margin-left:0; 
-	vertical-align:baseline; 
-} 
-
-#cmsmasters_button_21cb50vhtl .cmsmasters_button { 
-	font-size:18px; 
-	font-weight:700; 
-	font-style:default; 
-	text-transform:default; 
-	padding-right:0px; 
-	padding-left:0px; 
-	border-width:0px; 
-	border-style:default; 
-	background-color:rgba(255,255,255,0);
-	color:#efc94c;
-} 
-#cmsmasters_button_21cb50vhtl .cmsmasters_button:hover { 
-	background-color:rgba(255,255,255,0);
-	color:#ffffff;
-} 
-
-
-#cmsmasters_column_e74pqtqrr3 { 
-	border-style:default; 
-	background-image: url(https://green-planet.cmsmasters.net/wp-content/uploads/2017/08/8.jpg); 
-	background-position: top center; 
-	background-repeat: no-repeat; 
-	background-attachment: scroll; 
-	background-size: cover; 
-} 
-
-#cmsmasters_column_e74pqtqrr3 .cmsmasters_column_inner { 
-	padding: 0 31% 0 19%; 
-} 
-
-
-			@media only screen and (max-width: 1024px) {
-				#cmsmasters_column_e74pqtqrr3 .cmsmasters_column_inner {
-					padding: 0 0% 0 0%;
-				}
-			}
-			
-			@media only screen and (max-width: 768px) {
-				#cmsmasters_column_e74pqtqrr3 .cmsmasters_column_inner {
-					padding: 0 7% 0 7%;
-				}
-			}
-			
-			@media only screen and (max-width: 540px) {
-				#cmsmasters_column_e74pqtqrr3 .cmsmasters_column_inner {
-					padding: 0 7% 0 7%;
-				}
-			}
-			
-#cmsmasters_fb_a3qmmp85ow { 
-	padding-top:190px; 
-	padding-bottom:100px; 
-	background-color:rgba(255,255,255,0);
-} 
-
-#cmsmasters_fb_a3qmmp85ow .featured_block_inner { 
-	width: 70%; 
-	padding: ; 
-	text-align: left; 
-	margin:0 auto; 
-	background-color:rgba(255,255,255,0);
-} 
-
-#cmsmasters_fb_a3qmmp85ow .featured_block_text { 
-	text-align: left; 
-} 
-
-
-
-			@media only screen and (max-width: 1024px) {
-				#cmsmasters_fb_a3qmmp85ow {
-					padding-top: 100px;
-				}
-			}
-			
-			@media only screen and (max-width: 1024px) {
-				#cmsmasters_fb_a3qmmp85ow {
-					padding-bottom: 50px;
-				}
-			}
-			
-			@media only screen and (max-width: 320px) {
-				#cmsmasters_fb_a3qmmp85ow {
-					padding-top: 60px;
-				}
-			}
-			
-#cmsmasters_heading_9o9vomnxfo { 
-	text-align:left; 
-	margin-top:0px; 
-	margin-bottom:34px; 
-} 
-
-#cmsmasters_heading_9o9vomnxfo .cmsmasters_heading { 
-	text-align:left; 
-} 
-
-#cmsmasters_heading_9o9vomnxfo .cmsmasters_heading, #cmsmasters_heading_9o9vomnxfo .cmsmasters_heading a { 
-	font-size:40px; 
-	line-height:50px; 
-	color:#ffffff;
-} 
-
-#cmsmasters_heading_9o9vomnxfo .cmsmasters_heading a:hover { 
-} 
-
-#cmsmasters_heading_9o9vomnxfo .cmsmasters_heading_divider { 
-} 
-
-@media (max-width: 540px) {
-
-#cmsmasters_heading_9o9vomnxfo .cmsmasters_heading, #cmsmasters_heading_9o9vomnxfo .cmsmasters_heading a { 
-	font-size:30px; 
-	line-height:43px; 
-} 
-
-} 
-
-
-				@media only screen and (max-width: 540px) {
-					#cmsmasters_heading_9o9vomnxfo {
-						margin-bottom: 25px;
-					}
-				}
-				
-
-#cmsmasters_heading_lxcd0nrag8 { 
-	text-align:left; 
-	margin-top:0px; 
-	margin-bottom:40px; 
-} 
-
-#cmsmasters_heading_lxcd0nrag8 .cmsmasters_heading { 
-	text-align:left; 
-} 
-
-#cmsmasters_heading_lxcd0nrag8 .cmsmasters_heading, #cmsmasters_heading_lxcd0nrag8 .cmsmasters_heading a { 
-	font-family:'Montserrat'; 
-	font-size:18px; 
-	line-height:26px; 
-	font-weight:400; 
-	color:rgba(255,255,255,0.80);
-} 
-
-#cmsmasters_heading_lxcd0nrag8 .cmsmasters_heading a:hover { 
-} 
-
-#cmsmasters_heading_lxcd0nrag8 .cmsmasters_heading_divider { 
-} 
-
-
-
-#cmsmasters_button_x1ds52s7c { 
-	float:left; 
-} 
-
-#cmsmasters_button_x1ds52s7c .cmsmasters_button:before { 
-	margin-right:.5em; 
-	margin-left:0; 
-	vertical-align:baseline; 
-} 
-
-#cmsmasters_button_x1ds52s7c .cmsmasters_button { 
-	font-size:18px; 
-	font-weight:default; 
-	font-style:default; 
-	text-transform:default; 
-	padding-right:0px; 
-	padding-left:0px; 
-	border-width:0px; 
-	border-style:default; 
-	background-color:rgba(255,255,255,0);
-	color:rgba(61,65,68,0.7);
-} 
-#cmsmasters_button_x1ds52s7c .cmsmasters_button:hover { 
-	background-color:rgba(255,255,255,0);
-	color:#ffffff;
-} 
+         #cmsmasters_row_qqwqmedij7 { 
+            background-image: url(https://green-planet.cmsmasters.net/wp-content/uploads/2017/08/1-1.jpg); 
+            background-position: top center; 
+            background-repeat: no-repeat; 
+            background-attachment: scroll; 
+            background-size: cover; 
+         } 
+
+         #cmsmasters_row_qqwqmedij7 .cmsmasters_row_outer_parent { 
+            padding-top: 355px; 
+         } 
+
+         #cmsmasters_row_qqwqmedij7 .cmsmasters_row_outer_parent { 
+            padding-bottom: 215px; 
+         } 
+
+
+                  @media only screen and (max-width: 1024px) {
+                     #cmsmasters_row_qqwqmedij7 .cmsmasters_row_outer_parent {
+                        padding-top: 200px;
+                     }
+                  }
+                  
+                  @media only screen and (max-width: 1024px) {
+                     #cmsmasters_row_qqwqmedij7 .cmsmasters_row_outer_parent {
+                        padding-bottom: 125px;
+                     }
+                  }
+                  
+                  @media only screen and (max-width: 768px) {
+                     #cmsmasters_row_qqwqmedij7 .cmsmasters_row_outer_parent {
+                        padding-top: 150px;
+                     }
+                  }
+                  
+                  @media only screen and (max-width: 768px) {
+                     #cmsmasters_row_qqwqmedij7 .cmsmasters_row_outer_parent {
+                        padding-bottom: 90px;
+                     }
+                  }
+                  
+                  @media only screen and (max-width: 540px) {
+                     #cmsmasters_row_qqwqmedij7 .cmsmasters_row_outer_parent {
+                        padding-top: 110px;
+                     }
+                  }
+                  
+                  @media only screen and (max-width: 540px) {
+                     #cmsmasters_row_qqwqmedij7 .cmsmasters_row_outer_parent {
+                        padding-bottom: 70px;
+                     }
+                  }
+                  
+         #cmsmasters_column_0xb7i0706e { 
+            border-style:default; 
+         } 
+
+
+         #cmsmasters_heading_hv8nh37g4 { 
+            text-align:center; 
+            margin-top:0px; 
+            margin-bottom:20px; 
+         } 
+
+         #cmsmasters_heading_hv8nh37g4 .cmsmasters_heading { 
+            text-align:center; 
+         } 
+
+         #cmsmasters_heading_hv8nh37g4 .cmsmasters_heading, #cmsmasters_heading_hv8nh37g4 .cmsmasters_heading a { 
+            font-size:62px; 
+            line-height:70px; 
+            color:#ffffff;
+         } 
+
+         #cmsmasters_heading_hv8nh37g4 .cmsmasters_heading a:hover { 
+         } 
+
+         #cmsmasters_heading_hv8nh37g4 .cmsmasters_heading_divider { 
+         } 
+
+         @media (max-width: 540px) {
+
+         #cmsmasters_heading_hv8nh37g4 .cmsmasters_heading, #cmsmasters_heading_hv8nh37g4 .cmsmasters_heading a { 
+            font-size:45px; 
+            line-height:70px; 
+         } 
+
+         } 
+
+
+         #cmsmasters_row_q1t7j86ye9 .cmsmasters_row_outer_parent { 
+            padding-top: 0px; 
+         } 
+
+         #cmsmasters_row_q1t7j86ye9 .cmsmasters_row_outer_parent { 
+            padding-bottom: 0px; 
+         } 
+
+         #cmsmasters_row_q1t7j86ye9 .cmsmasters_row_inner.cmsmasters_row_fullwidth { 
+            padding-left:0%; 
+         } 
+         #cmsmasters_row_q1t7j86ye9 .cmsmasters_row_inner.cmsmasters_row_fullwidth { 
+            padding-right:0%; 
+         } 
+
+         #cmsmasters_column_q71kv2eoef { 
+            border-style:default; 
+            background-image: url(https://green-planet.cmsmasters.net/wp-content/uploads/2017/08/5-1.jpg); 
+            background-position: top center; 
+            background-repeat: no-repeat; 
+            background-attachment: scroll; 
+            background-size: cover; 
+         } 
+
+         #cmsmasters_column_q71kv2eoef .cmsmasters_column_inner { 
+            padding: 186px 0% 50px 16%; 
+         } 
+
+
+                  @media only screen and (max-width: 1024px) {
+                     #cmsmasters_column_q71kv2eoef .cmsmasters_column_inner {
+                        padding:  95px 0% 50px 7%;
+                     }
+                  }
+                  
+                  @media only screen and (max-width: 768px) {
+                     #cmsmasters_column_q71kv2eoef .cmsmasters_column_inner {
+                        padding:  95px 0% 30px 6%;
+                     }
+                  }
+                  
+         #cmsmasters_heading_8oxg3s0x7p { 
+            text-align:left; 
+            margin-top:0px; 
+            margin-bottom:0px; 
+         } 
+
+         #cmsmasters_heading_8oxg3s0x7p .cmsmasters_heading { 
+            text-align:left; 
+         } 
+
+         #cmsmasters_heading_8oxg3s0x7p .cmsmasters_heading, #cmsmasters_heading_8oxg3s0x7p .cmsmasters_heading a { 
+            font-size:30px; 
+            line-height:38px; 
+            color:#ffffff;
+         } 
+
+         #cmsmasters_heading_8oxg3s0x7p .cmsmasters_heading a:hover { 
+         } 
+
+         #cmsmasters_heading_8oxg3s0x7p .cmsmasters_heading_divider { 
+         } 
+
+         @media (max-width: 1024px) {
+
+         #cmsmasters_heading_8oxg3s0x7p .cmsmasters_heading, #cmsmasters_heading_8oxg3s0x7p .cmsmasters_heading a { 
+            font-size:25px; 
+            line-height:35px; 
+         } 
+
+         } 
+
+
+
+         #cmsmasters_heading_jz7jbyuzuq { 
+            text-align:left; 
+            margin-top:0px; 
+            margin-bottom:20px; 
+         } 
+
+         #cmsmasters_heading_jz7jbyuzuq .cmsmasters_heading { 
+            text-align:left; 
+         } 
+
+         #cmsmasters_heading_jz7jbyuzuq .cmsmasters_heading, #cmsmasters_heading_jz7jbyuzuq .cmsmasters_heading a { 
+            font-size:30px; 
+            line-height:38px; 
+            color:#ffffff;
+         } 
+
+         #cmsmasters_heading_jz7jbyuzuq .cmsmasters_heading a:hover { 
+         } 
+
+         #cmsmasters_heading_jz7jbyuzuq .cmsmasters_heading_divider { 
+         } 
+
+         @media (max-width: 1024px) {
+
+         #cmsmasters_heading_jz7jbyuzuq .cmsmasters_heading, #cmsmasters_heading_jz7jbyuzuq .cmsmasters_heading a { 
+            font-size:25px; 
+            line-height:35px; 
+         } 
+
+         } 
+
+
+
+         #cmsmasters_column_s1e1taf28s { 
+            border-style:default; 
+            background-image: url(https://green-planet.cmsmasters.net/wp-content/uploads/2017/08/4-1.jpg); 
+            background-position: top center; 
+            background-repeat: no-repeat; 
+            background-attachment: scroll; 
+            background-size: cover; 
+         } 
+
+         #cmsmasters_column_s1e1taf28s .cmsmasters_column_inner { 
+            padding: 186px 34% 50px 16%; 
+         } 
+
+
+                  @media only screen and (max-width: 1024px) {
+                     #cmsmasters_column_s1e1taf28s .cmsmasters_column_inner {
+                        padding: 95px 0% 30px 7%;
+                     }
+                  }
+                  
+         #cmsmasters_heading_ryrsyganz { 
+            text-align:left; 
+            margin-top:0px; 
+            margin-bottom:0px; 
+         } 
+
+         #cmsmasters_heading_ryrsyganz .cmsmasters_heading { 
+            text-align:left; 
+         } 
+
+         #cmsmasters_heading_ryrsyganz .cmsmasters_heading, #cmsmasters_heading_ryrsyganz .cmsmasters_heading a { 
+            font-size:30px; 
+            line-height:38px; 
+            color:#ffffff;
+         } 
+
+         #cmsmasters_heading_ryrsyganz .cmsmasters_heading a:hover { 
+         } 
+
+         #cmsmasters_heading_ryrsyganz .cmsmasters_heading_divider { 
+         } 
+
+         @media (max-width: 1024px) {
+
+         #cmsmasters_heading_ryrsyganz .cmsmasters_heading, #cmsmasters_heading_ryrsyganz .cmsmasters_heading a { 
+            font-size:25px; 
+            line-height:35px; 
+         } 
+
+         } 
+
+
+                     @media only screen and (max-width: 1024px) {
+                        #cmsmasters_heading_ryrsyganz {
+                           margin-top: 0px;
+                        }
+                     }
+                     
+
+         #cmsmasters_heading_blu1kalsg8 { 
+            text-align:left; 
+            margin-top:0px; 
+            margin-bottom:20px; 
+         } 
+
+         #cmsmasters_heading_blu1kalsg8 .cmsmasters_heading { 
+            text-align:left; 
+         } 
+
+         #cmsmasters_heading_blu1kalsg8 .cmsmasters_heading, #cmsmasters_heading_blu1kalsg8 .cmsmasters_heading a { 
+            font-size:30px; 
+            line-height:38px; 
+            color:#ffffff;
+         } 
+
+         #cmsmasters_heading_blu1kalsg8 .cmsmasters_heading a:hover { 
+         } 
+
+         #cmsmasters_heading_blu1kalsg8 .cmsmasters_heading_divider { 
+         } 
+
+         @media (max-width: 1024px) {
+
+         #cmsmasters_heading_blu1kalsg8 .cmsmasters_heading, #cmsmasters_heading_blu1kalsg8 .cmsmasters_heading a { 
+            font-size:25px; 
+            line-height:35px; 
+         } 
+
+         } 
+
+
+                     @media only screen and (max-width: 1024px) {
+                        #cmsmasters_heading_blu1kalsg8 {
+                           margin-bottom: 40px;
+                        }
+                     }
+                     
+
+         #cmsmasters_column_026nuh762i { 
+            border-style:default; 
+            background-image: url(https://green-planet.cmsmasters.net/wp-content/uploads/2017/08/3-1.jpg); 
+            background-position: top center; 
+            background-repeat: no-repeat; 
+            background-attachment: scroll; 
+            background-size: cover; 
+         } 
+
+         #cmsmasters_column_026nuh762i .cmsmasters_column_inner { 
+            padding: 186px 5% 50px 11%; 
+         } 
+
+
+                  @media only screen and (max-width: 1024px) {
+                     #cmsmasters_column_026nuh762i .cmsmasters_column_inner {
+                        padding: 91px 0% 0 7%;
+                     }
+                  }
+                  
+                  @media only screen and (max-width: 768px) {
+                     #cmsmasters_column_026nuh762i .cmsmasters_column_inner {
+                        padding: 91px 7% 30px 7%;
+                     }
+                  }
+                  
+         #cmsmasters_heading_hq3uepdvsx { 
+            text-align:left; 
+            margin-top:0px; 
+            margin-bottom:0px; 
+         } 
+
+         #cmsmasters_heading_hq3uepdvsx .cmsmasters_heading { 
+            text-align:left; 
+         } 
+
+         #cmsmasters_heading_hq3uepdvsx .cmsmasters_heading, #cmsmasters_heading_hq3uepdvsx .cmsmasters_heading a { 
+            font-size:30px; 
+            line-height:38px; 
+            color:#ffffff;
+         } 
+
+         #cmsmasters_heading_hq3uepdvsx .cmsmasters_heading a:hover { 
+         } 
+
+         #cmsmasters_heading_hq3uepdvsx .cmsmasters_heading_divider { 
+         } 
+
+         @media (max-width: 1024px) {
+
+         #cmsmasters_heading_hq3uepdvsx .cmsmasters_heading, #cmsmasters_heading_hq3uepdvsx .cmsmasters_heading a { 
+            font-size:25px; 
+            line-height:35px; 
+         } 
+
+         } 
+
+
+                     @media only screen and (max-width: 1024px) {
+                        #cmsmasters_heading_hq3uepdvsx {
+                           margin-top: 0px;
+                        }
+                     }
+                     
+
+         #cmsmasters_heading_xjxf31jo5e { 
+            text-align:left; 
+            margin-top:0px; 
+            margin-bottom:20px; 
+         } 
+
+         #cmsmasters_heading_xjxf31jo5e .cmsmasters_heading { 
+            text-align:left; 
+         } 
+
+         #cmsmasters_heading_xjxf31jo5e .cmsmasters_heading, #cmsmasters_heading_xjxf31jo5e .cmsmasters_heading a { 
+            font-size:30px; 
+            line-height:38px; 
+            color:#ffffff;
+         } 
+
+         #cmsmasters_heading_xjxf31jo5e .cmsmasters_heading a:hover { 
+         } 
+
+         #cmsmasters_heading_xjxf31jo5e .cmsmasters_heading_divider { 
+         } 
+
+         @media (max-width: 1024px) {
+
+         #cmsmasters_heading_xjxf31jo5e .cmsmasters_heading, #cmsmasters_heading_xjxf31jo5e .cmsmasters_heading a { 
+            font-size:25px; 
+            line-height:35px; 
+         } 
+
+         } 
+
+
+                     @media only screen and (max-width: 1024px) {
+                        #cmsmasters_heading_xjxf31jo5e {
+                           margin-bottom: 67px;
+                        }
+                     }
+                     
+
+         #cmsmasters_column_jm14gv8tv6 { 
+            border-style:default; 
+            background-image: url(https://green-planet.cmsmasters.net/wp-content/uploads/2017/08/2-1.jpg); 
+            background-position: top center; 
+            background-repeat: no-repeat; 
+            background-attachment: scroll; 
+            background-size: cover; 
+         } 
+
+         #cmsmasters_column_jm14gv8tv6 .cmsmasters_column_inner { 
+            padding: 186px 25% 50px 15%; 
+         } 
+
+
+                  @media only screen and (max-width: 1024px) {
+                     #cmsmasters_column_jm14gv8tv6 .cmsmasters_column_inner {
+                        padding: 91px 0% 0 7%;
+                     }
+                  }
+                  
+                  @media only screen and (max-width: 768px) {
+                     #cmsmasters_column_jm14gv8tv6 .cmsmasters_column_inner {
+                        padding: 91px 0% 30px 7%;
+                     }
+                  }
+                  
+         #cmsmasters_heading_2gw4doll14 { 
+            text-align:left; 
+            margin-top:0px; 
+            margin-bottom:0px; 
+         } 
+
+         #cmsmasters_heading_2gw4doll14 .cmsmasters_heading { 
+            text-align:left; 
+         } 
+
+         #cmsmasters_heading_2gw4doll14 .cmsmasters_heading, #cmsmasters_heading_2gw4doll14 .cmsmasters_heading a { 
+            font-size:30px; 
+            line-height:38px; 
+            color:#ffffff;
+         } 
+
+         #cmsmasters_heading_2gw4doll14 .cmsmasters_heading a:hover { 
+         } 
+
+         #cmsmasters_heading_2gw4doll14 .cmsmasters_heading_divider { 
+         } 
+
+         @media (max-width: 1024px) {
+
+         #cmsmasters_heading_2gw4doll14 .cmsmasters_heading, #cmsmasters_heading_2gw4doll14 .cmsmasters_heading a { 
+            font-size:25px; 
+            line-height:35px; 
+         } 
+
+         } 
+
+
+
+         #cmsmasters_heading_g9ob48lkr { 
+            text-align:left; 
+            margin-top:0px; 
+            margin-bottom:20px; 
+         } 
+
+         #cmsmasters_heading_g9ob48lkr .cmsmasters_heading { 
+            text-align:left; 
+         } 
+
+         #cmsmasters_heading_g9ob48lkr .cmsmasters_heading, #cmsmasters_heading_g9ob48lkr .cmsmasters_heading a { 
+            font-size:30px; 
+            line-height:38px; 
+            color:#ffffff;
+         } 
+
+         #cmsmasters_heading_g9ob48lkr .cmsmasters_heading a:hover { 
+         } 
+
+         #cmsmasters_heading_g9ob48lkr .cmsmasters_heading_divider { 
+         } 
+
+         @media (max-width: 1024px) {
+
+         #cmsmasters_heading_g9ob48lkr .cmsmasters_heading, #cmsmasters_heading_g9ob48lkr .cmsmasters_heading a { 
+            font-size:25px; 
+            line-height:35px; 
+         } 
+
+         } 
+
+
+                     @media only screen and (max-width: 1024px) {
+                        #cmsmasters_heading_g9ob48lkr {
+                           margin-bottom: 64px;
+                        }
+                     }
+                     
+         #cmsmasters_row_ftj2oeok3p { 
+            background-color:#fdfbf8;
+         } 
+
+         #cmsmasters_row_ftj2oeok3p .cmsmasters_row_outer_parent { 
+            padding-top: 0px; 
+         } 
+
+         #cmsmasters_row_ftj2oeok3p .cmsmasters_row_outer_parent { 
+            padding-bottom: 0px; 
+         } 
+
+         #cmsmasters_row_ftj2oeok3p .cmsmasters_row_inner.cmsmasters_row_fullwidth { 
+            padding-left:0%; 
+         } 
+         #cmsmasters_row_ftj2oeok3p .cmsmasters_row_inner.cmsmasters_row_fullwidth { 
+            padding-right:0%; 
+         } 
+
+         #cmsmasters_column_70ununv57 { 
+            border-style:default; 
+         } 
+
+         #cmsmasters_column_70ununv57 .cmsmasters_column_inner { 
+            padding: 0 14% 0 23%; 
+         } 
+         #cmsmasters_column_70ununv578 { 
+            border-style:default; 
+         } 
+         #cmsmasters_column_70ununv578 .cmsmasters_column_inner { 
+            padding: 40px 5% 0 23%; 
+         } 
+         #cmsmasters_column_70ununv579 .cmsmasters_column_inner { 
+            padding: 0 10% 0 0; 
+         } 
+
+                  @media only screen and (max-width: 1024px) {
+                     #cmsmasters_column_70ununv57 .cmsmasters_column_inner {
+                        padding: 0 4% 0 5%;
+                     }
+                     #cmsmasters_column_70ununv578 .cmsmasters_column_inner {
+                        padding: 60px 4% 0 5%;
+                     }
+                     #cmsmasters_column_70ununv579 .cmsmasters_column_inner { 
+                        padding: 0 4% 0 3%;
+                     } 
+                  }
+                  
+                  @media only screen and (max-width: 320px) {
+                     #cmsmasters_column_70ununv57 .cmsmasters_column_inner {
+                        padding: 0 4% 0 5%;
+                     }
+                     #cmsmasters_column_70ununv578 .cmsmasters_column_inner {
+                        padding: 0 4% 0 5%;
+                     }
+                     #cmsmasters_column_70ununv579 .cmsmasters_column_inner { 
+                        padding: 0 4% 0 3%;
+                     } 
+                  }
+                  
+         #cmsmasters_fb_y6q3pqu05g { 
+            padding-top:210px; 
+            padding-bottom:190px; 
+            background-color:rgba(255,255,255,0);
+         } 
+
+         #cmsmasters_fb_y6q3pqu05g .featured_block_inner { 
+            width: 96%; 
+            padding: ; 
+            text-align: left; 
+            float:left; 
+            background-color:rgba(255,255,255,0);
+         } 
+
+         #cmsmasters_fb_y6q3pqu05g .featured_block_text { 
+            text-align: left; 
+         } 
+
+
+
+                  @media only screen and (max-width: 1024px) {
+                     #cmsmasters_fb_y6q3pqu05g {
+                        padding-top: 125px;
+                     }
+                  }
+                  
+                  @media only screen and (max-width: 1024px) {
+                     #cmsmasters_fb_y6q3pqu05g {
+                        padding-bottom: 80px;
+                     }
+                  }
+                  
+                  @media only screen and (max-width: 768px) {
+                     #cmsmasters_fb_y6q3pqu05g {
+                        padding-top: 90px;
+                     }
+                  }
+                  
+         #cmsmasters_heading_7h3t5mz79l { 
+            text-align:left; 
+            margin-top:0px; 
+            margin-bottom:20px; 
+         } 
+
+         #cmsmasters_heading_7h3t5mz79l .cmsmasters_heading { 
+            text-align:left; 
+         } 
+
+         #cmsmasters_heading_7h3t5mz79l .cmsmasters_heading, #cmsmasters_heading_7h3t5mz79l .cmsmasters_heading a { 
+            font-size:46px; 
+            line-height:52px; 
+         } 
+
+         #cmsmasters_heading_7h3t5mz79l .cmsmasters_heading a:hover { 
+         } 
+
+         #cmsmasters_heading_7h3t5mz79l .cmsmasters_heading_divider { 
+         } 
+
+         @media (max-width: 540px) {
+
+         #cmsmasters_heading_7h3t5mz79l .cmsmasters_heading, #cmsmasters_heading_7h3t5mz79l .cmsmasters_heading a { 
+            font-size:30px; 
+            line-height:45px; 
+         } 
+
+         } 
+
+
+
+         #cmsmasters_heading_vg49mhk6u { 
+            text-align:left; 
+            margin-top:0px; 
+            margin-bottom:30px; 
+         } 
+
+         #cmsmasters_heading_vg49mhk6u .cmsmasters_heading { 
+            text-align:left; 
+         } 
+
+         #cmsmasters_heading_vg49mhk6u .cmsmasters_heading, #cmsmasters_heading_vg49mhk6u .cmsmasters_heading a { 
+            font-size:24px; 
+            line-height:30px; 
+            font-weight:700; 
+            font-style:italic; 
+         } 
+
+         #cmsmasters_heading_vg49mhk6u .cmsmasters_heading a:hover { 
+         } 
+
+         #cmsmasters_heading_vg49mhk6u .cmsmasters_heading_divider { 
+         } 
+
+         @media (max-width: 540px) {
+
+         #cmsmasters_heading_vg49mhk6u .cmsmasters_heading, #cmsmasters_heading_vg49mhk6u .cmsmasters_heading a { 
+            font-size:20px; 
+            line-height:30px; 
+         } 
+
+         } 
+
+
+
+         #cmsmasters_heading_xwr3nyianz { 
+            text-align:left; 
+            margin-top:0px; 
+            margin-bottom:50px; 
+         } 
+
+         #cmsmasters_heading_xwr3nyianz .cmsmasters_heading { 
+            text-align:left; 
+         } 
+
+         #cmsmasters_heading_xwr3nyianz .cmsmasters_heading, #cmsmasters_heading_xwr3nyianz .cmsmasters_heading a { 
+            font-family:'Montserrat'; 
+            font-size:20px; 
+            line-height:28px; 
+            font-weight:400; 
+            color:#7d7d7d;
+         } 
+
+         #cmsmasters_heading_xwr3nyianz .cmsmasters_heading a:hover { 
+         } 
+
+         #cmsmasters_heading_xwr3nyianz .cmsmasters_heading_divider { 
+         } 
+
+
+
+         #cmsmasters_button_3b6lnlp6f { 
+            float:left; 
+         } 
+
+         #cmsmasters_button_3b6lnlp6f .cmsmasters_button:before { 
+            margin-right:.5em; 
+            margin-left:0; 
+            vertical-align:baseline; 
+         } 
+
+         #cmsmasters_button_3b6lnlp6f .cmsmasters_button { 
+            font-size:16px; 
+            line-height:50px; 
+            font-weight:700; 
+            font-style:default; 
+            text-transform:default; 
+            padding-right:40px; 
+            padding-left:40px; 
+            border-width:2px; 
+            border-style:default; 
+            background-color: #4789cc;
+            color: #fff;
+            border-color: #4789cc;
+            font-family:'Montserrat';
+         } 
+         #cmsmasters_button_3b6lnlp6f .cmsmasters_button:hover { 
+            background-color:rgba(255,255,255,0);
+            color: #4789cc;
+            border-color: #4789cc;
+         } 
+
+
+         #cmsmasters_button_4fovz5tvzp { 
+            float:left; 
+         } 
+
+         #cmsmasters_button_4fovz5tvzp .cmsmasters_button:before { 
+            margin-right:.5em; 
+            margin-left:0; 
+            vertical-align:baseline; 
+         } 
+
+         #cmsmasters_button_4fovz5tvzp .cmsmasters_button { 
+            font-size:16px; 
+            line-height:50px; 
+            font-weight:700; 
+            font-style:default; 
+            text-transform:default; 
+            padding-right:26px; 
+            padding-left:26px; 
+            border-width:0px; 
+            border-style:default; 
+            background-color:rgba(255,255,255,0);
+            color:#254151;
+         } 
+         #cmsmasters_button_4fovz5tvzp .cmsmasters_button:hover { 
+            background-color:rgba(255,255,255,0);
+            color:#6d7c84;
+         } 
+
+
+         #cmsmasters_column_0m2g2ihc5 { 
+            border-style:default; 
+         } 
+
+
+         #cmsmasters_fb_esv6fx1pld { 
+            padding-top:375px; 
+            padding-bottom:370px; 
+            background-image: url('img/1-2.jpg'); 
+            background-position: top center; 
+            background-repeat: no-repeat; 
+            background-attachment: scroll; 
+            background-size: cover; 
+         } 
+
+         #cmsmasters_fb_esv6fx1pld .featured_block_inner { 
+            width: 100%; 
+            padding: ; 
+            text-align: left; 
+            margin:0 auto; 
+         } 
+
+         #cmsmasters_fb_esv6fx1pld .featured_block_text { 
+            text-align: left; 
+         } 
+
+
+
+                  @media only screen and (max-width: 1024px) {
+                     #cmsmasters_fb_esv6fx1pld {
+                        padding-top: 100px;
+                     }
+                  }
+                  
+                  @media only screen and (max-width: 1024px) {
+                     #cmsmasters_fb_esv6fx1pld {
+                        padding-bottom: 100px;
+                     }
+                  }
+                  
+                  @media only screen and (max-width: 768px) {
+                     #cmsmasters_fb_esv6fx1pld {
+                        padding-top: 0px;
+                     }
+                  }
+                  
+                  @media only screen and (max-width: 768px) {
+                     #cmsmasters_fb_esv6fx1pld {
+                        padding-bottom: 0px;
+                     }
+                  }
+                  #cmsmasters_row_xrn1lop7s8 { 
+            background-color:#fdfbf8;
+         } 
+
+         #cmsmasters_row_xrn1lop7s8 .cmsmasters_row_outer_parent { 
+            padding-top: 0px; 
+         } 
+
+         #cmsmasters_row_xrn1lop7s8 .cmsmasters_row_outer_parent { 
+            padding-bottom: 0px; 
+         } 
+
+         #cmsmasters_row_xrn1lop7s8 .cmsmasters_row_inner.cmsmasters_row_fullwidth { 
+            padding-left:0%; 
+         } 
+         #cmsmasters_row_xrn1lop7s8 .cmsmasters_row_inner.cmsmasters_row_fullwidth { 
+            padding-right:0%; 
+         } 
+
+         #cmsmasters_column_w5mcy4hj3h { 
+            border-style:default; 
+         } 
+
+
+         #cmsmasters_fb_pz4i059qlw { 
+            padding-top:375px; 
+            padding-bottom:370px; 
+            background-image: url('img/6-1.jpg'); 
+            background-position: center center; 
+            background-repeat: no-repeat; 
+            background-attachment: scroll; 
+            background-size: cover; 
+         } 
+
+         #cmsmasters_fb_pz4i059qlw .featured_block_inner { 
+            width: 100%; 
+            padding: ; 
+            text-align: center; 
+            margin:0 auto; 
+         } 
+
+         #cmsmasters_fb_pz4i059qlw .featured_block_text { 
+            text-align: center; 
+         } 
+
+
+
+                  @media only screen and (max-width: 768px) {
+                     #cmsmasters_fb_pz4i059qlw {
+                        padding-top: 0px;
+                     }
+                  }
+                  
+                  @media only screen and (max-width: 768px) {
+                     #cmsmasters_fb_pz4i059qlw {
+                        padding-bottom: 0px;
+                     }
+                  }
+                  
+         #cmsmasters_column_74stejdpnl { 
+            border-style:default; 
+         } 
+
+         #cmsmasters_column_74stejdpnl .cmsmasters_column_inner { 
+            padding: 0 10% 40px 6%; 
+         } 
+
+
+                  @media only screen and (max-width: 1024px) {
+                     #cmsmasters_column_74stejdpnl .cmsmasters_column_inner {
+                        padding: 0 0% 0 0%;
+                     }
+                  }
+                  
+                  @media only screen and (max-width: 768px) {
+                     #cmsmasters_column_74stejdpnl .cmsmasters_column_inner {
+                        padding: 0 6% 0 7%;
+                     }
+                  }
+                  
+                  @media only screen and (max-width: 320px) {
+                     #cmsmasters_column_74stejdpnl .cmsmasters_column_inner {
+                        padding: 0 6% 0 7%;
+                     }
+                  }
+                  
+         #cmsmasters_fb_q4s4shfhw9 { 
+            padding-top:220px; 
+            padding-bottom:0px; 
+            background-color:rgba(255,255,255,0);
+         } 
+
+         #cmsmasters_fb_q4s4shfhw9 .featured_block_inner { 
+            width: 75%; 
+            padding: ; 
+            text-align: left; 
+            margin:0 auto; 
+            background-color:rgba(255,255,255,0);
+         } 
+
+         #cmsmasters_fb_q4s4shfhw9 .featured_block_text { 
+            text-align: left; 
+         } 
+
+
+
+                  @media only screen and (max-width: 1024px) {
+                     #cmsmasters_fb_q4s4shfhw9 {
+                        padding-top: 125px;
+                     }
+                  }
+                  
+                  @media only screen and (max-width: 768px) {
+                     #cmsmasters_fb_q4s4shfhw9 {
+                        padding-top: 90px;
+                     }
+                  }
+                  
+         #cmsmasters_heading_sn46aqzonq { 
+            text-align:left; 
+            margin-top:0px; 
+            margin-bottom:25px; 
+         } 
+
+         #cmsmasters_heading_sn46aqzonq .cmsmasters_heading { 
+            text-align:left; 
+         } 
+
+         #cmsmasters_heading_sn46aqzonq .cmsmasters_heading, #cmsmasters_heading_sn46aqzonq .cmsmasters_heading a { 
+            font-size:46px; 
+            line-height:57px; 
+         } 
+
+         #cmsmasters_heading_sn46aqzonq .cmsmasters_heading a:hover { 
+         } 
+
+         #cmsmasters_heading_sn46aqzonq .cmsmasters_heading_divider { 
+         } 
+
+         @media (max-width: 540px) {
+
+         #cmsmasters_heading_sn46aqzonq .cmsmasters_heading, #cmsmasters_heading_sn46aqzonq .cmsmasters_heading a { 
+            font-size:30px; 
+            line-height:45px; 
+         } 
+
+         } 
+
+
+
+         #cmsmasters_heading_5qkurz1985 { 
+            text-align:left; 
+            margin-top:0px; 
+            margin-bottom:30px; 
+         } 
+
+         #cmsmasters_heading_5qkurz1985 .cmsmasters_heading { 
+            text-align:left; 
+         } 
+
+         #cmsmasters_heading_5qkurz1985 .cmsmasters_heading, #cmsmasters_heading_5qkurz1985 .cmsmasters_heading a { 
+            font-size:24px; 
+            line-height:30px; 
+            font-weight:700; 
+            font-style:italic; 
+         } 
+
+         #cmsmasters_heading_5qkurz1985 .cmsmasters_heading a:hover { 
+         } 
+
+         #cmsmasters_heading_5qkurz1985 .cmsmasters_heading_divider { 
+         } 
+
+         @media (max-width: 540px) {
+
+         #cmsmasters_heading_5qkurz1985 .cmsmasters_heading, #cmsmasters_heading_5qkurz1985 .cmsmasters_heading a { 
+            font-size:20px; 
+            line-height:30px; 
+         } 
+
+         } 
+
+
+
+         #cmsmasters_heading_q97o5tbzrp { 
+            text-align:left; 
+            margin-top:0px; 
+            margin-bottom:50px; 
+         } 
+
+         #cmsmasters_heading_q97o5tbzrp .cmsmasters_heading { 
+            text-align:left; 
+         } 
+
+         #cmsmasters_heading_q97o5tbzrp .cmsmasters_heading, #cmsmasters_heading_q97o5tbzrp .cmsmasters_heading a { 
+            font-family:'Montserrat'; 
+            font-size:20px; 
+            line-height:28px; 
+            font-weight:400; 
+            color:#7d7d7d;
+         } 
+
+         #cmsmasters_heading_q97o5tbzrp .cmsmasters_heading a:hover { 
+         } 
+
+         #cmsmasters_heading_q97o5tbzrp .cmsmasters_heading_divider { 
+         } 
+
+
+
+         #cmsmasters_button_1xy53naew6 { 
+            float:left; 
+         } 
+
+         #cmsmasters_button_1xy53naew6 .cmsmasters_button:before { 
+            margin-right:.5em; 
+            margin-left:0; 
+            vertical-align:baseline; 
+         } 
+
+         #cmsmasters_button_1xy53naew6 .cmsmasters_button { 
+            font-size:16px; 
+            line-height:50px; 
+            font-weight:700; 
+            font-style:default; 
+            text-transform:default; 
+            padding-right:37px; 
+            padding-left:37px; 
+            border-width:2px; 
+            background-color: #4789cc;
+            color: #fff;
+            border-color: #4789cc;
+            font-family:'Montserrat';;
+         } 
+         #cmsmasters_button_1xy53naew6 .cmsmasters_button:hover { 
+            background-color:rgba(255,255,255,0);
+            color: #4789cc;
+            border-color: #4789cc;
+         } 
+
+
+         #cmsmasters_button_xkljygwlfk { 
+            float:left; 
+         } 
+
+         #cmsmasters_button_xkljygwlfk .cmsmasters_button:before { 
+            margin-right:.5em; 
+            margin-left:0; 
+            vertical-align:baseline; 
+         } 
+
+         #cmsmasters_button_xkljygwlfk .cmsmasters_button { 
+            font-size:16px; 
+            line-height:50px; 
+            font-weight:700; 
+            font-style:default; 
+            text-transform:default; 
+            padding-right:26px; 
+            padding-left:26px; 
+            border-width:0px; 
+            border-style:default; 
+            background-color:rgba(255,255,255,0);
+            color:#254151;
+         } 
+         #cmsmasters_button_xkljygwlfk .cmsmasters_button:hover { 
+            background-color:rgba(255,255,255,0);
+            color:#6d7c84;
+         } 
+
+         #cmsmasters_row_q8vov8pnz5 { 
+            background-color:#fdfbf8;
+         } 
+
+         #cmsmasters_row_q8vov8pnz5 .cmsmasters_row_outer_parent { 
+            padding-top: 0px; 
+         } 
+
+         #cmsmasters_row_q8vov8pnz5 .cmsmasters_row_outer_parent { 
+            padding-bottom: 0px; 
+         } 
+
+         #cmsmasters_row_q8vov8pnz5 .cmsmasters_row_inner.cmsmasters_row_fullwidth { 
+            padding-left:0%; 
+         } 
+         #cmsmasters_row_q8vov8pnz5 .cmsmasters_row_inner.cmsmasters_row_fullwidth { 
+            padding-right:0%; 
+         } 
+
+         #cmsmasters_column_8q5i5fyan { 
+            border-style:default; 
+         } 
+
+         #cmsmasters_column_8q5i5fyan .cmsmasters_column_inner { 
+            padding: 0 23% 40px 20%; 
+         } 
+
+
+                  @media only screen and (max-width: 1024px) {
+                     #cmsmasters_column_8q5i5fyan .cmsmasters_column_inner {
+                        padding: 0 3% 0 8%;
+                     }
+                  }
+                  
+                  @media only screen and (max-width: 320px) {
+                     #cmsmasters_column_8q5i5fyan .cmsmasters_column_inner {
+                        padding: 0 7% 0 10%;
+                     }
+                  }
+                  
+         #cmsmasters_fb_38an65cmof { 
+            padding-top:205px; 
+            padding-bottom:0px; 
+            background-color:rgba(255,255,255,0);
+         } 
+
+         #cmsmasters_fb_38an65cmof .featured_block_inner { 
+            width: 94%; 
+            padding: ; 
+            text-align: left; 
+            float:left; 
+            background-color:rgba(255,255,255,0);
+         } 
+
+         #cmsmasters_fb_38an65cmof .featured_block_text { 
+            text-align: left; 
+         } 
+
+
+
+                  @media only screen and (max-width: 1024px) {
+                     #cmsmasters_fb_38an65cmof {
+                        padding-top: 125px;
+                     }
+                  }
+                  
+                  @media only screen and (max-width: 1024px) {
+                     #cmsmasters_fb_38an65cmof {
+                        padding-bottom: 55px;
+                     }
+                  }
+                  
+                  @media only screen and (max-width: 768px) {
+                     #cmsmasters_fb_38an65cmof {
+                        padding-top: 90px;
+                     }
+                  }
+                  
+                  @media only screen and (max-width: 768px) {
+                     #cmsmasters_fb_38an65cmof {
+                        padding-bottom: 40px;
+                     }
+                  }
+                  
+         #cmsmasters_heading_st9ov3n19 { 
+            text-align:left; 
+            margin-top:0px; 
+            margin-bottom:25px; 
+         } 
+
+         #cmsmasters_heading_st9ov3n19 .cmsmasters_heading { 
+            text-align:left; 
+         } 
+
+         #cmsmasters_heading_st9ov3n19 .cmsmasters_heading, #cmsmasters_heading_st9ov3n19 .cmsmasters_heading a { 
+            font-size:46px; 
+            line-height:52px; 
+            color:#254151;
+         } 
+
+         #cmsmasters_heading_st9ov3n19 .cmsmasters_heading a:hover { 
+         } 
+
+         #cmsmasters_heading_st9ov3n19 .cmsmasters_heading_divider { 
+         } 
+
+         @media (max-width: 540px) {
+
+         #cmsmasters_heading_st9ov3n19 .cmsmasters_heading, #cmsmasters_heading_st9ov3n19 .cmsmasters_heading a { 
+            font-size:30px; 
+         } 
+
+         } 
+
+
+
+         #cmsmasters_heading_g23no6guu7 { 
+            text-align:left; 
+            margin-top:0px; 
+            margin-bottom:30px; 
+         } 
+
+         #cmsmasters_heading_g23no6guu7 .cmsmasters_heading { 
+            text-align:left; 
+         } 
+
+         #cmsmasters_heading_g23no6guu7 .cmsmasters_heading, #cmsmasters_heading_g23no6guu7 .cmsmasters_heading a { 
+            font-size:24px; 
+            line-height:30px; 
+            font-weight:700; 
+            font-style:italic; 
+         } 
+
+         #cmsmasters_heading_g23no6guu7 .cmsmasters_heading a:hover { 
+         } 
+
+         #cmsmasters_heading_g23no6guu7 .cmsmasters_heading_divider { 
+         } 
+
+         @media (max-width: 540px) {
+
+         #cmsmasters_heading_g23no6guu7 .cmsmasters_heading, #cmsmasters_heading_g23no6guu7 .cmsmasters_heading a { 
+            font-size:20px; 
+            line-height:30px; 
+         } 
+
+         } 
+
+
+
+         #cmsmasters_heading_pagbk75d5 { 
+            text-align:left; 
+            margin-top:0px; 
+            margin-bottom:50px; 
+         } 
+
+         #cmsmasters_heading_pagbk75d5 .cmsmasters_heading { 
+            text-align:left; 
+         } 
+
+         #cmsmasters_heading_pagbk75d5 .cmsmasters_heading, #cmsmasters_heading_pagbk75d5 .cmsmasters_heading a { 
+            font-family:'Montserrat'; 
+            font-size:20px; 
+            line-height:28px; 
+            font-weight:400; 
+            color:#7d7d7d;
+         } 
+
+         #cmsmasters_heading_pagbk75d5 .cmsmasters_heading a:hover { 
+         } 
+
+         #cmsmasters_heading_pagbk75d5 .cmsmasters_heading_divider { 
+         } 
+
+
+
+         #cmsmasters_button_uaiz03ndw9 { 
+            float:left; 
+         } 
+
+         #cmsmasters_button_uaiz03ndw9 .cmsmasters_button:before { 
+            margin-right:.5em; 
+            margin-left:0; 
+            vertical-align:baseline; 
+         } 
+
+         #cmsmasters_button_uaiz03ndw9 .cmsmasters_button { 
+            font-size:16px; 
+            line-height:50px; 
+            font-weight:700; 
+            padding-right:40px; 
+            padding-left:40px; 
+            border-width:2px;
+            background-color: #4789cc;
+            color: #fff;
+            border-color: #4789cc;
+            font-family:'Montserrat';
+         } 
+         #cmsmasters_button_uaiz03ndw9 .cmsmasters_button:hover { 
+            background-color:rgba(255,255,255,0);
+            color: #4789cc;
+            border-color: #4789cc;
+         } 
+
+
+         #cmsmasters_button_n3wk9i4xy { 
+            float:left; 
+         } 
+
+         #cmsmasters_button_n3wk9i4xy .cmsmasters_button:before { 
+            margin-right:.5em; 
+            margin-left:0; 
+            vertical-align:baseline; 
+         } 
+
+         #cmsmasters_button_n3wk9i4xy .cmsmasters_button { 
+            font-size:16px; 
+            line-height:50px; 
+            font-weight:default; 
+            font-style:default; 
+            text-transform:default; 
+            padding-right:26px; 
+            padding-left:26px; 
+            border-width:0px; 
+            border-style:default; 
+            background-color:rgba(255,255,255,0);
+            color:#254151;
+         } 
+         #cmsmasters_button_n3wk9i4xy .cmsmasters_button:hover { 
+            background-color:rgba(255,255,255,0);
+            color:#6d7c84;
+         } 
+
+
+
+         #cmsmasters_fb_c213ic9xs7 { 
+            padding-top:375px; 
+            padding-bottom:370px; 
+            background-image: url('img/2-21.jpg'); 
+            background-position: top center; 
+            background-repeat: no-repeat; 
+            background-attachment: scroll; 
+            background-size: cover; 
+         } 
+
+         #cmsmasters_fb_c213ic9xs7 .featured_block_inner { 
+            width: 100%; 
+            padding: ; 
+            text-align: right; 
+            float:right; 
+         } 
+
+         #cmsmasters_fb_c213ic9xs7 .featured_block_text { 
+            text-align: right; 
+         } 
+
+
+
+                  @media only screen and (max-width: 1024px) {
+                     #cmsmasters_fb_c213ic9xs7 {
+                        padding-top: 0px;
+                     }
+                  }
+                  
+                  @media only screen and (max-width: 1024px) {
+                     #cmsmasters_fb_c213ic9xs7 {
+                        padding-bottom: 0px;
+                     }
+                  }
+                  
+                  @media only screen and (max-width: 768px) {
+                     #cmsmasters_fb_c213ic9xs7 {
+                        padding-top: 0px;
+                     }
+                  }
+                  
+                  @media only screen and (max-width: 768px) {
+                     #cmsmasters_fb_c213ic9xs7 {
+                        padding-bottom: 0px;
+                     }
+                  }
+                  #cmsmasters_row_s2piqza7mw .cmsmasters_row_outer_parent { 
+            padding-top: 0px; 
+         } 
+
+         #cmsmasters_row_s2piqza7mw .cmsmasters_row_outer_parent { 
+            padding-bottom: 0px; 
+         } 
+
+         #cmsmasters_row_s2piqza7mw .cmsmasters_row_inner.cmsmasters_row_fullwidth { 
+            padding-left:0%; 
+         } 
+         #cmsmasters_row_s2piqza7mw .cmsmasters_row_inner.cmsmasters_row_fullwidth { 
+            padding-right:0%; 
+         } 
+
+         #cmsmasters_column_0myx9kb7z { 
+            border-style:default; 
+            background-image: url(https://green-planet.cmsmasters.net/wp-content/uploads/2017/08/7-1.jpg); 
+            background-position: top center; 
+            background-repeat: no-repeat; 
+            background-attachment: scroll; 
+            background-size: cover; 
+         } 
+
+         #cmsmasters_column_0myx9kb7z .cmsmasters_column_inner { 
+            padding: 0 12% 0 13%; 
+         } 
+
+
+                  @media only screen and (max-width: 1024px) {
+                     #cmsmasters_column_0myx9kb7z .cmsmasters_column_inner {
+                        padding: 0 0% 0 0%;
+                     }
+                  }
+                  
+                  @media only screen and (max-width: 768px) {
+                     #cmsmasters_column_0myx9kb7z .cmsmasters_column_inner {
+                        padding: 0 7% 0 7%;
+                     }
+                  }
+                  
+                  @media only screen and (max-width: 540px) {
+                     #cmsmasters_column_0myx9kb7z .cmsmasters_column_inner {
+                        padding: 0 7% 0 7%;
+                     }
+                  }
+                  
+         #cmsmasters_fb_zuc35hsc58 { 
+            padding-top:203px; 
+            padding-bottom:188px; 
+            background-color:rgba(239,201,76,0);
+         } 
+
+         #cmsmasters_fb_zuc35hsc58 .featured_block_inner { 
+            width: 58%; 
+            padding: ; 
+            text-align: center; 
+            margin:0 auto; 
+            background-color:rgba(255,255,255,0);
+         } 
+
+         #cmsmasters_fb_zuc35hsc58 .featured_block_text { 
+            text-align: center; 
+         } 
+
+
+
+                  @media only screen and (max-width: 1024px) {
+                     #cmsmasters_fb_zuc35hsc58 {
+                        padding-top: 100px;
+                     }
+                  }
+                  
+                  @media only screen and (max-width: 768px) {
+                     #cmsmasters_fb_zuc35hsc58 {
+                        padding-bottom: 95px;
+                     }
+                  }
+                  
+                  @media only screen and (max-width: 320px) {
+                     #cmsmasters_fb_zuc35hsc58 {
+                        padding-top: 60px;
+                     }
+                  }
+                  @media only screen and (max-width: 350px) {
+                     #cmsmasters_button_uaiz03ndw9 .cmsmasters_button { 
+                        font-size:14px; 
+                        line-height:50px; 
+                        font-weight:700; 
+                        padding-right:40px; 
+                        padding-left:40px; 
+                        border-width:2px;
+                        background-color: #4789cc;
+                        color: #fff;
+                        border-color: #4789cc;
+                        font-family:'Montserrat';
+                     } 
+                  }
+                  
+         #cmsmasters_heading_h76bhvfp9n { 
+            text-align:left; 
+            margin-top:0px; 
+            margin-bottom:30px; 
+         } 
+
+         #cmsmasters_heading_h76bhvfp9n .cmsmasters_heading { 
+            text-align:left; 
+         } 
+
+         #cmsmasters_heading_h76bhvfp9n .cmsmasters_heading, #cmsmasters_heading_h76bhvfp9n .cmsmasters_heading a { 
+            font-size:40px; 
+            line-height:50px; 
+            color:#ffffff;
+         } 
+
+         #cmsmasters_heading_h76bhvfp9n .cmsmasters_heading a:hover { 
+         } 
+
+         #cmsmasters_heading_h76bhvfp9n .cmsmasters_heading_divider { 
+         } 
+
+         @media (max-width: 540px) {
+
+         #cmsmasters_heading_h76bhvfp9n .cmsmasters_heading, #cmsmasters_heading_h76bhvfp9n .cmsmasters_heading a { 
+            font-size:30px; 
+         } 
+
+         } 
+
+
+
+         #cmsmasters_heading_46yrmp0kqt { 
+            text-align:left; 
+            margin-top:0px; 
+            margin-bottom:50px; 
+         } 
+
+         #cmsmasters_heading_46yrmp0kqt .cmsmasters_heading { 
+            text-align:left; 
+         } 
+
+         #cmsmasters_heading_46yrmp0kqt .cmsmasters_heading, #cmsmasters_heading_46yrmp0kqt .cmsmasters_heading a { 
+            font-family:'Montserrat'; 
+            font-size:18px; 
+            line-height:26px; 
+            font-weight:400; 
+            color:#ffffff;
+         } 
+
+         #cmsmasters_heading_46yrmp0kqt .cmsmasters_heading a:hover { 
+         } 
+
+         #cmsmasters_heading_46yrmp0kqt .cmsmasters_heading_divider { 
+         } 
+
+
+
+         #cmsmasters_button_21cb50vhtl { 
+            float:left; 
+         } 
+
+         #cmsmasters_button_21cb50vhtl .cmsmasters_button:before { 
+            margin-right:.5em; 
+            margin-left:0; 
+            vertical-align:baseline; 
+         } 
+
+         #cmsmasters_button_21cb50vhtl .cmsmasters_button { 
+            font-size:18px; 
+            font-weight:700; 
+            font-style:default; 
+            text-transform:default; 
+            padding-right:0px; 
+            padding-left:0px; 
+            border-width:0px; 
+            border-style:default; 
+            background-color:rgba(255,255,255,0);
+            color:#efc94c;
+         } 
+         #cmsmasters_button_21cb50vhtl .cmsmasters_button:hover { 
+            background-color:rgba(255,255,255,0);
+            color:#ffffff;
+         } 
+
+
+         #cmsmasters_column_e74pqtqrr3 { 
+            border-style:default; 
+            background-image: url(https://green-planet.cmsmasters.net/wp-content/uploads/2017/08/8.jpg); 
+            background-position: top center; 
+            background-repeat: no-repeat; 
+            background-attachment: scroll; 
+            background-size: cover; 
+         } 
+
+         #cmsmasters_column_e74pqtqrr3 .cmsmasters_column_inner { 
+            padding: 0 31% 0 19%; 
+         } 
+
+
+                  @media only screen and (max-width: 1024px) {
+                     #cmsmasters_column_e74pqtqrr3 .cmsmasters_column_inner {
+                        padding: 0 0% 0 0%;
+                     }
+                  }
+                  
+                  @media only screen and (max-width: 768px) {
+                     #cmsmasters_column_e74pqtqrr3 .cmsmasters_column_inner {
+                        padding: 0 7% 0 7%;
+                     }
+                  }
+                  
+                  @media only screen and (max-width: 540px) {
+                     #cmsmasters_column_e74pqtqrr3 .cmsmasters_column_inner {
+                        padding: 0 7% 0 7%;
+                     }
+                  }
+                  
+         #cmsmasters_fb_a3qmmp85ow { 
+            padding-top:190px; 
+            padding-bottom:100px; 
+            background-color:rgba(255,255,255,0);
+         } 
+
+         #cmsmasters_fb_a3qmmp85ow .featured_block_inner { 
+            width: 70%; 
+            padding: ; 
+            text-align: left; 
+            margin:0 auto; 
+            background-color:rgba(255,255,255,0);
+         } 
+
+         #cmsmasters_fb_a3qmmp85ow .featured_block_text { 
+            text-align: left; 
+         } 
+
+
+
+                  @media only screen and (max-width: 1024px) {
+                     #cmsmasters_fb_a3qmmp85ow {
+                        padding-top: 100px;
+                     }
+                  }
+                  
+                  @media only screen and (max-width: 1024px) {
+                     #cmsmasters_fb_a3qmmp85ow {
+                        padding-bottom: 50px;
+                     }
+                  }
+                  
+                  @media only screen and (max-width: 320px) {
+                     #cmsmasters_fb_a3qmmp85ow {
+                        padding-top: 60px;
+                     }
+                  }
+                  
+         #cmsmasters_heading_9o9vomnxfo { 
+            text-align:left; 
+            margin-top:0px; 
+            margin-bottom:34px; 
+         } 
+
+         #cmsmasters_heading_9o9vomnxfo .cmsmasters_heading { 
+            text-align:left; 
+         } 
+
+         #cmsmasters_heading_9o9vomnxfo .cmsmasters_heading, #cmsmasters_heading_9o9vomnxfo .cmsmasters_heading a { 
+            font-size:40px; 
+            line-height:50px; 
+            color:#ffffff;
+         } 
+
+         #cmsmasters_heading_9o9vomnxfo .cmsmasters_heading a:hover { 
+         } 
+
+         #cmsmasters_heading_9o9vomnxfo .cmsmasters_heading_divider { 
+         } 
+
+         @media (max-width: 540px) {
+
+         #cmsmasters_heading_9o9vomnxfo .cmsmasters_heading, #cmsmasters_heading_9o9vomnxfo .cmsmasters_heading a { 
+            font-size:30px; 
+            line-height:43px; 
+         } 
+
+         } 
+
+
+                     @media only screen and (max-width: 540px) {
+                        #cmsmasters_heading_9o9vomnxfo {
+                           margin-bottom: 25px;
+                        }
+                     }
+                     
+
+         #cmsmasters_heading_lxcd0nrag8 { 
+            text-align:left; 
+            margin-top:0px; 
+            margin-bottom:40px; 
+         } 
+
+         #cmsmasters_heading_lxcd0nrag8 .cmsmasters_heading { 
+            text-align:left; 
+         } 
+
+         #cmsmasters_heading_lxcd0nrag8 .cmsmasters_heading, #cmsmasters_heading_lxcd0nrag8 .cmsmasters_heading a { 
+            font-family:'Montserrat'; 
+            font-size:18px; 
+            line-height:26px; 
+            font-weight:400; 
+            color:rgba(255,255,255,0.80);
+         } 
+
+         #cmsmasters_heading_lxcd0nrag8 .cmsmasters_heading a:hover { 
+         } 
+
+         #cmsmasters_heading_lxcd0nrag8 .cmsmasters_heading_divider { 
+         } 
+
+
+
+         #cmsmasters_button_x1ds52s7c { 
+            float:left; 
+         } 
+
+         #cmsmasters_button_x1ds52s7c .cmsmasters_button:before { 
+            margin-right:.5em; 
+            margin-left:0; 
+            vertical-align:baseline; 
+         } 
+
+         #cmsmasters_button_x1ds52s7c .cmsmasters_button { 
+            font-size:18px; 
+            font-weight:default; 
+            font-style:default; 
+            text-transform:default; 
+            padding-right:0px; 
+            padding-left:0px; 
+            border-width:0px; 
+            border-style:default; 
+            background-color:rgba(255,255,255,0);
+            color:rgba(61,65,68,0.7);
+         } 
+         #cmsmasters_button_x1ds52s7c .cmsmasters_button:hover { 
+            background-color:rgba(255,255,255,0);
+            color:#ffffff;
+         } 
 
 
 </style> -->
@@ -3046,9 +3046,9 @@
             <!-- second Section -->
             <div class="header_mid_inner pd-0 mt-5 mb-5">
                     <div class="row ml-0 mr-0" >
-                        <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 d-flex align-items-center">
+                        <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0">
                             <div class="p-xs-0 ">
-                                <h2 class="hedings mb-0" style="color:#000; font-weight:bold">Ways to Get Involved</h2>
+                                <h2 class="h2-title mb-0">Ways to Get Involved</h2>
                             </div>
                         </div>
                         <div class="col-sm-12 col-md-6 col-lg-6 text-content p-4">

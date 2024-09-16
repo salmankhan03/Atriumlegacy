@@ -182,9 +182,9 @@
                     </div>
                     <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 d-flex align-items-center">
                         <div class="text-left p-0 p-md-5 right-content-padding">
-                           <h1 class="hedings pb-2" style="color: #000">
+                           <h2 class="h2-title pb-2" style="color: #000">
                               Atrium Legacy Foundation believe that meaningful change starts with strategic, impactful initiatives.
-                           </h1>
+                           </h2>
                            <p class="p-0 m-0" style="font-family: Montserrat; color:#000; font-size:18px">
                               Our programs are designed to address the most pressing challenges faced by our communities today. By focusing on education, senior wellness, housing, and agricultural technology, we aim to create lasting solutions that empower individuals and strengthen communities.
                            </p>
