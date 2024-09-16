@@ -350,7 +350,7 @@
                                 </div>
                                 <div class="col-sm-12 col-md-8 col-lg-8 text-content">
                                     <div class="pt-5 pb-5 p-xs-0 ">
-                                        <form action="" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init" data-inited-validation="1">
+                                        <form action="send_mail.php" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init" data-inited-validation="1">
                                             <div style="display: none;">
                                                 <input type="hidden" name="_wpcf7" value="1324" >
                                                 <input type="hidden" name="_wpcf7_version" value="5.9.8">
