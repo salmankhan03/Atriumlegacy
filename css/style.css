@@ -363,6 +363,8 @@ body {
 .banner-title {
     color:#fff !important; 
     font-family:'Montserrat' !important;
+    font-size: 20px;
+    letter-spacing: 2px;
 }
 
 .banner-header {
@@ -393,7 +395,7 @@ body {
     .banner {
         padding: 50px 0 50px 0;
     }
-    
+}
 
 @media only screen and (max-width: 767px) {
     .left-section-padding {
@@ -409,7 +411,7 @@ body {
     .zero-padding{
         padding:0px !important;
     }
-} 
+
     .p-xs-0{
         padding-top: 0px !important;
         padding-bottom: 0px !important;

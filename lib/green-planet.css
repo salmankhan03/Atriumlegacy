@@ -5035,19 +5035,19 @@
 	.header_mid .cmsmasters_dynamic_cart .cmsmasters_dynamic_cart_button .count,
 	.header_mid .cmsmasters_header_cart_link .count,
 	.cmsmasters_dynamic_cart .widget_shopping_cart_content .buttons .button:hover {
-		color:#223139;
+		color:#0f5194;
 	}
 	
 	.header_mid.header_mid_scroll,
 	.cmsmasters_dynamic_cart .widget_shopping_cart_content,
 	.cmsmasters_dynamic_cart .widget_shopping_cart_content .buttons .button,
 	.cmsmasters_added_product_info {
-		background-color:#223139;
+		background-color:#0f5194;
 	}
 	
 	@media only screen and (max-width: 1024px) {
 		.header_mid {
-			background-color:#223139;
+			background-color:#0f5194;
 		}
 	}
 	/* Finish Header Middle Background Color on Scroll */

@@ -648,7 +648,11 @@
                         </a>
                     </div>
                 </div>
-            </div>  
+                <!-- <div class = "position-absolute" style="bottom: 0; right: 0; background: #4789cc;">
+                    <img src="img/ALF_logo_only.svg">
+                    <a href="#">Donate Now</a>
+                </div> -->
+            </div>
             <!-- fIRST SECTION -->
             <div class="row equal-height">
                 <div class="col-md-8 col-lg-8">
@@ -737,6 +741,7 @@
                         </div>
                     </div>
                     <div class="row pt-5 pb-0"> 
+
                         <div class="col-sm-12 col-md-6 col-lg-3 text-content d-flex">
                             <div class="cards" id = "card1">
                                 <div class="cards-heading text-center">
@@ -928,6 +933,7 @@
                 <div class="row ml-0 mr-0" >
                     <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0">
                         <div style="position:relative; margin-top:100px">
+
                             <image class="left-side" src="./img/home_3.jpg" alt="left-side-image" ></image>
                             <div class="side-element">
                                 <div style="line-height: 1.3;"> Empathy.</div>

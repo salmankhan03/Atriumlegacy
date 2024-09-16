@@ -212,6 +212,7 @@
                         <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 ">
                             <div class="pb-5 pr-3 p-sm-2">
                                 <div class=" mb-4" style="color:#000; text-align:left; font-size: 26px">OUR MISSION </div>
+
                                 <h4 class="mb-4" style="color:#000; text-align:left; font-family:'Moisette'; font-size:38px; font-weight:bold">
                                     Our mission is to empower communities by instilling social values, supporting holistic wellness, and creating sustainable futures.
                                 </h4>
