@@ -12,8 +12,8 @@
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
       <style>
-            .contactUsBanner {
-                    background-image: url('./img/about-us.jpg');
+            .initiativeBanner {
+                    background-image: url('./img/our_initiatives_1.jpg');
                     background-position: top center; 
                     background-repeat: no-repeat; 
                     background-attachment: scroll; 
@@ -29,7 +29,7 @@
 
                 /*  */
                 .custom-banner {
-                        background-image: url('./img/partner.jpg');
+                        background-image: url('./img/our_initiatives_4.jpg');
                         background-position: center center;
                         background-repeat: no-repeat;
                         background-attachment: scroll;
@@ -135,7 +135,7 @@
                <div class="middle_content entry"></div>
             </div>
             <!-- Banner -->
-               <div class = "contactUsBanner ">
+               <div class = "initiativeBanner">
                   <div class = "container text-center banner-paddings">
                      <h2 class = "banner-header text-center white-text">
                         Our Initiatives
@@ -177,7 +177,7 @@
                 <div class="row ml-0 mr-0 pt-5">
                     <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 d-flex align-items-center">
                         <div class="">
-                            <image class="" src="./img/initiative-left.jpg" alt="left-side-image" ></image>                     
+                            <image class="" src="./img/our_initiatives_2.jpg" alt="left-side-image" ></image>                     
                         </div>
                     </div>
                     <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 d-flex align-items-center">
@@ -447,7 +447,7 @@
                         </div>
                         <div class="col-sm-12 col-md-4 col-lg-4 pl-0 pr-0 pb-5">
                            <div class="text-left p-0 p-md-5 right-content-padding">
-                              <img src="img/h1.jpg" alt="Image">
+                              <img src="img/our_initiatives_3.jpg" alt="Image">
                            </div>
                         </div>
                      </div>
@@ -475,7 +475,7 @@
                         </div>
                         <div class="col-sm-12 col-md-4 col-lg-4 pl-0 pr-0 pb-5">
                            <div class="text-left p-0 p-md-5 right-content-padding">
-                              <img src="img/h1.jpg" alt="Image">
+                              <img src="img/our_initiatives_3.jpg" alt="Image">
                            </div>
                         </div>
                      </div>
@@ -504,7 +504,7 @@
                            </div>
                            <div class="col-sm-12 col-md-4 col-lg-4 pl-0 pr-0 pb-5">
                               <div class="text-left p-0 p-md-5 right-content-padding">
-                                 <img src="img/h1.jpg" alt="Image">
+                                 <img src="img/our_initiatives_3.jpg" alt="Image">
                               </div>
                            </div>
                         </div>
@@ -533,7 +533,7 @@
                               </div>
                               <div class="col-sm-12 col-md-4 col-lg-4 pl-0 pr-0 pb-5">
                                  <div class="text-left p-0 p-md-5 right-content-padding">
-                                    <img src="img/h1.jpg" alt="Image">
+                                    <img src="img/our_initiatives_3.jpg" alt="Image">
                                  </div> 
                               </div>
                            </div>
@@ -726,21 +726,21 @@
                   <div class="header_mid_inner pd-0 ">
                      <div class="row ml-0 mr-0" >
                            <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0">
-                              <div class="pt-5 pb-5 p-xs-0 ">
+                              <div class="" style="padding: 100px 0;">
                                  <div class="h2-heading-section-space">
-                                    <h2 class="h2-title">Future Initiatives</h2>
+                                    <h2 class="h2-title" style="color:#fff;">Future Initiatives</h2>
                                  </div>
-                                 <div class="text-content-space">
-                                    <h4 class="text-content">
+                                 <div class="">
+                                    <h4 class="text-content" style="color:#fff;">
                                        As we continue to grow and learn from our communities, Atrium Legacy Foundation is committed to expanding our portfolio of initiatives. Our goal is to remain responsive to emerging needs and challenges, ensuring that our work continues to create positive and sustainable change.
                                     </h4>
                                  </div>                              
                               </div>
                            </div>
-                           <div class="col-sm-12 col-md-6 col-lg-6 text-content p-4">
+                           <!-- <div class="col-sm-12 col-md-6 col-lg-6 text-content p-4">
                               <div class="pt-5 pb-5">
                               </div>
-                           </div>
+                           </div> -->
                      </div>  
                   </div>
                </div>   

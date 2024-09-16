@@ -650,33 +650,32 @@
                 </div>
             </div>  
             <!-- fIRST SECTION -->
-                <div class="row equal-height">
-                    <div class="col-md-8 col-lg-8">
-                        <div class="left-section-padding left-margin-top-bottom">
-                            <div class="h2-heading-section-space">
-                                <h2 class="h2-title">Welcome to <br/> Atrium Legacy Foundation</h2>
-                            </div>
-                            <div class="text-content-space">
-                                <h4 class="text-content">
-                                    Atrium Legacy Foundation believes that true progress lies in the values we impart, the communities we nurture, and the future we build together. We are dedicated to creating a lasting impact by fostering empathy in our youth, ensuring dignified aging for our seniors, and promoting sustainable solutions that uplift our communities.
-                                </h4>
-                            </div>
-                            <div id="" class="button_wrap">
-                                <a href="#" class="custom-btn">
-                                    <span>Find Out More</span>
-                                </a>
-                            </div>
+            <div class="row equal-height">
+                <div class="col-md-8 col-lg-8">
+                    <div class="left-section-padding left-margin-top-bottom">
+                        <div class="h2-heading-section-space">
+                            <h2 class="h2-title">Welcome to <br/> Atrium Legacy Foundation</h2>
+                        </div>
+                        <div class="text-content-space">
+                            <h4 class="text-content">
+                                Atrium Legacy Foundation believes that true progress lies in the values we impart, the communities we nurture, and the future we build together. We are dedicated to creating a lasting impact by fostering empathy in our youth, ensuring dignified aging for our seniors, and promoting sustainable solutions that uplift our communities.
+                            </h4>
+                        </div>
+                        <div id="" class="button_wrap">
+                            <a href="#" class="custom-btn">
+                                <span>Find Out More</span>
+                            </a>
                         </div>
                     </div>
-                    <div class="col-md-4 col-lg-4 d-flex align-items-center justify-content-center home-right-bg">
-                        <div class="text-center right-content-padding ">
-                            <h2 class="right-content ">
-                                We envision communities where every individual is empowered to thrive, with access to the resources and support they need across all stages of life.
-                            </h2>
-                        </div>
-                    </div>
-
                 </div>
+                <div class="col-md-4 col-lg-4 d-flex align-items-center justify-content-center home-right-bg">
+                    <div class="text-center right-content-padding ">
+                        <h2 class="right-content ">
+                            We envision communities where every individual is empowered to thrive, with access to the resources and support they need across all stages of life.
+                        </h2>
+                    </div>
+                </div>
+            </div>
             <!-- fIRST SECTION -->
 
             <!-- <div id="cmsmasters_row_ucs4e1cfdh" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_fullwidth">
