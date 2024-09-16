@@ -333,16 +333,16 @@
                                 </div>
                                 <div class="col-md-7 col-lg-7 col-sm-12">
                                     <div class="tab-content mt-5 pl-3" id="myTabContent" style="font-size:18px" >
-                                        <div class="tab-pane fade show active" id="founder" role="tabpanel" aria-labelledby="founder-tab">
+                                        <div class="tab-pane show active" id="founder" role="tabpanel" aria-labelledby="founder-tab">
                                             <p>A visionary leader with a deep commitment to social impact, our CEO has been the driving force beMontserrat the foundation's mission to empower communities and create lasting change.</p>   
                                         </div>
-                                        <div class="tab-pane fade" id="treasurer" role="tabpanel" aria-labelledby="treasurer-tab">
+                                        <div class="tab-pane" id="treasurer" role="tabpanel" aria-labelledby="treasurer-tab">
                                             <p>Responsible for overseeing the financial health and sustainability of the foundation, our Treasurer brings years of experience in non-profit financial management.</p>
                                         </div>
-                                        <div class="tab-pane fade" id="advisory" role="tabpanel" aria-labelledby="advisory-tab">
+                                        <div class="tab-pane" id="advisory" role="tabpanel" aria-labelledby="advisory-tab">
                                             <p>A diverse group of experts and thought leaders who guide our strategic direction and ensure our initiatives remain impactful and relevant.</p>     
                                         </div>
-                                        <div class="tab-pane fade" id="board" role="tabpanel" aria-labelledby="board-tab">
+                                        <div class="tab-pane" id="board" role="tabpanel" aria-labelledby="board-tab">
                                             <p>Our Board Members bring a wealth of knowledge from various fields, including education, healthcare, housing, and technology, ensuring that our projects are well-rounded and effective.</p>    
                                         </div>
                                     </div>
@@ -515,18 +515,12 @@
             $('#founder-tab').hover(function() {
                 $(this).tab('show');
             });
-        });
-        $(document).ready(function() {
             $('#treasurer-tab').hover(function() {
                 $(this).tab('show');
             });
-        });
-        $(document).ready(function() {
             $('#advisory-tab').hover(function() {
                 $(this).tab('show');
             });
-        });
-        $(document).ready(function() {
             $('#board-tab').hover(function() {
                 $(this).tab('show');
             });
