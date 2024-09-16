@@ -447,7 +447,7 @@
                         </div>
                         <div class="col-sm-12 col-md-4 col-lg-4 pl-0 pr-0 pb-5">
                            <div class="text-left p-0 p-md-5 right-content-padding">
-                              <img src="img/our_initiatives_3.jpg" alt="Image">
+                              <img src="img/our_initiatives_ReStartEducation.jpg" alt="Image">
                            </div>
                         </div>
                      </div>
@@ -475,7 +475,7 @@
                         </div>
                         <div class="col-sm-12 col-md-4 col-lg-4 pl-0 pr-0 pb-5">
                            <div class="text-left p-0 p-md-5 right-content-padding">
-                              <img src="img/our_initiatives_3.jpg" alt="Image">
+                              <img src="img/our_initiatives_AgingGrace.jpg" alt="Image">
                            </div>
                         </div>
                      </div>
@@ -504,7 +504,7 @@
                            </div>
                            <div class="col-sm-12 col-md-4 col-lg-4 pl-0 pr-0 pb-5">
                               <div class="text-left p-0 p-md-5 right-content-padding">
-                                 <img src="img/our_initiatives_3.jpg" alt="Image">
+                                 <img src="img/our_initiatives_HomeStrong.jpg" alt="Image">
                               </div>
                            </div>
                         </div>
@@ -533,7 +533,7 @@
                               </div>
                               <div class="col-sm-12 col-md-4 col-lg-4 pl-0 pr-0 pb-5">
                                  <div class="text-left p-0 p-md-5 right-content-padding">
-                                    <img src="img/our_initiatives_3.jpg" alt="Image">
+                                    <img src="img/our_initiatives_AgriThrive.jpg" alt="Image">
                                  </div> 
                               </div>
                            </div>
