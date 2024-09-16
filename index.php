@@ -149,7 +149,7 @@
         .cards-footer::before {
             content: 'Read More';
             position: absolute;
-            left:30%;
+            left:40%;
             transform: translateX(-50%);
             bottom: 15px;
             font-size: 14px;
@@ -643,7 +643,7 @@
                         Communities
                     </h1>
                     <div id="" class="button_wrap" style="padding-top: 10px;">
-                        <a href="#" class="custom-btn">
+                        <a href="./about_us.php" class="custom-btn">
                             <span>Learn More</span>
                         </a>
                     </div>
@@ -662,7 +662,7 @@
                             </h4>
                         </div>
                         <div id="" class="button_wrap">
-                            <a href="#" class="custom-btn">
+                            <a href="./about_us.php" class="custom-btn2">
                                 <span>Find Out More</span>
                             </a>
                         </div>
@@ -721,21 +721,22 @@
                 </div>
             </div> -->
             <!-- SECOND SECTION -->
-            <div style="background-color: #cfddd0;">
-                <div class="header_mid_inner pd-0">
+            <div class="" style="background-color: #cfddd0;">
+                <div class="header_mid_inner pd-0 " >
+                    <div class="content-padding">
                     <div class="row ml-0 mr-0" >
                         <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0">
-                            <div class="pt-5 pb-5 p-xs-0 ">
-                                <h2 class="hedings mt-5 mb-4 mobile-left-section-padding" style="color:#000; text-align:center; font-weight:bold;">Our Initiatives </h2>
+                            <div class="p-xs-0 ">
+                                <h2 class="hedings mobile-left-section-padding" style="color:#000; font-weight:bold;">Our Initiatives </h2>
                             </div>
                         </div>
-                        <div class="col-sm-12 col-md-6 col-lg-6 text-content p-4">
-                            <div class="pt-5 pb-5">
+                        <div class="col-sm-12 col-md-6 col-lg-6 text-content">
+                            <div class="">
                                 <p class="" style="font-size: 20px">Empowering communities through strategic initiatives that address today’s challenges and build a better tomorrow.</p>
                             </div>
                         </div>
                     </div>
-                    <div class="row pt-5 pb-5"> 
+                    <div class="row pt-5 pb-0"> 
                         <div class="col-sm-12 col-md-6 col-lg-3 text-content d-flex">
                             <div class="cards" id = "card1">
                                 <div class="cards-heading text-center">
@@ -837,6 +838,7 @@
                             </div>
                         </div>
                     </div>
+                    </div>
                 </div>
             </div>
             
@@ -922,15 +924,15 @@
                     </div>
                 </div>
             </div> -->
-            <div class="header_mid_inner pd-0">
+            <div class="header_mid_inner pd-0 ">
                 <div class="row ml-0 mr-0" >
                     <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0">
-                        <div class="mt-5">
+                        <div style="position:relative; margin-top:100px">
                             <image class="left-side" src="./img/home_3.jpg" alt="left-side-image" ></image>
                             <div class="side-element">
-                                <div> Empathy.</div>
-                                <div> Wellness.</div>
-                                <div> Sustainability.</div>
+                                <div style="line-height: 1.3;"> Empathy.</div>
+                                <div style="line-height: 1.3;"> Wellness.</div>
+                                <div  style="line-height: 1.3;"> Sustainability.</div>
                             </div>
                         </div>
                     </div>

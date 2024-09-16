@@ -206,32 +206,34 @@
             <!-- Our Story Section Closed-->
 
             <div style="background-color: #cfddd0;">
+                <div class="content-padding">
                 <div class="header_mid_inner pd-0">
                     <div class="row ml-0 mr-0" >
                         <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 ">
-                            <div class="pt-5 pb-5 pr-3 p-sm-2">
-                                <div class="mt-5 mb-4" style="color:#000; text-align:left; font-size: 26px">OUR MISSION </div>
+                            <div class="pb-5 pr-3 p-sm-2">
+                                <div class=" mb-4" style="color:#000; text-align:left; font-size: 26px">OUR MISSION </div>
                                 <h4 class="mb-4" style="color:#000; text-align:left; font-family:'Moisette'; font-size:38px; font-weight:bold">
                                     Our mission is to empower communities by instilling social values, supporting holistic wellness, and creating sustainable futures.
                                 </h4>
-                                <p class="" style="font-family: 'Montserrat';font-size: 18px;line-height: 28px;font-weight: 400;color: #000;">
+                                <p class="pb-0 mb-0" style="font-family: 'Montserrat';font-size: 18px;line-height: 28px;font-weight: 400;color: #000;">
                                     Through our initiatives, we aim to address pressing societal challenges with innovative approaches that prioritize empathy, social responsibility, and community engagement.
                                 </p>
 
                             </div>
                         </div>
                         <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 pr-3">
-                            <div class="pt-5 pb-5 pl-3 p-sm-2">
-                                <div class="mt-5 mb-4" style="color:#000; text-align:left; font-size: 26px">OUR VISION </div>
+                            <div class="pb-5 pl-3 p-sm-2">
+                                <div class="mb-4" style="color:#000; text-align:left; font-size: 26px">OUR VISION </div>
                                 <h4 class="mb-4" style="color:#000; text-align:left; font-family:'Moisette'; font-size:38px; font-weight:bold">
                                     We envision communities where every individual is empowered to thrive, with access to the resources and support they need across all stages of life.
                                 </h4>
-                                <p class="" style="font-family: 'Montserrat';font-size: 18px;line-height: 28px;font-weight: 400;color: #000;">
+                                <p  class="pb-0 mb-0" style="font-family: 'Montserrat';font-size: 18px;line-height: 28px;font-weight: 400;color: #000;">
                                     By fostering collaboration and innovation, we aim to create lasting impact that uplifts not just the present generation, but also future ones.
                                 </p>
                             </div>
                         </div>
                     </div>    
+                </div>
                 </div>
             </div>
 
@@ -427,9 +429,10 @@
             <!-- Our Team Section close -->
             <div class="custom-banner w-100">
                   <div class="header_mid_inner pd-0 ">
+                      <div class="content-padding">
                      <div class="row ml-0 mr-0" >
                            <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0">
-                              <div class="pt-5 pb-5 p-xs-0 ">
+                              <div class="p-xs-0 ">
                                  <div class="h2-heading-section-space">
                                     <h2 class="h2-title" style="color: #ffffff;">Partnership Opportunities</h2>
                                  </div>
@@ -450,6 +453,7 @@
                               </div>
                            </div> -->
                      </div>  
+                     </div>
                   </div>
                </div>  
             <!-- Partnership Section  -->

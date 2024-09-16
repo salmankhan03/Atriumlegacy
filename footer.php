@@ -149,17 +149,16 @@
             </div>
 
             <div class="row mt-5 pt-3 pb-3 borderTop">
-                <div class="col-sm-12 col-md-7 col-lg-7 d-flex justify-content-between align-items-center text-center">
+                <div class="col-sm-12 col-md-6 col-lg-6 d-flex justify-content-between align-items-center text-center">
                     <div class="d-flex justify-content-center">
                         <a href="#about-us" class="mx-2">About Us</a>
                         <a href="#contact-us" class="mx-2">Contact Us</a>
                         <a href="#privacy" class="mx-2">Privacy</a>
                     </div>
                 </div>
-                <div class="col-sm-12 col-md-5 col-lg-5 d-flex align-items-center justify-content-center text-center">
+                <div class="col-sm-12 col-md-6 col-lg-6 d-flex align-items-center justify-content-center text-center">
                     <div>
-                        <a href="#" target="_blank" rel="noopener">AxiomThemes</a>
-                        © 2024. All Rights Reserved.
+                        © <?php echo Date('Y'); ?> Intelli Management Group. All Rights Reserved. 
                     </div>
                 </div>
             </div>
