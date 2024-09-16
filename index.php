@@ -735,7 +735,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="row pt-5 pb-5"> 
+                    <div class="row" style="padding-bottom: 70px"> 
                         <div class="col-sm-12 col-md-6 col-lg-3 text-content d-flex">
                             <div class="cards" id = "card1">
                                 <div class="cards-heading text-center">
@@ -922,10 +922,10 @@
                     </div>
                 </div>
             </div> -->
-            <div class="header_mid_inner pd-0">
+            <div class="header_mid_inner pd-0" style="margin-top: 70px;">
                 <div class="row ml-0 mr-0" >
                     <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0">
-                        <div class="mt-5">
+                        <div class="">
                             <image class="left-side" src="./img/home_3.jpg" alt="left-side-image" ></image>
                             <div class="side-element">
                                 <div> Empathy.</div>

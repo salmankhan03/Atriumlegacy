@@ -3209,7 +3209,7 @@
                         </div>
                         <div id="" class="button_wrap">
                            <a href="#" class="custom-btn">
-                              <span>Apply to Volunteer</span>
+                              <span>View All Events</span>
                            </a>
                         </div>
                   </div>
