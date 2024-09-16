@@ -648,7 +648,11 @@
                         </a>
                     </div>
                 </div>
-            </div>  
+                <!-- <div class = "position-absolute" style="bottom: 0; right: 0; background: #4789cc;">
+                    <img src="img/ALF_logo_only.svg">
+                    <a href="#">Donate Now</a>
+                </div> -->
+            </div>
             <!-- fIRST SECTION -->
             <div class="row equal-height">
                 <div class="col-md-8 col-lg-8">

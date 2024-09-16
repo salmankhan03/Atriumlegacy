@@ -8,7 +8,7 @@
     <meta name="format-detection" content="telephone=no">
     <link rel="profile" href="https://gmpg.org/xfn/11">
     <link rel="pingback" href="https://green-planet.cmsmasters.net/xmlrpc.php">
-    <title>Green Planet – Just another WordPress site</title>
+    <title>Atrium Legacy Foundation</title>
     <meta name="robots" content="max-image-preview:large">
     <link rel="stylesheet" id="green-planet-theme-style-css" href="lib/style_002.css" type="text/css" media="screen, print">
     <link rel="stylesheet" id="green-planet-style-css" href="lib/style.css" type="text/css" media="screen, print">
@@ -67,11 +67,11 @@
         	padding-top: 0px; 
         } 
     </style>
-   <link rel="stylesheet" id="green-planet-fonts-schemes-css" href="lib/green-planet.css" type="text/css" media="screen">
+    <link rel="stylesheet" id="green-planet-fonts-schemes-css" href="lib/green-planet.css" type="text/css" media="screen">
     <link rel="stylesheet" id="green-planet-donations-style-css" href="lib/plugin-style_002.css" type="text/css" media="screen">
     <link rel="stylesheet" id="green-planet-donations-adaptive-css" href="lib/plugin-adaptive_002.css" type="text/css" media="screen">
     <script type="text/javascript" src="lib/jquery.min.js" id="jquery-core-js"></script>
-   <script type="text/javascript" src="lib/rbtools.min.js" async="" id="tp-tools-js"></script>
+    <script type="text/javascript" src="lib/rbtools.min.js" async="" id="tp-tools-js"></script>
     <script type="text/javascript" src="lib/rs6.min.js" async="" id="revmin-js"></script>
 </head>
 
@@ -84,7 +84,7 @@
                 <div class="header_mid" data-height="120" style="height: 120px;">
                     <div class="header_mid_outer">
                         <div class="header_mid_inner">
-                            <div class="logo_wrap"><a href="index.php" title="Green Planet" class="logo"> <img src="img/ALF_logo_4C.svg" alt="Green Planet"> <img class="logo_retina" src="img/logo_retina.png" alt="Green Planet" width="210" height="50"> </a> </div>
+                            <div class="logo_wrap"><a href="index.php" title="Atrium Legacy Foundation" class="logo"> <img src="img/ALF_logo_4C.svg" alt="Atrium Legacy Foundation"></a> </div>
                             <div class="header_donation_but_wrap">
                                 <div class="header_donation_but_wrap_inner">
                                     <div class="header_donation_but"><a href="" class="cmsmasters_button"><span>Donate!</span></a></div>
