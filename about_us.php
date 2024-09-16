@@ -297,34 +297,34 @@
                             </div>                    
                        
                             <div class="row">
-                                <div class="col-md-5 col-lg-5 col-sm-12 pl-0 pr-0">
+                                <div class="col-md-5 col-lg-5 col-sm-12 pl-0 pr-0" style="border-right:1px solid #ccc;">
                                     <div class="d-block">
                                         <ul class="nav nav-tabs w-100 d-flex no-bullets" id="myTab" role="tablist" style=" justify-content: space-between; border-bottom: none;">
                                             <li class="nav-item p-0" role="presentation">
-                                                <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true" style="background-color:transparent;border:none">
+                                                <a class="nav-link active" id="founder-tab" data-toggle="tab" href="#founder" role="tab" aria-controls="founder" aria-selected="true" style="background-color:transparent;border:none">
                                                     <div>
-                                                        <span style="font-size:18px">Founder & CEO:</span>
+                                                        <span style="font-size:18px">Founder & CEO</span>
                                                     </div>
                                                 </a>
                                             </li>
                                             <li class="nav-item p-0" role="presentation">
-                                                <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false" style="background-color:transparent;border:none">
+                                                <a class="nav-link" id="treasurer-tab" data-toggle="tab" href="#treasurer" role="tab" aria-controls="treasurer" aria-selected="false" style="background-color:transparent;border:none">
                                                     <div>
-                                                        <span style="font-size:18px">Treasurer:</span>
+                                                        <span style="font-size:18px">Treasurer</span>
                                                     </div>
                                                 </a>
                                             </li>
                                             <li class="nav-item p-0" role="presentation">
-                                                <a class="nav-link" id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="false" style="background-color:transparent;border:none">
+                                                <a class="nav-link" id="advisory-tab" data-toggle="tab" href="#advisory" role="tab" aria-controls="advisory" aria-selected="false" style="background-color:transparent;border:none">
                                                     <div>
-                                                        <span style="font-size:18px">Advisory Board:</span>
+                                                        <span style="font-size:18px">Advisory Board</span>
                                                     </div>
                                                 </a>
                                             </li>
                                             <li class="nav-item p-0" role="presentation">
-                                                <a class="nav-link" id="agriThrive-tab" data-toggle="tab" href="#agriThrive" role="tab" aria-controls="agriThrive" aria-selected="false" style="background-color:transparent;border:none;">
+                                                <a class="nav-link" id="board-tab" data-toggle="tab" href="#board" role="tab" aria-controls="board" aria-selected="false" style="background-color:transparent;border:none;">
                                                     <div>
-                                                        <span style="font-size:18px">Board Members:</span>
+                                                        <span style="font-size:18px">Board Members</span>
                                                     </div>
                                                 </a>
                                             </li>
@@ -332,17 +332,17 @@
                                     </div>
                                 </div>
                                 <div class="col-md-7 col-lg-7 col-sm-12">
-                                    <div class="tab-content mt-5 pl-3" id="myTabContent" style="border-left:1px solid #ccc; font-size:18px" >
-                                        <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+                                    <div class="tab-content mt-5 pl-3" id="myTabContent" style="font-size:18px" >
+                                        <div class="tab-pane fade show active" id="founder" role="tabpanel" aria-labelledby="founder-tab">
                                             <p>A visionary leader with a deep commitment to social impact, our CEO has been the driving force beMontserrat the foundation's mission to empower communities and create lasting change.</p>   
                                         </div>
-                                        <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+                                        <div class="tab-pane fade" id="treasurer" role="tabpanel" aria-labelledby="treasurer-tab">
                                             <p>Responsible for overseeing the financial health and sustainability of the foundation, our Treasurer brings years of experience in non-profit financial management.</p>
                                         </div>
-                                        <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
+                                        <div class="tab-pane fade" id="advisory" role="tabpanel" aria-labelledby="advisory-tab">
                                             <p>A diverse group of experts and thought leaders who guide our strategic direction and ensure our initiatives remain impactful and relevant.</p>     
                                         </div>
-                                        <div class="tab-pane fade" id="agriThrive" role="tabpanel" aria-labelledby="agriThrive-tab">
+                                        <div class="tab-pane fade" id="board" role="tabpanel" aria-labelledby="board-tab">
                                             <p>Our Board Members bring a wealth of knowledge from various fields, including education, healthcare, housing, and technology, ensuring that our projects are well-rounded and effective.</p>    
                                         </div>
                                     </div>
@@ -509,7 +509,31 @@
                 });
             });
         </script> -->
-         <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+
+    <script>
+        $(document).ready(function() {
+            $('#founder-tab').hover(function() {
+                $(this).tab('show');
+            });
+        });
+        $(document).ready(function() {
+            $('#treasurer-tab').hover(function() {
+                $(this).tab('show');
+            });
+        });
+        $(document).ready(function() {
+            $('#advisory-tab').hover(function() {
+                $(this).tab('show');
+            });
+        });
+        $(document).ready(function() {
+            $('#board-tab').hover(function() {
+                $(this).tab('show');
+            });
+        });
+    </script>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
    <?php include 'footer.php'; ?> 
