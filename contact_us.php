@@ -139,22 +139,22 @@
                 }
 
                 .icon-name::before {
-                    background-image: url('img/user.png'); 
+                    background-image: url('img/icons/user.png'); 
                 }
 
                 .icon-email::before {
-                    background-image: url('img/mail.png');
+                    background-image: url('img/icons/mail.png');
                 }
 
                 .icon-phone::before {
-                    background-image: url('img/phone-call.png'); 
+                    background-image: url('img/icons/phone-call.png'); 
                 }
 
                 .icon-subject::before {
-                    background-image: url('img/question.png'); 
+                    background-image: url('img/icons/question.png'); 
                 }
                 .icon-textarea::before {
-                    background-image: url('img/pencil.png'); 
+                    background-image: url('img/icons/pencil.png'); 
                     margin-top: -50px;
 
                 }

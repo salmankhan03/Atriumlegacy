@@ -360,7 +360,7 @@ body {
     padding: 0 5% 0 10%;
 }
 
-.right-content{
+.blue-header{
     font-size: 38px;
     line-height: 50px;
     color: #ffffff;
@@ -473,7 +473,7 @@ a {
 .our-team{
     background-color:transparent !important;
     border:none !important;
-    padding: 20px !important;
+    padding: 20px 0 !important;
 }
 
 .tab-cards-title{

@@ -108,14 +108,14 @@
                         padding-bottom: 90px;
                     }
                 }
-                .blue-header{
+                /* .blue-header{
                     font-size:38px;
                     line-height:50px;
                     color:#ffffff;
                     font-family:'Moisette';
                     font-weight:bold;
                     text-align:left;
-                }
+                } */
    </style>
 </head>
 
@@ -213,7 +213,7 @@
                             <div class="pb-5 pr-3 p-sm-2 pr-md-5" id="our-mission">
                                 <div class="mb-4" style="color:#000; text-align:left; font-size: 26px">OUR MISSION </div>
 
-                                <h4 class="mb-4" style="color:#000; text-align:left; font-family:'Moisette'; font-size:38px; font-weight:bold">
+                                <h4 class="mb-4 blue-header" style="color:#000">
                                     Our mission is to empower communities by instilling social values, supporting holistic wellness, and creating sustainable futures.
                                 </h4>
                                 <p class="pb-0 mb-0" style="font-family: 'Montserrat';font-size: 18px;line-height: 28px;font-weight: 400;color: #000;">
@@ -225,7 +225,7 @@
                         <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 pr-3">
                             <div class="pb-5 pl-3 p-sm-2 pl-md-5">
                                 <div class="mb-4" style="color:#000; text-align:left; font-size: 26px">OUR VISION </div>
-                                <h4 class="mb-4" style="color:#000; text-align:left; font-family:'Moisette'; font-size:38px; font-weight:bold">
+                                <h4 class="mb-4 blue-header" style="color:#000">
                                     We envision communities where every individual is empowered to thrive, with access to the resources and support they need across all stages of life.
                                 </h4>
                                 <p  class="pb-0 mb-0" style="font-family: 'Montserrat';font-size: 18px;line-height: 28px;font-weight: 400;color: #000;">

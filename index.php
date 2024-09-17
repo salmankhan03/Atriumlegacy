@@ -674,7 +674,7 @@
                 </div>
                 <div class="col-md-4 col-lg-4 d-flex align-items-center justify-content-center home-right-bg">
                     <div class="text-center right-content-padding ">
-                        <h2 class="right-content ">
+                        <h2 class="blue-header">
                             We envision communities where every individual is empowered to thrive, with access to the resources and support they need across all stages of life.
                         </h2>
                     </div>
