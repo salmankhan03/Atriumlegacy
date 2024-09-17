@@ -108,8 +108,8 @@
                   padding-left: 0;
                }
                .nav-link.active,
-               .nav-item.show .nav-link {
-                    color: #000 !important;
+               .nav-item.show .nav-link .icon-title {
+                    color: #0b9444 !important;
                 }
                /* .nav-tabs{
                   display: flex;
@@ -124,6 +124,10 @@
                .icon-title{
                   font-family: Moisette;
                   font-size: 26px;
+                  color: #000;
+               }
+               .nav-link.active .icon-title {
+                  color: #0b9444;
                }
       </style>
    </head>
@@ -164,24 +168,24 @@
             <!-- Top Section Close -->
 
             <!-- Empty Space  -->
-            <div class="elementor-element elementor-element-7c02393 sc_height_huge sc_fly_static elementor-widget elementor-widget-spacer trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="7c02393" data-element_type="widget" data-widget_type="spacer.default">
+            <!-- <div class="elementor-element elementor-element-7c02393 sc_height_huge sc_fly_static elementor-widget elementor-widget-spacer trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="7c02393" data-element_type="widget" data-widget_type="spacer.default">
                <div class="elementor-widget-container">
                   <div class="elementor-spacer">
                      <div class="elementor-spacer-inner"></div>
                   </div>
                </div>
-            </div>
+            </div> -->
             <!-- Empty Space -->
 
-            <div class="header_mid_inner pd-0 mb-5">
-                <div class="row ml-0 mr-0 pt-5">
-                    <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 d-flex align-items-center">
+            <div class="header_mid_inner pd-0 content-padding">
+                <div class="row ml-0 mr-0">
+                    <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 d-flex align-items-center justify-content-center">
                         <div class="">
                             <image class="" src="./img/our_initiatives_2.jpg" alt="left-side-image" ></image>                     
                         </div>
                     </div>
                     <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 d-flex align-items-center">
-                        <div class="text-left p-0 p-md-5 right-content-padding">
+                        <div class="text-left p-5 right-content-padding">
                            <h2 class="h2-title pb-2" style="color: #000">
                               Atrium Legacy Foundation believe that meaningful change starts with strategic, impactful initiatives.
                            </h2>
@@ -396,6 +400,7 @@
                            </div>
                         </a>
                   </li>
+
                   <li class="nav-item p-0" role="presentation">
                         <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false" style="background-color:transparent;border:none">
                            <div style="display:flex; flex-direction:column; align-items:center; text-align:center;">
@@ -404,6 +409,7 @@
                            </div>
                         </a>
                   </li>
+
                   <li class="nav-item p-0" role="presentation">
                         <a class="nav-link" id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="false" style="background-color:transparent;border:none">
                            <div style="display:flex; flex-direction:column; align-items:center; text-align:center;">
@@ -412,6 +418,7 @@
                            </div>
                         </a>
                   </li>
+
                   <li class="nav-item p-0" role="presentation">
                         <a class="nav-link" id="agriThrive-tab" data-toggle="tab" href="#agriThrive" role="tab" aria-controls="agriThrive" aria-selected="false" style="background-color:transparent;border:none;">
                            <div style="display:flex; flex-direction:column; align-items:center; text-align:center;">
@@ -423,7 +430,7 @@
                </ul>
 
                <!-- Tab Content -->
-               <div class="tab-content" id="myTabContent">
+               <div class="tab-content" id="myTabContent" style="padding-bottom: 100px;">
                   <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
                      <div class="row ml-0 mr-0" >
                         <div class="col-sm-12 col-md-8 col-lg-8 pl-0 pr-0">
@@ -713,13 +720,13 @@
                </div> -->
                <!-- Horizontal Tabs  -->
                <!-- Empty Space -->
-               <div class="elementor-element elementor-element-df4c366 sc_height_huge sc_fly_static elementor-widget elementor-widget-spacer trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="df4c366" data-element_type="widget" data-widget_type="spacer.default">
+               <!-- <div class="elementor-element elementor-element-df4c366 sc_height_huge sc_fly_static elementor-widget elementor-widget-spacer trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="df4c366" data-element_type="widget" data-widget_type="spacer.default">
                   <div class="elementor-widget-container">
                      <div class="elementor-spacer">
                         <div class="elementor-spacer-inner"></div>
                      </div>
                   </div>
-               </div>
+               </div> -->
                <!-- Empty Space --> 
                 <!--  -->
                 <div class="custom-banner w-100">
@@ -777,8 +784,8 @@
 
       <!-- Tabs Script -->        
       <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-   <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
-   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+      <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+      <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
       <!-- <script>
          document.querySelectorAll('.tab-button').forEach(button => {
@@ -791,7 +798,7 @@
              });
          });
       </script> -->
-            <?php include 'footer.php'; ?> 
+      <?php include 'footer.php'; ?> 
 
    </body>
 </html>

@@ -134,15 +134,15 @@
                             </div>
                             <div class="text-left">
                             <p class="mb-0 pb-2">
-                                <a class="underline_anim underline_do_hover" href="mailto:info@email.com" style="text-decoration:underline">
-                                    info@email.com
+                                <a class="underline_anim underline_do_hover" href="mailto:info@alf.com" style="text-decoration:underline">
+                                    info@alf.com
                                 </a>
                             </p>
-                                <div class="elementor-widget-container">
+                                <!-- <div class="elementor-widget-container">
                                     <span class="trx_addons_alter_text">
                                         <a href="tel:+18408412569" style="color:#d2d2d2;text-decoration:underline">+1 840 841 25 69</a>
                                     </span>
-                                </div>
+                                </div> -->
                         </div>
                     </div>
                 </div>

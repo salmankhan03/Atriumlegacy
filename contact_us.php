@@ -341,9 +341,9 @@
                                                 V6X 2T4
                                             </h4>
                                             <h3 class="text-content mb-3">
-                                                info@email.com
+                                                info@alf.com
                                             </h3>                                          
-                                            <h2 class="h2-title" style="font-size:1.5rem">+1 (840) 841-2569</h2>
+                                            <!-- <h2 class="h2-title" style="font-size:1.5rem">+1 (840) 841-2569</h2> -->
                                         </div>
                                         
                                     </div>
