@@ -106,7 +106,7 @@
                                     <span class="footerSlogan" style="font-size: 46px">We need <br/> solutions now!</span>
                                 </h2>
                             </div> -->
-                            <img src="img/ALF_logo_4C.svg" style="width: 250px;">
+                            <img src="img/icons/ALF_logo_4C.svg" style="width: 250px;">
                         </div>
                     <!-- <div class="col-sm-12 col-md-5 col-lg-5" >
                     

@@ -649,7 +649,7 @@
                     </div>
                 </div>
                 <!-- <div class = "position-absolute" style="bottom: 0; right: 0; background: #4789cc;">
-                    <img src="img/ALF_logo_only.svg">
+                    <img src="img/icons/ALF_logo_only.svg">
                     <a href="#">Donate Now</a>
                 </div> -->
             </div>
@@ -746,11 +746,11 @@
                             <div class="cards" id = "card1">
                                 <div class="cards-heading text-center">
                                     <!-- <i class="fa fa-medkit custom-icon" style="font-size:60px" aria-hidden="true"></i> -->
-                                    <img src="./img/ALF_Web_Icons/Green/ReStart_Education.png" style="width:75px" id="icon1">
+                                    <img src="./img/icons/Green/ReStart_Education.png" style="width:75px" id="icon1">
                                     <script>
                                         const card1 = document.getElementById('card1');
                                         const icon1 = document.getElementById('icon1');
-                                        changeImageOnHover(card1, icon1, "./img/ALF_Web_Icons/White/ReStart_Education.png", "./img/ALF_Web_Icons/Green/ReStart_Education.png");
+                                        changeImageOnHover(card1, icon1, "./img/icons/White/ReStart_Education.png", "./img/icons/Green/ReStart_Education.png");
                                     </script>
                                 </div>
                                 <div class="cards-body text-center">
@@ -773,11 +773,11 @@
                             <div class="cards" id = "card2">
                                 <div class="cards-heading text-center">
                                     <!-- <i class="fa fa-medkit custom-icon" style="font-size:60px" aria-hidden="true"></i> -->
-                                    <img src="./img/ALF_Web_Icons/Green/Aging_Grace.png" style="width:75px" id = "icon2">
+                                    <img src="./img/icons/Green/Aging_Grace.png" style="width:75px" id = "icon2">
                                     <script>
                                         const card2 = document.getElementById('card2');
                                         const icon2 = document.getElementById('icon2');
-                                        changeImageOnHover(card2, icon2, "./img/ALF_Web_Icons/White/Aging_Grace.png", "./img/ALF_Web_Icons/Green/Aging_Grace.png");
+                                        changeImageOnHover(card2, icon2, "./img/icons/White/Aging_Grace.png", "./img/icons/Green/Aging_Grace.png");
                                     </script>
                                 </div>
                                 <div class="cards-body text-center">
@@ -800,11 +800,11 @@
                             <div class="cards" id = "card3">
                                 <div class="cards-heading text-center">
                                     <!-- <i class="fa fa-medkit custom-icon" style="font-size:60px" aria-hidden="true"></i> -->
-                                    <img src="./img/ALF_Web_Icons/Green/HomeStrong.png" style="width:75px" id = "icon3">
+                                    <img src="./img/icons/Green/HomeStrong.png" style="width:75px" id = "icon3">
                                     <script>
                                         const card3 = document.getElementById('card3');
                                         const icon3 = document.getElementById('icon3');
-                                        changeImageOnHover(card3, icon3, "./img/ALF_Web_Icons/White/HomeStrong.png", "./img/ALF_Web_Icons/Green/HomeStrong.png");
+                                        changeImageOnHover(card3, icon3, "./img/icons/White/HomeStrong.png", "./img/icons/Green/HomeStrong.png");
                                     </script>
                                 </div>
                                 <div class="cards-body text-center">
@@ -827,11 +827,11 @@
                             <div class="cards" id = "card4">
                                 <div class="cards-heading text-center">
                                     <!-- <i class="fa fa-medkit custom-icon" style="font-size:60px" aria-hidden="true"></i> -->
-                                    <img src="./img/ALF_Web_Icons/Green/AgriThrive.png" style="width:75px" id = "icon4">
+                                    <img src="./img/icons/Green/AgriThrive.png" style="width:75px" id = "icon4">
                                     <script>
                                         const card4 = document.getElementById('card4');
                                         const icon4 = document.getElementById('icon4');
-                                        changeImageOnHover(card4, icon4, "./img/ALF_Web_Icons/White/AgriThrive.png", "./img/ALF_Web_Icons/Green/AgriThrive.png");
+                                        changeImageOnHover(card4, icon4, "./img/icons/White/AgriThrive.png", "./img/icons/Green/AgriThrive.png");
                                     </script>
                                 </div>
                                 <div class="cards-body text-center">
@@ -941,7 +941,7 @@
                     <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0">
                         <div style="position:relative; margin-top:100px">
 
-                            <image class="left-side" src="./img/home_3.jpg" alt="left-side-image" ></image>
+                            <image class="left-side" src="./img/home/home_3.jpg" alt="left-side-image" ></image>
                             <div class="side-element">
                                 <div style="line-height: 1.3;"> Empathy.</div>
                                 <div style="line-height: 1.3;"> Wellness.</div>

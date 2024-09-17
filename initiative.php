@@ -13,7 +13,7 @@
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
       <style>
             .initiativeBanner {
-               background-image: url('./img/our_initiatives_1.jpg');
+               background-image: url('./img/our_initiatives/our_initiatives_1.jpg');
                background-position: top center; 
                background-repeat: no-repeat; 
                background-attachment: scroll; 
@@ -29,7 +29,7 @@
 
             /*  */
             .custom-banner {
-               background-image: url('./img/our_initiatives_4.jpg');
+               background-image: url('./img/our_initiatives/our_initiatives_4.jpg');
                background-position: center center;
                background-repeat: no-repeat;
                background-attachment: scroll;
@@ -190,7 +190,7 @@
                 <div class="row ml-0 mr-0">
                     <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 d-flex align-items-center justify-content-center">
                         <div class="">
-                           <image class="" src="./img/our_initiatives_2.jpg" alt="left-side-image" ></image>                     
+                           <image class="" src="./img/our_initiatives/our_initiatives_2.jpg" alt="left-side-image" ></image>                     
                         </div>
                     </div>
                     <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 d-flex align-items-center">
@@ -252,7 +252,7 @@
                      <li class="nav-item p-0" role="presentation" >
                         <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true" style="background-color:transparent;border:none">
                            <div>
-                              <img src="./img/ALF_Web_Icons/Green/ReStart_Education.png" style="width:75px"><br/>
+                              <img src="./img/icons/Green/ReStart_Education.png" style="width:75px"><br/>
                               <span class="">ReStart Education</span>
                            </div>
                         </a>
@@ -260,7 +260,7 @@
                      <li class="nav-item p-0" role="presentation">
                         <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false" style="background-color:transparent;border:none">
                            <div>
-                              <img src="./img/ALF_Web_Icons/Green/Aging_Grace.png" style="width:75px"><br/>
+                              <img src="./img/icons/Green/Aging_Grace.png" style="width:75px"><br/>
                               <span class="tabs-button-style">Aging Grace</span>
                            </div>
                         </a>
@@ -268,7 +268,7 @@
                      <li class="nav-item p-0" role="presentation">
                         <a class="nav-link" id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="false" style="background-color:transparent;border:none">
                            <div>
-                              <img src="./img/ALF_Web_Icons/Green/HomeStrong.png" style="width:75px"><br/>
+                              <img src="./img/icons/Green/HomeStrong.png" style="width:75px"><br/>
                               <span class="tabs-button-style">HomeStrong</span>
                            </div>
                         </a>
@@ -276,7 +276,7 @@
                      <li class="nav-item p-0" role="presentation">
                         <a class="nav-link" id="agriThrive-tab" data-toggle="tab" href="#agriThrive" role="tab" aria-controls="agriThrive" aria-selected="false" style="background-color:transparent;border:none;">
                            <div>
-                              <img src="./img/ALF_Web_Icons/Green/AgriThrive.png" style="width:75px"><br/>    
+                              <img src="./img/icons/Green/AgriThrive.png" style="width:75px"><br/>    
                               <span class="tabs-button-style">AgriThrive</span>
                            </div>
                         </a>
@@ -404,7 +404,7 @@
                   <li class="nav-item p-0" role="presentation">
                      <a class="nav-link active" id="ReStart-Education-tab" data-toggle="tab" href="#ReStart-Education" role="tab" aria-controls="ReStart-Education" aria-selected="true" style="background-color:transparent;border:none">
                         <div style="display:flex; flex-direction:column; align-items:center; text-align:center;">
-                           <img src="./img/ALF_Web_Icons/Black/ReStart_Education.png" style="width:75px"><br/>
+                           <img src="./img/icons/Black/ReStart_Education.png" style="width:75px"><br/>
                            <span class="icon-title">ReStart Education</span>
                         </div>
                      </a>
@@ -413,7 +413,7 @@
                   <li class="nav-item p-0" role="presentation">
                      <a class="nav-link" id="Aging-Grace-tab" data-toggle="tab" href="#Aging-Grace" role="tab" aria-controls="Aging-Grace" aria-selected="false" style="background-color:transparent;border:none">
                         <div style="display:flex; flex-direction:column; align-items:center; text-align:center;">
-                           <img src="./img/ALF_Web_Icons/Black/Aging_Grace.png" style="width:75px"><br/>
+                           <img src="./img/icons/Black/Aging_Grace.png" style="width:75px"><br/>
                            <span class="icon-title">Aging Grace</span>
                         </div>
                      </a>
@@ -422,7 +422,7 @@
                   <li class="nav-item p-0" role="presentation">
                      <a class="nav-link" id="HomeStrong-tab" data-toggle="tab" href="#HomeStrong" role="tab" aria-controls="HomeStrong" aria-selected="false" style="background-color:transparent;border:none">
                         <div style="display:flex; flex-direction:column; align-items:center; text-align:center;">
-                           <img src="./img/ALF_Web_Icons/Black/HomeStrong.png" style="width:75px"><br/>
+                           <img src="./img/icons/Black/HomeStrong.png" style="width:75px"><br/>
                            <span class="icon-title">HomeStrong</span>
                         </div>
                      </a>
@@ -431,7 +431,7 @@
                   <li class="nav-item p-0" role="presentation">
                      <a class="nav-link" id="agriThrive-tab" data-toggle="tab" href="#agriThrive" role="tab" aria-controls="agriThrive" aria-selected="false" style="background-color:transparent;border:none;">
                         <div style="display:flex; flex-direction:column; align-items:center; text-align:center;">
-                           <img src="./img/ALF_Web_Icons/Black/AgriThrive.png" style="width:75px"><br/>
+                           <img src="./img/icons/Black/AgriThrive.png" style="width:75px"><br/>
                            <span class="icon-title">AgriThrive</span>
                         </div>
                      </a>
@@ -463,7 +463,7 @@
                         </div>
                         <div class="col-sm-12 col-md-4 col-lg-4 pl-0 pr-0 pb-5">
                            <div class="text-left p-0 p-md-5 right-content-padding">
-                              <img src="img/our_initiatives_ReStartEducation.jpg" alt="Image">
+                              <img src="img/our_initiatives/our_initiatives_ReStartEducation.jpg" alt="Image">
                            </div>
                         </div>
                      </div>
@@ -492,7 +492,7 @@
                         </div>
                         <div class="col-sm-12 col-md-4 col-lg-4 pl-0 pr-0 pb-5">
                            <div class="text-left p-0 p-md-5 right-content-padding">
-                              <img src="img/our_initiatives_AgingGrace.jpg" alt="Image">
+                              <img src="img/our_initiatives/our_initiatives_AgingGrace.jpg" alt="Image">
                            </div>
                         </div>
                      </div>
@@ -522,7 +522,7 @@
                         </div>
                         <div class="col-sm-12 col-md-4 col-lg-4 pl-0 pr-0 pb-5">
                            <div class="text-left p-0 p-md-5 right-content-padding">
-                              <img src="img/our_initiatives_HomeStrong.jpg" alt="Image">
+                              <img src="img/our_initiatives/our_initiatives_HomeStrong.jpg" alt="Image">
                            </div>
                         </div>
                      </div>
@@ -552,7 +552,7 @@
                         </div>
                         <div class="col-sm-12 col-md-4 col-lg-4 pl-0 pr-0 pb-5">
                            <div class="text-left p-0 p-md-5 right-content-padding">
-                              <img src="img/our_initiatives_AgriThrive.jpg" alt="Image">
+                              <img src="img/our_initiatives/our_initiatives_AgriThrive.jpg" alt="Image">
                            </div> 
                         </div>
                      </div>
@@ -573,20 +573,20 @@
                                  <div class="cmsmasters_tabs tabs_mode_tab">
                                     <div class="tab-buttons cmsmasters_tabs_list" style="text-align:center">
                                        <button class="tab-button tabs-button-style mb-4 active" data-tab="tab1">
-                                          <img src="./img/ALF_Web_Icons/Green/ReStart_Education.png" style="width:75px">
+                                          <img src="./img/icons/Green/ReStart_Education.png" style="width:75px">
                                           <br/>
                                           <span >ReStart Education</span>
                                        </button>
                                        <button class="tab-button tabs-button-style mb-4" data-tab="tab2">
-                                          <img src="./img/ALF_Web_Icons/Green/Aging_Grace.png" style="width:75px"><br/>
+                                          <img src="./img/icons/Green/Aging_Grace.png" style="width:75px"><br/>
                                           <span>Aging Grace</span>
                                        </button>
                                        <button class="tab-button tabs-button-style mb-4" data-tab="tab3">
-                                          <img src="./img/ALF_Web_Icons/Green/HomeStrong.png" style="width:75px"><br/>
+                                          <img src="./img/icons/Green/HomeStrong.png" style="width:75px"><br/>
                                           <span>HomeStrong</span>
                                        </button>
                                        <button class="tab-button tabs-button-style mb-4" data-tab="tab4">
-                                          <img src="./img/ALF_Web_Icons/Green/AgriThrive.png" style="width:75px">
+                                          <img src="./img/icons/Green/AgriThrive.png" style="width:75px">
                                           <br/>    
                                           <span>AgriThrive</span>
                                        </button>

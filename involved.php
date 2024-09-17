@@ -2933,7 +2933,7 @@
 </style> -->
 <style>
    .involvedBanner {
-   background-image: url('./img/get_involved_1.jpg');
+   background-image: url('./img/get_involved/get_involved_1.jpg');
    background-position: top center; 
     background-repeat: no-repeat; 
     background-attachment: scroll; 
@@ -2949,7 +2949,7 @@
 
 /*  */
 .custom-banner {
-         background-image: url('./img/get_involved_6.jpg');
+         background-image: url('./img/get_involved/get_involved_6.jpg');
          background-position: center center;
          background-repeat: no-repeat;
          background-attachment: scroll;

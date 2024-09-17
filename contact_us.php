@@ -13,7 +13,7 @@
             <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
             <style id='green-planet-retina-inline-css' type='text/css'>
                  .contactUsBanner {
-                    background-image: url('./img/contact_us.jpg');
+                    background-image: url('./img/contact_us/contact_us.jpg');
                     background-position: top center; 
                     background-repeat: no-repeat; 
                     background-attachment: scroll; 
@@ -29,7 +29,7 @@
 
                 /*  */
                 .custom-banner {
-                        background-image: url('./img/get_involved_6.jpg');
+                        background-image: url('./img/get_involved/get_involved_6.jpg');
                         background-position: center center;
                         background-repeat: no-repeat;
                         background-attachment: scroll;
