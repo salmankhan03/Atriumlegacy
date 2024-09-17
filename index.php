@@ -643,7 +643,7 @@
                         Communities
                     </h1>
                     <div id="" class="button_wrap" style="padding-top: 10px;">
-                        <a href="./about_us.php" class="custom-btn">
+                        <a href="./about_us.php#our-mission" class="custom-btn">
                             <span>Learn More</span>
                         </a>
                     </div>
@@ -759,15 +759,16 @@
                                         Cultivate a generation that values empathy, social responsibility, and community engagement over material wealth.
                                     </p>
                                 </div>
-                                <!-- <a href="initiative.php#tab1" style="text-decoration: none;"> -->
+                                <a href="initiative.php#myTabContent" style="text-decoration: none;">
                                     <div class="cards-footer text-center">
                                         <div class="custom-footer-icons-div">
                                             <i class="fa fa-arrow-right  custom-icons custom-icon" aria-hidden="true"></i>
                                         </div>
                                     </div>
-                                <!-- </a> -->
+                                </a>
                             </div>
                         </div>
+
                         <div class="col-sm-12 col-md-6 col-lg-3 text-content d-flex">
                             <div class="cards" id = "card2">
                                 <div class="cards-heading text-center">
@@ -785,15 +786,16 @@
                                         Promoting comprehensive wellness and societal integration for seniors to enhance community involvement.
                                     </p>
                                 </div>
-                                <!-- <a href="initiative.php#tab2" style="text-decoration: none;"> -->
+                                <a href="initiative.php#myTabContent" style="text-decoration: none;">
                                     <div class="cards-footer text-center">
                                         <div class="custom-footer-icons-div">
                                             <i class="fa fa-arrow-right custom-icons custom-icon" aria-hidden="true"></i>
                                         </div>
                                     </div>
-                                <!-- </a> -->
+                                </a>
                             </div>
                         </div>
+
                         <div class="col-sm-12 col-md-6 col-lg-3 text-content d-flex">
                             <div class="cards" id = "card3">
                                 <div class="cards-heading text-center">
@@ -811,13 +813,16 @@
                                         Addressing the need for fast and affordable housing solutions to create stability and security for vulnerable populations.
                                     </p>
                                 </div>
-                                <div class="cards-footer text-center">
-                                    <div class="custom-footer-icons-div">
-                                        <i class="fa fa-arrow-right custom-icons custom-icon" aria-hidden="true"></i>
+                                <a href="initiative.php#myTabContent" style="text-decoration: none;">
+                                    <div class="cards-footer text-center">
+                                        <div class="custom-footer-icons-div">
+                                            <i class="fa fa-arrow-right custom-icons custom-icon" aria-hidden="true"></i>
+                                        </div>
                                     </div>
-                                </div>
+                                </a>
                             </div>
                         </div>
+
                         <div class="col-sm-12 col-md-6 col-lg-3 text-content d-flex">
                             <div class="cards" id = "card4">
                                 <div class="cards-heading text-center">
@@ -835,11 +840,13 @@
                                         Leveraging agricultural technology to improve food security and empower communities toward self-sufficiency.
                                     </p>
                                 </div>
-                                <div class="cards-footer text-center">
-                                    <div class="custom-footer-icons-div">
-                                        <i class="fa fa-arrow-right custom-icons custom-icon" aria-hidden="true"></i>
+                                <a href="initiative.php#myTabContent" style="text-decoration: none;">
+                                    <div class="cards-footer text-center">
+                                        <div class="custom-footer-icons-div">
+                                            <i class="fa fa-arrow-right custom-icons custom-icon" aria-hidden="true"></i>
+                                        </div>
                                     </div>
-                                </div>
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -948,7 +955,7 @@
                             <div style="font-family: Moisette; font-style:italic; font-size:26px; color:#000;">Join us in making a meaningful impact</div>
                             <p class="mt-4 mb-4" style="font-family: Montserrat; color:#000; font-size:18px">Whether through donations, volunteer work, or partnerships, your support plays a crucial role in creating a brighter, more inclusive future for everyone.</p>
                             <div id="" class="button_wrap">
-                                <a href="#" class="custom-btn2">
+                                <a href="./involved.php" class="custom-btn2">
                                     <span>Join Us</span>
                                 </a>
                             </div>

@@ -3051,7 +3051,7 @@
                                 <h2 class="h2-title mb-0">Ways to Get Involved</h2>
                             </div>
                         </div>
-                        <div class="col-sm-12 col-md-6 col-lg-6 text-content p-4">
+                        <div class="col-sm-12 col-md-6 col-lg-6 text-content">
                             <div class="">
                                 <p class="mb-0 pb-0" style="font-size: 18px">We understand that creating meaningful social impact requires collective effort. Whether you are an individual, a corporation, or a community organization, there are many ways to get involved and contribute to our mission of fostering empathy, wellness, and sustainability. Your support, time, and resources are invaluable in helping us drive positive change and make a tangible difference in the lives of those we serve.</p>
                             </div>
@@ -3178,7 +3178,7 @@
                            </h4>
                         </div>
                         <div id="" class="button_wrap">
-                           <a href="#" class="custom-btn2">
+                           <a href="./contact_us.php" class="custom-btn2">
                               <span>Contact Us for Partnerships</span>
                            </a>
                         </div>
@@ -3438,11 +3438,11 @@
                      </div>
                   </div>
                </div> -->
-               <div class="custom-banner w-100">
+               <div class="custom-banner w-100 content-padding">
                   <div class="header_mid_inner pd-0 ">
                      <div class="row ml-0 mr-0" >
                            <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0">
-                              <div class="p-xs-0 content-padding">
+                              <div class="p-xs-0">
                                  <div class="h2-heading-section-space">
                                     <h2 class="h2-title">Why Get Involved?</h2>
                                  </div>
@@ -3453,7 +3453,7 @@
                                  </div>
                                  <div id="" class="button_wrap">
                                     <a href="#" class="custom-btn3">
-                                          <span>Join Us Today</span>
+                                       <span>Join Us Today</span>
                                     </a>
                                  </div>
                               </div>

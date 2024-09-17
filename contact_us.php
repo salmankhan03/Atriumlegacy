@@ -315,14 +315,13 @@
                         <div class="header_mid_inner pd-0 ">
                             <div class="row ml-0 mr-0" >
                                 <div class="col-12 pl-0 pr-0">
-                                    <div class="pt-5 pb-5 p-xs-0 ">
+                                    <div class="content-padding">
                                         <div class="h2-heading-section-space">
                                             <!-- <h2 class="h2-title">Why Get Involved?</h2> -->
-                                            <h2 class="pl-4 pr-4" style = "font-family: Moisette; font-style: italic; color: #000; text-align: center; font-weight: bold;">
+                                            <h2 class="pl-4 pr-4 italic-heading" style="text-align: center;">
                                                 We are here to connect with you, answer your questions, and explore how we can work together to create a lasting impact. Please don’t hesitate to reach out to us using the contact details below.
                                             </h2>
                                         </div>
-                                       
                                     </div>
                                 </div>
                             </div>  
