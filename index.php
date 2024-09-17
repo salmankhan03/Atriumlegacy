@@ -753,7 +753,7 @@
                                         changeImageOnHover(card1, icon1, "./img/ALF_Web_Icons/White/ReStart_Education.png", "./img/ALF_Web_Icons/Green/ReStart_Education.png");
                                     </script>
                                 </div>
-                                <div class="cards-body text-center mt-4">
+                                <div class="cards-body text-center">
                                     <h4 class="card-fonts-heading-color">ReStart Education</h4>
                                     <p class="mt-3 text-center card-fonts-color pb-0 mb-0">
                                         Cultivate a generation that values empathy, social responsibility, and community engagement over material wealth.
@@ -779,7 +779,7 @@
                                         changeImageOnHover(card2, icon2, "./img/ALF_Web_Icons/White/Aging_Grace.png", "./img/ALF_Web_Icons/Green/Aging_Grace.png");
                                     </script>
                                 </div>
-                                <div class="cards-body text-center mt-4">
+                                <div class="cards-body text-center">
                                     <h4 class="card-fonts-heading-color">Aging Grace</h4>
                                     <p class="mt-3 text-center card-fonts-color pb-0 mb-0">
                                         Promoting comprehensive wellness and societal integration for seniors to enhance community involvement.
@@ -805,7 +805,7 @@
                                         changeImageOnHover(card3, icon3, "./img/ALF_Web_Icons/White/HomeStrong.png", "./img/ALF_Web_Icons/Green/HomeStrong.png");
                                     </script>
                                 </div>
-                                <div class="cards-body text-center mt-4">
+                                <div class="cards-body text-center">
                                     <h4 class="card-fonts-heading-color">HomeStrong </h4>
                                     <p class="mt-3 text-center card-fonts-color pb-0 mb-0">
                                         Addressing the need for fast and affordable housing solutions to create stability and security for vulnerable populations.
@@ -829,7 +829,7 @@
                                         changeImageOnHover(card4, icon4, "./img/ALF_Web_Icons/White/AgriThrive.png", "./img/ALF_Web_Icons/Green/AgriThrive.png");
                                     </script>
                                 </div>
-                                <div class="cards-body text-center mt-4">
+                                <div class="cards-body text-center">
                                     <h4 class="card-fonts-heading-color">AgriThrive</h4>
                                     <p class="mt-3 text-center card-fonts-color pb-0 mb-0">
                                         Leveraging agricultural technology to improve food security and empower communities toward self-sufficiency.
