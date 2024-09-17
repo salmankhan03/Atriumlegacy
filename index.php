@@ -948,7 +948,7 @@
                             <div style="font-family: Moisette; font-style:italic; font-size:26px; color:#000;">Join us in making a meaningful impact</div>
                             <p class="mt-4 mb-4" style="font-family: Montserrat; color:#000; font-size:18px">Whether through donations, volunteer work, or partnerships, your support plays a crucial role in creating a brighter, more inclusive future for everyone.</p>
                             <div id="" class="button_wrap">
-                                <a href="#" class="custom-btn">
+                                <a href="#" class="custom-btn2">
                                     <span>Join Us</span>
                                 </a>
                             </div>

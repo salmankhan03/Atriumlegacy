@@ -446,3 +446,9 @@ a {
 .tabs-cards-body{
     font-size: 18px;
 }
+
+.our-team{
+    background-color:transparent !important;
+    border:none !important;
+    padding: 20px !important;
+}

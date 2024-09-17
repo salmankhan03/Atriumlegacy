@@ -297,32 +297,32 @@
                             </div>                    
                        
                             <div class="row">
-                                <div class="col-md-5 col-lg-5 col-sm-12 pl-0 pr-0" style="border-right:1px solid #ccc;">
+                                <div class="col-md-5 col-lg-5 col-sm-12 pl-0 pr-0 d-flex align-items-center" style="border-right:1px solid #ccc; height: 250px;">
                                     <div class="d-block">
                                         <ul class="nav nav-tabs w-100 d-flex no-bullets" id="myTab" role="tablist" style=" justify-content: space-between; border-bottom: none;">
-                                            <li class="nav-item p-0" role="presentation">
-                                                <a class="nav-link active" id="founder-tab" data-toggle="tab" href="#founder" role="tab" aria-controls="founder" aria-selected="true" style="background-color:transparent;border:none">
+                                            <li class="nav-item p-0 d-flex align-items-center" role="presentation">
+                                                <a class="nav-link active our-team" id="founder-tab" data-toggle="tab" href="#founder" role="tab" aria-controls="founder" aria-selected="true">
                                                     <div>
                                                         <span style="font-size:18px">Founder & CEO</span>
                                                     </div>
                                                 </a>
                                             </li>
-                                            <li class="nav-item p-0" role="presentation">
-                                                <a class="nav-link" id="treasurer-tab" data-toggle="tab" href="#treasurer" role="tab" aria-controls="treasurer" aria-selected="false" style="background-color:transparent;border:none">
+                                            <li class="nav-item p-0 d-flex align-items-center" role="presentation">
+                                                <a class="nav-link our-team" id="treasurer-tab" data-toggle="tab" href="#treasurer" role="tab" aria-controls="treasurer" aria-selected="false">
                                                     <div>
                                                         <span style="font-size:18px">Treasurer</span>
                                                     </div>
                                                 </a>
                                             </li>
-                                            <li class="nav-item p-0" role="presentation">
-                                                <a class="nav-link" id="advisory-tab" data-toggle="tab" href="#advisory" role="tab" aria-controls="advisory" aria-selected="false" style="background-color:transparent;border:none">
+                                            <li class="nav-item p-0 d-flex align-items-center" role="presentation">
+                                                <a class="nav-link our-team" id="advisory-tab" data-toggle="tab" href="#advisory" role="tab" aria-controls="advisory" aria-selected="false">
                                                     <div>
                                                         <span style="font-size:18px">Advisory Board</span>
                                                     </div>
                                                 </a>
                                             </li>
-                                            <li class="nav-item p-0" role="presentation">
-                                                <a class="nav-link" id="board-tab" data-toggle="tab" href="#board" role="tab" aria-controls="board" aria-selected="false" style="background-color:transparent;border:none;">
+                                            <li class="nav-item p-0 d-flex align-items-center" role="presentation">
+                                                <a class="nav-link our-team" id="board-tab" data-toggle="tab" href="#board" role="tab" aria-controls="board" aria-selected="false">
                                                     <div>
                                                         <span style="font-size:18px">Board Members</span>
                                                     </div>
