@@ -12,72 +12,72 @@
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
       <style>
-            .initiativeBanner {
-               background-image: url('./img/our_initiatives/our_initiatives_1.jpg');
-               background-position: top center; 
-               background-repeat: no-repeat; 
-               background-attachment: scroll; 
-               background-size: cover;
-               /* padding: 250px 0 150px 0; */
-            }
-            .banner-paddings { 
-               padding-top: 300px; 
-            } 
-            .banner-paddings { 
-               padding-bottom: 320px; 
-            }
+         .initiativeBanner {
+            background-image: url('./img/our_initiatives/our_initiatives_1.jpg');
+            background-position: top center; 
+            background-repeat: no-repeat; 
+            background-attachment: scroll; 
+            background-size: cover;
+            /* padding: 250px 0 150px 0; */
+         }
+         .banner-paddings { 
+            padding-top: 300px; 
+         } 
+         .banner-paddings { 
+            padding-bottom: 320px; 
+         }
 
-            /*  */
-            .custom-banner {
-               background-image: url('./img/our_initiatives/our_initiatives_4.jpg');
-               background-position: center center;
-               background-repeat: no-repeat;
-               background-attachment: scroll;
-               background-size: cover;
-               }
-            /*  */
-            @media only screen and (max-width: 1024px) {
-               .banner-paddings {
-                  padding-top: 160px;
-               }
+         /*  */
+         .custom-banner {
+            background-image: url('./img/our_initiatives/our_initiatives_4.jpg');
+            background-position: center center;
+            background-repeat: no-repeat;
+            background-attachment: scroll;
+            background-size: cover;
             }
-            @media only screen and (max-width: 1024px) {
-               .banner-paddings {
-                  padding-bottom: 180px;
-               }
+         /*  */
+         @media only screen and (max-width: 1024px) {
+            .banner-paddings {
+               padding-top: 160px;
             }
-            @media only screen and (max-width: 768px) {
-               .banner-paddings {
-                  padding-top: 100px;
-               }
+         }
+         @media only screen and (max-width: 1024px) {
+            .banner-paddings {
+               padding-bottom: 180px;
             }
-            @media only screen and (max-width: 768px) {
-               .banner-paddings {
-                  padding-bottom: 120px;
-               }
+         }
+         @media only screen and (max-width: 768px) {
+            .banner-paddings {
+               padding-top: 100px;
             }
-            @media only screen and (max-width: 540px) {
-               .banner-paddings {
-                  padding-top: 100px;
-               }
+         }
+         @media only screen and (max-width: 768px) {
+            .banner-paddings {
+               padding-bottom: 120px;
             }
-            @media only screen and (max-width: 540px) {
-               .banner-paddings {
-                  padding-bottom: 120px;
-               }
+         }
+         @media only screen and (max-width: 540px) {
+            .banner-paddings {
+               padding-top: 100px;
             }
-            @media only screen and (max-width: 320px) {
-               .banner-paddings {
-                  padding-top: 70px;
-               }
+         }
+         @media only screen and (max-width: 540px) {
+            .banner-paddings {
+               padding-bottom: 120px;
             }
-            @media only screen and (max-width: 320px) {
-               .banner-paddings {
-                  padding-bottom: 90px;
-               }
+         }
+         @media only screen and (max-width: 320px) {
+            .banner-paddings {
+               padding-top: 70px;
             }
+         }
+         @media only screen and (max-width: 320px) {
+            .banner-paddings {
+               padding-bottom: 90px;
+            }
+         }
 
-            .nav-tabs .nav-link {
+         .nav-tabs .nav-link {
             display: flex;
             align-items: center;
          }
@@ -799,6 +799,18 @@
       <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
       <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
+      <!-- active tab when click from home page -->
+      <script>
+         document.addEventListener("DOMContentLoaded", function() {
+            const hash = window.location.hash;
+            if (hash) {
+               const targetTab = document.querySelector(`a[href="${hash}"]`);
+               if (targetTab) {
+                  targetTab.click();
+               }
+            }
+         });
+      </script>
       <!-- <script>
          document.querySelectorAll('.tab-button').forEach(button => {
              button.addEventListener('click', () => {

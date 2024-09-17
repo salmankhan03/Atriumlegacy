@@ -759,7 +759,7 @@
                                         Cultivate a generation that values empathy, social responsibility, and community engagement over material wealth.
                                     </p>
                                 </div>
-                                <a href="initiative.php#myTabContent" style="text-decoration: none;">
+                                <a href="initiative.php#ReStart-Education" style="text-decoration: none;">
                                     <div class="cards-footer text-center">
                                         <div class="custom-footer-icons-div">
                                             <i class="fa fa-arrow-right  custom-icons custom-icon" aria-hidden="true"></i>
@@ -786,7 +786,7 @@
                                         Promoting comprehensive wellness and societal integration for seniors to enhance community involvement.
                                     </p>
                                 </div>
-                                <a href="initiative.php#myTabContent" style="text-decoration: none;">
+                                <a href="initiative.php#Aging-Grace" style="text-decoration: none;">
                                     <div class="cards-footer text-center">
                                         <div class="custom-footer-icons-div">
                                             <i class="fa fa-arrow-right custom-icons custom-icon" aria-hidden="true"></i>
@@ -813,7 +813,7 @@
                                         Addressing the need for fast and affordable housing solutions to create stability and security for vulnerable populations.
                                     </p>
                                 </div>
-                                <a href="initiative.php#myTabContent" style="text-decoration: none;">
+                                <a href="initiative.php#HomeStrong" style="text-decoration: none;">
                                     <div class="cards-footer text-center">
                                         <div class="custom-footer-icons-div">
                                             <i class="fa fa-arrow-right custom-icons custom-icon" aria-hidden="true"></i>
@@ -840,7 +840,7 @@
                                         Leveraging agricultural technology to improve food security and empower communities toward self-sufficiency.
                                     </p>
                                 </div>
-                                <a href="initiative.php#myTabContent" style="text-decoration: none;">
+                                <a href="initiative.php#agriThrive" style="text-decoration: none;">
                                     <div class="cards-footer text-center">
                                         <div class="custom-footer-icons-div">
                                             <i class="fa fa-arrow-right custom-icons custom-icon" aria-hidden="true"></i>
