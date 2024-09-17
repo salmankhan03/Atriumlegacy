@@ -123,7 +123,7 @@
                             <Address class="text-left pt-2 ">
                                 200-3071 No.5 Rd<br/>
                                 Richmond BC<br/>
-                                V6X2T4 
+                                V6X 2T4 
                             </Address>
                             </div>
 

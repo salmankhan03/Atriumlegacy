@@ -3044,7 +3044,7 @@
             <!-- Empty Space -->
 
             <!-- second Section -->
-            <div class="header_mid_inner pd-0 mt-5 mb-5">
+            <div class="header_mid_inner pd-0 content-padding">
                     <div class="row ml-0 mr-0" >
                         <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0">
                             <div class="p-xs-0 ">
@@ -3126,7 +3126,7 @@
                            </h4>
                         </div>
                         <div id="" class="button_wrap">
-                           <a href="#" class="custom-btn">
+                           <a href="#" class="custom-btn2">
                               <span>Donate Now</span>
                            </a>
                         </div>
@@ -3156,7 +3156,7 @@
                            </h4>
                         </div>
                         <div id="" class="button_wrap">
-                           <a href="#" class="custom-btn">
+                           <a href="#" class="custom-btn2">
                               <span>Apply to Volunteer</span>
                            </a>
                         </div>
@@ -3178,7 +3178,7 @@
                            </h4>
                         </div>
                         <div id="" class="button_wrap">
-                           <a href="#" class="custom-btn">
+                           <a href="#" class="custom-btn2">
                               <span>Contact Us for Partnerships</span>
                            </a>
                         </div>
@@ -3208,7 +3208,7 @@
                            </h4>
                         </div>
                         <div id="" class="button_wrap">
-                           <a href="#" class="custom-btn">
+                           <a href="#" class="custom-btn2">
                               <span>View All Events</span>
                            </a>
                         </div>
@@ -3442,7 +3442,7 @@
                   <div class="header_mid_inner pd-0 ">
                      <div class="row ml-0 mr-0" >
                            <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0">
-                              <div class="pt-5 pb-5 p-xs-0 ">
+                              <div class="p-xs-0 content-padding">
                                  <div class="h2-heading-section-space">
                                     <h2 class="h2-title">Why Get Involved?</h2>
                                  </div>
@@ -3452,16 +3452,16 @@
                                     </h4>
                                  </div>
                                  <div id="" class="button_wrap">
-                                    <a href="#" class="custom-btn">
+                                    <a href="#" class="custom-btn3">
                                           <span>Join Us Today</span>
                                     </a>
                                  </div>
                               </div>
                            </div>
-                           <div class="col-sm-12 col-md-6 col-lg-6 text-content p-4">
+                           <!-- <div class="col-sm-12 col-md-6 col-lg-6 text-content p-4">
                               <div class="pt-5 pb-5">
                               </div>
-                           </div>
+                           </div> -->
                      </div>  
                   </div>
                </div>        

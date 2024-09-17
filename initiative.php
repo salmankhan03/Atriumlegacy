@@ -118,9 +118,9 @@
          .nav-item{
             flex: 1 1 calc(50% - 10px);
          } */
-         .no-bullets {
+         /* .no-bullets {
             
-         }
+         } */
          .icon-title{
             font-family: Moisette;
             font-size: 26px;
@@ -402,39 +402,39 @@
                </div> -->
                <ul class="nav nav-tabs w-100 d-flex no-bullets" id="myTab" role="tablist" style=" justify-content: space-between;">
                   <li class="nav-item p-0" role="presentation">
-                        <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true" style="background-color:transparent;border:none">
-                           <div style="display:flex; flex-direction:column; align-items:center; text-align:center;">
-                              <img src="./img/ALF_Web_Icons/Green/ReStart_Education.png" style="width:75px"><br/>
-                              <span class="icon-title">ReStart Education</span>
-                           </div>
-                        </a>
+                     <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true" style="background-color:transparent;border:none">
+                        <div style="display:flex; flex-direction:column; align-items:center; text-align:center;">
+                           <img src="./img/ALF_Web_Icons/Black/ReStart_Education.png" style="width:75px"><br/>
+                           <span class="icon-title">ReStart Education</span>
+                        </div>
+                     </a>
                   </li>
 
                   <li class="nav-item p-0" role="presentation">
-                        <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false" style="background-color:transparent;border:none">
-                           <div style="display:flex; flex-direction:column; align-items:center; text-align:center;">
-                              <img src="./img/ALF_Web_Icons/Green/Aging_Grace.png" style="width:75px"><br/>
-                              <span class="icon-title">Aging Grace</span>
-                           </div>
-                        </a>
+                     <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false" style="background-color:transparent;border:none">
+                        <div style="display:flex; flex-direction:column; align-items:center; text-align:center;">
+                           <img src="./img/ALF_Web_Icons/Black/Aging_Grace.png" style="width:75px"><br/>
+                           <span class="icon-title">Aging Grace</span>
+                        </div>
+                     </a>
                   </li>
 
                   <li class="nav-item p-0" role="presentation">
-                        <a class="nav-link" id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="false" style="background-color:transparent;border:none">
-                           <div style="display:flex; flex-direction:column; align-items:center; text-align:center;">
-                              <img src="./img/ALF_Web_Icons/Green/HomeStrong.png" style="width:75px"><br/>
-                              <span class="icon-title">HomeStrong</span>
-                           </div>
-                        </a>
+                     <a class="nav-link" id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="false" style="background-color:transparent;border:none">
+                        <div style="display:flex; flex-direction:column; align-items:center; text-align:center;">
+                           <img src="./img/ALF_Web_Icons/Black/HomeStrong.png" style="width:75px"><br/>
+                           <span class="icon-title">HomeStrong</span>
+                        </div>
+                     </a>
                   </li>
 
                   <li class="nav-item p-0" role="presentation">
-                        <a class="nav-link" id="agriThrive-tab" data-toggle="tab" href="#agriThrive" role="tab" aria-controls="agriThrive" aria-selected="false" style="background-color:transparent;border:none;">
-                           <div style="display:flex; flex-direction:column; align-items:center; text-align:center;">
-                              <img src="./img/ALF_Web_Icons/Green/AgriThrive.png" style="width:75px"><br/>
-                              <span class="icon-title">AgriThrive</span>
-                           </div>
-                        </a>
+                     <a class="nav-link" id="agriThrive-tab" data-toggle="tab" href="#agriThrive" role="tab" aria-controls="agriThrive" aria-selected="false" style="background-color:transparent;border:none;">
+                        <div style="display:flex; flex-direction:column; align-items:center; text-align:center;">
+                           <img src="./img/ALF_Web_Icons/Black/AgriThrive.png" style="width:75px"><br/>
+                           <span class="icon-title">AgriThrive</span>
+                        </div>
+                     </a>
                   </li>
                </ul>
 
@@ -446,16 +446,16 @@
                            <div class="mt-5">
                               <div class="tabs-cards pl-3 pr-3">
                                  <div class="tabs-cards-body text-left mt-4">
-                                    <h4 class="card-fonts-heading-color mb-5" style="font-style: italic">To nurture a generation that values empathy, social responsibility, and community engagement over material wealth.</h4>
-                                    <P class="mt-3 text-left" style="font-weight:900; color:#000000;" >Overview</p>
+                                    <h4 class="italic-heading mb-5">To nurture a generation that values empathy, social responsibility, and community engagement over material wealth.</h4>
+                                    <P class="tab-cards-title" >Overview</p>
                                     <p class="mt-3 text-left card-fonts-color" style="font-size: 18px;">The Empathy Education Initiative is dedicated to integrating social impact education into early childhood and primary education. By collaborating with educators, schools, and parents, we aim to counter the prevailing materialistic mindset with lessons that emphasize the importance of empathy and social values. Through interactive learning methods such as storytelling, role-playing, and community involvement projects, we make these vital lessons engaging and relatable for young learners.</p>
-                                    <P class="mt-3 text-left" style="font-weight:900; color:#000000;" >Key Actions</p>
+                                    <P class="tab-cards-title" >Key Actions</p>
                                     <ul class="mt-3 mb-5 text-left">
                                        <li>Developing a curriculum that promotes social values from an early age.</li>
                                        <li>Partnering with schools to embed social impact education within their programs.</li>
                                        <li>Engaging parents and communities to reinforce the importance of empathy and responsibility.</li>
                                     </ul>
-                                    <P class="mt-3 text-left" style="font-weight:900; color:#000000;" >Expected Impact</p>
+                                    <P class="tab-cards-title" >Expected Impact</p>
                                     <p class="mt-3 text-left card-fonts-color">This initiative will cultivate a generation that prioritizes compassion and community involvement, creating a ripple effect of positive social change for years to come.</p>
                                  </div>
                               </div>
@@ -468,22 +468,23 @@
                         </div>
                      </div>
                   </div>
+
                   <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
                      <div class="row ml-0 mr-0" >
                         <div class="col-sm-12 col-md-8 col-lg-8 pl-0 pr-0">
                            <div class="mt-5">
                               <div class="tabs-cards pl-3 pr-3">
                                  <div class="tabs-cards-body text-left mt-4">
-                                    <h4 class="card-fonts-heading-color mb-5" style="font-style: italic">To promote holistic wellness and societal integration for the senior population, ensuring they remain vital members of the community.</h4>
-                                    <P class="mt-3 text-left" style="font-weight:900; color:#000000;" >Overview</p>
+                                    <h4 class="italic-heading mb-5">To promote holistic wellness and societal integration for the senior population, ensuring they remain vital members of the community.</h4>
+                                    <P class="tab-cards-title" >Overview</p>
                                     <p class="mt-3 text-left card-fonts-color">The Holistic Aging Initiative is focused on challenging the traditional norms of elderly care, which often lead to institutionalization and marginalization. Our approach emphasizes comprehensive wellness—physical, mental, and emotional—for seniors, enabling them to lead fulfilling lives within their communities. By developing wellness programs tailored specifically for seniors and creating robust support networks, we strive to ensure that aging is a dignified and respected phase of life.</p>
-                                    <P class="mt-3 text-left" style="font-weight:900; color:#000000;" >Key Actions</p>
+                                    <P class="tab-cards-title" >Key Actions</p>
                                     <ul class="mt-3 mb-5 text-left">
                                        <li>Designing wellness programs that address the unique needs of seniors.</li>
                                        <li>Encouraging corporate and community investment in senior wellness.</li>
                                        <li>Establishing community centers that keep seniors engaged and active.</li>
                                     </ul>
-                                    <P class="mt-3 text-left" style="font-weight:900; color:#000000;" >Expected Impact</p>
+                                    <P class="tab-cards-title" >Expected Impact</p>
                                     <p class="mt-3 text-left card-fonts-color">This initiative will shift societal perspectives on aging, ensuring that seniors are valued and respected as integral members of their communities.</p>
                                  </div>
                               </div>
@@ -496,6 +497,7 @@
                         </div>
                      </div>
                   </div>
+
                   <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
                         <!-- Contact Content -->
                         <div class="row ml-0 mr-0" >
@@ -503,16 +505,16 @@
                               <div class="mt-5">
                                  <div class="tabs-cards pl-3 pr-3">
                                     <div class="tabs-cards-body text-left mt-4">
-                                       <h4 class="card-fonts-heading-color mb-5" style="font-style: italic">To provide fast and affordable housing solutions, fostering stability and security for vulnerable populations.</h4>
-                                       <P class="mt-3 text-left" style="font-weight:900; color:#000000;" >Overview</p>
+                                       <h4 class="italic-heading mb-5">To provide fast and affordable housing solutions, fostering stability and security for vulnerable populations.</h4>
+                                       <P class="tab-cards-title" >Overview</p>
                                        <p class="mt-3 text-left card-fonts-color">The Resilient Homes Initiative addresses the urgent need for affordable housing, particularly in the wake of economic challenges and the pandemic. By innovating construction methodologies that reduce costs and build time without compromising quality, we aim to make secure housing accessible to those who need it most. Our focus is on creating environments that foster stability and character development, particularly for young families and vulnerable populations.</p>
-                                       <P class="mt-3 text-left" style="font-weight:900; color:#000000;" >Key Actions</p>
+                                       <P class="tab-cards-title" >Key Actions</p>
                                        <ul class="mt-3 mb-5 text-left">
                                           <li>Implementing cost-effective and sustainable construction techniques.</li>
                                           <li>Partnering with local governments, developers, and non-profits to scale affordable housing.</li>
                                           <li>Creating safe and nurturing communities that promote growth and stability.</li>
                                        </ul>
-                                       <P class="mt-3 text-left" style="font-weight:900; color:#000000;" >Expected Impact</p>
+                                       <P class="tab-cards-title" >Expected Impact</p>
                                        <p class="mt-3 text-left card-fonts-color">This initiative will contribute to social stability and economic recovery by providing affordable and secure housing for those who need it most.</p>
                                     </div>
                                  </div>
@@ -526,22 +528,23 @@
                         </div>
                         <!--  -->
                   </div>
+
                   <div class="tab-pane fade" id="agriThrive" role="tabpanel" aria-labelledby="agriThrive-tab">
                      <div class="row ml-0 mr-0" >
                         <div class="col-sm-12 col-md-8 col-lg-8 pl-0 pr-0">
                            <div class="mt-5">
                                     <div class="tabs-cards pl-3 pr-3">
                                        <div class="tabs-cards-body text-left mt-4">
-                                          <h4 class="card-fonts-heading-color mb-5" style="font-style: italic">To enhance global food security by leveraging agricultural technology and promoting sustainable farming practices.</h4>
-                                          <P class="mt-3 text-left" style="font-weight:900; color:#000000;" >Overview</p>
+                                          <h4 class="italic-heading mb-5">To enhance global food security by leveraging agricultural technology and promoting sustainable farming practices.</h4>
+                                          <P class="tab-cards-title" >Overview</p>
                                           <p class="mt-3 text-left card-fonts-color">The Global Harvest Initiative is designed to address global food inequalities by investing in agricultural technologies that boost productivity, particularly in underdeveloped and developing countries. Through international collaborations, we aim to transfer knowledge and technology to regions facing food insecurity. Our focus is on sustainable farming practices that preserve natural resources and reduce dependency on imports, empowering communities to achieve self-sufficiency.</p>
-                                          <P class="mt-3 text-left" style="font-weight:900; color:#000000;" >Key Actions</p>
+                                          <P class="tab-cards-title" >Key Actions</p>
                                           <ul class="mt-3 mb-5 text-left">
                                              <li>Investing in and developing technologies to increase agricultural productivity.</li>
                                              <li>Promoting international partnerships for knowledge transfer.</li>
                                              <li>Encouraging sustainable farming practices that protect the environment.</li>
                                           </ul>
-                                          <P class="mt-3 text-left" style="font-weight:900; color:#000000;" >Expected Impact</p>
+                                          <P class="tab-cards-title" >Expected Impact</p>
                                           <p class="mt-3 text-left card-fonts-color">This initiative will enhance global food security, reduce food distribution inequalities, and empower developing nations to achieve food self-sufficiency.</p>
                                        </div>
                                     </div>
