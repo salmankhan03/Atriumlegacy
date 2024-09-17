@@ -13,122 +13,131 @@
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
       <style>
             .initiativeBanner {
-                    background-image: url('./img/our_initiatives_1.jpg');
-                    background-position: top center; 
-                    background-repeat: no-repeat; 
-                    background-attachment: scroll; 
-                    background-size: cover;
-                    /* padding: 250px 0 150px 0; */
-                }
-                .banner-paddings { 
-                    padding-top: 300px; 
-                } 
-                .banner-paddings { 
-                    padding-bottom: 320px; 
-                }
+               background-image: url('./img/our_initiatives_1.jpg');
+               background-position: top center; 
+               background-repeat: no-repeat; 
+               background-attachment: scroll; 
+               background-size: cover;
+               /* padding: 250px 0 150px 0; */
+            }
+            .banner-paddings { 
+               padding-top: 300px; 
+            } 
+            .banner-paddings { 
+               padding-bottom: 320px; 
+            }
 
-                /*  */
-                .custom-banner {
-                        background-image: url('./img/our_initiatives_4.jpg');
-                        background-position: center center;
-                        background-repeat: no-repeat;
-                        background-attachment: scroll;
-                        background-size: cover;
-                        }
-                /*  */
-                @media only screen and (max-width: 1024px) {
-                    .banner-paddings {
-                        padding-top: 160px;
-                    }
-                }
-                @media only screen and (max-width: 1024px) {
-                    .banner-paddings {
-                        padding-bottom: 180px;
-                    }
-                }
-                @media only screen and (max-width: 768px) {
-                    .banner-paddings {
-                        padding-top: 100px;
-                    }
-                }
-                @media only screen and (max-width: 768px) {
-                    .banner-paddings {
-                        padding-bottom: 120px;
-                    }
-                }
-                @media only screen and (max-width: 540px) {
-                    .banner-paddings {
-                        padding-top: 100px;
-                    }
-                }
-                @media only screen and (max-width: 540px) {
-                    .banner-paddings {
-                        padding-bottom: 120px;
-                    }
-                }
-                @media only screen and (max-width: 320px) {
-                    .banner-paddings {
-                        padding-top: 70px;
-                    }
-                }
-                @media only screen and (max-width: 320px) {
-                    .banner-paddings {
-                        padding-bottom: 90px;
-                    }
-                }
+            /*  */
+            .custom-banner {
+               background-image: url('./img/our_initiatives_4.jpg');
+               background-position: center center;
+               background-repeat: no-repeat;
+               background-attachment: scroll;
+               background-size: cover;
+               }
+            /*  */
+            @media only screen and (max-width: 1024px) {
+               .banner-paddings {
+                  padding-top: 160px;
+               }
+            }
+            @media only screen and (max-width: 1024px) {
+               .banner-paddings {
+                  padding-bottom: 180px;
+               }
+            }
+            @media only screen and (max-width: 768px) {
+               .banner-paddings {
+                  padding-top: 100px;
+               }
+            }
+            @media only screen and (max-width: 768px) {
+               .banner-paddings {
+                  padding-bottom: 120px;
+               }
+            }
+            @media only screen and (max-width: 540px) {
+               .banner-paddings {
+                  padding-top: 100px;
+               }
+            }
+            @media only screen and (max-width: 540px) {
+               .banner-paddings {
+                  padding-bottom: 120px;
+               }
+            }
+            @media only screen and (max-width: 320px) {
+               .banner-paddings {
+                  padding-top: 70px;
+               }
+            }
+            @media only screen and (max-width: 320px) {
+               .banner-paddings {
+                  padding-bottom: 90px;
+               }
+            }
 
-                .nav-tabs .nav-link {
-                  display: flex;
-                  align-items: center;
-               }
-               .nav-tabs .nav-link:hover {
-                  color:#000000
-               }
-               .nav-tabs .nav-link .tab-icon {
-                  margin-right: 5px;
-               }
-               .cards:hover {
-                  background-color: transparent !important;
-                  /* transform: scale(1.02); */
-               }
-               .card-fonts-heading-color:hover{
-                  color:#000000 !important;
-               }
+            .nav-tabs .nav-link {
+            display: flex;
+            align-items: center;
+         }
+         .nav-tabs .nav-link:hover {
+            color:#000000
+         }
+         .nav-tabs .nav-link .tab-icon {
+            margin-right: 5px;
+         }
+         .cards:hover {
+            background-color: transparent !important;
+            /* transform: scale(1.02); */
+         }
+         .card-fonts-heading-color:hover{
+            color:#000000 !important;
+         }
 
-               ul li:before{
-                  background-color: #223139 !important;
-               } 
-               .nav-item li:before{
-                  list-style:none !important
-               }
-               .nav-item:before{
-                  list-style-type: none !important;
-                  list-style:none !important;
-                  background-color: transparent !important; 
-                  padding-left: 0;
-               }
-               .nav-link.active,
-               .nav-item.show .nav-link .icon-title {
-                    color: #0b9444 !important;
-                }
-               /* .nav-tabs{
-                  display: flex;
-                  flex-wrap: wrap;
-               }
-               .nav-item{
-                  flex: 1 1 calc(50% - 10px);
-               } */
-               .no-bullets {
-                
-               }
-               .icon-title{
-                  font-family: Moisette;
-                  font-size: 26px;
-                  color: #000;
-               }
-               .nav-link.active .icon-title {
-                  color: #0b9444;
-               }
+         ul li:before{
+            background-color: #223139 !important;
+         } 
+         .nav-item li:before{
+            list-style:none !important
+         }
+         .nav-item:before{
+            list-style-type: none !important;
+            list-style:none !important;
+            background-color: transparent !important; 
+            padding-left: 0;
+         }
+         .nav-link.active,
+         .nav-item.show .nav-link .icon-title {
+               color: #0b9444 !important;
+            }
+         /* .nav-tabs{
+            display: flex;
+            flex-wrap: wrap;
+         }
+         .nav-item{
+            flex: 1 1 calc(50% - 10px);
+         } */
+         .no-bullets {
+            
+         }
+         .icon-title{
+            font-family: Moisette;
+            font-size: 26px;
+            color: #000;
+         }
+         .nav-link.active .icon-title {
+            color: #0b9444;
+         }
+
+         .tabs-cards-body ul {
+            list-style-position: outside;
+            padding-left: 20px;
+         }
+
+         .tabs-cards-body li {
+            text-indent: -15px;
+         }
       </style>
    </head>
    <body>
