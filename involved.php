@@ -3112,7 +3112,7 @@
             <div class="row equal-height">
                <div class="col-md-6 col-lg-6">
                   <div class="left-section-padding left-margin-top-bottom">
-                        <div class="h2-heading-section-space mb-5">
+                        <div class="h2-heading-section-space">
                            <h2 class="h2-title mb-4">Donate</h2>
                            <h5 class="italic-heading">
                               Your financial support allows us to continue our work and expand our initiatives.
@@ -3144,7 +3144,7 @@
                </div>
                <div class="col-md-6 col-lg-6">
                   <div class="left-section-padding left-margin-top-bottom">
-                        <div class="h2-heading-section-space mb-5">
+                        <div class="h2-heading-section-space">
                            <h2 class="h2-title mb-4">Volunteer</h2>
                            <h5 class="italic-heading">
                               Volunteers are the backbone of our foundation.
@@ -3166,7 +3166,7 @@
             <div class="row equal-height">
                <div class="col-md-6 col-lg-6">
                   <div class="left-section-padding left-margin-top-bottom">
-                        <div class="h2-heading-section-space mb-5">
+                        <div class="h2-heading-section-space">
                            <h2 class="h2-title mb-4">Partner with Us</h2>
                            <h5 class="italic-heading">
                               We are always looking to collaborate with like-minded organizations, businesses, and community groups.
@@ -3196,11 +3196,11 @@
                </div>
                <div class="col-md-6 col-lg-6">
                   <div class="left-section-padding left-margin-top-bottom">
-                        <div class="h2-heading-section-space mb-5">
+                        <div class="h2-heading-section-space">
                            <h2 class="h2-title mb-4">Attend an Event</h2>
-                           <h5 class="italic-heading">
+                           <!-- <h5 class="italic-heading">
                               Advancing the study of environmental science.
-                           </h5>
+                           </h5> -->
                         </div>
                         <div class="text-content-space">
                            <h4 class="text-content">
