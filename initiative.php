@@ -838,7 +838,7 @@
       <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
       <!-- active tab when click from home page -->
-      <script>
+      <!-- <script>
          document.addEventListener("DOMContentLoaded", function() {
             const hash = window.location.hash;
             if (hash) {
@@ -848,7 +848,28 @@
                }
             }
          });
+      </script> -->
+
+      <script>
+         $(document).ready(function() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const tabToActivate = urlParams.get('tab');
+
+            if (tabToActivate) {
+               $('.nav-tabs a[href="#' + tabToActivate + '"]').tab('show');
+               if (window.innerWidth < 1025){
+                  $('html, body').animate({
+                     scrollTop: $('#myTab').offset().top
+                  }, 500);
+               } else{
+                  $('html, body').animate({
+                     scrollTop: $('#myTab').offset().top - 80
+                  }, 500);
+               }
+            }
+         });
       </script>
+
       <!-- <script>
          document.querySelectorAll('.tab-button').forEach(button => {
              button.addEventListener('click', () => {
