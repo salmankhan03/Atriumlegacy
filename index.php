@@ -75,7 +75,7 @@
 
             <!-- SECOND SECTION -->
             <div class="" style="background-color: #cfddd0;">
-                <div class="header_mid_inner pd-0 " >
+                <div class="header_mid_inner pd-0">
                     <div class="content-padding">
                     <div class="row ml-0 mr-0" >
                         <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0">
@@ -84,9 +84,7 @@
                             </div>
                         </div>
                         <div class="col-sm-12 col-md-6 col-lg-6 text-content">
-                            <div class="">
-                                <p class="" style="font-size: 20px">Empowering communities through strategic initiatives that address today’s challenges and build a better tomorrow.</p>
-                            </div>
+                            Empowering communities through strategic initiatives that address today’s challenges and build a better tomorrow.
                         </div>
                     </div>
                     <div class="row pt-5 pb-0"> 
@@ -101,7 +99,7 @@
                                         Cultivate a generation that values empathy, social responsibility, and community engagement over material wealth.
                                     </p>
                                 </div>
-                                <a href="initiative.php?tab=ReStart-Education" style="text-decoration: none;">
+                                <a href="initiative.php?tab=ReStart-Education">
                                     <div class="cards-footer text-center">
                                         <div class="custom-footer-icons-div">
                                             <i class="fa fa-arrow-right  custom-icons custom-icon" aria-hidden="true"></i>
@@ -122,7 +120,7 @@
                                         Promoting comprehensive wellness and societal integration for seniors to enhance community involvement.
                                     </p>
                                 </div>
-                                <a href="initiative.php?tab=Aging-Grace" style="text-decoration: none;">
+                                <a href="initiative.php?tab=Aging-Grace">
                                     <div class="cards-footer text-center">
                                         <div class="custom-footer-icons-div">
                                             <i class="fa fa-arrow-right custom-icons custom-icon" aria-hidden="true"></i>
@@ -143,7 +141,7 @@
                                         Addressing the need for fast and affordable housing solutions to create stability and security for vulnerable populations.
                                     </p>
                                 </div>
-                                <a href="initiative.php?tab=HomeStrong" style="text-decoration: none;">
+                                <a href="initiative.php?tab=HomeStrong">
                                     <div class="cards-footer text-center">
                                         <div class="custom-footer-icons-div">
                                             <i class="fa fa-arrow-right custom-icons custom-icon" aria-hidden="true"></i>
@@ -164,7 +162,7 @@
                                         Leveraging agricultural technology to improve food security and empower communities toward self-sufficiency.
                                     </p>
                                 </div>
-                                <a href="initiative.php?tab=agriThrive" style="text-decoration: none;">
+                                <a href="initiative.php?tab=agriThrive">
                                     <div class="cards-footer text-center">
                                         <div class="custom-footer-icons-div">
                                             <i class="fa fa-arrow-right custom-icons custom-icon" aria-hidden="true"></i>
@@ -183,20 +181,19 @@
                 <div class="row ml-0 mr-0" >
                     <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0">
                         <div style="position:relative; margin-top:100px">
-
                             <image class="left-side" src="./img/home/home_3.jpg" alt="left-side-image" ></image>
                             <div class="side-element">
-                                <div style="line-height: 1.3;"> Empathy.</div>
-                                <div style="line-height: 1.3;"> Wellness.</div>
-                                <div style="line-height: 1.3;"> Sustainability.</div>
+                                <div style="line-height: 1.5;"> Empathy.</div>
+                                <div style="line-height: 1.5;"> Wellness.</div>
+                                <div style="line-height: 1.5;"> Sustainability.</div>
                             </div>
                         </div>
                     </div>
                     <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 pb-5 d-flex align-items-center">
                         <div class="text-left p-0 p-md-5 right-content-padding">
                             <h2 class="h2-title pb-2">Together, we can make a difference</h2>
-                            <div style="font-family: Moisette; font-style:italic; font-size:26px; color:#000;">Join us in making a meaningful impact</div>
-                            <p class="mt-4 mb-4" style="font-family: Montserrat; color:#000; font-size:18px">Whether through donations, volunteer work, or partnerships, your support plays a crucial role in creating a brighter, more inclusive future for everyone.</p>
+                            <div class="italic-heading">Join us in making a meaningful impact</div>
+                            <p class="mt-4 mb-4 text-content">Whether through donations, volunteer work, or partnerships, your support plays a crucial role in creating a brighter, more inclusive future for everyone.</p>
                             <div id="" class="button_wrap">
                                 <a href="./involved.php" class="custom-btn2">
                                     <span>Join Us</span>

@@ -118,7 +118,7 @@
                   </div>
                   <div class="col-sm-12 col-md-6 col-lg-6 text-content">
                      <div class="">
-                        <p class="mb-0 pb-0" style="font-size: 18px">We understand that creating meaningful social impact requires collective effort. Whether you are an individual, a corporation, or a community organization, there are many ways to get involved and contribute to our mission of fostering empathy, wellness, and sustainability. Your support, time, and resources are invaluable in helping us drive positive change and make a tangible difference in the lives of those we serve.</p>
+                        <p class="mb-0 pb-0">We understand that creating meaningful social impact requires collective effort. Whether you are an individual, a corporation, or a community organization, there are many ways to get involved and contribute to our mission of fostering empathy, wellness, and sustainability. Your support, time, and resources are invaluable in helping us drive positive change and make a tangible difference in the lives of those we serve.</p>
                      </div>
                   </div>
                </div>
@@ -134,7 +134,7 @@
                </div>
                <div class="col-md-6 col-lg-6">
                   <div class="left-section-padding left-margin-top-bottom">
-                     <p class="mb-0 pb-0" style="font-size: 18px">We understand that creating meaningful social impact requires collective effort. Whether you are an individual, a corporation, or a community organization, there are many ways to get involved and contribute to our mission of fostering empathy, wellness, and sustainability. Your support, time, and resources are invaluable in helping us drive positive change and make a tangible difference in the lives of those we serve.</p>
+                     <p class="mb-0 pb-0">We understand that creating meaningful social impact requires collective effort. Whether you are an individual, a corporation, or a community organization, there are many ways to get involved and contribute to our mission of fostering empathy, wellness, and sustainability. Your support, time, and resources are invaluable in helping us drive positive change and make a tangible difference in the lives of those we serve.</p>
                   </div>
                </div>
             </div> -->

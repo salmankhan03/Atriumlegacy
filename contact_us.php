@@ -239,6 +239,12 @@
                     cursor: pointer;
                     float: none !important;
                 }
+                #email:hover{
+                    color: #000;
+                }
+                .wpcf7-form-control{
+                    font-family: 'Montserrat' !important;
+                }
             /* Form css  */         
              </style>
         </head>
@@ -252,9 +258,9 @@
                         <!-- Banner -->
                         <div class = "contactUsBanner ">
                             <div class = "container text-center banner-paddings">
-                            <h2 class = "banner-header text-center white-text">
-                                Contact Us
-                            </h2>                  
+                                <h2 class = "banner-header text-center white-text">
+                                    Contact Us
+                                </h2>                  
                             </div>
                         </div> 
                         <!-- Banner -->
@@ -286,12 +292,13 @@
                                                 Richmond BC <br/>
                                                 V6X 2T4
                                             </h4>
-                                            <h3 class="text-content mb-3">
-                                                info@alf.com
+                                            <h3 class="mb-3">
+                                                <a class="text-content" href="mailto:info@alf.com" id="email">
+                                                    info@alf.com
+                                                </a>
                                             </h3>                                          
                                             <!-- <h2 class="h2-title" style="font-size:1.5rem">+1 (840) 841-2569</h2> -->
                                         </div>
-                                        
                                     </div>
                                 </div>
                                 <div class="col-sm-12 col-md-8 col-lg-8 text-content">
@@ -370,23 +377,23 @@
                                                             <span class="submit-style-in"></span>                                                        
                                                             <label class="ml-3">
                                                                 <input type="checkbox" name="acceptance" value="1" aria-invalid="false" class="inited">
-                                                                <span class="wpcf7-list-item-label checkbox_position">I agree that my data is 
-                                                                    <a href="/privacy-policy/">collected and stored</a>.
+                                                                <span class="wpcf7-list-item-label checkbox_position wpcf7-form-control">I agree that my data is 
+                                                                    <a class="wpcf7-form-control" href="/privacy-policy/" style="color:#000; text-decoration:underline;">collected and stored</a>.
                                                                 </span>
                                                             </label>
                                                         </span>
                                                     </p>
                                                 </div>
                                             </div>
-                                            </div>
-                                            <div class="wpcf7-response-output" aria-hidden="true"></div>
-                                        </form>
-                                    </div>
+                                        </div>
+                                        <div class="wpcf7-response-output" aria-hidden="true"></div>
+                                    </form>
                                 </div>
-                            </div>  
-                        </div>
+                            </div>
+                        </div>  
                     </div>
-                </div> 
-                <?php include 'footer.php'; ?>
-            </body>
+                </div>
+            </div> 
+            <?php include 'footer.php'; ?>
+        </body>
     </html>

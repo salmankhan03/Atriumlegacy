@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Bootstrap Example</title>
+    <title>Footer</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+    <!-- <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet"> -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
@@ -35,13 +35,11 @@
             text-align: center;
         }
         a{
-            color:#d2d2d2;
             font-family: 'Montserrat', sans-serif;
-
+            color:#fff;
         }
         a:hover{
-            color:#FFF;
-            font-weight:700;
+            color:#fff;
         }
         .title h2{
             font-size:3.5rem;
@@ -92,6 +90,20 @@
                 font-size: 2.4rem !important;
             }
         }
+        .white-bold{
+            font-family: 'Montserrat';
+            font-size: 18px !important;
+            line-height: 28px;
+            font-weight: bold;
+            color: #fff;
+        }
+        .footer-text{
+            font-family: 'Montserrat';
+            font-size: 15px !important;
+            line-height: 28px;
+            font-weight: 400;
+            color: #fff;
+        }
     </style>
 </head>
 <body>
@@ -108,41 +120,36 @@
                             </div> -->
                             <img src="img/icons/ALF_logo_4C.svg" style="width: 250px;">
                         </div>
-                    <!-- <div class="col-sm-12 col-md-5 col-lg-5" >
-                    
-                    </div> -->
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-5 col-lg-5 mt-sm-3">
                     <div class="row mt-3">
                         <div class="col-sm-12 col-md-6 col-lg-6" >
                             <div class="text-left">
-                                <h3 class="text-white" style="font-family: 'Montserrat'; font-size: 15px; font-weight: bold">Address</h3>    
+                                <h3 class="white-bold">Address</h3>
                             </div>
-                            <div class="">
-                            <Address class="text-left pt-2 ">
+                            <Address class="text-left pt-2 footer-text">
                                 200-3071 No.5 Rd<br/>
                                 Richmond BC<br/>
-                                V6X 2T4 
+                                V6X 2T4
                             </Address>
-                            </div>
 
                         </div>
                         <div class="col-sm-12 col-md-6 col-lg-6" >
                             <div class="text-left">
-                                <h3 class="text-white" style="font-family: 'Montserrat';font-size: 15px; font-weight: bold">Contact</h3>    
+                                <h3 class="white-bold">Contact</h3>    
                             </div>
                             <div class="text-left">
-                            <p class="mb-0 pb-2">
-                                <a class="underline_anim underline_do_hover" href="mailto:info@alf.com" style="text-decoration:underline">
-                                    info@alf.com
-                                </a>
-                            </p>
-                                <!-- <div class="elementor-widget-container">
-                                    <span class="trx_addons_alter_text">
-                                        <a href="tel:+18408412569" style="color:#d2d2d2;text-decoration:underline">+1 840 841 25 69</a>
-                                    </span>
-                                </div> -->
+                                <p class="mb-0 pb-2">
+                                    <a class="footer-text" href="mailto:info@alf.com">
+                                        info@alf.com
+                                    </a>
+                                </p>
+                            <!-- <div class="elementor-widget-container">
+                                <span class="trx_addons_alter_text">
+                                    <a href="tel:+18408412569" style="color:#d2d2d2;text-decoration:underline">+1 840 841 25 69</a>
+                                </span>
+                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -151,12 +158,12 @@
             <div class="row mt-5 pt-3 pb-3 borderTop">
                 <div class="col-sm-12 col-md-6 col-lg-6 d-flex justify-content-between align-items-center text-center">
                     <div class="d-flex justify-content-center">
-                        <a href="#about-us" class="mx-2">About Us</a>
-                        <a href="#contact-us" class="mx-2">Contact Us</a>
-                        <a href="#privacy" class="mx-2">Privacy</a>
+                        <a href="./about_us.php" class="mx-2 footer-text">About Us</a>
+                        <a href="./contact_us.php" class="mx-2 footer-text">Contact Us</a>
+                        <a href="#privacy" class="mx-2 footer-text">Privacy</a>
                     </div>
                 </div>
-                <div class="col-sm-12 col-md-6 col-lg-6 d-flex align-items-center justify-content-center text-center">
+                <div class="col-sm-12 col-md-6 col-lg-6 d-flex align-items-center justify-content-center text-center footer-text">
                     <div>
                         © <?php echo Date('Y'); ?> Intelli Management Group. All Rights Reserved. 
                     </div>

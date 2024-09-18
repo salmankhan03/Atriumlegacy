@@ -1,4 +1,3 @@
-
 @font-face {
     font-family: 'Montserrat';
     src: url('../css/fonts/Montserrat/Montserrat-VariableFont_wght.ttf') format('truetype');
@@ -356,6 +355,13 @@ body {
     line-height: 28px;
     font-weight: 400;
     color: #000;
+}
+.text-content-white{
+    font-family: 'Montserrat';
+    font-size: 18px !important;
+    line-height: 28px;
+    font-weight: 400;
+    color: #fff;
 }
 .right-content-padding{
     padding: 0 5% 0 10%;

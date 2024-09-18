@@ -176,6 +176,13 @@
          .tabs-cards-body li {
             text-indent: -15px;
          }
+
+         .tab-style{
+            display:flex;
+            flex-direction:column;
+            align-items:center;
+            text-align:center;
+         }
       </style>
    </head>
    <body>
@@ -206,7 +213,7 @@
                            <h2 class="h2-title pb-2" style="color: #000">
                               Atrium Legacy Foundation believe that meaningful change starts with strategic, impactful initiatives.
                            </h2>
-                           <p class="p-0 m-0" style="font-family: Montserrat; color:#000; font-size:18px">
+                           <p class="p-0 m-0 text-content">
                               Our programs are designed to address the most pressing challenges faced by our communities today. By focusing on education, senior wellness, housing, and agricultural technology, we aim to create lasting solutions that empower individuals and strengthen communities.
                            </p>
                         </div>
@@ -214,19 +221,11 @@
                 </div>
             </div>
 
-            <div class="elementor-element elementor-element-df4c366 sc_height_huge sc_fly_static elementor-widget elementor-widget-spacer trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="df4c366" data-element_type="widget" data-widget_type="spacer.default">
-               <div class="elementor-widget-container">
-                  <div class="elementor-spacer">
-                     <div class="elementor-spacer-inner"></div>
-                  </div>
-               </div>
-            </div>
-            <!-- Empty Space -->
             <div class="header_mid_inner pd-0">
                <ul class="nav nav-tabs w-100 d-flex no-bullets" id="myTab" role="tablist" style=" justify-content: space-between;">
                   <li class="nav-item p-0" role="presentation">
                      <a class="nav-link active" id="ReStart-Education-tab" data-toggle="tab" href="#ReStart-Education" role="tab" aria-controls="ReStart-Education" aria-selected="true" style="background-color:transparent;border:none">
-                        <div style="display:flex; flex-direction:column; align-items:center; text-align:center;">
+                        <div class="tab-style">
                            <div class="tab-icon icon1"></div>
                            <span class="icon-title">ReStart Education</span>
                         </div>
@@ -235,7 +234,7 @@
 
                   <li class="nav-item p-0" role="presentation">
                      <a class="nav-link" id="Aging-Grace-tab" data-toggle="tab" href="#Aging-Grace" role="tab" aria-controls="Aging-Grace" aria-selected="false" style="background-color:transparent;border:none">
-                        <div style="display:flex; flex-direction:column; align-items:center; text-align:center;">
+                        <div class="tab-style">
                            <div class="tab-icon icon2"></div>
                            <span class="icon-title">Aging Grace</span>
                         </div>
@@ -244,7 +243,7 @@
 
                   <li class="nav-item p-0" role="presentation">
                      <a class="nav-link" id="HomeStrong-tab" data-toggle="tab" href="#HomeStrong" role="tab" aria-controls="HomeStrong" aria-selected="false" style="background-color:transparent;border:none">
-                        <div style="display:flex; flex-direction:column; align-items:center; text-align:center;">
+                        <div class="tab-style">
                            <div class="tab-icon icon3"></div>
                            <span class="icon-title">HomeStrong</span>
                         </div>
@@ -253,7 +252,7 @@
 
                   <li class="nav-item p-0" role="presentation">
                      <a class="nav-link" id="agriThrive-tab" data-toggle="tab" href="#agriThrive" role="tab" aria-controls="agriThrive" aria-selected="false" style="background-color:transparent;border:none;">
-                        <div style="display:flex; flex-direction:column; align-items:center; text-align:center;">
+                        <div class="tab-style">
                            <div class="tab-icon icon4"></div>
                            <span class="icon-title">AgriThrive</span>
                         </div>
@@ -271,7 +270,7 @@
                                  <div class="tabs-cards-body text-left mt-4">
                                     <h4 class="italic-heading mb-5">To nurture a generation that values empathy, social responsibility, and community engagement over material wealth.</h4>
                                     <P class="tab-cards-title" >Overview</p>
-                                    <p class="mt-3 text-left card-fonts-color" style="font-size: 18px;">The Empathy Education Initiative is dedicated to integrating social impact education into early childhood and primary education. By collaborating with educators, schools, and parents, we aim to counter the prevailing materialistic mindset with lessons that emphasize the importance of empathy and social values. Through interactive learning methods such as storytelling, role-playing, and community involvement projects, we make these vital lessons engaging and relatable for young learners.</p>
+                                    <p class="mt-3 text-left card-fonts-color">The Empathy Education Initiative is dedicated to integrating social impact education into early childhood and primary education. By collaborating with educators, schools, and parents, we aim to counter the prevailing materialistic mindset with lessons that emphasize the importance of empathy and social values. Through interactive learning methods such as storytelling, role-playing, and community involvement projects, we make these vital lessons engaging and relatable for young learners.</p>
                                     <P class="tab-cards-title" >Key Actions</p>
                                     <ul class="mt-3 mb-5 text-left">
                                        <li>Developing a curriculum that promotes social values from an early age.</li>

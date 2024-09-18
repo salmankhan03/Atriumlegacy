@@ -44,6 +44,10 @@
             display: flex;
             align-items: center;
             color: #000;
+            font-family: 'Montserrat';
+            font-size: 18px !important;
+            line-height: 28px;
+            font-weight: bold;
         }
         .nav-link.active,
         .nav-item.show .nav-link {
@@ -157,7 +161,7 @@
                                     <h4 class="mb-4 blue-header" style="color:#000;">
                                         Our mission is to empower communities by instilling social values, supporting holistic wellness, and creating sustainable futures.
                                     </h4>
-                                    <p class="pb-0 mb-0" style="font-family: 'Montserrat';font-size: 18px;line-height: 28px;font-weight: 400;color: #000;">
+                                    <p class="pb-0 mb-0 text-content">
                                         Through our initiatives, we aim to address pressing societal challenges with innovative approaches that prioritize empathy, social responsibility, and community engagement.
                                     </p>
                                 </div>
@@ -168,7 +172,7 @@
                                         <h4 class="mb-4 blue-header" style="color:#000;">
                                             We envision communities where every individual is empowered to thrive, with access to the resources and support they need across all stages of life.
                                         </h4>
-                                        <p class="pb-0 mb-0" style="font-family: 'Montserrat';font-size: 18px;line-height: 28px;font-weight: 400;color: #000;">
+                                        <p class="pb-0 mb-0 text-content">
                                             By fostering collaboration and innovation, we aim to create lasting impact that uplifts not just the present generation, but also future ones.
                                         </p>
                                     </div>
@@ -197,30 +201,22 @@
                                             <ul class="nav nav-tabs w-100 d-flex no-bullets" id="myTab" role="tablist" style=" justify-content: space-between; border-bottom: none;">
                                                 <li class="nav-item p-0 d-flex align-items-center" role="presentation">
                                                     <a class="nav-link active our-team" id="founder-tab" data-toggle="tab" href="#founder" role="tab" aria-controls="founder" aria-selected="true">
-                                                        <div>
-                                                            <span style="font-size:18px">Founder & CEO</span>
-                                                        </div>
+                                                        Founder & CEO
                                                     </a>
                                                 </li>
                                                 <li class="nav-item p-0 d-flex align-items-center" role="presentation">
                                                     <a class="nav-link our-team" id="treasurer-tab" data-toggle="tab" href="#treasurer" role="tab" aria-controls="treasurer" aria-selected="false">
-                                                        <div>
-                                                            <span style="font-size:18px">Treasurer</span>
-                                                        </div>
+                                                        Treasurer
                                                     </a>
                                                 </li>
                                                 <li class="nav-item p-0 d-flex align-items-center" role="presentation">
                                                     <a class="nav-link our-team" id="advisory-tab" data-toggle="tab" href="#advisory" role="tab" aria-controls="advisory" aria-selected="false">
-                                                        <div>
-                                                            <span style="font-size:18px">Advisory Board</span>
-                                                        </div>
+                                                        Advisory Board
                                                     </a>
                                                 </li>
                                                 <li class="nav-item p-0 d-flex align-items-center" role="presentation">
                                                     <a class="nav-link our-team" id="board-tab" data-toggle="tab" href="#board" role="tab" aria-controls="board" aria-selected="false">
-                                                        <div>
-                                                            <span style="font-size:18px">Board Members</span>
-                                                        </div>
+                                                        Board Members
                                                     </a>
                                                 </li>
                                             </ul>
