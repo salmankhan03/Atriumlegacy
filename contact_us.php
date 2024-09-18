@@ -249,69 +249,16 @@
                         <div class="content_wrap fullwidth">
                             <div class="middle_content entry"></div>
                         </div>
-                            <!-- Banner -->
-                                <div class = "contactUsBanner ">
-                                    <div class = "container text-center banner-paddings">
-                                    <h2 class = "banner-header text-center white-text">
-                                        Contact Us
-                                    </h2>                  
-                                    </div>
-                                </div> 
-                            <!-- Banner -->
-                        <!-- Top Sections -->
-                        <!-- <div id="cmsmasters_row_nofslyz1hn" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_boxed">
-                            <div class="cmsmasters_row_outer_parent">
-                                <div class="cmsmasters_row_outer">
-                                    <div class="cmsmasters_row_inner">
-                                        <div class="cmsmasters_row_margin cmsmasters_11">
-                                            <div id="cmsmasters_column_tsg36hzfki" class="cmsmasters_column one_first">
-                                                <div class="cmsmasters_column_inner">
-                                                    <div id="cmsmasters_heading_rrgejmijg" class="cmsmasters_heading_wrap cmsmasters_heading_align_center">
-                                                        <h2 class="cmsmasters_heading">Contact Us</h2>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                        <!-- Banner -->
+                        <div class = "contactUsBanner ">
+                            <div class = "container text-center banner-paddings">
+                            <h2 class = "banner-header text-center white-text">
+                                Contact Us
+                            </h2>                  
                             </div>
-                        </div> -->
-                     
-                        <!-- Top Sections Close -->
-                        <!-- Spacer -->
-                        <!-- <div class="elementor-element elementor-element-7c02393 sc_height_huge sc_fly_static elementor-widget elementor-widget-spacer trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="7c02393" data-element_type="widget" data-widget_type="spacer.default">
-                            <div class="elementor-widget-container">
-                                <div class="elementor-spacer">
-                                    <div class="elementor-spacer-inner"></div>
-                                </div>
-                            </div>
-                        </div> -->
-                        <!-- Spacer -->
-                        <!-- Intro Section -->
-                        
-                        <!-- <div id="cmsmasters_row_nofslyz1hr" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_boxed">
-                            <div class="cmsmasters_row_outer_parent">
-                                <div class="cmsmasters_row_outer">
-                                    <div class="cmsmasters_row_inner p-0">
-                                        <div class="cmsmasters_row_margin cmsmasters_11">
-                                            <div id="cmsmasters_column_tsg36hzfki" class="cmsmasters_column one_first">
-                                                <div class="cmsmasters_column_inner">
-                                                    <div id="cmsmasters_heading_rrgejmijg" class="cmsmasters_heading_wrap cmsmasters_heading_align_center">
-                                                        <h2 class="cmsmasters_custom_heading">We are here to connect with you, answer your questions, and explore how we can work together to create a lasting impact. Please don’t hesitate to reach out to us using the contact details below.</h2>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div> -->
+                        </div> 
+                        <!-- Banner -->
 
-                        <!-- <div class = "container" style = "padding: 50px 10%">
-                            <h2 style = "font-family: Moisette; font-style: italic; color: #000; text-align: center; font-weight: bold;">
-                                We are here to connect with you, answer your questions, and explore how we can work together to create a lasting impact. Please don’t hesitate to reach out to us using the contact details below.
-                            </h2>
-                        </div> -->
                         <div class="header_mid_inner pd-0 ">
                             <div class="row ml-0 mr-0" >
                                 <div class="col-12 pl-0 pr-0">
@@ -438,11 +385,6 @@
                                 </div>
                             </div>  
                         </div>
-
-                        <!-- Intro Section Close -->
-                        <!-- Main Section -->
-                 
-                        <!-- Main Section -->
                     </div>
                 </div> 
                 <?php include 'footer.php'; ?>
