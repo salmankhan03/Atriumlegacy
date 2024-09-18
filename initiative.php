@@ -160,7 +160,7 @@
          }
 
          .icon-title{
-            font-family: Moisette;
+            font-family: 'Moisette';
             font-size: 26px;
             color: #000;
          }

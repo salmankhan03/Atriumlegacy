@@ -151,151 +151,137 @@
                 <div class="content-padding">
                     <div class="header_mid_inner pd-0">
                         <div class="row ml-0 mr-0" >
-                            <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 ">
+                            <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0">
                                 <div class="pb-5 pr-3 p-sm-2 pr-md-5" id="our-mission">
-                                    <div class="mb-4" style="color:#000; text-align:left; font-size: 26px">OUR MISSION </div>
-
-                                    <h4 class="mb-4 blue-header" style="color:#000">
+                                    <div class="mb-4 banner-title" style="color:#000;">OUR MISSION</div>
+                                    <h4 class="mb-4 blue-header" style="color:#000;">
                                         Our mission is to empower communities by instilling social values, supporting holistic wellness, and creating sustainable futures.
                                     </h4>
                                     <p class="pb-0 mb-0" style="font-family: 'Montserrat';font-size: 18px;line-height: 28px;font-weight: 400;color: #000;">
                                         Through our initiatives, we aim to address pressing societal challenges with innovative approaches that prioritize empathy, social responsibility, and community engagement.
                                     </p>
-
                                 </div>
                             </div>
-                            <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 pr-3">
-                                <div class="pb-5 pl-3 p-sm-2 pl-md-5">
-                                    <div class="mb-4" style="color:#000; text-align:left; font-size: 26px">OUR VISION </div>
-                                    <h4 class="mb-4 blue-header" style="color:#000">
-                                        We envision communities where every individual is empowered to thrive, with access to the resources and support they need across all stages of life.
-                                    </h4>
-                                    <p  class="pb-0 mb-0" style="font-family: 'Montserrat';font-size: 18px;line-height: 28px;font-weight: 400;color: #000;">
-                                        By fostering collaboration and innovation, we aim to create lasting impact that uplifts not just the present generation, but also future ones.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>    
-                    </div>
-                </div>
-            </div>
-
-            <div class="row equal-height">
-            
-            <div class="col-md-8 col-lg-8 col-sm-12">
-                <div class="header_mid_inner ">
-                    <div class="left-section-padding left-margin-top-bottom">
-                        <div class="h2-heading-section-space mb-5">
-                            <h2 class="h2-title mb-4">Our Team</h2>
-                        </div>
-                        <div class="text-content-space">
-                            <h4 class="text-content">
-                                Our dedicated team comprises passionate leaders, experienced professionals, and visionary advisors who share a common goal: to make a lasting difference.
-                            </h4>
-                        </div>                    
-                
-                        <div class="row">
-                            <div class="col-md-5 col-lg-5 col-sm-12 pl-0 pr-0 d-flex align-items-center" style="border-right:1px solid #ccc; height: 250px;">
-                                <div class="d-block">
-                                    <ul class="nav nav-tabs w-100 d-flex no-bullets" id="myTab" role="tablist" style=" justify-content: space-between; border-bottom: none;">
-                                        <li class="nav-item p-0 d-flex align-items-center" role="presentation">
-                                            <a class="nav-link active our-team" id="founder-tab" data-toggle="tab" href="#founder" role="tab" aria-controls="founder" aria-selected="true">
-                                                <div>
-                                                    <span style="font-size:18px">Founder & CEO</span>
-                                                </div>
-                                            </a>
-                                        </li>
-                                        <li class="nav-item p-0 d-flex align-items-center" role="presentation">
-                                            <a class="nav-link our-team" id="treasurer-tab" data-toggle="tab" href="#treasurer" role="tab" aria-controls="treasurer" aria-selected="false">
-                                                <div>
-                                                    <span style="font-size:18px">Treasurer</span>
-                                                </div>
-                                            </a>
-                                        </li>
-                                        <li class="nav-item p-0 d-flex align-items-center" role="presentation">
-                                            <a class="nav-link our-team" id="advisory-tab" data-toggle="tab" href="#advisory" role="tab" aria-controls="advisory" aria-selected="false">
-                                                <div>
-                                                    <span style="font-size:18px">Advisory Board</span>
-                                                </div>
-                                            </a>
-                                        </li>
-                                        <li class="nav-item p-0 d-flex align-items-center" role="presentation">
-                                            <a class="nav-link our-team" id="board-tab" data-toggle="tab" href="#board" role="tab" aria-controls="board" aria-selected="false">
-                                                <div>
-                                                    <span style="font-size:18px">Board Members</span>
-                                                </div>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="col-md-7 col-lg-7 col-sm-12">
-                                <div class="tab-content mt-5 pl-3" id="myTabContent" style="font-size:18px" >
-                                    <div class="tab-pane show active" id="founder" role="tabpanel" aria-labelledby="founder-tab">
-                                        <p>A visionary leader with a deep commitment to social impact, our CEO has been the driving force beMontserrat the foundation's mission to empower communities and create lasting change.</p>   
-                                    </div>
-                                    <div class="tab-pane" id="treasurer" role="tabpanel" aria-labelledby="treasurer-tab">
-                                        <p>Responsible for overseeing the financial health and sustainability of the foundation, our Treasurer brings years of experience in non-profit financial management.</p>
-                                    </div>
-                                    <div class="tab-pane" id="advisory" role="tabpanel" aria-labelledby="advisory-tab">
-                                        <p>A diverse group of experts and thought leaders who guide our strategic direction and ensure our initiatives remain impactful and relevant.</p>     
-                                    </div>
-                                    <div class="tab-pane" id="board" role="tabpanel" aria-labelledby="board-tab">
-                                        <p>Our Board Members bring a wealth of knowledge from various fields, including education, healthcare, housing, and technology, ensuring that our projects are well-rounded and effective.</p>    
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 col-lg-4 col-sm-12 d-flex align-items-center justify-content-center about-team-bg">
-                <div class="text-center right-content-padding ">
-                    <h2 class="blue-header">Together, we work tirelessly to develop and implement programs that address the most urgent needs of our communities.</h2>
-                </div>
-            </div>
-            </div>
-            <div class="custom-banner w-100">
-                <div class="header_mid_inner pd-0 ">
-                    <div class="content-padding">
-                        <div class="row ml-0 mr-0" >
                             <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0">
-                                <div class="p-xs-0 ">
-                                    <div class="h2-heading-section-space">
-                                        <h2 class="h2-title" style="color: #ffffff;">Partnership Opportunities</h2>
-                                    </div>
-                                    <div class="text-content-space">
-                                        <h4 class="text-content" style="color: #ffffff;">
-                                            The Atrium Legacy Foundation is always looking for new partners who share our commitment to social impact. Whether you are a corporation, non-profit, or community group, we invite you to join us in building a better future. Contact us to explore collaboration opportunities.
+                                <div class="pb-5 pl-3 p-sm-2 pl-md-5">
+                                    <div class="mb-4 banner-title" style="color:#000;">OUR VISION</div>
+                                        <h4 class="mb-4 blue-header" style="color:#000;">
+                                            We envision communities where every individual is empowered to thrive, with access to the resources and support they need across all stages of life.
                                         </h4>
+                                        <p class="pb-0 mb-0" style="font-family: 'Montserrat';font-size: 18px;line-height: 28px;font-weight: 400;color: #000;">
+                                            By fostering collaboration and innovation, we aim to create lasting impact that uplifts not just the present generation, but also future ones.
+                                        </p>
                                     </div>
-                                    <div id="" class="button_wrap">
-                                        <a href="./contact_us.php" class="custom-btn">
-                                            <span>Join Us Now</span>
-                                        </a>
+                                </div>
+                            </div>    
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row equal-height">
+                    <div class="col-md-8 col-lg-8 col-sm-12">
+                        <div class="header_mid_inner ">
+                            <div class="left-section-padding left-margin-top-bottom">
+                                <div class="h2-heading-section-space mb-5">
+                                    <h2 class="h2-title mb-4">Our Team</h2>
+                                </div>
+                                <div class="text-content-space">
+                                    <h4 class="text-content">
+                                        Our dedicated team comprises passionate leaders, experienced professionals, and visionary advisors who share a common goal: to make a lasting difference.
+                                    </h4>
+                                </div>                    
+                        
+                                <div class="row">
+                                    <div class="col-md-5 col-lg-5 col-sm-12 pl-0 pr-0 d-flex align-items-center" style="border-right:1px solid #ccc; height: 250px;">
+                                        <div class="d-block">
+                                            <ul class="nav nav-tabs w-100 d-flex no-bullets" id="myTab" role="tablist" style=" justify-content: space-between; border-bottom: none;">
+                                                <li class="nav-item p-0 d-flex align-items-center" role="presentation">
+                                                    <a class="nav-link active our-team" id="founder-tab" data-toggle="tab" href="#founder" role="tab" aria-controls="founder" aria-selected="true">
+                                                        <div>
+                                                            <span style="font-size:18px">Founder & CEO</span>
+                                                        </div>
+                                                    </a>
+                                                </li>
+                                                <li class="nav-item p-0 d-flex align-items-center" role="presentation">
+                                                    <a class="nav-link our-team" id="treasurer-tab" data-toggle="tab" href="#treasurer" role="tab" aria-controls="treasurer" aria-selected="false">
+                                                        <div>
+                                                            <span style="font-size:18px">Treasurer</span>
+                                                        </div>
+                                                    </a>
+                                                </li>
+                                                <li class="nav-item p-0 d-flex align-items-center" role="presentation">
+                                                    <a class="nav-link our-team" id="advisory-tab" data-toggle="tab" href="#advisory" role="tab" aria-controls="advisory" aria-selected="false">
+                                                        <div>
+                                                            <span style="font-size:18px">Advisory Board</span>
+                                                        </div>
+                                                    </a>
+                                                </li>
+                                                <li class="nav-item p-0 d-flex align-items-center" role="presentation">
+                                                    <a class="nav-link our-team" id="board-tab" data-toggle="tab" href="#board" role="tab" aria-controls="board" aria-selected="false">
+                                                        <div>
+                                                            <span style="font-size:18px">Board Members</span>
+                                                        </div>
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-7 col-lg-7 col-sm-12">
+                                        <div class="tab-content mt-5 pl-3" id="myTabContent" style="font-size:18px" >
+                                            <div class="tab-pane show active" id="founder" role="tabpanel" aria-labelledby="founder-tab">
+                                                <p>A visionary leader with a deep commitment to social impact, our CEO has been the driving force beMontserrat the foundation's mission to empower communities and create lasting change.</p>   
+                                            </div>
+                                            <div class="tab-pane" id="treasurer" role="tabpanel" aria-labelledby="treasurer-tab">
+                                                <p>Responsible for overseeing the financial health and sustainability of the foundation, our Treasurer brings years of experience in non-profit financial management.</p>
+                                            </div>
+                                            <div class="tab-pane" id="advisory" role="tabpanel" aria-labelledby="advisory-tab">
+                                                <p>A diverse group of experts and thought leaders who guide our strategic direction and ensure our initiatives remain impactful and relevant.</p>     
+                                            </div>
+                                            <div class="tab-pane" id="board" role="tabpanel" aria-labelledby="board-tab">
+                                                <p>Our Board Members bring a wealth of knowledge from various fields, including education, healthcare, housing, and technology, ensuring that our projects are well-rounded and effective.</p>    
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>  
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-lg-4 col-sm-12 d-flex align-items-center justify-content-center about-team-bg">
+                        <div class="text-center right-content-padding ">
+                            <h2 class="blue-header">Together, we work tirelessly to develop and implement programs that address the most urgent needs of our communities.</h2>
+                        </div>
                     </div>
                 </div>
-            </div>  
+                <div class="custom-banner w-100">
+                    <div class="header_mid_inner pd-0 ">
+                        <div class="content-padding">
+                            <div class="row ml-0 mr-0" >
+                                <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0">
+                                    <div class="p-xs-0 ">
+                                        <div class="h2-heading-section-space">
+                                            <h2 class="h2-title" style="color: #ffffff;">Partnership Opportunities</h2>
+                                        </div>
+                                        <div class="text-content-space">
+                                            <h4 class="text-content" style="color: #ffffff;">
+                                                The Atrium Legacy Foundation is always looking for new partners who share our commitment to social impact. Whether you are a corporation, non-profit, or community group, we invite you to join us in building a better future. Contact us to explore collaboration opportunities.
+                                            </h4>
+                                        </div>
+                                        <div id="" class="button_wrap">
+                                            <a href="./contact_us.php" class="custom-btn">
+                                                <span>Join Us Now</span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>  
+                        </div>
+                    </div>
+                </div>  
+            </div>
         </div>
-    </div>
 
 
     <!-- Show tab when hovering -->        
-        <!-- <script>
-            document.querySelectorAll('.tab-button').forEach(button => {
-                button.addEventListener('click', () => {
-                    document.querySelectorAll('.tab-button').forEach(btn => btn.classList.remove('active'));
-                    document.querySelectorAll('.tab-content').forEach(content => content.classList.remove('active'));
-                    button.classList.add('active');
-                    const tabId = button.getAttribute('data-tab');
-                    document.getElementById(tabId).classList.add('active');
-                });
-            });
-        </script> -->
 
     <script>
         $(document).ready(function() {

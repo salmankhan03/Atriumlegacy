@@ -384,7 +384,7 @@ body {
 }
 
 .banner-title {
-    color:#fff !important; 
+    color:#fff;
     font-family:'Montserrat' !important;
     font-size: 20px;
     letter-spacing: 2px;

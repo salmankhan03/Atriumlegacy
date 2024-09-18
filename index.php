@@ -90,7 +90,6 @@
                         </div>
                     </div>
                     <div class="row pt-5 pb-0"> 
-
                         <div class="col-sm-12 col-md-6 col-lg-3 text-content d-flex">
                             <div class="cards" id = "card1">
                                 <div class="cards-heading text-center">
