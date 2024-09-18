@@ -334,6 +334,7 @@ body {
     font-family: 'Moisette';
     color: #000;
     font-weight: bold;
+    line-height: 1.3;
 }
 .h2-heading-section-space{
     text-align: left;
@@ -393,7 +394,8 @@ body {
     color:#fff !important; 
     font-family:'Moisette' !important;
     font-weight: bold !important;
-    font-size: 62px;
+    font-size: 70px;
+    line-height: 1.35 !important;
 }
 .italic-heading{
     font-size: 26px;

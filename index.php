@@ -31,7 +31,7 @@
                     <h2 class = "banner-title">
                         OUR MISSION
                     </h2>
-                    <h1 class = "banner-header display-3">
+                    <h1 class = "banner-header">
                         Fostering Values, <br/>
                         Supporting Wellness & <br/>
                         Promoting Sustainable <br/>
