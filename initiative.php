@@ -84,9 +84,9 @@
          .nav-tabs .nav-link:hover {
             color:#000000
          }
-         .nav-tabs .nav-link .tab-icon {
+         /* .nav-tabs .nav-link .tab-icon {
             margin-right: 5px;
-         }
+         } */
          .cards:hover {
             background-color: transparent !important;
             /* transform: scale(1.02); */
@@ -121,6 +121,44 @@
          /* .no-bullets {
             
          } */
+         .nav-item{
+            margin-bottom: 30px !important;
+         }
+         .tab-icon {
+            width: 75px;
+            height: 75px;
+            background-size: 75px;
+            background-repeat: no-repeat;
+            background-position: center;
+            margin-bottom: 10px;
+         }
+
+         .icon1{
+            background-image: url("./img/icons/Black/ReStart_Education.png");
+         }
+         .icon2{
+            background-image: url("./img/icons/Black/Aging_Grace.png");
+         }
+         .icon3{
+            background-image: url("./img/icons/Black/HomeStrong.png");
+         }
+         .icon4{
+            background-image: url("./img/icons/Black/AgriThrive.png");
+         }
+
+         .nav-link.active .icon1{
+            background-image: url("./img/icons/Green/ReStart_Education.png");
+         }
+         .nav-link.active .icon2{
+            background-image: url("./img/icons/Green/Aging_Grace.png");
+         }
+         .nav-link.active .icon3{
+            background-image: url("./img/icons/Green/HomeStrong.png");
+         }
+         .nav-link.active .icon4{
+            background-image: url("./img/icons/Green/AgriThrive.png");
+         }
+
          .icon-title{
             font-family: Moisette;
             font-size: 26px;
@@ -404,7 +442,7 @@
                   <li class="nav-item p-0" role="presentation">
                      <a class="nav-link active" id="ReStart-Education-tab" data-toggle="tab" href="#ReStart-Education" role="tab" aria-controls="ReStart-Education" aria-selected="true" style="background-color:transparent;border:none">
                         <div style="display:flex; flex-direction:column; align-items:center; text-align:center;">
-                           <img src="./img/icons/Black/ReStart_Education.png" style="width:75px"><br/>
+                           <div class="tab-icon icon1"></div>
                            <span class="icon-title">ReStart Education</span>
                         </div>
                      </a>
@@ -413,7 +451,7 @@
                   <li class="nav-item p-0" role="presentation">
                      <a class="nav-link" id="Aging-Grace-tab" data-toggle="tab" href="#Aging-Grace" role="tab" aria-controls="Aging-Grace" aria-selected="false" style="background-color:transparent;border:none">
                         <div style="display:flex; flex-direction:column; align-items:center; text-align:center;">
-                           <img src="./img/icons/Black/Aging_Grace.png" style="width:75px"><br/>
+                           <div class="tab-icon icon2"></div>
                            <span class="icon-title">Aging Grace</span>
                         </div>
                      </a>
@@ -422,7 +460,7 @@
                   <li class="nav-item p-0" role="presentation">
                      <a class="nav-link" id="HomeStrong-tab" data-toggle="tab" href="#HomeStrong" role="tab" aria-controls="HomeStrong" aria-selected="false" style="background-color:transparent;border:none">
                         <div style="display:flex; flex-direction:column; align-items:center; text-align:center;">
-                           <img src="./img/icons/Black/HomeStrong.png" style="width:75px"><br/>
+                           <div class="tab-icon icon3"></div>
                            <span class="icon-title">HomeStrong</span>
                         </div>
                      </a>
@@ -431,7 +469,7 @@
                   <li class="nav-item p-0" role="presentation">
                      <a class="nav-link" id="agriThrive-tab" data-toggle="tab" href="#agriThrive" role="tab" aria-controls="agriThrive" aria-selected="false" style="background-color:transparent;border:none;">
                         <div style="display:flex; flex-direction:column; align-items:center; text-align:center;">
-                           <img src="./img/icons/Black/AgriThrive.png" style="width:75px"><br/>
+                           <div class="tab-icon icon4"></div>
                            <span class="icon-title">AgriThrive</span>
                         </div>
                      </a>
