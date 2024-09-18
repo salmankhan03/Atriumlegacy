@@ -610,15 +610,6 @@
         } 
 
     </style> -->
-
-    <!-- change icon when hovering -->
-    <script>
-        function changeImageOnHover(card, icon, newSrc, originalSrc) {
-            card.onmouseover = () => icon.src = newSrc;
-            card.onmouseout = () => icon.src = originalSrc;
-        }
-    </script>
-
 </head>
 
 <body>
@@ -747,11 +738,11 @@
                                 <div class="cards-heading text-center">
                                     <!-- <i class="fa fa-medkit custom-icon" style="font-size:60px" aria-hidden="true"></i> -->
                                     <img src="./img/icons/Green/ReStart_Education.png" style="width:75px" id="icon1">
-                                    <script>
+                                    <!-- <script>
                                         const card1 = document.getElementById('card1');
                                         const icon1 = document.getElementById('icon1');
                                         changeImageOnHover(card1, icon1, "./img/icons/White/ReStart_Education.png", "./img/icons/Green/ReStart_Education.png");
-                                    </script>
+                                    </script> -->
                                 </div>
                                 <div class="cards-body text-center">
                                     <h4 class="card-fonts-heading-color">ReStart Education</h4>
@@ -774,11 +765,11 @@
                                 <div class="cards-heading text-center">
                                     <!-- <i class="fa fa-medkit custom-icon" style="font-size:60px" aria-hidden="true"></i> -->
                                     <img src="./img/icons/Green/Aging_Grace.png" style="width:75px" id = "icon2">
-                                    <script>
+                                    <!-- <script>
                                         const card2 = document.getElementById('card2');
                                         const icon2 = document.getElementById('icon2');
                                         changeImageOnHover(card2, icon2, "./img/icons/White/Aging_Grace.png", "./img/icons/Green/Aging_Grace.png");
-                                    </script>
+                                    </script> -->
                                 </div>
                                 <div class="cards-body text-center">
                                     <h4 class="card-fonts-heading-color">Aging Grace</h4>
@@ -801,11 +792,11 @@
                                 <div class="cards-heading text-center">
                                     <!-- <i class="fa fa-medkit custom-icon" style="font-size:60px" aria-hidden="true"></i> -->
                                     <img src="./img/icons/Green/HomeStrong.png" style="width:75px" id = "icon3">
-                                    <script>
+                                    <!-- <script>
                                         const card3 = document.getElementById('card3');
                                         const icon3 = document.getElementById('icon3');
                                         changeImageOnHover(card3, icon3, "./img/icons/White/HomeStrong.png", "./img/icons/Green/HomeStrong.png");
-                                    </script>
+                                    </script> -->
                                 </div>
                                 <div class="cards-body text-center">
                                     <h4 class="card-fonts-heading-color">HomeStrong </h4>
@@ -828,11 +819,11 @@
                                 <div class="cards-heading text-center">
                                     <!-- <i class="fa fa-medkit custom-icon" style="font-size:60px" aria-hidden="true"></i> -->
                                     <img src="./img/icons/Green/AgriThrive.png" style="width:75px" id = "icon4">
-                                    <script>
+                                    <!-- <script>
                                         const card4 = document.getElementById('card4');
                                         const icon4 = document.getElementById('icon4');
                                         changeImageOnHover(card4, icon4, "./img/icons/White/AgriThrive.png", "./img/icons/Green/AgriThrive.png");
-                                    </script>
+                                    </script> -->
                                 </div>
                                 <div class="cards-body text-center">
                                     <h4 class="card-fonts-heading-color">AgriThrive</h4>
@@ -987,7 +978,18 @@
         </div>
     </div> -->
 
-    <?php include 'footer.php'; ?> 
+    <?php include 'footer.php'; ?>
+    <!-- change icon when hovering -->
+    <script>
+        function changeImageOnHover(card, icon, newSrc, originalSrc) {
+            card.onmouseover = () => icon.src = newSrc;
+            card.onmouseout = () => icon.src = originalSrc;
+        }
+        changeImageOnHover(document.getElementById('card1'), document.getElementById('icon1'), "./img/icons/White/ReStart_Education.png", "./img/icons/Green/ReStart_Education.png");
+        changeImageOnHover(document.getElementById('card2'), document.getElementById('icon2'), "./img/icons/White/Aging_Grace.png", "./img/icons/Green/Aging_Grace.png");
+        changeImageOnHover(document.getElementById('card3'), document.getElementById('icon3'), "./img/icons/White/HomeStrong.png", "./img/icons/Green/HomeStrong.png");
+        changeImageOnHover(document.getElementById('card4'), document.getElementById('icon4'), "./img/icons/White/AgriThrive.png", "./img/icons/Green/AgriThrive.png");
+    </script>
 
 
 </body>
