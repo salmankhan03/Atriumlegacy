@@ -122,7 +122,7 @@
             
          } */
          .nav-item{
-            margin-bottom: 30px !important;
+            margin-bottom: 45px !important;
          }
          .tab-icon {
             width: 75px;
@@ -262,7 +262,7 @@
                </ul>
 
                <!-- Tab Content -->
-               <div class="tab-content" id="myTabContent" style="padding-bottom: 100px;">
+               <div class="tab-content" id="myTabContent" style="padding-bottom: 65px;">
                   <div class="tab-pane fade show active" id="ReStart-Education" role="tabpanel" aria-labelledby="ReStart-Education-tab">
                      <div class="row ml-0 mr-0" >
                         <div class="col-sm-12 col-md-8 col-lg-8 pl-0 pr-0">
