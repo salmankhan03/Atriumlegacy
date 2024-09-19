@@ -41,11 +41,19 @@ if($email){
     
         $mail->isHTML(true);                                     
         $mail->Subject = 'Donation Form Submission';
-        $mail->Body    = "
+
+        
+        $body = "
             <h2>Donation Details</h2>
             <p><strong>Donation Amount:</strong> $donationAmount</p>
             <p><strong>Payment Method:</strong> $paymentMethod</p>
-            <p><strong>Recurrence:</strong> $recurrence</p>
+        ";
+
+        if ($paymentMethod !== 'offlinePayment') {
+            $body .= "<p><strong>Recurrence:</strong> $recurrence</p>";
+        }
+
+        $body .= "
             <p><strong>Campaign:</strong> $campaign</p>
             <p><strong>Message:</strong> $message</p>
             <p><strong>Anonymous Donation:</strong> $anonymous</p>
@@ -57,8 +65,8 @@ if($email){
             <p><strong>Address:</strong> $address</p>
             <p><strong>Postal/Zip Code:</strong> $zip</p>
         ";
-    
-        $mail->send();
+
+        $mail->Body = $body;
 
         header("Location: donate.php");
     } catch (Exception $e) {
