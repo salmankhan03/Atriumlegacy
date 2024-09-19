@@ -253,15 +253,19 @@ body {
    height: 80%;
  }
  .side-element{
-   position: relative;
+   position: absolute;
    background-color: #0f5194;
    color: #fff;
-   width: 50%;
-   font-size: x-large;
-   padding: 40px;
+   /* width: 50%;
+   font-size: 26px;
    left: 40%;
-   top: -100px;
+   top: -100px; */
+   font-size: x-large;
+   padding: 30px;
+   bottom: 0;
+   right: 0;
    font-family: "Montserrat";
+   line-height: 1.5;
  }
 
 
@@ -458,7 +462,7 @@ body {
     }
     .side-element{
         padding: 20px !important;
-        font-size: medium !important;
+        font-size: large !important;
     }
 }
 @media only screen and (max-width: 1024px) {

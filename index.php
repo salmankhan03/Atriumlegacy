@@ -180,15 +180,15 @@
             </div>
             
              <!-- SECOND SECTION -->
-            <div class="header_mid_inner pd-0 ">
+            <div class="header_mid_inner pd-0 content-padding">
                 <div class="row ml-0 mr-0" >
                     <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0">
-                        <div style="position:relative; margin-top:100px">
+                        <div style="position:relative;">
                             <image class="left-side" src="./img/home/home_3.jpg" alt="left-side-image" ></image>
                             <div class="side-element">
-                                <div style="line-height: 1.5;"> Empathy.</div>
-                                <div style="line-height: 1.5;"> Wellness.</div>
-                                <div style="line-height: 1.5;"> Sustainability.</div>
+                                Empathy.<br/>
+                                Wellness.<br/>
+                                Sustainability.
                             </div>
                         </div>
                     </div>
