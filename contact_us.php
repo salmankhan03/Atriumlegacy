@@ -20,13 +20,13 @@
                     background-size: cover;
                 }
 
-                .custom-banner {
-                        background-image: url('./img/get_involved/get_involved_6.jpg');
-                        background-position: center center;
-                        background-repeat: no-repeat;
-                        background-attachment: scroll;
-                        background-size: cover;
-                        }
+                /* .custom-banner {
+                    background-image: url('./img/get_involved/get_involved_6.jpg');
+                    background-position: center center;
+                    background-repeat: no-repeat;
+                    background-attachment: scroll;
+                    background-size: cover;
+                    } */
                 
                 /* Form Css */
                 /* Flexbox for columns layout */

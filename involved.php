@@ -109,7 +109,7 @@
                         </h4>
                      </div>
                      <div id="" class="button_wrap">
-                        <a href="#" class="custom-btn2">
+                        <a href="./donate.php" class="custom-btn2">
                            <span>Donate Now</span>
                         </a>
                      </div>

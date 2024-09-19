@@ -12,36 +12,36 @@
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
       <style>
-         .initiativeBanner {
+         .donateBanner {
             background-image: url('./img/donate/donate-banner.jpg');
             background-position: top center; 
             background-repeat: no-repeat; 
             background-attachment: scroll; 
             background-size: cover;
          }
-         .custom-banner {
+         /* .custom-banner {
             background-image: url('./img/our_initiatives/our_initiatives_4.jpg');
             background-position: center center;
             background-repeat: no-repeat;
             background-attachment: scroll;
             background-size: cover;
-            }
+            } */
 
-         .nav-tabs .nav-link {
+         /* .nav-tabs .nav-link {
             display: flex;
             align-items: center;
          }
          .nav-tabs .nav-link:hover {
             color:#000000
-         }
+         } */
          /* .nav-tabs .nav-link .tab-icon {
             margin-right: 5px;
          } */
-         .cards:hover {
+         /* .cards:hover {
             background-color: transparent !important;
-            /* transform: scale(1.02); */
-         }
-         .card-fonts-heading-color:hover{
+            transform: scale(1.02);
+         } */
+         /* .card-fonts-heading-color:hover{
             color:#000000 !important;
          }
 
@@ -60,7 +60,7 @@
          .nav-link.active,
          .nav-item.show .nav-link .icon-title {
                color: #0b9444 !important;
-            }
+            } */
          /* .nav-tabs{
             display: flex;
             flex-wrap: wrap;
@@ -71,7 +71,7 @@
          /* .no-bullets {
             
          } */
-         .nav-item{
+         /* .nav-item{
             margin-bottom: 45px !important;
          }
          .tab-icon {
@@ -106,8 +106,8 @@
             flex-direction:column;
             align-items:center;
             text-align:center;
-         }
-         .cmsmasters_breadcrumbs_inner{
+         } */
+         /* .cmsmasters_breadcrumbs_inner{
             display: inline-block;
             padding-top: 13px;
             vertical-align: middle;
@@ -123,7 +123,7 @@
             text-transform: none;
             text-decoration: none;
             color: white
-         }
+         } 
          .cmsmasters_donation_form_title{
             color: #254151;
             font-family: 'Merriweather', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
@@ -133,7 +133,7 @@
             font-style: normal;
             text-transform: none;
             text-decoration: none;
-         }
+         } */
 
          .form-padding{
             padding-top: 30px;
@@ -141,14 +141,20 @@
          }
 
          .form-label{
-            font-family: 'Merriweather Sans', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+            /* font-family: 'Merriweather Sans', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
             font-size: 20px;
             line-height: 26px;
             font-weight: bold;
             font-style: normal;
             text-transform: none;
             text-decoration: none;
-            color: #7d7d7d;
+            color: #7d7d7d; */
+            font-family: 'Montserrat';
+            font-size: 18px !important;
+            line-height: 28px;
+            font-weight: 400;
+            color: #000;
+            font-weight: bold;
          }
 
          .radio-grid {
@@ -171,9 +177,14 @@
         }
 
         .donation_amount{
-            font-size: 18px;
-            color: #7d7d7d;
-            padding-left: 15px;
+            /* font-size: 18px;
+            color: #7d7d7d; */
+            padding-left: 10px;
+            font-family: 'Montserrat';
+            font-size: 18px !important;
+            line-height: 28px;
+            font-weight: 400;
+            color: #000;
         }
 
         .margin-top{
@@ -187,7 +198,7 @@
             font-size: 16px;
             border: 1px solid #ccc;
             border-radius: 25px;
-            background-color: #f9f9f9;
+            background-color: transparent;
             color: #333;
             outline: none;
             transition: background-color 0.3s ease, color 0.3s ease;
@@ -205,11 +216,16 @@
         .form-control {
             width: 100%;
             padding: 10px;
-            font-size: 16px;
+            /* font-size: 16px; */
             border: 1px solid #ccc;
             border-radius: 5px;
             box-sizing: border-box;
             margin-bottom: 10px;
+            font-family: 'Montserrat';
+            font-size: 18px !important;
+            line-height: 28px;
+            font-weight: 400;
+            color: #000;
         }
 
         .form-label {
@@ -227,37 +243,13 @@
             flex: 1;
         }
 
-        .detail-form-label{
+        /* .detail-form-label{
             font-size: 18px;
             line-height: 26px;
             font-weight: normal;
             font-style: normal;
             color: #7d7d7d;
-        }
-
-        .btn {
-            padding: 4px 30px !important;
-            border-color: #efc94c !important;
-            background-color: #efc94c !important;
-            color: #fdfbf8 !important;
-            font-size: 16px !important;
-            line-height: 40px !important;
-            font-weight: bold !important;
-            font-style: normal !important;
-            text-transform: none !important;
-            max-width: 100% !important;
-            cursor: pointer !important;
-            display: inline-block !important;
-            padding: 0 30px !important;
-            position: relative !important;
-            white-space: nowrap !important;
-            text-align: center !important;
-            border-width: 1px !important;
-            border-style: solid !important;
-            -webkit-border-radius: 30px !important;
-            border-radius: 30px !important;
-        }
-
+        } */
 
         @media (max-width: 992px) {
             .radio-grid {
@@ -276,6 +268,15 @@
                font-size: 36px;
             }
          }
+
+         textarea::placeholder, input::placeholder {
+            font-family: 'Montserrat';
+            font-size: 18px !important;
+            line-height: 28px;
+            font-weight: 400;
+            color: #000;
+        }
+
       </style>
    </head>
    <body>
@@ -286,27 +287,32 @@
                 <div class="middle_content entry"></div>
             </div>
             <!-- Banner -->
-            <div class="initiativeBanner">
-                <div class="container text-center banner-paddings">
+            <div class="donateBanner">
+                <!-- <div class="container text-center banner-paddings">
                     <h2 class="banner-header text-center white-text">Donate Confirmation</h2>
                     <div class="cmsmasters_breadcrumbs_inner">
                         <a href="index.php" class="cms_home">Home</a>
                         <span class="breadcrumbs_sep"> / </span>
                         <span>Donate Confirmation</span>
                     </div>                  
+                </div> -->
+                <div class = "container text-center banner-paddings">
+                    <h2 class = "banner-header text-center white-text">
+                        Donate
+                    </h2>                  
                 </div>
             </div>
 
             <div class="header_mid_inner pd-0 content-padding">
-                <h2 class="cmsmasters_donation_form_title">Donation details</h2>
+                <h2 class="h2-title">Donation details</h2>
                 <form action="send_donation_mail.php" method="post" class="init" aria-label="Contact form" novalidate="novalidate" data-status="init" data-inited-validation="1">
                     <div class="row">
                         <div class="col-md-12 col-sm-12 form-padding">
                             <div class="row">
-                                <div class="col-md-3 col-sm-5">
-                                    <label class="form-label">Donation Amount*</label>
+                                <div class="col-md-3 col-sm-3">
+                                    <label class="form-label">Donation Amount *</label>
                                 </div>
-                                <div class="col-md-7 col-sm-7" id="donation-group">
+                                <div class="col-md-9 col-sm-9" id="donation-group">
                                     <div class="radio-grid">
                                         <div>
                                             <input type="radio" id="donation1" name="donation_options" value="5">
@@ -331,16 +337,16 @@
                                     </div>
 
                                     <div style="margin-top: 20px;">
-                                        <input type="number" id="donation_custom_amount" name="custom_amount" min="1" placeholder="or enter your own donation amount, e.g: 85" style="width: 100%">
+                                        <input class="donation_amount" type="number" id="donation_custom_amount" name="custom_amount" min="1" placeholder="or enter your own donation amount, e.g: 85" style="width: 100%">
                                     </div>
                                 </div>
                             </div>
 
                             <div class="row margin-top">
-                                <div class="col-md-3 col-sm-5">
-                                    <label class="form-label">Payment Method*</label>
+                                <div class="col-md-3 col-sm-3">
+                                    <label class="form-label">Payment Method  *</label>
                                 </div>
-                                <div class="col-md-7 col-sm-7" id="payment-method-group">
+                                <div class="col-md-9 col-sm-9" id="payment-method-group">
                                     <div class="radio-grid">
                                         <div>
                                             <input type="radio" checked id="online" name="paymentOption" value="onlinePayment">
@@ -355,10 +361,10 @@
                             </div>
 
                             <div class="row margin-top" id="recur">
-                                <div class="col-md-3 col-sm-5" id="recurrence-label">
+                                <div class="col-md-3 col-sm-3" id="recurrence-label">
                                     <label class="form-label">Recurrence *</label>
                                 </div>
-                                <div class="col-md-7 col-sm-7" id="recurrence">
+                                <div class="col-md-9 col-sm-9" id="recurrence">
                                     <select class="form-control" name="recurrence" id="recurrence_select">
                                         <option value="one-time" selected>One-Time</option>
                                         <option value="weekly">Weekly</option>
@@ -369,10 +375,10 @@
                             </div>
 
                             <div class="row margin-top">
-                                <div class="col-md-3 col-sm-5">
+                                <div class="col-md-3 col-sm-3">
                                     <label class="form-label">Campaigns</label>
                                 </div>
-                                <div class="col-md-7 col-sm-7" id="campaign">
+                                <div class="col-md-9 col-sm-9" id="campaign">
                                     <select class="form-control" name="campaign" id="campaign_select">
                                         <option value="" selected>No specific campaign</option>
                                         <option value="9500">Let's Help the Endangered Species Today - (Target: 9500.00)</option>
@@ -387,19 +393,19 @@
                             </div>
 
                             <div class="row margin-top">
-                                <div class="col-md-3 col-sm-5">
+                                <div class="col-md-3 col-sm-3">
                                     <label class="form-label">Message</label>
                                 </div>
-                                <div class="col-md-7 col-sm-7">
-                                    <textarea class="form-control" name="message" rows="7" placeholder="Your custom message text..." style="border-radius: 15px;"></textarea>
+                                <div class="col-md-9 col-sm-9">
+                                    <textarea class="form-control" name="message" id="message" rows="7" placeholder="Your custom message text..." style="border-radius: 15px; background-color: transparent;"></textarea>
                                 </div>
                             </div>
 
                             <div class="row margin-top">
-                                <div class="col-md-3 col-sm-5">
+                                <div class="col-md-3 col-sm-3">
                                     <label class="form-label">Anonymous donation?</label>
                                 </div>
-                                <div class="col-md-7 col-sm-7">
+                                <div class="col-md-9 col-sm-9">
                                     <div>
                                         <input type="checkbox" id="anonymous-donation" name="anonymous-donation">
                                         <label for="anonymous-donation" style="margin: 0 0 0 30px; color: #7d7d7d;">Check this box to hide your personal info in our donators list</label>
@@ -410,22 +416,22 @@
                     </div>
 
                     <div class="col-md-12 col-sm-12 form-padding">
-                        <h2 class="cmsmasters_donation_form_title">Donator details</h2>
+                        <h2 class="h2-title">Donator details</h2>
 
                         <div class="row margin-top">
                             <div class="col-md-12 col-sm-12">
                                 <div class="input-group">
                                     <div>
-                                        <label for="first-name" class="detail-form-label">First name *</label>
+                                        <label for="first-name" class="form-label">First name *</label>
                                         <input type="text" id="first-name" name="first-name" class="form-control" placeholder="">
                                     </div>
                                     <div>
-                                        <label for="last-name" class="detail-form-label">Last name *</label>
+                                        <label for="last-name" class="form-label">Last name *</label>
                                         <input type="text" id="last-name" name="last-name" class="form-control" placeholder="">
                                     </div>
                                     <div>
-                                        <label for="email" class="detail-form-label">Email *</label>
-                                        <input type="email" id="email" name="email" class="form-control" placeholder="email@website.com">
+                                        <label for="email" class="form-label">Email *</label>
+                                        <input type="email" id="email" name="email" class="form-control" placeholder="">
                                     </div>
                                 </div>
                             </div>
@@ -435,11 +441,11 @@
                             <div class="col-md-12 col-sm-12">
                                 <div class="input-group">
                                     <div>
-                                        <label for="address" class="detail-form-label">Address *</label>
+                                        <label for="address" class="form-label">Address *</label>
                                         <input type="text" id="address" name="address" class="form-control" placeholder="">
                                     </div>
                                     <div>
-                                        <label for="zip" class="detail-form-label">Postal / Zip code *</label>
+                                        <label for="zip" class="form-label">Postal / Zip code *</label>
                                         <input type="text" id="zip" name="zip" class="form-control" placeholder="">
                                     </div>
                                 </div>
@@ -448,7 +454,7 @@
 
                         <div class="row margin-top">
                             <div class="col-md-12 col-sm-12">
-                                <button class="btn" type="submit">Submit donation</button>
+                                <button class="custom-btn2" type="submit">Submit donation</button>
                             </div>
                         </div>
                     </div>
