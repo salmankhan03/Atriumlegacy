@@ -29,8 +29,6 @@ $mail = new PHPMailer(true);
 if($email){
     try {
         $mail->isSMTP(); 
-        $mail->SMTPDebug = SMTP::DEBUG_SERVER;
-        $mail->Host       = 'smtp.example.com';
         $mail->Host       = 'mail.intellidt.com';
         $mail->SMTPAuth   = true;
         $mail->Username   = 'developer@intellidt.com';
