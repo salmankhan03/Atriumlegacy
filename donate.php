@@ -397,13 +397,13 @@
                                     <label class="form-label">Message</label>
                                 </div>
                                 <div class="col-md-9 col-sm-9">
-                                    <textarea class="form-control" name="message" id="message" rows="7" placeholder="Your custom message text..." style="border-radius: 15px; background-color: transparent;"></textarea>
+                                    <textarea class="form-control" name="message" id="message" rows="7" placeholder="Your custom message text..." style="border-radius: 25px; background-color: transparent;"></textarea>
                                 </div>
                             </div>
 
                             <div class="row margin-top">
                                 <div class="col-md-3 col-sm-3">
-                                    <label class="form-label">Anonymous donation?</label>
+                                    <label class="form-label">Anonymous Donation?</label>
                                 </div>
                                 <div class="col-md-9 col-sm-9">
                                     <div>
@@ -422,11 +422,11 @@
                             <div class="col-md-12 col-sm-12">
                                 <div class="input-group">
                                     <div>
-                                        <label for="first-name" class="form-label">First name *</label>
+                                        <label for="first-name" class="form-label">First Name *</label>
                                         <input type="text" id="first-name" name="first-name" class="form-control" placeholder="">
                                     </div>
                                     <div>
-                                        <label for="last-name" class="form-label">Last name *</label>
+                                        <label for="last-name" class="form-label">Last Name *</label>
                                         <input type="text" id="last-name" name="last-name" class="form-control" placeholder="">
                                     </div>
                                     <div>
@@ -445,7 +445,7 @@
                                         <input type="text" id="address" name="address" class="form-control" placeholder="">
                                     </div>
                                     <div>
-                                        <label for="zip" class="form-label">Postal / Zip code *</label>
+                                        <label for="zip" class="form-label">Postal Code *</label>
                                         <input type="text" id="zip" name="zip" class="form-control" placeholder="">
                                     </div>
                                 </div>

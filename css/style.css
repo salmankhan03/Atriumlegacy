@@ -403,7 +403,9 @@ body {
     font-weight: bold !important;
     font-size: 70px;
     line-height: 1.35 !important;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
 }
+
 .italic-heading{
     font-size: 26px;
     line-height: 35px;
@@ -491,10 +493,8 @@ a {
     padding: 0 !important;
 }
 .banner-paddings { 
-    padding-top: 300px; 
-} 
-.banner-paddings { 
-    padding-bottom: 320px; 
+    padding-top: 320px;
+    padding-bottom: 200px; 
 }
 @media only screen and (max-width: 1024px) {
     .banner-paddings {
