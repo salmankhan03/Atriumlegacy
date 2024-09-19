@@ -31,6 +31,7 @@ if($email){
         $mail->isSMTP(); 
         $mail->SMTPDebug = SMTP::DEBUG_SERVER;
         $mail->Host       = 'smtp.example.com';
+        $mail->Host       = 'mail.intellidt.com';
         $mail->SMTPAuth   = true;
         $mail->Username   = 'developer@intellidt.com';
         $mail->Password   = 'developer@123!';
@@ -60,7 +61,8 @@ if($email){
         ";
     
         $mail->send();
-        echo 'Message has been sent';
+
+        header("Location: donate.php");
     } catch (Exception $e) {
         echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
     }
