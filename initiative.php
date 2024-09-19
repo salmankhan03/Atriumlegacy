@@ -18,16 +18,8 @@
             background-repeat: no-repeat; 
             background-attachment: scroll; 
             background-size: cover;
-            /* padding: 250px 0 150px 0; */
-         }
-         .banner-paddings { 
-            padding-top: 300px; 
-         } 
-         .banner-paddings { 
-            padding-bottom: 320px; 
          }
 
-         /*  */
          .custom-banner {
             background-image: url('./img/our_initiatives/our_initiatives_4.jpg');
             background-position: center center;
@@ -35,48 +27,7 @@
             background-attachment: scroll;
             background-size: cover;
             }
-         /*  */
-         @media only screen and (max-width: 1024px) {
-            .banner-paddings {
-               padding-top: 160px;
-            }
-         }
-         @media only screen and (max-width: 1024px) {
-            .banner-paddings {
-               padding-bottom: 180px;
-            }
-         }
-         @media only screen and (max-width: 768px) {
-            .banner-paddings {
-               padding-top: 100px;
-            }
-         }
-         @media only screen and (max-width: 768px) {
-            .banner-paddings {
-               padding-bottom: 120px;
-            }
-         }
-         @media only screen and (max-width: 540px) {
-            .banner-paddings {
-               padding-top: 100px;
-            }
-         }
-         @media only screen and (max-width: 540px) {
-            .banner-paddings {
-               padding-bottom: 120px;
-            }
-         }
-         @media only screen and (max-width: 320px) {
-            .banner-paddings {
-               padding-top: 70px;
-            }
-         }
-         @media only screen and (max-width: 320px) {
-            .banner-paddings {
-               padding-bottom: 90px;
-            }
-         }
-
+        
          .nav-tabs .nav-link {
             display: flex;
             align-items: center;
@@ -394,7 +345,7 @@
                                     <h2 class="h2-title" style="color:#fff;">Future Initiatives</h2>
                                  </div>
                                  <div class="">
-                                    <h4 class="text-content" style="color:#fff;">
+                                    <h4 class="text-content-white">
                                        As we continue to grow and learn from our communities, Atrium Legacy Foundation is committed to expanding our portfolio of initiatives. Our goal is to remain responsive to emerging needs and challenges, ensuring that our work continues to create positive and sustainable change.
                                     </h4>
                                  </div>                              

@@ -21,16 +21,8 @@
             background-repeat: no-repeat; 
             background-attachment: scroll; 
             background-size: cover;
-            /* padding: 250px 0 150px 0; */
-        }
-        .banner-paddings { 
-            padding-top: 300px; 
-        } 
-        .banner-paddings { 
-            padding-bottom: 320px; 
         }
 
-        /*  */
         .custom-banner {
                 background-image: url('./img/about_us/about_us_4.jpg');
                 background-position: center center;
@@ -38,7 +30,6 @@
                 background-attachment: scroll;
                 background-size: cover;
                 }
-        /*  */
 
         .nav-link {
             display: flex;
@@ -69,46 +60,6 @@
             list-style:none !important;
             background-color: transparent !important; 
             padding-left: 0;
-        }
-        @media only screen and (max-width: 1024px) {
-            .banner-paddings {
-                padding-top: 160px;
-            }
-        }
-        @media only screen and (max-width: 1024px) {
-            .banner-paddings {
-                padding-bottom: 180px;
-            }
-        }
-        @media only screen and (max-width: 768px) {
-            .banner-paddings {
-                padding-top: 100px;
-            }
-        }
-        @media only screen and (max-width: 768px) {
-            .banner-paddings {
-                padding-bottom: 120px;
-            }
-        }
-        @media only screen and (max-width: 540px) {
-            .banner-paddings {
-                padding-top: 100px;
-            }
-        }
-        @media only screen and (max-width: 540px) {
-            .banner-paddings {
-                padding-bottom: 120px;
-            }
-        }
-        @media only screen and (max-width: 320px) {
-            .banner-paddings {
-                padding-top: 70px;
-            }
-        }
-        @media only screen and (max-width: 320px) {
-            .banner-paddings {
-                padding-bottom: 90px;
-            }
         }
    </style>
 </head>
@@ -258,7 +209,7 @@
                                             <h2 class="h2-title" style="color: #ffffff;">Partnership Opportunities</h2>
                                         </div>
                                         <div class="text-content-space">
-                                            <h4 class="text-content" style="color: #ffffff;">
+                                            <h4 class="text-content-white">
                                                 The Atrium Legacy Foundation is always looking for new partners who share our commitment to social impact. Whether you are a corporation, non-profit, or community group, we invite you to join us in building a better future. Contact us to explore collaboration opportunities.
                                             </h4>
                                         </div>

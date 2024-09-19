@@ -489,3 +489,41 @@ a {
     color: #000;
     padding: 0 !important;
 }
+.banner-paddings { 
+    padding-top: 300px; 
+} 
+.banner-paddings { 
+    padding-bottom: 320px; 
+}
+@media only screen and (max-width: 1024px) {
+    .banner-paddings {
+        padding-top: 160px;
+    }
+    .banner-paddings {
+        padding-bottom: 180px;
+    }
+}
+@media only screen and (max-width: 768px) {
+    .banner-paddings {
+        padding-top: 100px;
+    }
+    .banner-paddings {
+        padding-bottom: 120px;
+    }
+}
+@media only screen and (max-width: 540px) {
+    .banner-paddings {
+        padding-top: 100px;
+    }
+    .banner-paddings {
+        padding-bottom: 120px;
+    }
+}
+@media only screen and (max-width: 320px) {
+    .banner-paddings {
+        padding-top: 70px;
+    }
+    .banner-paddings {
+        padding-bottom: 90px;
+    }
+}
