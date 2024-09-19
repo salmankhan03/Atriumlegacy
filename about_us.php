@@ -53,8 +53,8 @@
             align-items: left;
             flex-direction: column;
         }
-        .nav-tabs .nav-link:hover {
-            color:#000000
+        .nav-link:hover {
+            color: #4789cc !important;
         }
         .nav-tabs .nav-link .tab-icon {
             margin-right: 5px;
@@ -110,26 +110,18 @@
                 <div class="content-padding">
                     <div class="header_mid_inner pd-0">
                         <div class="row ml-0 mr-0" >
-                            <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0">
+                            <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0" style="border-right:1px solid #bbb;">
                                 <div class="pb-5 pr-3 p-sm-2 pr-md-5" id="our-mission">
                                     <div class="mb-4 banner-title" style="color:#000;">OUR MISSION</div>
-                                    <h4 class="mb-4 blue-header" style="color:#000;">
-                                        Our mission is to empower communities by instilling social values, supporting holistic wellness, and creating sustainable futures.
-                                    </h4>
-                                    <p class="pb-0 mb-0 text-content">
-                                        Through our initiatives, we aim to address pressing societal challenges with innovative approaches that prioritize empathy, social responsibility, and community engagement.
-                                    </p>
+                                    <h4 class="mb-4 our-mission" style="color:#000;">Our mission is to empower communities by instilling social values, supporting holistic wellness, and creating sustainable futures.</h4>
+                                    <p class="pb-0 mb-0 text-content">Through our initiatives, we aim to address pressing societal challenges with innovative approaches that prioritize empathy, social responsibility, and community engagement.</p>
                                 </div>
                             </div>
                             <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0">
                                 <div class="pb-5 pl-3 p-sm-2 pl-md-5">
                                     <div class="mb-4 banner-title" style="color:#000;">OUR VISION</div>
-                                        <h4 class="mb-4 blue-header" style="color:#000;">
-                                            We envision communities where every individual is empowered to thrive, with access to the resources and support they need across all stages of life.
-                                        </h4>
-                                        <p class="pb-0 mb-0 text-content">
-                                            By fostering collaboration and innovation, we aim to create lasting impact that uplifts not just the present generation, but also future ones.
-                                        </p>
+                                        <h4 class="mb-4 our-mission" style="color:#000;">We envision communities where every individual is empowered to thrive, with access to the resources and support they need across all stages of life.</h4>
+                                        <p class="pb-0 mb-0 text-content">By fostering collaboration and innovation, we aim to create lasting impact that uplifts not just the present generation, but also future ones.</p>
                                     </div>
                                 </div>
                             </div>    
@@ -151,7 +143,7 @@
                                 </div>                    
                         
                                 <div class="row">
-                                    <div class="col-md-5 col-lg-5 col-sm-12 pl-0 pr-0 d-flex align-items-center" style="border-right:1px solid #ccc; height: 250px;">
+                                    <div class="col-md-5 col-lg-5 col-sm-12 pl-0 pr-0 d-flex align-items-center" style="border-right:1px solid #ccc;">
                                         <div class="d-block">
                                             <ul class="nav nav-tabs w-100 d-flex no-bullets" id="myTab" role="tablist" style=" justify-content: space-between; border-bottom: none;">
                                                 <li class="nav-item p-0 d-flex align-items-center" role="presentation">

@@ -380,8 +380,16 @@ body {
     text-align: left;
     font-family: 'Moisette';
     font-weight: bold;
-
-} .pd-0{
+} 
+.our-mission{
+    font-size: 34px;
+    /* line-height: 50px; */
+    color: #000;
+    text-align: left;
+    font-family: 'Moisette';
+    font-weight: bold;
+} 
+.pd-0{
     /* padding: 0px !important; */
     /* Test */
 }
