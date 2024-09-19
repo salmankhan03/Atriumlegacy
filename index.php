@@ -14,6 +14,10 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <link rel="apple-touch-icon" sizes="180x180" href="./img/icons/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="./img/icons/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="./img/icons/favicon/favicon-16x16.png">
+    <link rel="manifest" href="./img/icons/favicon/site.webmanifest">
 </head>
 
 <body>
@@ -24,7 +28,6 @@
                 <!-- Start Content -->
                 <div class="middle_content entry"></div>
             </div>
-            
 
             <div class = "banner">
                 <div class = "container">
@@ -88,7 +91,7 @@
                         </div>
                     </div>
                     <div class="row pt-5 pb-0"> 
-                        <div class="col-sm-12 col-md-6 col-lg-3 text-content d-flex">
+                        <div class="col-sm-12 col-md-6 col-lg-3 text-content d-flex px-1">
                             <div class="cards" id = "card1">
                                 <div class="cards-heading text-center">
                                     <img src="./img/icons/Green/ReStart_Education.png" style="width:75px" id="icon1">
@@ -109,7 +112,7 @@
                             </div>
                         </div>
 
-                        <div class="col-sm-12 col-md-6 col-lg-3 text-content d-flex">
+                        <div class="col-sm-12 col-md-6 col-lg-3 text-content d-flex px-1">
                             <div class="cards" id = "card2">
                                 <div class="cards-heading text-center">
                                     <img src="./img/icons/Green/Aging_Grace.png" style="width:75px" id = "icon2">
@@ -130,7 +133,7 @@
                             </div>
                         </div>
 
-                        <div class="col-sm-12 col-md-6 col-lg-3 text-content d-flex">
+                        <div class="col-sm-12 col-md-6 col-lg-3 text-content d-flex px-1">
                             <div class="cards" id = "card3">
                                 <div class="cards-heading text-center">
                                     <img src="./img/icons/Green/HomeStrong.png" style="width:75px" id = "icon3">
@@ -151,7 +154,7 @@
                             </div>
                         </div>
 
-                        <div class="col-sm-12 col-md-6 col-lg-3 text-content d-flex">
+                        <div class="col-sm-12 col-md-6 col-lg-3 text-content d-flex px-1">
                             <div class="cards" id = "card4">
                                 <div class="cards-heading text-center">
                                     <img src="./img/icons/Green/AgriThrive.png" style="width:75px" id = "icon4">

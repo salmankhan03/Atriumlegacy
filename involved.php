@@ -13,6 +13,10 @@
       <!-- <link rel="stylesheet" href="./css/initiative.css"> -->
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+      <link rel="apple-touch-icon" sizes="180x180" href="./img/icons/favicon/apple-touch-icon.png">
+      <link rel="icon" type="image/png" sizes="32x32" href="./img/icons/favicon/favicon-32x32.png">
+      <link rel="icon" type="image/png" sizes="16x16" href="./img/icons/favicon/favicon-16x16.png">
+      <link rel="manifest" href="./img/icons/favicon/site.webmanifest">
 
       <style>
          .involvedBanner {
@@ -181,6 +185,9 @@
                   <div class="left-section-padding left-margin-top-bottom">
                      <div class="h2-heading-section-space">
                         <h2 class="h2-title mb-4">Attend an Event</h2>
+                        <h5 class="italic-heading">
+                           Join our initiatives in supporting our communities
+                        </h5>
                      </div>
                      <div class="text-content-space">
                         <h4 class="text-content">
