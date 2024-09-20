@@ -419,7 +419,7 @@
                         </div>
                     </div>
 
-                    <div class="col-md-12 col-sm-12 form-padding">
+                    <div class="col-md-12 col-sm-12 px-0">
                         <h2 class="h2-title">Donator details</h2>
 
                         <div class="row margin-top">
