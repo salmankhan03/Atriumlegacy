@@ -5,7 +5,6 @@ use PHPMailer\PHPMailer\SMTP;
 
 require 'vendor/autoload.php';
 
-
 $firstName = isset($_POST['first-name']) ? htmlspecialchars($_POST['first-name']) : '';
 $lastName = isset($_POST['last-name']) ? htmlspecialchars($_POST['last-name']) : '';
 $email = isset($_POST['email']) ? htmlspecialchars($_POST['email']) : '';
@@ -26,7 +25,7 @@ if ($customAmount) {
 
 $mail = new PHPMailer(true);
 
-if($email){
+if ($email) {
     try {
         $mail->isSMTP(); 
         $mail->Host       = 'mail.intellidt.com';
@@ -42,7 +41,6 @@ if($email){
         $mail->isHTML(true);                                     
         $mail->Subject = 'Donation Form Submission';
 
-        
         $body = "
             <h2>Donation Details</h2>
             <p><strong>Donation Amount:</strong> $donationAmount</p>
@@ -68,11 +66,18 @@ if($email){
 
         $mail->Body = $body;
 
-        header("Location: donate.php");
+        // Try to send the email
+        if ($mail->send()) {
+            echo "Message has been sent successfully.";
+            header("Location: donate.php");  // Redirect on success
+        } else {
+            echo "Message could not be sent. Please try again.";
+        }
+
     } catch (Exception $e) {
         echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
     }
 } else {
-    echo "Mail not found";
+    echo "Email not provided.";
 }
 ?>
