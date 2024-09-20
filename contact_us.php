@@ -139,7 +139,7 @@
                 }
 
                 input[type=submit]{
-                    font-size: 16px;
+                    /* font-size: 16px;
                     line-height: 48px;
                     font-weight: 700;
                     padding-right: 35px;
@@ -147,13 +147,31 @@
                     border-width: 2px;
                     background-color: #4789cc !important;
                     color: #fff !important;
-                    border-color: #4789cc !important;                
-                    font-family:'Montserrat' !important;
+                    border-color: #4789cc !important;
+                    font-family:'Montserrat' !important; */
+                    font-size: 16px !important;
+                    line-height: 50px !important;
+                    font-weight: 700 !important;
+                    background-color: transparent !important;
+                    color: #4789cc !important;
+                    display: inline-block !important;
+                    padding: 0 30px !important;
+                    cursor: pointer !important;
+                    position: relative !important;
+                    border-width: 2px !important;
+                    border-style: solid !important;
+                    border-radius: 30px !important;
+                    border-color: #4789cc !important;
+                    letter-spacing: -1px !important;
+                    vertical-align: top !important;
                 }
                 input[type=submit]:hover { 
-                    background-color: rgba(255, 255, 255, 0) !important;
+                    /* background-color: rgba(255, 255, 255, 0) !important;
                     color: #4789cc !important;
+                    border-color: #4789cc !important; */
+                    background-color: #4789cc !important;
                     border-color: #4789cc !important;
+                    color:#fff !important;
                 } 
                 /* Submit button */
             
@@ -329,9 +347,9 @@
                                                 <div class="column-1_1">
                                                     <p>
                                                         <span class="wpcf7-submit-style">
-                                                            <input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="Get In Touch">                                                                                            
+                                                            <input class="wpcf7-form-control wpcf7-submit has-spinner custom-btn3" type="submit" value="Get In Touch">                                                                                            
                                                             <span class="submit-style-in"></span>                                                        
-                                                            <label class="ml-3">
+                                                            <label class="ml-3 pt-3">
                                                                 <input type="checkbox" name="acceptance" value="1" aria-invalid="false" class="inited">
                                                                 <span class="wpcf7-list-item-label checkbox_position wpcf7-form-control">I agree that my data is 
                                                                     <a class="wpcf7-form-control" href="/privacy-policy/" style="color:#000; text-decoration:underline;">collected and stored</a>.

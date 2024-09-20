@@ -111,6 +111,7 @@ body {
      border-width: 2px;
      border-style: solid;
      border-radius: 30px;
+     border-color: #fff;
      letter-spacing: -1px;
      vertical-align: top;
  }
@@ -127,6 +128,7 @@ body {
      border-width: 2px;
      border-style: solid;
      border-radius: 30px;
+     border-color: #4789cc;
      letter-spacing: -1px;
      vertical-align: top;
  }
