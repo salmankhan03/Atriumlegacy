@@ -217,7 +217,7 @@
 
                <!-- Tab Content -->
                <div class="tab-content" id="myTabContent" style="padding-bottom: 65px;">
-                  <div class="tab-pane fade show active" id="ReStart-Education" role="tabpanel" aria-labelledby="ReStart-Education-tab">
+                  <div class="tab-pane show active" id="ReStart-Education" role="tabpanel" aria-labelledby="ReStart-Education-tab">
                      <div class="row ml-0 mr-0" >
                         <div class="col-sm-12 col-md-8 col-lg-8 pl-0 pr-0">
                            <div class="mt-5">
@@ -246,7 +246,7 @@
                      </div>
                   </div>
 
-                  <div class="tab-pane fade" id="Aging-Grace" role="tabpanel" aria-labelledby="Aging-Grace-tab">
+                  <div class="tab-pane" id="Aging-Grace" role="tabpanel" aria-labelledby="Aging-Grace-tab">
                      <div class="row ml-0 mr-0" >
                         <div class="col-sm-12 col-md-8 col-lg-8 pl-0 pr-0">
                            <div class="mt-5">
@@ -275,7 +275,7 @@
                      </div>
                   </div>
 
-                  <div class="tab-pane fade" id="HomeStrong" role="tabpanel" aria-labelledby="HomeStrong-tab">
+                  <div class="tab-pane" id="HomeStrong" role="tabpanel" aria-labelledby="HomeStrong-tab">
                      <!-- Contact Content -->
                      <div class="row ml-0 mr-0" >
                         <div class="col-sm-12 col-md-8 col-lg-8 pl-0 pr-0">
@@ -305,7 +305,7 @@
                      </div>
                   </div>
 
-                  <div class="tab-pane fade" id="agriThrive" role="tabpanel" aria-labelledby="agriThrive-tab">
+                  <div class="tab-pane" id="agriThrive" role="tabpanel" aria-labelledby="agriThrive-tab">
                      <div class="row ml-0 mr-0" >
                         <div class="col-sm-12 col-md-8 col-lg-8 pl-0 pr-0">
                            <div class="mt-5">
@@ -343,18 +343,18 @@
                 <div class="custom-banner w-100">
                   <div class="header_mid_inner pd-0 ">
                      <div class="row ml-0 mr-0" >
-                           <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0">
-                              <div class="" style="padding: 100px 0;">
-                                 <div class="h2-heading-section-space">
-                                    <h2 class="h2-title" style="color:#fff;">Future Initiatives</h2>
-                                 </div>
-                                 <div class="">
-                                    <h4 class="text-content-white">
-                                       As we continue to grow and learn from our communities, Atrium Legacy Foundation is committed to expanding our portfolio of initiatives. Our goal is to remain responsive to emerging needs and challenges, ensuring that our work continues to create positive and sustainable change.
-                                    </h4>
-                                 </div>                              
+                        <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0">
+                           <div class="" style="padding: 100px 0;">
+                              <div class="h2-heading-section-space">
+                                 <h2 class="h2-title" style="color:#fff;">Future Initiatives</h2>
                               </div>
+                              <div class="">
+                                 <h4 class="text-content-white">
+                                    As we continue to grow and learn from our communities, Atrium Legacy Foundation is committed to expanding our portfolio of initiatives. Our goal is to remain responsive to emerging needs and challenges, ensuring that our work continues to create positive and sustainable change.
+                                 </h4>
+                              </div>                              
                            </div>
+                        </div>
                      </div>  
                   </div>
                </div>   
@@ -385,6 +385,21 @@
                }
             }
          });
+
+         $(document).ready(function() {
+            $('#ReStart-Education-tab').hover(function() {
+                $(this).tab('show');
+            });
+            $('#Aging-Grace-tab').hover(function() {
+                $(this).tab('show');
+            });
+            $('#HomeStrong-tab').hover(function() {
+                $(this).tab('show');
+            });
+            $('#agriThrive-tab').hover(function() {
+                $(this).tab('show');
+            });
+        });
       </script>
       <?php include 'footer.php'; ?> 
 
