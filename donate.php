@@ -233,7 +233,6 @@
         }
 
         .form-label {
-            display: block;
             font-weight: bold;
             margin-bottom: 5px;
         }
@@ -245,6 +244,24 @@
 
         .input-group > div {
             flex: 1;
+        }
+
+        button:focus {
+            outline: none !important;
+        }
+
+        .error-message{
+            float: right;
+            color: #2e404b;
+            font-size: 11px;
+            line-height: 20px;
+            font-weight: bold;
+            font-style: normal;
+            text-transform: none;
+            width: 150px;
+        
+            position: relative;
+            z-index: 16;
         }
 
         /* .detail-form-label{
@@ -338,6 +355,7 @@
                                             <input type="radio" id="donation5" name="donation_options" value="100">
                                             <label for="donation5" class="donation_amount">$100.00</label>
                                         </div>
+                                        <div class="error-message" id="donation-amount-error"></div>
                                     </div>
 
                                     <div style="margin-top: 20px;">
@@ -426,15 +444,15 @@
                             <div class="col-md-12 col-sm-12">
                                 <div class="input-group">
                                     <div>
-                                        <label for="first-name" class="form-label">First Name *</label>
+                                        <label for="first-name" class="form-label">First Name *</label> <span class="error-message" id="first-name-error"></span>
                                         <input type="text" id="first-name" name="first-name" class="form-control" placeholder="">
                                     </div>
                                     <div>
-                                        <label for="last-name" class="form-label">Last Name *</label>
+                                        <label for="last-name" class="form-label">Last Name *</label>  <span class="error-message" id="last-name-error"></span>
                                         <input type="text" id="last-name" name="last-name" class="form-control" placeholder="">
                                     </div>
                                     <div>
-                                        <label for="email" class="form-label">Email *</label>
+                                        <label for="email" class="form-label">Email *</label> <span class="error-message" id="email-error"></span>
                                         <input type="email" id="email" name="email" class="form-control" placeholder="">
                                     </div>
                                 </div>
@@ -445,11 +463,11 @@
                             <div class="col-md-12 col-sm-12">
                                 <div class="input-group">
                                     <div>
-                                        <label for="address" class="form-label">Address *</label>
+                                        <label for="address" class="form-label">Address</label>
                                         <input type="text" id="address" name="address" class="form-control" placeholder="">
                                     </div>
                                     <div>
-                                        <label for="zip" class="form-label">Postal Code *</label>
+                                        <label for="zip" class="form-label">Postal Code</label>
                                         <input type="text" id="zip" name="zip" class="form-control" placeholder="">
                                     </div>
                                 </div>
@@ -540,6 +558,71 @@
             offlineRadio.addEventListener('change', toggleRecurrence);
 
             toggleRecurrence();
+        </script>
+
+<script>
+            document.addEventListener('DOMContentLoaded', function() {
+                const form = document.querySelector('form.init');
+
+                const donationOptions = document.querySelectorAll('input[name="donation_options"]');
+                const customAmount = document.getElementById('donation_custom_amount');
+                const paymentMethod = document.querySelectorAll('input[name="paymentOption"]');
+                const recurrenceSelect = document.getElementById('recurrence_select');
+                const firstName = document.getElementById('first-name');
+                const lastName = document.getElementById('last-name');
+                const email = document.getElementById('email');
+
+                form.addEventListener('submit', function(event) {
+                    let isValid = true;
+
+                    clearErrors();
+
+                    let donationSelected = false;
+                    donationOptions.forEach(option => {
+                        if (option.checked) {
+                            donationSelected = true;
+                        }
+                    });
+                    if (!donationSelected && customAmount.value === '') {
+                        isValid = false;
+                        displayError('donation-amount-error', '* This field is required');
+                    }
+
+                    if (firstName.value.trim() === '') {
+                        isValid = false;
+                        displayError('first-name-error', '* This field is required');
+                    }
+
+                    if (lastName.value.trim() === '') {
+                        isValid = false;
+                        displayError('last-name-error', '* This field is required');
+                    }
+
+                    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+                    if (!emailRegex.test(email.value)) {
+                        isValid = false;
+                        displayError('email-error', '* Invalid email address');
+                    }
+
+                    if (!isValid) {
+                        event.preventDefault();
+                    }
+                });
+
+                function displayError(elementId, message) {
+                    const errorDiv = document.getElementById(elementId);
+                    if (errorDiv) {
+                        errorDiv.textContent = message;
+                    }
+                }
+
+                function clearErrors() {
+                    const errorElements = document.querySelectorAll('.error-message');
+                    errorElements.forEach(element => {
+                        element.textContent = '';
+                    });
+                }
+            });
         </script>
       <?php include 'footer.php'; ?> 
 
