@@ -217,7 +217,7 @@
 
                <!-- Tab Content -->
                <div class="tab-content" id="myTabContent" style="padding-bottom: 65px;">
-                  <div class="tab-pane show active" id="ReStart-Education" role="tabpanel" aria-labelledby="ReStart-Education-tab">
+                  <div class="tab-pane fade show active" id="ReStart-Education" role="tabpanel" aria-labelledby="ReStart-Education-tab">
                      <div class="row ml-0 mr-0" >
                         <div class="col-sm-12 col-md-8 col-lg-8 pl-0 pr-0">
                            <div class="mt-5">
@@ -246,7 +246,7 @@
                      </div>
                   </div>
 
-                  <div class="tab-pane" id="Aging-Grace" role="tabpanel" aria-labelledby="Aging-Grace-tab">
+                  <div class="tab-pane fade" id="Aging-Grace" role="tabpanel" aria-labelledby="Aging-Grace-tab">
                      <div class="row ml-0 mr-0" >
                         <div class="col-sm-12 col-md-8 col-lg-8 pl-0 pr-0">
                            <div class="mt-5">
@@ -275,7 +275,7 @@
                      </div>
                   </div>
 
-                  <div class="tab-pane" id="HomeStrong" role="tabpanel" aria-labelledby="HomeStrong-tab">
+                  <div class="tab-pane fade" id="HomeStrong" role="tabpanel" aria-labelledby="HomeStrong-tab">
                      <!-- Contact Content -->
                      <div class="row ml-0 mr-0" >
                         <div class="col-sm-12 col-md-8 col-lg-8 pl-0 pr-0">
@@ -305,7 +305,7 @@
                      </div>
                   </div>
 
-                  <div class="tab-pane" id="agriThrive" role="tabpanel" aria-labelledby="agriThrive-tab">
+                  <div class="tab-pane fade" id="agriThrive" role="tabpanel" aria-labelledby="agriThrive-tab">
                      <div class="row ml-0 mr-0" >
                         <div class="col-sm-12 col-md-8 col-lg-8 pl-0 pr-0">
                            <div class="mt-5">
@@ -368,6 +368,7 @@
       <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
       <script>
+         // scroll and active tab
          $(document).ready(function() {
             const urlParams = new URLSearchParams(window.location.search);
             const tabToActivate = urlParams.get('tab');
@@ -386,18 +387,31 @@
             }
          });
 
-         $(document).ready(function() {
-            $('#ReStart-Education-tab').hover(function() {
-                $(this).tab('show');
-            });
-            $('#Aging-Grace-tab').hover(function() {
-                $(this).tab('show');
-            });
-            $('#HomeStrong-tab').hover(function() {
-                $(this).tab('show');
-            });
-            $('#agriThrive-tab').hover(function() {
-                $(this).tab('show');
+      //    $(document).ready(function() {
+      //       $('#ReStart-Education-tab').hover(function() {
+      //           $(this).tab('show');
+      //       });
+      //       $('#Aging-Grace-tab').hover(function() {
+      //           $(this).tab('show');
+      //       });
+      //       $('#HomeStrong-tab').hover(function() {
+      //           $(this).tab('show');
+      //       });
+      //       $('#agriThrive-tab').hover(function() {
+      //           $(this).tab('show');
+      //       });
+      //   });
+
+      //hover to show tab
+      $(document).ready(function() {
+            var hoverTimeout;
+            $('.nav-link').hover(function() {
+                var $this = $(this);
+                hoverTimeout = setTimeout(function() {
+                    $this.tab('show');
+                }, 150);
+            }, function() {
+                clearTimeout(hoverTimeout);
             });
         });
       </script>
