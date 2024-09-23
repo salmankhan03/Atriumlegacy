@@ -419,7 +419,7 @@
                                     <label class="form-label">Message</label>
                                 </div>
                                 <div class="col-md-9 col-sm-9">
-                                    <textarea class="form-control" name="message" id="message" rows="7" placeholder="Your custom message text..." style="border-radius: 25px; background-color: transparent;"></textarea>
+                                    <textarea class="form-control" name="message" id="message" rows="7" placeholder="Your custom message text..." style="border-radius: 10px; background-color: transparent;"></textarea>
                                 </div>
                             </div>
 

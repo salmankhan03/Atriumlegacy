@@ -143,7 +143,7 @@
                         </h4>
                      </div>
                      <div id="" class="button_wrap">
-                        <a href="#" class="custom-btn2">
+                        <a href="./contact_us.php" class="custom-btn2">
                            <span>Apply to Volunteer</span>
                         </a>
                      </div>
@@ -217,7 +217,7 @@
                               </h4>
                            </div>
                            <div id="" class="button_wrap">
-                              <a href="#" class="custom-btn3">
+                              <a href="./contact_us.php" class="custom-btn3">
                                  <span>Join Us Today</span>
                               </a>
                            </div>
