@@ -90,7 +90,7 @@
                             Empowering communities through strategic initiatives that address today’s challenges and build a better tomorrow.
                         </div>
                     </div>
-                    <div class="row pt-5 pb-0"> 
+                    <div class="row pt-5 pb-0">
                         <div class="col-sm-12 col-md-6 col-lg-3 text-content d-flex px-1">
                             <div class="cards" id = "card1">
                                 <div class="cards-heading text-center">
@@ -175,37 +175,37 @@
                             </div>
                         </div>
                     </div>
-                    </div>
                 </div>
             </div>
-            
-             <!-- SECOND SECTION -->
-            <div class="header_mid_inner pd-0 content-padding">
-                <div class="row ml-0 mr-0" >
-                    <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0">
-                        <div style="position:relative;">
-                            <image class="left-side" src="./img/home/home_3.jpg" alt="left-side-image" ></image>
-                            <div class="side-element">
-                                Empathy.<br/>
-                                Wellness.<br/>
-                                Sustainability.
-                            </div>
+        </div>
+        
+        <!-- SECOND SECTION -->
+        <div class="header_mid_inner pd-0 content-padding">
+            <div class="row ml-0 mr-0" >
+                <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0">
+                    <div style="position:relative;">
+                        <image class="left-side" src="./img/home/home_3.jpg" alt="left-side-image" ></image>
+                        <div class="side-element">
+                            Empathy.<br/>
+                            Wellness.<br/>
+                            Sustainability.
                         </div>
                     </div>
-                    <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 pb-5 d-flex align-items-center">
-                        <div class="text-left p-0 p-md-5 right-content-padding">
-                            <h2 class="h2-title pb-2">Together, we can make a difference</h2>
-                            <div class="italic-heading">Join us in making a meaningful impact</div>
-                            <p class="mt-4 mb-4 text-content">Whether through donations, volunteer work, or partnerships, your support plays a crucial role in creating a brighter, more inclusive future for everyone.</p>
-                            <div id="" class="button_wrap">
-                                <a href="./involved.php" class="custom-btn2">
-                                    <span>Join Us</span>
-                                </a>
-                            </div>
-                        </div>                
-                    </div>
                 </div>
-            </div> 
+                <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 pb-5 d-flex align-items-center">
+                    <div class="text-left p-0 p-md-5 right-content-padding">
+                        <h2 class="h2-title pb-2">Together, we can make a difference</h2>
+                        <div class="italic-heading">Join us in making a meaningful impact</div>
+                        <p class="mt-4 mb-4 text-content">Whether through donations, volunteer work, or partnerships, your support plays a crucial role in creating a brighter, more inclusive future for everyone.</p>
+                        <div id="" class="button_wrap">
+                            <a href="./involved.php" class="custom-btn2">
+                                <span>Join Us</span>
+                            </a>
+                        </div>
+                    </div>                
+                </div>
+            </div>
+        </div> 
 
     <?php include 'footer.php'; ?>
     <!-- change icon when hovering -->

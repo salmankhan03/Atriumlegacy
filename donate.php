@@ -325,7 +325,7 @@
             </div>
 
             <div class="header_mid_inner pd-0 content-padding">
-                <h2 class="h2-title">Donation details</h2>
+                <h2 class="h2-title">Donation Details</h2>
                 <form action="send_donation_mail.php" method="post" class="init" aria-label="Contact form" novalidate="novalidate" data-status="init" data-inited-validation="1">
                     <div class="row">
                         <div class="col-md-12 col-sm-12 form-padding">
@@ -438,7 +438,7 @@
                     </div>
 
                     <div class="col-md-12 col-sm-12 px-0">
-                        <h2 class="h2-title">Donator details</h2>
+                        <h2 class="h2-title">Donator Details</h2>
 
                         <div class="row margin-top">
                             <div class="col-md-12 col-sm-12">

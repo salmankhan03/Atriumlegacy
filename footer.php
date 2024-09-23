@@ -10,15 +10,15 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
     <style>
-        body{
+        /* body{
             font-family: 'Montserrat', sans-serif;
             font-size: 1rem;
             font-weight: 400;
             font-style: normal;
             line-height: 1.62em;
             text-transform: none;
-            letter-spacing: 0.1px;
-        }
+            letter-spacing: 0;
+        } */
         .footerSlogan{
             font-family: 'Moisette';
             color: white;

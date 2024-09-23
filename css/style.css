@@ -27,7 +27,7 @@ body {
      font-style: normal;
      line-height: 1.62em;
      text-transform: none;
-     letter-spacing: 0.1px;
+     letter-spacing: 0;
      background-color: #fff;
  }
 
@@ -191,7 +191,7 @@ body {
  }
 
  .cards-heading {
-     padding: 15px;
+     padding: 15px 15px 0 15px;
  }
  .card-fonts-heading-color{
      color:#000;
@@ -342,6 +342,7 @@ body {
     color: #000;
     font-weight: bold;
     line-height: 1.3;
+    letter-spacing: 0;
 }
 .h2-heading-section-space{
     text-align: left;
@@ -382,6 +383,7 @@ body {
     text-align: left;
     font-family: 'Moisette';
     font-weight: bold;
+    letter-spacing: 0;
 } 
 .our-mission{
     font-size: 34px;
@@ -419,6 +421,7 @@ body {
     font-size: 70px;
     line-height: 1.35 !important;
     text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    letter-spacing: 0;
 }
 
 .italic-heading{

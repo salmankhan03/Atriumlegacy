@@ -148,19 +148,19 @@
                <div class="middle_content entry"></div>
             </div>
             <!-- Banner -->
-               <div class = "initiativeBanner">
-                  <div class = "container text-center banner-paddings">
-                     <h2 class = "banner-header text-center white-text">
-                        Our Initiatives
-                     </h2>                  
-                  </div>
-               </div> 
+            <div class = "initiativeBanner">
+               <div class = "container text-center banner-paddings">
+                  <h2 class = "banner-header text-center white-text">
+                     Our Initiatives
+                  </h2>                  
+               </div>
+            </div> 
 
             <div class="header_mid_inner pd-0 content-padding">
                 <div class="row ml-0 mr-0">
-                    <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 d-flex align-items-center justify-content-center">
-                        <div class="">
-                           <image class="" src="./img/our_initiatives/our_initiatives_2.jpg" alt="left-side-image" ></image>                     
+                    <div class="col-sm-12 col-md-6 col-lg-6 d-flex align-items-center justify-content-center">
+                        <div class="pl-5 pr-5">
+                           <image class="" src="./img/our_initiatives/our_initiatives_2.jpg" alt="left-side-image" ></image>
                         </div>
                     </div>
                     <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 d-flex align-items-center">
@@ -217,22 +217,22 @@
 
                <!-- Tab Content -->
                <div class="tab-content" id="myTabContent" style="padding-bottom: 65px;">
-                  <div class="tab-pane fade show active" id="ReStart-Education" role="tabpanel" aria-labelledby="ReStart-Education-tab">
+                  <div class="tab-pane show active" id="ReStart-Education" role="tabpanel" aria-labelledby="ReStart-Education-tab">
                      <div class="row ml-0 mr-0" >
                         <div class="col-sm-12 col-md-8 col-lg-8 pl-0 pr-0">
                            <div class="mt-5">
                               <div class="tabs-cards pl-3 pr-3">
                                  <div class="tabs-cards-body text-left mt-4">
                                     <h4 class="italic-heading mb-5">To nurture a generation that values empathy, social responsibility, and community engagement over material wealth.</h4>
-                                    <P class="tab-cards-title" >Overview</p>
+                                    <P class="tab-cards-title" >OVERVIEW</p>
                                     <p class="mt-3 text-left card-fonts-color">The Empathy Education Initiative is dedicated to integrating social impact education into early childhood and primary education. By collaborating with educators, schools, and parents, we aim to counter the prevailing materialistic mindset with lessons that emphasize the importance of empathy and social values. Through interactive learning methods such as storytelling, role-playing, and community involvement projects, we make these vital lessons engaging and relatable for young learners.</p>
-                                    <P class="tab-cards-title" >Key Actions</p>
+                                    <P class="tab-cards-title" >KEY ACTIONS</p>
                                     <ul class="mt-3 mb-5 text-left">
                                        <li>Developing a curriculum that promotes social values from an early age.</li>
                                        <li>Partnering with schools to embed social impact education within their programs.</li>
                                        <li>Engaging parents and communities to reinforce the importance of empathy and responsibility.</li>
                                     </ul>
-                                    <P class="tab-cards-title" >Expected Impact</p>
+                                    <P class="tab-cards-title" >EXPECTED IMPACT</p>
                                     <p class="mt-3 text-left card-fonts-color">This initiative will cultivate a generation that prioritizes compassion and community involvement, creating a ripple effect of positive social change for years to come.</p>
                                  </div>
                               </div>
@@ -246,22 +246,22 @@
                      </div>
                   </div>
 
-                  <div class="tab-pane fade" id="Aging-Grace" role="tabpanel" aria-labelledby="Aging-Grace-tab">
+                  <div class="tab-pane" id="Aging-Grace" role="tabpanel" aria-labelledby="Aging-Grace-tab">
                      <div class="row ml-0 mr-0" >
                         <div class="col-sm-12 col-md-8 col-lg-8 pl-0 pr-0">
                            <div class="mt-5">
                               <div class="tabs-cards pl-3 pr-3">
                                  <div class="tabs-cards-body text-left mt-4">
                                     <h4 class="italic-heading mb-5">To promote holistic wellness and societal integration for the senior population, ensuring they remain vital members of the community.</h4>
-                                    <P class="tab-cards-title" >Overview</p>
+                                    <P class="tab-cards-title" >OVERVIEW</p>
                                     <p class="mt-3 text-left card-fonts-color">The Holistic Aging Initiative is focused on challenging the traditional norms of elderly care, which often lead to institutionalization and marginalization. Our approach emphasizes comprehensive wellness—physical, mental, and emotional—for seniors, enabling them to lead fulfilling lives within their communities. By developing wellness programs tailored specifically for seniors and creating robust support networks, we strive to ensure that aging is a dignified and respected phase of life.</p>
-                                    <P class="tab-cards-title" >Key Actions</p>
+                                    <P class="tab-cards-title" >KEY ACTIONS</p>
                                     <ul class="mt-3 mb-5 text-left">
                                        <li>Designing wellness programs that address the unique needs of seniors.</li>
                                        <li>Encouraging corporate and community investment in senior wellness.</li>
                                        <li>Establishing community centers that keep seniors engaged and active.</li>
                                     </ul>
-                                    <P class="tab-cards-title" >Expected Impact</p>
+                                    <P class="tab-cards-title" >EXPECTED IMPACT</p>
                                     <p class="mt-3 text-left card-fonts-color">This initiative will shift societal perspectives on aging, ensuring that seniors are valued and respected as integral members of their communities.</p>
                                  </div>
                               </div>
@@ -275,7 +275,7 @@
                      </div>
                   </div>
 
-                  <div class="tab-pane fade" id="HomeStrong" role="tabpanel" aria-labelledby="HomeStrong-tab">
+                  <div class="tab-pane" id="HomeStrong" role="tabpanel" aria-labelledby="HomeStrong-tab">
                      <!-- Contact Content -->
                      <div class="row ml-0 mr-0" >
                         <div class="col-sm-12 col-md-8 col-lg-8 pl-0 pr-0">
@@ -283,15 +283,15 @@
                               <div class="tabs-cards pl-3 pr-3">
                                  <div class="tabs-cards-body text-left mt-4">
                                     <h4 class="italic-heading mb-5">To provide fast and affordable housing solutions, fostering stability and security for vulnerable populations.</h4>
-                                    <P class="tab-cards-title" >Overview</p>
+                                    <P class="tab-cards-title" >OVERVIEW</p>
                                     <p class="mt-3 text-left card-fonts-color">The Resilient Homes Initiative addresses the urgent need for affordable housing, particularly in the wake of economic challenges and the pandemic. By innovating construction methodologies that reduce costs and build time without compromising quality, we aim to make secure housing accessible to those who need it most. Our focus is on creating environments that foster stability and character development, particularly for young families and vulnerable populations.</p>
-                                    <P class="tab-cards-title" >Key Actions</p>
+                                    <P class="tab-cards-title" >KEY ACTIONS</p>
                                     <ul class="mt-3 mb-5 text-left">
                                        <li>Implementing cost-effective and sustainable construction techniques.</li>
                                        <li>Partnering with local governments, developers, and non-profits to scale affordable housing.</li>
                                        <li>Creating safe and nurturing communities that promote growth and stability.</li>
                                     </ul>
-                                    <P class="tab-cards-title" >Expected Impact</p>
+                                    <P class="tab-cards-title" >EXPECTED IMPACT</p>
                                     <p class="mt-3 text-left card-fonts-color">This initiative will contribute to social stability and economic recovery by providing affordable and secure housing for those who need it most.</p>
                                  </div>
                               </div>
@@ -305,22 +305,22 @@
                      </div>
                   </div>
 
-                  <div class="tab-pane fade" id="agriThrive" role="tabpanel" aria-labelledby="agriThrive-tab">
+                  <div class="tab-pane" id="agriThrive" role="tabpanel" aria-labelledby="agriThrive-tab">
                      <div class="row ml-0 mr-0" >
                         <div class="col-sm-12 col-md-8 col-lg-8 pl-0 pr-0">
                            <div class="mt-5">
                               <div class="tabs-cards pl-3 pr-3">
                                  <div class="tabs-cards-body text-left mt-4">
                                     <h4 class="italic-heading mb-5">To enhance global food security by leveraging agricultural technology and promoting sustainable farming practices.</h4>
-                                    <P class="tab-cards-title" >Overview</p>
+                                    <P class="tab-cards-title" >OVERVIEW</p>
                                     <p class="mt-3 text-left card-fonts-color">The Global Harvest Initiative is designed to address global food inequalities by investing in agricultural technologies that boost productivity, particularly in underdeveloped and developing countries. Through international collaborations, we aim to transfer knowledge and technology to regions facing food insecurity. Our focus is on sustainable farming practices that preserve natural resources and reduce dependency on imports, empowering communities to achieve self-sufficiency.</p>
-                                    <P class="tab-cards-title" >Key Actions</p>
+                                    <P class="tab-cards-title" >KEY ACTIONS</p>
                                     <ul class="mt-3 mb-5 text-left">
                                        <li>Investing in and developing technologies to increase agricultural productivity.</li>
                                        <li>Promoting international partnerships for knowledge transfer.</li>
                                        <li>Encouraging sustainable farming practices that protect the environment.</li>
                                     </ul>
-                                    <P class="tab-cards-title" >Expected Impact</p>
+                                    <P class="tab-cards-title" >EXPECTED IMPACT</p>
                                     <p class="mt-3 text-left card-fonts-color">This initiative will enhance global food security, reduce food distribution inequalities, and empower developing nations to achieve food self-sufficiency.</p>
                                  </div>
                               </div>
@@ -409,7 +409,7 @@
                 var $this = $(this);
                 hoverTimeout = setTimeout(function() {
                     $this.tab('show');
-                }, 150);
+                }, 0);
             }, function() {
                 clearTimeout(hoverTimeout);
             });
