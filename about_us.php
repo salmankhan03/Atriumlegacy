@@ -172,7 +172,7 @@
                                     <div class="col-md-7 col-lg-7 col-sm-12">
                                         <div class="tab-content mt-5 pl-3" id="myTabContent" style="font-size:18px" >
                                             <div class="tab-pane fade show active" id="founder" role="tabpanel" aria-labelledby="founder-tab">
-                                                <p>A visionary leader with a deep commitment to social impact, our CEO has been the driving force beMontserrat the foundation's mission to empower communities and create lasting change.</p>   
+                                                <p>A visionary leader with a deep commitment to social impact, our CEO has been the driving force behind the foundation's mission to empower communities and create lasting change.</p>   
                                             </div>
                                             <div class="tab-pane fade" id="treasurer" role="tabpanel" aria-labelledby="treasurer-tab">
                                                 <p>Responsible for overseeing the financial health and sustainability of the foundation, our Treasurer brings years of experience in non-profit financial management.</p>
