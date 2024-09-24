@@ -17,7 +17,7 @@
       <link rel="manifest" href="./img/icons/favicon/site.webmanifest">
       <style>
          .initiativeBanner {
-            background-image: url('./img/our_initiatives/our_initiatives_1.jpg');
+            background-image: url('./img/our_initiatives/banner_initiative.jpg');
             background-position: top center; 
             background-repeat: no-repeat; 
             background-attachment: scroll; 
@@ -25,7 +25,7 @@
          }
 
          .custom-banner {
-            background-image: url('./img/our_initiatives/our_initiatives_4.jpg');
+            background-image: url('./img/our_initiatives/our_initiatives_2.jpg');
             background-position: center center;
             background-repeat: no-repeat;
             background-attachment: scroll;
@@ -162,7 +162,7 @@
                 <div class="row ml-0 mr-0">
                     <div class="col-sm-12 col-md-6 col-lg-6 d-flex align-items-center justify-content-center">
                         <div class="pl-5 pr-5">
-                           <image class="" src="./img/our_initiatives/our_initiatives_2.jpg" alt="left-side-image" ></image>
+                           <image class="" src="./img/our_initiatives/our_initiatives_1.jpg" alt="left-side-image" ></image>
                         </div>
                     </div>
                     <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 d-flex align-items-center">

@@ -17,20 +17,12 @@
             <link rel="manifest" href="./img/icons/favicon/site.webmanifest">
             <style id='green-planet-retina-inline-css' type='text/css'>
                  .contactUsBanner {
-                    background-image: url('./img/contact_us/contact_us.jpg');
+                    background-image: url('./img/contact_us/banner_contact.jpg');
                     background-position: top center; 
                     background-repeat: no-repeat; 
                     background-attachment: scroll; 
                     background-size: cover;
                 }
-
-                /* .custom-banner {
-                    background-image: url('./img/get_involved/get_involved_6.jpg');
-                    background-position: center center;
-                    background-repeat: no-repeat;
-                    background-attachment: scroll;
-                    background-size: cover;
-                    } */
                 
                 /* Form Css */
                 /* Flexbox for columns layout */

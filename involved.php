@@ -20,7 +20,7 @@
 
       <style>
          .involvedBanner {
-            background-image: url('./img/get_involved/get_involved_1.jpg');
+            background-image: url('./img/get_involved/banner_involved.jpg');
             background-position: top center; 
             background-repeat: no-repeat; 
             background-attachment: scroll; 
@@ -28,7 +28,7 @@
          }
 
          .custom-banner {
-            background-image: url('./img/get_involved/get_involved_6.jpg');
+            background-image: url('./img/get_involved/get_involved_5.jpg');
             background-position: center center;
             background-repeat: no-repeat;
             background-attachment: scroll;
@@ -210,15 +210,15 @@
                      <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0">
                         <div class="p-xs-0">
                            <div class="h2-heading-section-space">
-                              <h2 class="h2-title">Why Get Involved?</h2>
+                              <h2 class="h2-title" style="color: #fff">Why Get Involved?</h2>
                            </div>
                            <div class="text-content-space">
-                              <h4 class="text-content">
+                              <h4 class="text-content" style="color: #fff">
                                  Getting involved with Atrium Legacy Foundation is not just about giving; it’s about joining a collective effort to foster a supportive, equitable, and thriving society. By working together, we can create communities where every generation is empowered, respected, and has the opportunity to flourish. Your involvement helps us pave the way for a brighter future for all.
                               </h4>
                            </div>
                            <div id="" class="button_wrap">
-                              <a href="./contact_us.php" class="custom-btn3">
+                              <a href="./contact_us.php" class="custom-btn">
                                  <span>Join Us Today</span>
                               </a>
                            </div>

@@ -17,127 +17,12 @@
       <link rel="manifest" href="./img/icons/favicon/site.webmanifest">
       <style>
          .donateBanner {
-            background-image: url('./img/donate/donate-banner.jpg');
+            background-image: url('./img/donate/banner_donate.jpg');
             background-position: top center; 
             background-repeat: no-repeat; 
             background-attachment: scroll; 
             background-size: cover;
          }
-         /* .custom-banner {
-            background-image: url('./img/our_initiatives/our_initiatives_4.jpg');
-            background-position: center center;
-            background-repeat: no-repeat;
-            background-attachment: scroll;
-            background-size: cover;
-            } */
-
-         /* .nav-tabs .nav-link {
-            display: flex;
-            align-items: center;
-         }
-         .nav-tabs .nav-link:hover {
-            color:#000000
-         } */
-         /* .nav-tabs .nav-link .tab-icon {
-            margin-right: 5px;
-         } */
-         /* .cards:hover {
-            background-color: transparent !important;
-            transform: scale(1.02);
-         } */
-         /* .card-fonts-heading-color:hover{
-            color:#000000 !important;
-         }
-
-         ul li:before{
-            background-color: #223139 !important;
-         } 
-         .nav-item li:before{
-            list-style:none !important
-         }
-         .nav-item:before{
-            list-style-type: none !important;
-            list-style:none !important;
-            background-color: transparent !important; 
-            padding-left: 0;
-         }
-         .nav-link.active,
-         .nav-item.show .nav-link .icon-title {
-               color: #0b9444 !important;
-            } */
-         /* .nav-tabs{
-            display: flex;
-            flex-wrap: wrap;
-         }
-         .nav-item{
-            flex: 1 1 calc(50% - 10px);
-         } */
-         /* .no-bullets {
-            
-         } */
-         /* .nav-item{
-            margin-bottom: 45px !important;
-         }
-         .tab-icon {
-            width: 75px;
-            height: 75px;
-            background-size: 75px;
-            background-repeat: no-repeat;
-            background-position: center;
-            margin-bottom: 10px;
-         }
-
-         .icon-title{
-            font-family: 'Moisette';
-            font-size: 26px;
-            color: #000;
-         }
-         .nav-link.active .icon-title {
-            color: #0b9444;
-         }
-
-         .tabs-cards-body ul {
-            list-style-position: outside;
-            padding-left: 20px;
-         }
-
-         .tabs-cards-body li {
-            text-indent: -15px;
-         }
-
-         .tab-style{
-            display:flex;
-            flex-direction:column;
-            align-items:center;
-            text-align:center;
-         } */
-         /* .cmsmasters_breadcrumbs_inner{
-            display: inline-block;
-            padding-top: 13px;
-            vertical-align: middle;
-            overflow: hidden;
-            text-align: center;
-         }
-         .cmsmasters_breadcrumbs_inner *{
-            font-family: 'Merriweather', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
-            font-size: 16px;
-            line-height: 22px;
-            font-weight: bold;
-            font-style: italic;
-            text-transform: none;
-            text-decoration: none;
-            color: white
-         } 
-         .cmsmasters_donation_form_title{
-            color: #254151;
-            font-family: 'Merriweather', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
-            font-size: 28px;
-            line-height: 36px;
-            font-weight: 800;
-            font-style: normal;
-            text-transform: none;
-            text-decoration: none;
-         } */
 
          .form-padding{
             padding-top: 30px;
@@ -145,14 +30,6 @@
          }
 
          .form-label{
-            /* font-family: 'Merriweather Sans', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
-            font-size: 20px;
-            line-height: 26px;
-            font-weight: bold;
-            font-style: normal;
-            text-transform: none;
-            text-decoration: none;
-            color: #7d7d7d; */
             font-family: 'Montserrat';
             font-size: 18px !important;
             line-height: 28px;
@@ -181,8 +58,6 @@
         }
 
         .donation_amount{
-            /* font-size: 18px;
-            color: #7d7d7d; */
             padding-left: 10px;
             font-family: 'Montserrat';
             font-size: 18px !important;
@@ -308,14 +183,6 @@
             </div>
             <!-- Banner -->
             <div class="donateBanner">
-                <!-- <div class="container text-center banner-paddings">
-                    <h2 class="banner-header text-center white-text">Donate Confirmation</h2>
-                    <div class="cmsmasters_breadcrumbs_inner">
-                        <a href="index.php" class="cms_home">Home</a>
-                        <span class="breadcrumbs_sep"> / </span>
-                        <span>Donate Confirmation</span>
-                    </div>                  
-                </div> -->
                 <div class = "container text-center banner-paddings">
                     <h2 class = "banner-header text-center white-text">
                         Donate

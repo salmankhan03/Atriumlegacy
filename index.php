@@ -184,7 +184,7 @@
             <div class="row ml-0 mr-0" >
                 <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0">
                     <div style="position:relative;">
-                        <image class="left-side" src="./img/home/home_3.jpg" alt="left-side-image" ></image>
+                        <image class="left-side" src="./img/home/home_2.jpg" alt="left-side-image" ></image>
                         <div class="side-element">
                             Empathy.<br/>
                             Wellness.<br/>

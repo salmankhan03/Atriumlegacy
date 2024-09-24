@@ -20,7 +20,7 @@
     
     <style>
         .aboutUsBanner {
-            background-image: url('./img/about_us/about_us_1.jpg');
+            background-image: url('./img/about_us/banner_about.jpg');
             background-position: top center; 
             background-repeat: no-repeat; 
             background-attachment: scroll; 
@@ -28,7 +28,7 @@
         }
 
         .custom-banner {
-                background-image: url('./img/about_us/about_us_4.jpg');
+                background-image: url('./img/about_us/about_us_3.jpg');
                 background-position: center center;
                 background-repeat: no-repeat;
                 background-attachment: scroll;
