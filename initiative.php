@@ -143,7 +143,7 @@
       </style>
    </head>
    <body>
-      <?php include 'header.php' ?> 
+      <?php include 'header.php' ?>
       <div id="middle">
          <div class="middle_inner">
             <div class="content_wrap fullwidth">
@@ -154,9 +154,9 @@
                <div class = "container text-center banner-paddings">
                   <h2 class = "banner-header text-center white-text">
                      Our Initiatives
-                  </h2>                  
+                  </h2>
                </div>
-            </div> 
+            </div>
 
             <div class="header_mid_inner pd-0 content-padding">
                 <div class="row ml-0 mr-0">
@@ -208,7 +208,7 @@
                   </li>
 
                   <li class="nav-item p-0" role="presentation">
-                     <a class="nav-link" id="agriThrive-tab" data-toggle="tab" href="#agriThrive" role="tab" aria-controls="agriThrive" aria-selected="false" style="background-color:transparent;border:none;">
+                     <a class="nav-link" id="AgriThrive-tab" data-toggle="tab" href="#AgriThrive" role="tab" aria-controls="AgriThrive" aria-selected="false" style="background-color:transparent;border:none;">
                         <div class="tab-style">
                            <div class="tab-icon icon4"></div>
                            <span class="icon-title">AgriThrive</span>
@@ -218,8 +218,8 @@
                </ul>
 
                <!-- Tab Content -->
-               <div class="tab-content" id="myTabContent" style="padding-bottom: 65px;">
-                  <!-- <div class="tab-pane show active" id="ReStart-Education" role="tabpanel" aria-labelledby="ReStart-Education-tab">
+               <!-- <div class="tab-content" id="myTabContent" style="padding-bottom: 65px;">
+                  <div class="tab-pane show active" id="ReStart-Education" role="tabpanel" aria-labelledby="ReStart-Education-tab">
                      <div class="row ml-0 mr-0" >
                         <div class="col-sm-12 col-md-8 col-lg-8 pl-0 pr-0">
                            <div class="mt-5">
@@ -306,7 +306,7 @@
                      </div>
                   </div>
 
-                  <div class="tab-pane" id="agriThrive" role="tabpanel" aria-labelledby="agriThrive-tab">
+                  <div class="tab-pane" id="AgriThrive" role="tabpanel" aria-labelledby="AgriThrive-tab">
                      <div class="row ml-0 mr-0" >
                         <div class="col-sm-12 col-md-8 col-lg-8 pl-0 pr-0">
                            <div class="mt-5">
@@ -334,7 +334,7 @@
                         </div>
                      </div>
                   </div> -->
-
+               <div class="tab-content" id="myTabContent" style="padding-bottom: 65px;">
                   <!-- ReStart-Education -->
                   <div class="tab-pane show active" id="ReStart-Education" role="tabpanel" aria-labelledby="ReStart-Education-tab">
                      <div class="row ml-0 mr-0">
@@ -464,8 +464,8 @@
                      </div>
                   </div>
 
-                  <!-- agriThrive -->
-                  <div class="tab-pane" id="agriThrive" role="tabpanel" aria-labelledby="agriThrive-tab">
+                  <!-- AgriThrive -->
+                  <div class="tab-pane" id="AgriThrive" role="tabpanel" aria-labelledby="AgriThrive-tab">
                      <div class="row ml-0 mr-0">
                         <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 mt-5">
                            <div class="tabs-cards pl-3">
@@ -571,7 +571,7 @@
       //       $('#HomeStrong-tab').hover(function() {
       //           $(this).tab('show');
       //       });
-      //       $('#agriThrive-tab').hover(function() {
+      //       $('#AgriThrive-tab').hover(function() {
       //           $(this).tab('show');
       //       });
       //   });

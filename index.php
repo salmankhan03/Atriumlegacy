@@ -192,7 +192,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 pb-5 d-flex align-items-center">
+                <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 d-flex align-items-center">
                     <div class="text-left p-0 p-md-5 right-content-padding">
                         <h2 class="h2-title pb-2">Together, we can make a difference</h2>
                         <div class="italic-heading">Join us in making a meaningful impact</div>

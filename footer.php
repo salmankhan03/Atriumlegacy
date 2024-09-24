@@ -139,7 +139,7 @@
                             <div class="text-left">
                                 <h3 class="white-bold">Contact</h3>    
                             </div>
-                            <div class="text-left">
+                            <div class="text-left pt-2">
                                 <p class="mb-0 pb-2">
                                     <a class="footer-text" href="mailto:info@alf.com">
                                         info@alf.com

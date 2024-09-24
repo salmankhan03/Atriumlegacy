@@ -220,7 +220,6 @@
         .form-control {
             width: 100%;
             padding: 10px;
-            /* font-size: 16px; */
             border: 1px solid #ccc;
             border-radius: 5px;
             box-sizing: border-box;
