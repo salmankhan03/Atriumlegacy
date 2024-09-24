@@ -194,6 +194,7 @@
                            Our events are an excellent way to support our mission while engaging with our community. From fundraising galas to educational workshops, every event brings us closer to achieving our goals. Your participation not only helps raise funds but also spreads awareness about the critical issues we are addressing.
                         </h4>
                      </div>
+                     <!-- hide before having sevent page -->
                      <!-- <div id="" class="button_wrap">
                         <a href="#" class="custom-btn2">
                            <span>View All Events</span>
