@@ -207,7 +207,7 @@
             <div class="custom-banner w-100 content-padding">
                <div class="header_mid_inner pd-0 ">
                   <div class="row ml-0 mr-0" >
-                     <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0">
+                     <div class="col-sm-12 col-md-6 col-lg-6 pl-3 pr-3">
                         <div class="p-xs-0">
                            <div class="h2-heading-section-space">
                               <h2 class="h2-title" style="color: #fff">Why Get Involved?</h2>

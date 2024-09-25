@@ -296,7 +296,7 @@
                                 <div class="col-md-9 col-sm-9">
                                     <div>
                                         <input type="checkbox" id="anonymous-donation" name="anonymous-donation">
-                                        <label for="anonymous-donation" style="margin: 0 0 0 30px; color: #7d7d7d;">Check this box to hide your personal info in our donators list</label>
+                                        <label for="anonymous-donation" style="margin: 0 0 0 30px; color:#7d7d7d; font-family:'Montserrat';">Check this box to hide your personal info in our donators list</label>
                                     </div>
                                 </div>
                             </div>
@@ -342,7 +342,7 @@
 
                         <div class="row margin-top">
                             <div class="col-md-12 col-sm-12">
-                                <button class="custom-btn2" type="submit">Submit donation</button>
+                                <button class="custom-btn2" type="submit">Submit Donation</button>
                             </div>
                         </div>
                     </div>

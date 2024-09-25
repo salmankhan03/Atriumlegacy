@@ -110,7 +110,7 @@
                 <div class="content-padding">
                     <div class="header_mid_inner pd-0">
                         <div class="row ml-0 mr-0" >
-                            <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0" style="border-right:1px solid #eee;">
+                            <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0" style="border-right:1px solid #0b9444;">
                                 <div class="" id="our-mission" style="padding: 0 60px 0 0">
                                     <div class="mb-4 banner-title" style="color:#000;">OUR MISSION</div>
                                     <h4 class="mb-4 our-mission" style="color:#000;">Our mission is to empower communities by instilling social values, supporting holistic wellness, and creating sustainable futures.</h4>
@@ -200,7 +200,7 @@
                     <div class="header_mid_inner pd-0 ">
                         <div class="content-padding">
                             <div class="row ml-0 mr-0" >
-                                <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0">
+                                <div class="col-sm-12 col-md-6 col-lg-6 pl-3 pr-3">
                                     <div class="p-xs-0 ">
                                         <div class="h2-heading-section-space">
                                             <h2 class="h2-title" style="color: #ffffff;">Partnership Opportunities</h2>

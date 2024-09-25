@@ -125,6 +125,14 @@
             color: #0b9444;
          }
 
+         .tab-cards {
+            font-family: 'Montserrat';
+         }
+
+         .tabs-cards-body li {
+            font-family: 'Montserrat';
+         }
+
          .tabs-cards-body ul {
             list-style-position: outside;
             padding-left: 20px;
@@ -181,12 +189,12 @@
             <div class="header_mid_inner pd-0">
                <ul class="nav nav-tabs w-100 d-flex no-bullets" id="myTab" role="tablist" style="justify-content: space-between;">
                   <li class="nav-item p-0" role="presentation">
-                        <a class="nav-link active" id="ReStart-Education-tab" data-toggle="tab" href="#ReStart-Education" role="tab" aria-controls="ReStart-Education" aria-selected="true" style="background-color:transparent;border:none">
-                           <div class="tab-style">
-                              <div class="tab-icon icon1"></div>
-                              <span class="icon-title">ReStart Education</span>
-                           </div>
-                        </a>
+                     <a class="nav-link active" id="ReStart-Education-tab" data-toggle="tab" href="#ReStart-Education" role="tab" aria-controls="ReStart-Education" aria-selected="true" style="background-color:transparent;border:none">
+                        <div class="tab-style">
+                           <div class="tab-icon icon1"></div>
+                           <span class="icon-title">ReStart Education</span>
+                        </div>
+                     </a>
                   </li>
 
                   <li class="nav-item p-0" role="presentation">
@@ -339,7 +347,7 @@
                   <div class="tab-pane show active" id="ReStart-Education" role="tabpanel" aria-labelledby="ReStart-Education-tab">
                      <div class="row ml-0 mr-0">
                         <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 mt-5">
-                           <div class="tabs-cards pl-3">
+                           <div class="tabs-cards pl-3 pr-3">
                               <div class="tabs-cards-body text-left">
                                  <h4 class="italic-heading mb-5">To nurture a generation that values empathy, social responsibility, and community engagement over material wealth.</h4>
                                  <P class="tab-cards-title" >OVERVIEW</p>
@@ -355,7 +363,7 @@
                         </div>
 
                         <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 pt-4">
-                           <div class="tabs-cards pl-3">
+                           <div class="tabs-cards pl-3 pr-4">
                               <div class="tabs-cards-body text-left">
                                  <p class="tab-cards-title">KEY ACTIONS</p>
                                  <ul class="mt-3 mb-5 text-left">
@@ -382,7 +390,7 @@
                   <div class="tab-pane" id="Aging-Grace" role="tabpanel" aria-labelledby="Aging-Grace-tab">
                      <div class="row ml-0 mr-0">
                         <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 mt-5">
-                           <div class="tabs-cards pl-3">
+                           <div class="tabs-cards pl-3 pr-3">
                               <div class="tabs-cards-body text-left">
                                  <h4 class="italic-heading mb-5">To promote holistic wellness and societal integration for the senior population, ensuring they remain vital members of the community.</h4>
                                  <p class="tab-cards-title" >OVERVIEW</p>
@@ -398,7 +406,7 @@
                         </div>
 
                         <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 pt-4">
-                           <div class="tabs-cards pl-3">
+                           <div class="tabs-cards pl-3 pr-4">
                               <div class="tabs-cards-body text-left">
                                  <p class="tab-cards-title">KEY ACTIONS</p>
                                  <ul class="mt-3 mb-5 text-left">
@@ -425,7 +433,7 @@
                   <div class="tab-pane" id="HomeStrong" role="tabpanel" aria-labelledby="HomeStrong-tab">
                      <div class="row ml-0 mr-0">
                         <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 mt-5">
-                           <div class="tabs-cards pl-3">
+                           <div class="tabs-cards pl-3 pr-3">
                               <div class="tabs-cards-body text-left">
                                  <h4 class="italic-heading mb-5">To provide fast and affordable housing solutions, fostering stability and security for vulnerable populations.</h4>
                                  <P class="tab-cards-title" >OVERVIEW</p>
@@ -441,7 +449,7 @@
                         </div>
 
                         <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 pt-4">
-                           <div class="tabs-cards pl-3">
+                           <div class="tabs-cards pl-3 pr-4">
                               <div class="tabs-cards-body text-left">
                                  <p class="tab-cards-title">KEY ACTIONS</p>
                                  <ul class="mt-3 mb-5 text-left">
@@ -468,7 +476,7 @@
                   <div class="tab-pane" id="AgriThrive" role="tabpanel" aria-labelledby="AgriThrive-tab">
                      <div class="row ml-0 mr-0">
                         <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 mt-5">
-                           <div class="tabs-cards pl-3">
+                           <div class="tabs-cards pl-3 pr-3">
                               <div class="tabs-cards-body text-left">
                                  <h4 class="italic-heading mb-5">To enhance global food security by leveraging agricultural technology and promoting sustainable farming practices.</h4>
                                  <P class="tab-cards-title" >OVERVIEW</p>
@@ -484,7 +492,7 @@
                         </div>
 
                         <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 pt-4">
-                           <div class="tabs-cards pl-3">
+                           <div class="tabs-cards pl-3 pr-4">
                               <div class="tabs-cards-body text-left">
                                  <p class="tab-cards-title">KEY ACTIONS</p>
                                  <ul class="mt-3 mb-5 text-left">
@@ -506,35 +514,33 @@
                         </div>
                      </div>
                   </div>
-
                </div>
             </div>
          </div>
 
-
-            <!-- Horizontal Tabs -->
-            <div id="cmsmasters_row_ef0f8170ae" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_boxed">
-                <div class="custom-banner w-100">
-                  <div class="header_mid_inner pd-0 ">
-                     <div class="row ml-0 mr-0" >
-                        <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0">
-                           <div class="" style="padding: 100px 0;">
-                              <div class="h2-heading-section-space">
-                                 <h2 class="h2-title" style="color:#fff;">Future Initiatives</h2>
-                              </div>
-                              <div class="">
-                                 <h4 class="text-content-white">
-                                    As we continue to grow and learn from our communities, Atrium Legacy Foundation is committed to expanding our portfolio of initiatives. Our goal is to remain responsive to emerging needs and challenges, ensuring that our work continues to create positive and sustainable change.
-                                 </h4>
-                              </div>                              
+         <!-- Horizontal Tabs -->
+         <div id="cmsmasters_row_ef0f8170ae" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_boxed">
+            <div class="custom-banner w-100">
+               <div class="header_mid_inner pd-0 ">
+                  <div class="row ml-0 mr-0" >
+                     <div class="col-sm-12 col-md-6 col-lg-6 pl-3 pr-3">
+                        <div class="" style="padding: 100px 0;">
+                           <div class="h2-heading-section-space">
+                              <h2 class="h2-title" style="color:#fff;">Future Initiatives</h2>
                            </div>
+                           <div class="">
+                              <h4 class="text-content-white">
+                                 As we continue to grow and learn from our communities, Atrium Legacy Foundation is committed to expanding our portfolio of initiatives. Our goal is to remain responsive to emerging needs and challenges, ensuring that our work continues to create positive and sustainable change.
+                              </h4>
+                           </div>                              
                         </div>
-                     </div>  
-                  </div>
-               </div>   
-            </div>
+                     </div>
+                  </div>  
+               </div>
+            </div>   
          </div>
       </div>
+   </div>
 
       <!-- Tabs Script -->        
       <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
