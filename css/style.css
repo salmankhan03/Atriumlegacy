@@ -186,6 +186,8 @@ body {
      flex-direction: column;
      height: 100%;
      padding: 3px;
+     align-items: center;
+     text-align: center;
  }
 
  .cards:hover {

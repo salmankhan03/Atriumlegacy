@@ -18,6 +18,41 @@
     <link rel="icon" type="image/png" sizes="32x32" href="./img/icons/favicon/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="./img/icons/favicon/favicon-16x16.png">
     <link rel="manifest" href="./img/icons/favicon/site.webmanifest">
+    <style>
+        .tab-icon {
+            width: 75px;
+            height: 75px;
+            background-size: 75px;
+            background-repeat: no-repeat;
+            background-position: center;
+        }
+
+        .icon1{
+        background-image: url("./img/icons/Green/ReStart_Education.png");
+        }
+        .icon2{
+        background-image: url("./img/icons/Green/Aging_Grace.png");
+        }
+        .icon3{
+        background-image: url("./img/icons/Green/HomeStrong.png");
+        }
+        .icon4{
+        background-image: url("./img/icons/Green/AgriThrive.png");
+        }
+
+        .cards:hover .icon1{
+        background-image: url("./img/icons/White/ReStart_Education.png");
+        }
+        .cards:hover .icon2{
+        background-image: url("./img/icons/White/Aging_Grace.png");
+        }
+        .cards:hover .icon3{
+        background-image: url("./img/icons/White/HomeStrong.png");
+        }
+        .cards:hover .icon4{
+        background-image: url("./img/icons/White/AgriThrive.png");
+        }
+    </style>
 </head>
 
 <body>
@@ -91,10 +126,11 @@
                     </div>
                     <div class="row pt-5 pb-0">
                         <div class="col-sm-12 col-md-6 col-lg-3 text-content d-flex px-1">
-                            <div class="cards" id = "card1">
-                                <div class="cards-heading text-center">
+                            <div class="cards">
+                                <!-- <div class="cards-heading text-center">
                                     <img src="./img/icons/Green/ReStart_Education.png" style="width:75px" id="icon1">
-                                </div>
+                                </div> -->
+                                <div class="tab-icon icon1"></div>
                                 <div class="cards-body text-center">
                                     <h4 class="card-fonts-heading-color">ReStart Education</h4>
                                     <p class="mt-3 text-center card-fonts-color pb-0 mb-0">
@@ -112,10 +148,11 @@
                         </div>
 
                         <div class="col-sm-12 col-md-6 col-lg-3 text-content d-flex px-1">
-                            <div class="cards" id = "card2">
-                                <div class="cards-heading text-center">
+                            <div class="cards">
+                                <!-- <div class="cards-heading text-center">
                                     <img src="./img/icons/Green/Aging_Grace.png" style="width:75px" id = "icon2">
-                                </div>
+                                </div> -->
+                                <div class="tab-icon icon2"></div>
                                 <div class="cards-body text-center">
                                     <h4 class="card-fonts-heading-color">Aging Grace</h4>
                                     <p class="mt-3 text-center card-fonts-color pb-0 mb-0">
@@ -133,10 +170,11 @@
                         </div>
 
                         <div class="col-sm-12 col-md-6 col-lg-3 text-content d-flex px-1">
-                            <div class="cards" id = "card3">
-                                <div class="cards-heading text-center">
+                            <div class="cards">
+                                <!-- <div class="cards-heading text-center">
                                     <img src="./img/icons/Green/HomeStrong.png" style="width:75px" id = "icon3">
-                                </div>
+                                </div> -->
+                                <div class="tab-icon icon3"></div>
                                 <div class="cards-body text-center">
                                     <h4 class="card-fonts-heading-color">HomeStrong </h4>
                                     <p class="mt-3 text-center card-fonts-color pb-0 mb-0">
@@ -154,10 +192,11 @@
                         </div>
 
                         <div class="col-sm-12 col-md-6 col-lg-3 text-content d-flex px-1">
-                            <div class="cards" id = "card4">
-                                <div class="cards-heading text-center">
+                            <div class="cards">
+                                <!-- <div class="cards-heading text-center">
                                     <img src="./img/icons/Green/AgriThrive.png" style="width:75px" id = "icon4">
-                                </div>
+                                </div> -->
+                                <div class="tab-icon icon4"></div>
                                 <div class="cards-body text-center">
                                     <h4 class="card-fonts-heading-color">AgriThrive</h4>
                                     <p class="mt-3 text-center card-fonts-color pb-0 mb-0">
@@ -208,7 +247,7 @@
 
     <?php include 'footer.php'; ?>
     <!-- change icon when hovering -->
-    <script>
+    <!-- <script>
         function changeImageOnHover(card, icon, newSrc, originalSrc) {
             card.onmouseover = () => icon.src = newSrc;
             card.onmouseout = () => icon.src = originalSrc;
@@ -217,7 +256,7 @@
         changeImageOnHover(document.getElementById('card2'), document.getElementById('icon2'), "./img/icons/White/Aging_Grace.png", "./img/icons/Green/Aging_Grace.png");
         changeImageOnHover(document.getElementById('card3'), document.getElementById('icon3'), "./img/icons/White/HomeStrong.png", "./img/icons/Green/HomeStrong.png");
         changeImageOnHover(document.getElementById('card4'), document.getElementById('icon4'), "./img/icons/White/AgriThrive.png", "./img/icons/Green/AgriThrive.png");
-    </script>
+    </script> -->
 
 </body>
 
