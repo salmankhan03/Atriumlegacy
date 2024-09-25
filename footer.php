@@ -108,7 +108,7 @@
 </head>
 <body>
     <footer>
-        <div class = "container">
+        <div class = "header_mid_inner">
             <div class="row w-100" style="padding-top: 40px;">
                 <div class="col-sm-12 col-md-7 col-lg-7 mb-sm-2">
                     <div class="row h-100">

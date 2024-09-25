@@ -131,58 +131,56 @@
 
             <div class="row equal-height">
                 <div class="col-md-8 col-lg-8 col-sm-12">
-                    <div class="header_mid_inner ">
-                        <div class="left-section-padding left-margin-top-bottom">
-                            <div class="h2-heading-section-space mb-5">
-                                <h2 class="h2-title mb-4">Our Team</h2>
-                            </div>
-                            <div class="text-content-space">
-                                <h4 class="text-content">
-                                    Our dedicated team comprises passionate leaders, experienced professionals, and visionary advisors who share a common goal: to make a lasting difference.
-                                </h4>
-                            </div>
+                    <div class="left-section-padding left-margin-top-bottom">
+                        <div class="h2-heading-section-space mb-5">
+                            <h2 class="h2-title mb-4">Our Team</h2>
+                        </div>
+                        <div class="text-content-space">
+                            <h4 class="text-content">
+                                Our dedicated team comprises passionate leaders, experienced professionals, and visionary advisors who share a common goal: to make a lasting difference.
+                            </h4>
+                        </div>
 
-                            <div class="row">
-                                <div class="col-md-5 col-lg-5 col-sm-12 pl-0 pr-0 d-flex align-items-center roles">
-                                    <div class="d-block">
-                                        <ul class="nav nav-tabs w-100 d-flex no-bullets" id="myTab" role="tablist" style=" justify-content: space-between; border-bottom: none;">
-                                            <li class="nav-item p-0 d-flex align-items-center" role="presentation">
-                                                <a class="nav-link active our-team" id="founder-tab" href="#founder" role="tab" aria-controls="founder" aria-selected="true">
-                                                    Founder & CEO
-                                                </a>
-                                            </li>
-                                            <li class="nav-item p-0 d-flex align-items-center" role="presentation">
-                                                <a class="nav-link our-team" id="treasurer-tab" href="#treasurer" role="tab" aria-controls="treasurer" aria-selected="false">
-                                                    Treasurer
-                                                </a>
-                                            </li>
-                                            <li class="nav-item p-0 d-flex align-items-center" role="presentation">
-                                                <a class="nav-link our-team" id="advisory-tab" href="#advisory" role="tab" aria-controls="advisory" aria-selected="false">
-                                                    Advisory Board
-                                                </a>
-                                            </li>
-                                            <li class="nav-item p-0 d-flex align-items-center" role="presentation">
-                                                <a class="nav-link our-team" id="board-tab" href="#board" role="tab" aria-controls="board" aria-selected="false">
-                                                    Board Members
-                                                </a>
-                                            </li>
-                                        </ul>
-                                    </div>
+                        <div class="row">
+                            <div class="col-md-5 col-lg-5 col-sm-12 pl-0 pr-0 d-flex align-items-center roles">
+                                <div class="d-block">
+                                    <ul class="nav nav-tabs w-100 d-flex no-bullets" id="myTab" role="tablist" style=" justify-content: space-between; border-bottom: none;">
+                                        <li class="nav-item p-0 d-flex align-items-center" role="presentation">
+                                            <a class="nav-link active our-team" id="founder-tab" href="#founder" role="tab" aria-controls="founder" aria-selected="true">
+                                                Founder & CEO
+                                            </a>
+                                        </li>
+                                        <li class="nav-item p-0 d-flex align-items-center" role="presentation">
+                                            <a class="nav-link our-team" id="treasurer-tab" href="#treasurer" role="tab" aria-controls="treasurer" aria-selected="false">
+                                                Treasurer
+                                            </a>
+                                        </li>
+                                        <li class="nav-item p-0 d-flex align-items-center" role="presentation">
+                                            <a class="nav-link our-team" id="advisory-tab" href="#advisory" role="tab" aria-controls="advisory" aria-selected="false">
+                                                Advisory Board
+                                            </a>
+                                        </li>
+                                        <li class="nav-item p-0 d-flex align-items-center" role="presentation">
+                                            <a class="nav-link our-team" id="board-tab" href="#board" role="tab" aria-controls="board" aria-selected="false">
+                                                Board Members
+                                            </a>
+                                        </li>
+                                    </ul>
                                 </div>
-                                <div class="col-md-7 col-lg-7 col-sm-12 d-flex align-items-center">
-                                    <div class="tab-content p-3" id="myTabContent" style="font-size:18px" >
-                                        <div class="tab-pane fade show active" id="founder" role="tabpanel" aria-labelledby="founder-tab">
-                                            <p class="m-0 p-0">A visionary leader with a deep commitment to social impact, our CEO has been the driving force behind the foundation's mission to empower communities and create lasting change.</p>   
-                                        </div>
-                                        <div class="tab-pane fade" id="treasurer" role="tabpanel" aria-labelledby="treasurer-tab">
-                                            <p class="m-0 p-0">Responsible for overseeing the financial health and sustainability of the foundation, our Treasurer brings years of experience in non-profit financial management.</p>
-                                        </div>
-                                        <div class="tab-pane fade" id="advisory" role="tabpanel" aria-labelledby="advisory-tab">
-                                            <p class="m-0 p-0">A diverse group of experts and thought leaders who guide our strategic direction and ensure our initiatives remain impactful and relevant.</p>     
-                                        </div>
-                                        <div class="tab-pane fade" id="board" role="tabpanel" aria-labelledby="board-tab">
-                                            <p class="m-0 p-0">Our Board Members bring a wealth of knowledge from various fields, including education, healthcare, housing, and technology, ensuring that our projects are well-rounded and effective.</p>    
-                                        </div>
+                            </div>
+                            <div class="col-md-7 col-lg-7 col-sm-12 d-flex align-items-center">
+                                <div class="tab-content p-3" id="myTabContent" style="font-size:18px" >
+                                    <div class="tab-pane fade show active" id="founder" role="tabpanel" aria-labelledby="founder-tab">
+                                        <p class="m-0 p-0">A visionary leader with a deep commitment to social impact, our CEO has been the driving force behind the foundation's mission to empower communities and create lasting change.</p>   
+                                    </div>
+                                    <div class="tab-pane fade" id="treasurer" role="tabpanel" aria-labelledby="treasurer-tab">
+                                        <p class="m-0 p-0">Responsible for overseeing the financial health and sustainability of the foundation, our Treasurer brings years of experience in non-profit financial management.</p>
+                                    </div>
+                                    <div class="tab-pane fade" id="advisory" role="tabpanel" aria-labelledby="advisory-tab">
+                                        <p class="m-0 p-0">A diverse group of experts and thought leaders who guide our strategic direction and ensure our initiatives remain impactful and relevant.</p>     
+                                    </div>
+                                    <div class="tab-pane fade" id="board" role="tabpanel" aria-labelledby="board-tab">
+                                        <p class="m-0 p-0">Our Board Members bring a wealth of knowledge from various fields, including education, healthcare, housing, and technology, ensuring that our projects are well-rounded and effective.</p>    
                                     </div>
                                 </div>
                             </div>

@@ -24,13 +24,12 @@
 <?php include 'header.php'; ?> 
     <div id="middle">
         <div class="middle_inner">
-            <div class="content_wrap fullwidth">
-                <!-- Start Content -->
+            <!-- <div class="content_wrap fullwidth">
                 <div class="middle_content entry"></div>
-            </div>
+            </div> -->
 
             <div class = "banner">
-                <div class = "container">
+                <div class = "header_mid_inner">
                     <h2 class = "banner-title">
                         OUR MISSION
                     </h2>
@@ -165,7 +164,7 @@
                                         Leveraging agricultural technology to improve food security and empower communities toward self-sufficiency.
                                     </p>
                                 </div>
-                                <a href="initiative.php?tab=agriThrive">
+                                <a href="initiative.php?tab=AgriThrive">
                                     <div class="cards-footer text-center">
                                         <div class="custom-footer-icons-div">
                                             <i class="fa fa-arrow-right custom-icons custom-icon" aria-hidden="true"></i>

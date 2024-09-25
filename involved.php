@@ -33,7 +33,7 @@
             background-repeat: no-repeat;
             background-attachment: scroll;
             background-size: cover;
-            }
+         }
          
       </style>
    </head>
@@ -48,19 +48,19 @@
             <div class = "involvedBanner ">
                 <div class = "container text-center banner-paddings">
                   <h2 class = "banner-header text-center white-text">
-                    Get Involved
+                     Get Involved
                   </h2>                  
-                </div>
+               </div>
             </div> 
             <!-- Banner -->
 
-               <div class="elementor-element elementor-element-7c02393 sc_height_huge sc_fly_static elementor-widget elementor-widget-spacer trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="7c02393" data-element_type="widget" data-widget_type="spacer.default">
-                  <div class="elementor-widget-container">
-                     <div class="elementor-spacer">
-                        <div class="elementor-spacer-inner"></div>
-                     </div>
+            <div class="elementor-element elementor-element-7c02393 sc_height_huge sc_fly_static elementor-widget elementor-widget-spacer trx_addons_parallax_layers_inited trx_addons_parallax_blocks_inited" data-id="7c02393" data-element_type="widget" data-widget_type="spacer.default">
+               <div class="elementor-widget-container">
+                  <div class="elementor-spacer">
+                     <div class="elementor-spacer-inner"></div>
                   </div>
                </div>
+            </div>
             <!-- Empty Space -->
 
             <!-- second Section -->
@@ -224,9 +224,11 @@
                            </div>
                         </div>
                      </div>
-                  </div>  
+                  </div>
                </div>
-            </div>   
+            </div>
+         </div>
+      </div>
       <?php include 'footer.php'; ?> 
    </body>
 </html>

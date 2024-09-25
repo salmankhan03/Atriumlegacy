@@ -275,7 +275,7 @@ body {
 
 
 .left-section-padding{
-    padding: 0 24% 0 20%;
+    padding: 0 24% 0 30%;
 }
 
 .bottom-banner-content-padding{
@@ -465,7 +465,7 @@ body {
 
 @media only screen and (max-width: 767px) {
     .left-section-padding {
-        padding: 0 4% 35px 10%;
+        padding: 0 4% 0 10%;
     } 
     .right-content-padding{
         padding: 10px 5% 10px 10% !important;
@@ -508,7 +508,7 @@ body {
 }
 @media only screen and (max-width: 1024px) {
     .left-section-padding {
-        padding: 0 5% 35px 10%;
+        padding: 0 5% 0 10%;
     }
     .pd-0{
         /* padding: 0px !important; */
@@ -568,4 +568,39 @@ a {
         padding-top: 70px;
         padding-bottom: 90px;
     }
+}
+@media only screen and (max-width: 1800px) {
+    .left-section-padding{
+        padding: 0 20% 0 28%;
+    }
+}
+@media only screen and (max-width: 1670px) {
+    .left-section-padding{
+        padding: 0 16% 0 25%;
+    }
+}
+@media only screen and (max-width: 1550px) {
+    .left-section-padding{
+        padding: 0 12% 0 23%;
+    }
+}
+@media only screen and (max-width: 1200px) {
+    .left-section-padding{
+        padding: 0 8% 0 20%;
+    }
+}
+@media only screen and (max-width: 1170px) {
+    .left-section-padding{
+        padding: 0 6% 0 15%;
+    }
+}
+@media only screen and (max-width: 1050px) {
+    .left-section-padding {
+        padding: 0 5% 0 10%;
+    }
+}
+@media only screen and (max-width: 767px) {
+    .left-section-padding {
+        padding: 0 4% 0 10%;
+    } 
 }
