@@ -387,7 +387,7 @@ body {
     font-weight: bold;
     letter-spacing: 0;
 } 
-.our-mission{
+.our-mission-header{
     font-size: 34px;
     /* line-height: 50px; */
     color: #000;
@@ -437,7 +437,18 @@ body {
     color: #000;
 }
 
+.our-mission{
+    padding-right:60px;
+    border-right:1px solid #0b9444;
+}
 
+.our-vision{
+    padding-left:60px;
+}
+
+.roles {
+    border-right:1px solid #ccc;
+}
 
 @media (max-width: 1024px) {
     .banner {
@@ -479,6 +490,20 @@ body {
         padding: 20px !important;
         font-size: large !important;
     }
+    .banner-header {
+        font-size: 45px;
+    }
+    .our-mission{
+        padding: 0 15px 25px 15px;
+        border-right:none;
+    }
+    .our-vision{
+        padding: 25px 15px 0 15px;
+    }
+    .roles {
+        border-right: none;
+        border-bottom: 1px solid #ccc;
+    }
 }
 @media only screen and (max-width: 1024px) {
     .left-section-padding {
@@ -490,7 +515,9 @@ body {
     .mobile-left-section-padding {
         padding: 0 5% 0px 5% !important;
     }
-    
+    .banner-header {
+        font-size: 60px;
+    }
 }
 
 a {

@@ -182,7 +182,7 @@
         <!-- SECOND SECTION -->
         <div class="header_mid_inner pd-0 content-padding">
             <div class="row ml-0 mr-0" >
-                <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0">
+                <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 d-flex align-items-center">
                     <div style="position:relative;">
                         <image class="left-side" src="./img/home/home_2.jpg" alt="left-side-image" ></image>
                         <div class="side-element">
@@ -193,7 +193,7 @@
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 d-flex align-items-center">
-                    <div class="text-left p-0 p-md-5 right-content-padding">
+                    <div class="text-left p-3 p-md-5 right-content-padding">
                         <h2 class="h2-title pb-2">Together, we can make a difference</h2>
                         <div class="italic-heading">Join us in making a meaningful impact</div>
                         <p class="mt-4 mb-4 text-content">Whether through donations, volunteer work, or partnerships, your support plays a crucial role in creating a brighter, more inclusive future for everyone.</p>
