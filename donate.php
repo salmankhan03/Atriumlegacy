@@ -81,6 +81,9 @@
             color: #333;
             outline: none;
             transition: background-color 0.3s ease, color 0.3s ease;
+            background-position: 100% center;
+            background-repeat: no-repeat;
+            background-image: url("./img/icons/select.png");
         }
 
         .form-control:focus {
