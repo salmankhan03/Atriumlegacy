@@ -203,6 +203,7 @@ body {
      font-family:'Moisette';
      font-size: 26px;
      font-weight: bold;
+     white-space: nowrap;
  }
  .card-fonts-color{
      color:#000;
@@ -380,7 +381,7 @@ body {
     color: #fff;
 }
 .right-content-padding{
-    padding: 0 5% 0 10%;
+    padding: 100px 5% 100px 10%;
 }
 
 .blue-header{
@@ -459,11 +460,14 @@ body {
     .banner {
         padding: 100px 0 100px 0;
     }
+    .banner-header {
+        font-size: 60px;
+    }
 } 
 
 @media (max-width: 768px) {
     .banner {
-        padding: 50px 0 50px 0;
+        padding: 100px 0;
     }
 }
 
@@ -472,7 +476,7 @@ body {
         padding: 0 4% 0 10%;
     } 
     .right-content-padding{
-        padding: 10px 5% 10px 10% !important;
+        padding: 100px 5% 100px 10% !important;
     }
     .zero-margin{
         margin:0px !important;
@@ -496,7 +500,7 @@ body {
         font-size: large !important;
     }
     .banner-header {
-        font-size: 45px;
+        font-size: 50px;
     }
     .our-mission{
         padding: 0 15px 25px 15px;
@@ -519,9 +523,6 @@ body {
     }
     .mobile-left-section-padding {
         padding: 0 5% 0px 5% !important;
-    }
-    .banner-header {
-        font-size: 60px;
     }
 }
 

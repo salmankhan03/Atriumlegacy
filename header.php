@@ -93,9 +93,9 @@
                         <div class="header_mid_inner">
                             <div class="logo_wrap"><a href="index.php" title="Atrium Legacy Foundation" class="logo"> <img class="headerImg" style="display: block" src="img/icons/ALF_logo_4C.svg" alt="Atrium Legacy Foundation"></a> </div>
                             <div class="header_donation_but_wrap">
-                                <div class="header_donation_but_wrap_inner">
+                                <!-- <div class="header_donation_but_wrap_inner">
                                     <div class="header_donation_but"><a href="donate.php" class="cmsmasters_button"><span>Donate!</span></a></div>
-                                </div>
+                                </div> -->
                             </div>
                             
                             <div class="resp_mid_nav_wrap">

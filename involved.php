@@ -112,11 +112,11 @@
                            global food security.
                         </h4>
                      </div>
-                     <div id="" class="button_wrap">
+                     <!-- <div id="" class="button_wrap">
                         <a href="./donate.php" class="custom-btn2">
                            <span>Donate Now</span>
                         </a>
-                     </div>
+                     </div> -->
                   </div>
                </div>
                <div class="col-md-6 col-lg-6 d-flex align-items-center justify-content-center involved-right-bg">
