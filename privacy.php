@@ -62,13 +62,13 @@
                         <p>If you apply to volunteer with Atrium Legacy Foundation, we collect personal information required to determine your eligibility, to match your skills with Atrium Legacy Foundation’s volunteer needs, to do scheduling and to ensure your safety when working as a volunteer.</p>
                         <p>For petitions and surveys you have signed or completed in support of Atrium Legacy Foundation’s advocacy efforts, we treat your name, city of residence, province/territory of residence, and comments (if any) as public information—for example, we may provide compilations of petitions, with your comments, to political leaders, elected representatives and other public officials and decision-makers  We will not use or disclose your personal information for purposes other than those for which it was collected, except with your consent or as permitted or required by law.</p>
                         <p>We may also make your petition comments, along with your first name, city and province/territory available to the public online, once you have opted to allow that disclosure. However, no identifying information is collected or shared without your consent.</p>
-                        <p>In certain cases, Atrium Legacy Foundation enables you to send individual emails, through the email tool on Atrium Legacy Foundation’s website, to political leaders, elected representatives and other public officials and decision-makers. These messages are sent in your name, with your email address as the return address, and your full name and contact information is provided as part of the submission. These messages will only be sent out under your name with your knowledge and express approval, using our email tool. You are solely responsible for the specific message(s) you send using our email tool. Atrium Legacy Foundation takes no responsibility for the use of your email address by such campaign targets.</p>
+                        <!-- <p>In certain cases, Atrium Legacy Foundation enables you to send individual emails, through the email tool on Atrium Legacy Foundation’s website, to political leaders, elected representatives and other public officials and decision-makers. These messages are sent in your name, with your email address as the return address, and your full name and contact information is provided as part of the submission. These messages will only be sent out under your name with your knowledge and express approval, using our email tool. You are solely responsible for the specific message(s) you send using our email tool. Atrium Legacy Foundation takes no responsibility for the use of your email address by such campaign targets.</p> -->
                         <p>When you visit Atrium Legacy Foundation’s website, we also collect aggregate data to better understand how the website is used and to improve the performance of the website for our users.  Please also refer to the section below about “Cookies”.</p>
                     </div>
 
                     <h2 class="h2-title">Accuracy and Access</h2>
                     <div class="text-content">
-                        <p>Atrium Legacy Foundation makes reasonable efforts to keep personal information accurate, complete and as up to date as is necessary for the purposes that it is being collected and used for.  If, at any time, you would like to access your personal information held by Atrium Legacy Foundation or you need to update or correct your personal information you may let us know by phone, email or in writing, using the contact information below.</p>
+                        <p>Atrium Legacy Foundation makes reasonable efforts to keep personal information accurate, complete and as up to date as is necessary for the purposes that it is being collected and used for.  If, at any time, you would like to access your personal information held by Atrium Legacy Foundation or you need to update or correct your personal information you may let us know by email or in writing, using the contact information below.</p>
                     </div>
 
                     <h2 class="h2-title">Limiting Use, Disclosure and Retention</h2>
@@ -88,8 +88,8 @@
                     <h2 class="h2-title">Cookies</h2>
                     <div class="text-content">
                         <p>“Cookies” are pieces of information that a web site transfers to an individual’s hard drive for record keeping purposes. Cookies function as your identification card. Atrium Legacy Foundation uses temporary cookies to customize your experience on our website. These only remain in effect while your browser is open. No personal information is gathered or shared without your consent.  We also use our own cookies on our website to collect click-stream data to help determine which of our ads are shown to you on other websites.</p>
-                        <p style="background-color: yellow">We also work with third-party advertising companies that use their own tracking technologies (including cookies and pixel tags) on our websites in order to provide tailored advertisements on our behalf and on behalf of other advertisers across the Internet.</p>
-                        <p style="background-color: yellow">These companies may collect information about your activity on our sites and your interaction with our advertising and other communications and use this information to determine which ads you see on third-party websites and applications. These technologies and the information collected about you may also be used to track your activity across multiple devices. For more information about this practice and to understand your options, including how you can opt-out of receiving third-party behavioural ads from certain third-party advertising companies, please visit the Digital Advertising Alliance of Canada website as at youradchoices.ca/choices  or optout.networkadvertising.org</p>
+                        <!-- <p>We also work with third-party advertising companies that use their own tracking technologies (including cookies and pixel tags) on our websites in order to provide tailored advertisements on our behalf and on behalf of other advertisers across the Internet.</p>
+                        <p>These companies may collect information about your activity on our sites and your interaction with our advertising and other communications and use this information to determine which ads you see on third-party websites and applications. These technologies and the information collected about you may also be used to track your activity across multiple devices. For more information about this practice and to understand your options, including how you can opt-out of receiving third-party behavioural ads from certain third-party advertising companies, please visit the Digital Advertising Alliance of Canada website as at youradchoices.ca/choices  or optout.networkadvertising.org</p> -->
                         <p>You can set your browser to notify you when you receive a cookie. This gives you the chance to decide whether to accept it. To learn more about cookies and how to change your settings, please use the Help function in your browser.</p>
                     </div>
 
@@ -113,12 +113,10 @@
                         <p>If you have any questions about Atrium Legacy Foundation’s Privacy Policy or its privacy practices, or if you wish to request that we do not send you materials, please contact Atrium Legacy Foundation’s Privacy Officer at:</p>
                         <p>200-3071 No.5 Rd Richmond BC V6X 2T4</p>
                         <p>email: info@alf.com</p>
-                        <p>Tel:</p>
+                        <!-- <p>Tel:</p> -->
                         <p>Revised September, 2024</p>
                     </div>
-
                 </div>
-
             </div>
         </div>
         <?php include 'footer.php'; ?> 
