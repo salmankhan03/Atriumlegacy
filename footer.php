@@ -160,7 +160,7 @@
                     <div class="d-flex justify-content-center">
                         <a href="./about_us.php" class="mx-2 footer-text">About Us</a>
                         <a href="./contact_us.php" class="mx-2 footer-text">Contact Us</a>
-                        <a href="#privacy" class="mx-2 footer-text">Privacy</a>
+                        <a href="./privacy.php" class="mx-2 footer-text">Privacy</a>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-6 col-lg-6 d-flex align-items-center justify-content-center text-center footer-text">
