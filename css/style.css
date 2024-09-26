@@ -233,9 +233,11 @@ body {
      font-size: 14px;
      color: #fff;
      opacity: 0;
-     transition: opacity 0.3s;
+     transition: opacity 0.5s;
      font-family:'Montserrat';
      padding-bottom: 6px;
+     width: 150px;
+     padding-right: 20px;
  }
 
  .cards:hover .custom-icon {

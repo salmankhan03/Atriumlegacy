@@ -161,11 +161,11 @@
             }
         }
 
-         @media only screen and (max-width: 540px) {
+         /* @media only screen and (max-width: 540px) {
             .banner-header {
                font-size: 36px;
             }
-         }
+         } */
 
          textarea::placeholder, input::placeholder {
             font-family: 'Montserrat';
