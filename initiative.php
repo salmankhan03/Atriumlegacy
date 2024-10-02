@@ -52,7 +52,7 @@
          }
 
          ul li:before{
-            background-color: #223139 !important;
+            background-color: #000 !important;
          } 
          .nav-item li:before{
             list-style:none !important

@@ -19,12 +19,13 @@
         <link rel="manifest" href="./img/icons/favicon/site.webmanifest">
 
         <style>
-            .involvedBanner {
-                background-image: url('./img/get_involved/banner_involved.jpg');
+            .privacyBanner {
+                /* background-image: url('./img/get_involved/banner_involved.jpg');
                 background-position: top center; 
                 background-repeat: no-repeat; 
                 background-attachment: scroll; 
-                background-size: cover;
+                background-size: cover; */
+                background-color: #0f5194;
             }
         </style>
     </head>
@@ -35,8 +36,8 @@
                 <!-- <div class="content_wrap fullwidth">
                     <div class="middle_content entry"></div>
                 </div> -->
-                <div class = "involvedBanner">
-                    <div class = "container text-center banner-paddings">
+                <div class = "privacyBanner">
+                    <div class = "container text-center privacy-banner-paddings">
                         <h2 class = "banner-header text-center white-text">
                             Privacy Policy
                         </h2>                  
@@ -115,7 +116,7 @@
                         <p>200-3071 No.5 Rd Richmond BC V6X 2T4</p>
                         <p><span class="highlight">email: info@alf.com</span></p>
                         <!-- <p>Tel:</p> -->
-                        <p>Revised September, 2024</p>
+                        <p>Revised October, 2024</p>
                     </div>
                 </div>
             </div>

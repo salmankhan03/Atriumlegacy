@@ -537,7 +537,7 @@ a {
 .our-team{
     background-color:transparent !important;
     border:none !important;
-    padding: 20px 0 !important;
+    padding: 25px 0 !important;
 }
 
 .tab-cards-title{
@@ -611,4 +611,15 @@ a {
 }
 .highlight {
     background-color:yellow;
+}
+.privacy-banner-paddings {
+    padding-top: 150px;
+    padding-bottom: 30px; 
+}
+
+@media only screen and (max-width: 1024px) {
+    .privacy-banner-paddings {
+        padding-top: 0px;
+        padding-bottom: 30px; 
+    }
 }

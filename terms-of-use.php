@@ -19,12 +19,13 @@
         <link rel="manifest" href="./img/icons/favicon/site.webmanifest">
 
         <style>
-            .involvedBanner {
-                background-image: url('./img/get_involved/banner_involved.jpg');
+            .termsBanner {
+                /* background-image: url('./img/get_involved/banner_involved.jpg');
                 background-position: top center; 
                 background-repeat: no-repeat; 
                 background-attachment: scroll; 
-                background-size: cover;
+                background-size: cover; */
+                background-color: #0f5194;
             }
             .link {
                 font-family: 'Montserrat';
@@ -40,6 +41,9 @@
             .text-content li {
                 text-indent: -15px;
             }
+            ul li:before{
+                background-color: #000 !important;
+            } 
         </style>
     </head>
     <body>
@@ -49,8 +53,8 @@
                 <!-- <div class="content_wrap fullwidth">
                     <div class="middle_content entry"></div>
                 </div> -->
-                <div class = "involvedBanner">
-                    <div class = "container text-center banner-paddings">
+                <div class = "termsBanner">
+                    <div class = "container text-center privacy-banner-paddings">
                         <h2 class = "banner-header text-center white-text">
                             Terms of Use
                         </h2>                  
@@ -75,12 +79,12 @@
                     </div>
 
                     <h2 class="h2-title">Linking to Atrium Legacy Foundation</h2>
-                    <div class="text-content">
+                    <div class="text-content" id="linking">
                         <p>We understand that by linking to the Site you are demonstrating support for our goals of fostering values, supporting wellness and promoting sustainable communities</p>
                         <p>If you do link to our Site, you agree to the following terms:</p>
                         <ul>
                             <li>The website or other media to which you link our Site (the “Linked Media”):
-                                <ul>
+                                <ul style="padding-left:10px;">
                                     <li>Will not contain any content which could be considered offensive or inappropriate for children;</li>
                                     <li>Will not contain any content which could potentially harm or exploit children, including content which could be considered to promote or depict exploitation and/or abuse of children for any illegal or immoral purpose;</li>
                                     <li>Will not contain any content that is unlawful, libelous, defamatory, obscene, pornographic, indecent, lewd, suggestive, harassing, threatening, invasive of privacy or publicity rights, abusive, inflammatory, fraudulent or otherwise objectionable;</li>
@@ -127,7 +131,7 @@
 
                     <h2 class="h2-title">Trademarks</h2>
                     <div class="text-content">
-                        <p>The “Atrium Legacy Foundation” trademarks and trade names along with the other logos, service marks, slogans, and any other indicia for source of goods and services (collectively the “Marks”) and trade dress contained on the Site are, unless otherwise stated, owned and/or used under license by Atrium Legacy Foundation, Inc., Atrium Legacy Foundation or their affiliates (collectively “Atrium Legacy Foundation”) and may not be copied, imitated or used, in whole or in part, without the prior written permission of Atrium Legacy Foundation. You may not use any metatags or any other “hidden text” utilizing the Marks or trade dress of Atrium Legacy Foundation without our prior written permission. All other trademarks, trade names, logos, service marks and slogans mentioned on the Site are the property of their respective owners. Reference to any third party trademarks, trade names, logos, service marks, products, services, processes, other information or otherwise does not constitute or imply endorsement, sponsorship or recommendation thereof by Atrium Legacy Foundation.</p>
+                        <p>The “Atrium Legacy Foundation” trademarks and trade names along with the other logos, service marks, slogans, and any other indicia for source of goods and services (collectively the “Marks”) and trade dress contained on the Site are, unless otherwise stated, owned and/or used under license by Atrium Legacy Foundation or their affiliates (collectively “Atrium Legacy Foundation”) and may not be copied, imitated or used, in whole or in part, without the prior written permission of Atrium Legacy Foundation. You may not use any metatags or any other “hidden text” utilizing the Marks or trade dress of Atrium Legacy Foundation without our prior written permission. All other trademarks, trade names, logos, service marks and slogans mentioned on the Site are the property of their respective owners. Reference to any third party trademarks, trade names, logos, service marks, products, services, processes, other information or otherwise does not constitute or imply endorsement, sponsorship or recommendation thereof by Atrium Legacy Foundation.</p>
                     </div>
 
                     <!-- <h2 class="h2-title">Accessibility</h2>
@@ -143,7 +147,7 @@
                     <h2 class="h2-title">Questions and Contact Information</h2>
                     <div class="text-content">
                         <p>Questions or comments about the Site may be directed via email to <span class="highlight">info@alf.com</span></p>
-                        <p>Revised September, 2024</p>
+                        <p>Revised October, 2024</p>
                     </div>
                 </div>
             </div>
