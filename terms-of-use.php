@@ -1,10 +1,3 @@
-<?php
-    if (!isset($_SERVER['HTTPS']) || $_SERVER['HTTPS'] !== 'on') {
-        header("Location: https://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']);
-        exit();
-    }
-?>
-
 <!-- https://www.worldvision.ca/terms-and-conditions -->
 <!DOCTYPE html>
 <html lang="en">
@@ -105,7 +98,7 @@
                             <li>You will not copy content from the Site without the prior express written consent of Atrium Legacy Foundation;</li>
                             <li>You will not embed any webpage from our Site in a frame; the Site must be viewed in a browser on its own;</li>
                             <li>You will not imply that Atrium Legacy Foundation is endorsing your organization or your products or otherwise misrepresent your relationship with Atrium Legacy Foundation;</li>
-                            <li>You will ensure that any text-only link or hyperlink to the Site clearly reads <span class="highlight">“www.Atrium Legacy Foundation.ca”</span> or “Atrium Legacy Foundation”;</li>
+                            <li>You will ensure that any text-only link or hyperlink to the Site clearly reads “www.atriumlegacy.com” or “Atrium Legacy Foundation”;</li>
                             <li>You will not use the Marks (as herein defined) without prior written permission of Atrium Legacy Foundation.</li>
                         </ul>
                         <p>You agree to immediately remove any link to the Site at the request of Atrium Legacy Foundation.</p>
@@ -153,7 +146,7 @@
 
                     <h2 class="h2-title">Questions and Contact Information</h2>
                     <div class="text-content">
-                        <p>Questions or comments about the Site may be directed via email to <span class="highlight">info@alf.com</span></p>
+                        <p>Questions or comments about the Site may be directed via email to inquiry@atriumlegacy.com</p>
                         <p>Revised October, 2024</p>
                     </div>
                 </div>

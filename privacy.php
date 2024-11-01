@@ -1,10 +1,3 @@
-<?php
-    if (!isset($_SERVER['HTTPS']) || $_SERVER['HTTPS'] !== 'on') {
-        header("Location: https://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']);
-        exit();
-    }
-?>
-
 <!-- https://www.unicef.ca/en/unicef-canada-internet-privacy-policy -->
 <!DOCTYPE html>
 <html lang="en">
@@ -67,7 +60,7 @@
                         <p>Atrium Legacy Foundation utilizes tools and resources to help it understand its donors and potential donors, gathering information from publicly available resources to assess the capacity of donors and potential donors to support Atrium Legacy Foundation. In some cases this may be done by Atrium Legacy Foundation itself or if more cost effective by third-party contractors who have signed necessary non-disclosure and confidentiality agreements.  Atrium Legacy Foundation uses donor names, addresses and prior giving history to undertake analysis projects for fundraising development and to ensure only effective and relevant communications are sent to donors or potential donors.</p>
                         <p>Atrium Legacy Foundation also collects and uses personal information to generate statistics and aggregate reports for internal use and research.</p>
                         <p>If you make an online request for information, personal information will be collected from you in order to reply to your request.</p>
-                        <p>With your permission, we will also use personal information collected from you  to send you information about Atrium Legacy Foundation fundraising campaigns or major grant initiatives, or updates about public education and advocacy efforts. We may also send you our newsletter or other updates on our charitable programs, or invite you to participate in online surveys and contests. If you do not wish to receive such information you may unsubscribe from our email list at any time by clicking on the ‘unsubscribe’ link at the bottom of every email or by contacting Supporter Relations at <span class="highlight">info@alf.com.</span></p>
+                        <p>With your permission, we will also use personal information collected from you  to send you information about Atrium Legacy Foundation fundraising campaigns or major grant initiatives, or updates about public education and advocacy efforts. We may also send you our newsletter or other updates on our charitable programs, or invite you to participate in online surveys and contests. If you do not wish to receive such information you may unsubscribe from our email list at any time by clicking on the ‘unsubscribe’ link at the bottom of every email or by contacting Supporter Relations at inquiry@atriumlegacy.com</p>
                         <p>If you apply to volunteer with Atrium Legacy Foundation, we collect personal information required to determine your eligibility, to match your skills with Atrium Legacy Foundation’s volunteer needs, to do scheduling and to ensure your safety when working as a volunteer.</p>
                         <p>For petitions and surveys you have signed or completed in support of Atrium Legacy Foundation’s advocacy efforts, we treat your name, city of residence, province/territory of residence, and comments (if any) as public information—for example, we may provide compilations of petitions, with your comments, to political leaders, elected representatives and other public officials and decision-makers  We will not use or disclose your personal information for purposes other than those for which it was collected, except with your consent or as permitted or required by law.</p>
                         <p>We may also make your petition comments, along with your first name, city and province/territory available to the public online, once you have opted to allow that disclosure. However, no identifying information is collected or shared without your consent.</p>
@@ -121,7 +114,7 @@
                     <div class="text-content">
                         <p>If you have any questions about Atrium Legacy Foundation’s Privacy Policy or its privacy practices, or if you wish to request that we do not send you materials, please contact Atrium Legacy Foundation’s Privacy Officer at:</p>
                         <p>200-3071 No.5 Rd Richmond BC V6X 2T4</p>
-                        <p><span class="highlight">email: info@alf.com</span></p>
+                        <p>email: inquiry@atriumlegacy.com</p>
                         <!-- <p>Tel:</p> -->
                         <p>Revised October, 2024</p>
                     </div>

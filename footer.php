@@ -1,10 +1,3 @@
-<?php
-    if (!isset($_SERVER['HTTPS']) || $_SERVER['HTTPS'] !== 'on') {
-        header("Location: https://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']);
-        exit();
-    }
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -148,8 +141,8 @@
                             </div>
                             <div class="text-left pt-2">
                                 <p class="mb-0 pb-2">
-                                    <a class="footer-text" href="mailto:info@alf.com">
-                                        info@alf.com
+                                    <a class="footer-text" href="mailto:inquiry@atriumlegacy.com">
+                                        inquiry@atriumlegacy.com
                                     </a>
                                 </p>
                             <!-- <div class="elementor-widget-container">

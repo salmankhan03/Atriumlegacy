@@ -1,10 +1,3 @@
-<?php
-    if (!isset($_SERVER['HTTPS']) || $_SERVER['HTTPS'] !== 'on') {
-        header("Location: https://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']);
-        exit();
-    }
-?>
-
 <!DOCTYPE html>
     <html lang="en">
         <head>
@@ -266,8 +259,8 @@
                                                 V6X 2T4
                                             </h4>
                                             <h3 class="mb-3">
-                                                <a class="text-content" href="mailto:info@alf.com" id="email">
-                                                    info@alf.com
+                                                <a class="text-content" href="mailto:inquiry@atriumlegacy.com" id="email">
+                                                    inquiry@atriumlegacy.com
                                                 </a>
                                             </h3>                                          
                                             <!-- <h2 class="h2-title" style="font-size:1.5rem">+1 (840) 841-2569</h2> -->
@@ -346,12 +339,12 @@
                                                 <div class="column-1_1">
                                                     <p>
                                                         <span class="wpcf7-submit-style">
-                                                            <input class="wpcf7-form-control wpcf7-submit has-spinner custom-btn3" type="submit" value="Get In Touch">                                                                                            
+                                                            <input class="wpcf7-form-control wpcf7-submit has-spinner custom-btn3" type="submit" value="Get In Touch" disabled>                                                                                            
                                                             <span class="submit-style-in"></span>                                                        
                                                             <label class="ml-3 pt-3">
-                                                                <input type="checkbox" name="acceptance" value="1" aria-invalid="false" class="inited">
+                                                                <input type="checkbox" name="acceptance" value="1" aria-invalid="false" class="inited" id="acceptanceCheckbox">
                                                                 <span class="wpcf7-list-item-label checkbox_position wpcf7-form-control">I agree that my data is 
-                                                                    <a class="wpcf7-form-control" href="/privacy-policy/" style="color:#000; text-decoration:underline;">collected and stored</a>.
+                                                                    <a class="wpcf7-form-control" href="privacy.php" style="color:#4789cc; text-decoration:underline;">collected and stored</a>.
                                                                 </span>
                                                             </label>
                                                         </span>
@@ -368,5 +361,16 @@
                 </div>
             </div> 
             <?php include 'footer.php'; ?>
+            <script>
+                // Get the checkbox and the submit button elements
+                const checkbox = document.getElementById('acceptanceCheckbox');
+                const submitButton = document.querySelector('.wpcf7-submit');
+
+                // Add an event listener to the checkbox to monitor changes
+                checkbox.addEventListener('change', function() {
+                    // Enable the button if checkbox is checked, otherwise keep it disabled
+                    submitButton.disabled = !checkbox.checked;
+                });
+            </script>
         </body>
     </html>
