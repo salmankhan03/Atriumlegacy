@@ -2,7 +2,8 @@
     <html lang="en">
         <head>
             <meta charset="utf-8">
-            <title>Atrium Legacy Foundation</title>
+            <title>Contact ALF | Richmond Not-For-Profit – Reach Us Now</title>
+            <meta name="description" content=" Contact Atrium Legacy Foundation (ALF), a Richmond BC not-for-profit. Email inquiry@atriumlegacy.com or visit 200-3071 No.5 Rd. Partner with us!">
             <meta name="viewport" content="width=device-width, initial-scale=1">
             <meta content="" name="keywords">
             <meta content="" name="description">

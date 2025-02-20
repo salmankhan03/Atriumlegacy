@@ -2,7 +2,8 @@
 <html lang="en">
    <head>
       <meta charset="utf-8">
-      <title>Atrium Legacy Foundation</title>
+      <title>ALF Impact | Education, Senior, Housing & AgriTech</title>
+      <meta name="description" content="As a Canadian not-for-profit organization, ALF drives education, senior wellness, housing & AgriTech initiatives. Empower communities sustainably. Join us!">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <meta content="" name="keywords">
       <meta content="" name="description">

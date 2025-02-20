@@ -2,7 +2,8 @@
 <html lang="en">
    <head>
       <meta charset="utf-8">
-      <title>Atrium Legacy Foundation</title>
+      <title> Volunteer Vancouver/Richmond | Support ALF – Donate Today </title>
+      <meta name="description" content="Volunteer in Vancouver/Richmond with ALF, a Canadian not-for-profit. Donate, partner, or join events to foster empathy, wellness & sustainability.">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <meta content="" name="keywords">
       <meta content="" name="description">

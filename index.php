@@ -3,7 +3,8 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Atrium Legacy Foundation</title>
+    <title>Empathy, Wellness, Sustainability | Atrium Legacy Foundation</title>
+    <meta name="description" content="Atrium Legacy Foundation is a Canadian Not-for-Profit fostering empathy, wellness & sustainability. Explore education, housing, senior & AgriTech initiatives.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta content="" name="keywords">
     <meta content="" name="description">
