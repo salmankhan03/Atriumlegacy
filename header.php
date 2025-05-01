@@ -41,15 +41,15 @@
         	}
         }
         
-        /* @media only screen and (max-width: 768px) {
+        @media only screen and (max-width: 768px) {
         	.header_mid .header_mid_inner > div, 
         	.header_bot .header_bot_inner > div,
         	.header_mid .header_mid_inner .cmsmasters_header_cart_link {
-        		height:auto;
+        		height: 80px;
         	}
         }
         
-        @media only screen and (max-width: 1024px) {
+        /* @media only screen and (max-width: 1024px) {
         	.enable_header_centered .header_mid .header_mid_inner .cmsmasters_header_cart_link {
         		height:auto;
         	}
