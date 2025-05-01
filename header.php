@@ -41,7 +41,7 @@
         	}
         }
         
-        @media only screen and (max-width: 768px) {
+        /* @media only screen and (max-width: 768px) {
         	.header_mid .header_mid_inner > div, 
         	.header_bot .header_bot_inner > div,
         	.header_mid .header_mid_inner .cmsmasters_header_cart_link {
@@ -53,7 +53,7 @@
         	.enable_header_centered .header_mid .header_mid_inner .cmsmasters_header_cart_link {
         		height:auto;
         	}
-        }
+        } */
         
     </style>
     <link rel="stylesheet" id="green-planet-adaptive-css" href="lib/adaptive.css" type="text/css" media="screen, print">
@@ -92,11 +92,11 @@
                     <div class="header_mid_outer">
                         <div class="header_mid_inner">
                             <div class="logo_wrap"><a href="index.php" title="Atrium Legacy Foundation" class="logo"> <img class="headerImg" style="display: block" src="img/icons/ALF_logo_4C.svg" alt="Atrium Legacy Foundation"></a> </div>
-                            <div class="header_donation_but_wrap">
-                                <!-- <div class="header_donation_but_wrap_inner">
+                            <!-- <div class="header_donation_but_wrap">
+                                <div class="header_donation_but_wrap_inner">
                                     <div class="header_donation_but"><a href="donate.php" class="cmsmasters_button"><span>Donate!</span></a></div>
-                                </div> -->
-                            </div>
+                                </div>
+                            </div> -->
                             
                             <div class="resp_mid_nav_wrap">
                                 <div class="resp_mid_nav_outer"><a class="responsive_nav resp_mid_nav" href="javascript:void(0)"><span></span></a></div>
