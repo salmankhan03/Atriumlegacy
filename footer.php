@@ -129,22 +129,18 @@
 <body>
     <footer>
         <div class="header_mid_inner">
-            <div class="row w-100" style="padding-top: 40px;">
-                <div class="col-sm-12 col-md-7 col-lg-7 mb-sm-2">
+            <div class="row" style="padding-top: 40px;">
+                <div class="col-sm-12 col-md-12 col-lg-6 mb-sm-2">
                     <div class="row h-100">
                         <div class="col-sm-12 col-md-7 col-lg-7 d-flex align-items-center">
-                            <!-- <div class="title">
-                                <h2 class="text-left">
-                                    <span class="footerSlogan" style="font-size: 46px">We need <br/> solutions now!</span>
-                                </h2>
-                            </div> -->
-                            <img src="img/icons/ALF_logo_4C.svg" style="width: 250px;">
+                            <img src="img/icons/ALF_logo_4C.svg" alt="Atrium Legacy Foundation Logo" style="width: 250px;">
                         </div>
                     </div>
                 </div>
-                <div class="col-sm-12 col-md-5 col-lg-5 mt-sm-3">
+
+                <div class="col-sm-12 col-md-12 col-lg-6 mt-sm-3">
                     <div class="row mt-3">
-                        <div class="col-sm-12 col-md-6 col-lg-6">
+                        <div class="col-sm-6">
                             <div class="text-left">
                                 <h3 class="white-bold">Address</h3>
                             </div>
@@ -153,9 +149,9 @@
                                 Richmond BC<br />
                                 V6X 2T4
                             </Address>
-
                         </div>
-                        <div class="col-sm-12 col-md-6 col-lg-6">
+
+                        <div class="col-sm-6">
                             <div class="text-left">
                                 <h3 class="white-bold">Contact</h3>
                             </div>
@@ -175,7 +171,7 @@
                     </div>
                 </div>
 
-                <div class="col-12 borderTop">
+                <div class="col-12 borderTop mt-3">
                     <div class="row pt-3 pb-3">
                         <div class="col-sm-12 col-md-6 col-lg-6 pl-0 d-flex justify-content-between align-items-center text-center">
                             <div class="d-flex justify-content-center">
@@ -185,7 +181,7 @@
                                 <a href="./terms-of-use.php" class="mx-2 footer-text footer-text-sm">Terms of Use</a>
                             </div>
                         </div>
-                        <div class="col-sm-12 col-md-6 col-lg-6 pr-0 d-flex align-items-center justify-content-end text-center footer-text footer-text-sm">
+                        <div class="col-sm-12 col-md-6 col-lg-6 p-0 d-flex align-items-center justify-content-md-end text-center footer-text footer-text-sm">
                             <div>
                                 © <?php echo Date('Y'); ?> Intelli Management Group. All Rights Reserved.
                             </div>
