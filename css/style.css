@@ -1,9 +1,9 @@
-@font-face {
+/* @font-face {
     font-family: 'Montserrat';
     src: url('../css/fonts/Montserrat/Montserrat-VariableFont_wght.ttf') format('truetype');
     font-weight: 400;
     font-style: normal;
-}
+} */
 
 @font-face {
     font-family: 'Orpheus Pro';
@@ -17,6 +17,13 @@
     font-family: 'Moisette';
     src: url('../css/fonts/Moisette/Moisette-Regular.otf') format('opentype');
     font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Moisette';
+    src: url('../css/fonts/Moisette/Moisette-Bold.otf') format('opentype');
+    font-weight: 700;
     font-style: normal;
 }
 

@@ -1,3 +1,7 @@
+<?php
+$current_page = basename($_SERVER['PHP_SELF']);
+?>
+
 <!DOCTYPE html>
 <html lang="en-US" class="cmsmasters_html js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients no-cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths" style="">
 
@@ -12,6 +16,9 @@
     <meta name="robots" content="max-image-preview:large">
     <link rel="stylesheet" id="green-planet-theme-style-css" href="lib/style_002.css" type="text/css" media="screen, print">
     <link rel="stylesheet" id="green-planet-style-css" href="lib/style.css" type="text/css" media="screen, print">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
     <style>
         @media only screen and (max-width: 768px) {
             .headerImg {
@@ -54,7 +61,9 @@
         		height:auto;
         	}
         } */
-        
+        #navigation .current a {
+            font-weight: 900 !important;
+        }
     </style>
     <link rel="stylesheet" id="green-planet-adaptive-css" href="lib/adaptive.css" type="text/css" media="screen, print">
     <link rel="stylesheet" id="green-planet-retina-css" href="lib/retina.css" type="text/css" media="screen">
@@ -105,11 +114,21 @@
                                 <nav>
                                     <div class="menu-primary-navigation-container">
                                         <ul id="navigation" class="mid_nav navigation">
-                                            <li id="menu-item-13035" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-7366 current_page_item menu-item-13035 menu-item-depth-0"><a href="index.php"><span class="nav_item_wrap"><span class="nav_title">Home</span></span></a></li>
-                                            <li id="menu-item-14611" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14611 menu-item-depth-0"><a href="about_us.php"><span class="nav_item_wrap"><span class="nav_title">About Us</span></span></a></li>
-                                            <li id="menu-item-14611" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14611 menu-item-depth-0"><a href="initiative.php"><span class="nav_item_wrap"><span class="nav_title">Initiative</span></span></a></li>
-                                            <li id="menu-item-12979" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12979 menu-item-depth-0"><a href="involved.php"><span class="nav_title">Get Involved</span></span></a></li>
-                                            <li id="menu-item-12975" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12979 menu-item-depth-0"><a href="contact_us.php"><span class="nav_title">Contact Us</span></span></a></li>
+                                            <li class="<?php echo ($current_page == 'index.php') ? 'current' : ''; ?>">
+                                                <a href="index.php"><span class="nav_item_wrap"><span class="nav_title">Home</span></span></a>
+                                            </li>
+                                            <li class="<?php echo ($current_page == 'about_us.php') ? 'current' : ''; ?>">
+                                                <a href="about_us.php"><span class="nav_item_wrap"><span class="nav_title">About Us</span></span></a>
+                                            </li>
+                                            <li class="<?php echo ($current_page == 'initiative.php') ? 'current' : ''; ?>">
+                                                <a href="initiative.php"><span class="nav_item_wrap"><span class="nav_title">Initiative</span></span></a>
+                                            </li>
+                                            <li class="<?php echo ($current_page == 'involved.php') ? 'current' : ''; ?>">
+                                                <a href="involved.php"><span class="nav_item_wrap"><span class="nav_title">Get Involved</span></span></a>
+                                            </li>
+                                            <li class="<?php echo ($current_page == 'contact_us.php') ? 'current' : ''; ?>">
+                                                <a href="contact_us.php"><span class="nav_item_wrap"><span class="nav_title">Contact Us</span></span></a>
+                                            </li>
                                         </ul>
                                     </div>
                                 </nav>

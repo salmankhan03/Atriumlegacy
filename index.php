@@ -112,7 +112,7 @@
             <!-- fIRST SECTION -->
 
             <!-- SECOND SECTION -->
-            <div class="" style="background-color: #cfddd0;">
+            <div class="" style="background-color: #e6ede6;">
                 <div class="header_mid_inner pd-0">
                     <div class="content-padding">
                     <div class="row ml-0 mr-0" >

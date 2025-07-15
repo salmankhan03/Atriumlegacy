@@ -2871,14 +2871,14 @@ div.subpage_nav > a {
 .header_mid .header_mid_inner {
   height: 100%;
 }
-.header_mid .header_mid_inner:after {
+/* .header_mid .header_mid_inner:after {
   content: "";
   display: block;
   border: 1px solid;
   clear: both;
   overflow: hidden;
   opacity: 0.25;
-}
+} */
 .header_mid .logo_wrap {
   height: 100%;
   position: relative;

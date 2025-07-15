@@ -6,7 +6,7 @@
     width: 1440px;
   }
   .mid_nav_wrap .mid_nav > li > a {
-    padding: 8px 14px;
+    padding: 8px 16px;
   }
   #page.cmsmasters_boxed {
     width: 1240px;
@@ -33,7 +33,7 @@
     width: 1025px;
   }
   .mid_nav > li > a {
-    padding: 8px 6px;
+    padding: 8px 12px;
   }
   .fixed_header #header {
     position: fixed;
