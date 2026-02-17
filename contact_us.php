@@ -212,10 +212,65 @@
                 .wpcf7-form-control{
                     font-family: 'Montserrat' !important;
                 }
-            /* Form css  */         
-             </style>
+            /* Form css  */
+            
+            /* Toast Notification Styles */
+            .toast-notification {
+                position: fixed;
+                top: 80px;
+                right: 20px;
+                background-color: #4CAF50;
+                color: white;
+                padding: 16px 24px;
+                border-radius: 8px;
+                box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+                z-index: 99999;
+                display: none;
+                min-width: 300px;
+                animation: slideIn 0.3s ease-out;
+                font-size: 14px;
+                font-weight: 500;
+            }
+            
+            .toast-notification.error {
+                background-color: #f44336;
+            }
+            
+            .toast-notification.show {
+                display: block;
+            }
+            
+            @keyframes slideIn {
+                from {
+                    transform: translateX(100%);
+                    opacity: 0;
+                }
+                to {
+                    transform: translateX(0);
+                    opacity: 1;
+                }
+            }
+            
+            @keyframes slideOut {
+                from {
+                    transform: translateX(0);
+                    opacity: 1;
+                }
+                to {
+                    transform: translateX(100%);
+                    opacity: 0;
+                }
+            }
+            
+            .toast-notification.hide {
+                animation: slideOut 0.3s ease-in;
+            }
+            </style>
         </head>
         <body>
+            <!-- Toast Notification -->
+            <div id="toast" class="toast-notification"></div>
+            
             <?php include 'header.php'; ?> 
                 <div id="middle">
                     <div class="middle_inner ">
@@ -340,7 +395,8 @@
                                                 <div class="column-1_1">
                                                     <p>
                                                         <span class="wpcf7-submit-style">
-                                                            <input class="wpcf7-form-control wpcf7-submit has-spinner custom-btn3" type="submit" value="Get In Touch" disabled>                                                                                            
+                                                            <input type="hidden" name="recaptcha_token" id="recaptchaToken">
+                                                            <input class="wpcf7-form-control wpcf7-submit has-spinner custom-btn3" type="submit" value="Get In Touch" disabled>                                                                                             
                                                             <span class="submit-style-in"></span>                                                        
                                                             <label class="ml-3 pt-3">
                                                                 <input type="checkbox" name="acceptance" value="1" aria-invalid="false" class="inited" id="acceptanceCheckbox">
@@ -362,15 +418,74 @@
                 </div>
             </div> 
             <?php include 'footer.php'; ?>
+            <script src="https://www.google.com/recaptcha/api.js?render=6LcdmPkrAAAAAIwGqAkl04My2kr5fYy-UlDNaMyZ"></script>
             <script>
+                // Toast notification function
+                function showToast(message, isError = false) {
+                    const toast = document.getElementById('toast');
+                    toast.textContent = message;
+                    toast.className = 'toast-notification show' + (isError ? ' error' : '');
+                    
+                    setTimeout(function() {
+                        toast.classList.add('hide');
+                        setTimeout(function() {
+                            toast.classList.remove('show', 'hide');
+                        }, 300);
+                    }, 4000);
+                }
+                
                 // Get the checkbox and the submit button elements
                 const checkbox = document.getElementById('acceptanceCheckbox');
                 const submitButton = document.querySelector('.wpcf7-submit');
-
+                const form = document.querySelector('.wpcf7-form');
+                
                 // Add an event listener to the checkbox to monitor changes
                 checkbox.addEventListener('change', function() {
-                    // Enable the button if checkbox is checked, otherwise keep it disabled
                     submitButton.disabled = !checkbox.checked;
+                });
+                
+                // Handle form submission with reCAPTCHA v3 and AJAX
+                form.addEventListener('submit', function(e) {
+                    e.preventDefault();
+                    
+                    // Disable submit button to prevent multiple submissions
+                    submitButton.disabled = true;
+                    submitButton.value = 'Sending...';
+                    
+                    grecaptcha.ready(function() {
+                        grecaptcha.execute('6LcdmPkrAAAAAIwGqAkl04My2kr5fYy-UlDNaMyZ', {action: 'submit'}).then(function(token) {
+                            document.getElementById('recaptchaToken').value = token;
+                            
+                            // Prepare form data
+                            const formData = new FormData(form);
+                            
+                            // Send AJAX request
+                            fetch('send_mail.php', {
+                                method: 'POST',
+                                body: formData
+                            })
+                            .then(response => response.text())
+                            .then(data => {
+                                // Check if the response contains success message
+                                if (data.includes('Thank you for contacting us')) {
+                                    showToast('Thank you for contacting us. We will get back to you shortly.');
+                                    form.reset(); // Clear the form
+                                    checkbox.checked = false;
+                                    submitButton.disabled = true;
+                                } else {
+                                    showToast('Message could not be sent. Please try again.', true);
+                                }
+                            })
+                            .catch(error => {
+                                showToast('An error occurred. Please try again.', true);
+                                console.error('Error:', error);
+                            })
+                            .finally(() => {
+                                submitButton.disabled = false;
+                                submitButton.value = 'Get In Touch';
+                            });
+                        });
+                    });
                 });
             </script>
         </body>
