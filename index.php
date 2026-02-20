@@ -82,10 +82,8 @@
             <!-- FIRST SECTION -->
             <div class="row">
                 <div class="col-md-8">
-                    <div class="left-section-padding left-margin-top-bottom">
-                        <div class="h2-heading-section-space">
-                            <h2 class="h2-title mb-3">Welcome to <br> Atrium Legacy Foundation</h2>
-                        </div>
+                    <div class="left-section-padding section-margin">
+                        <h2 class="h2-title mb-3">Welcome to <br> Atrium Legacy Foundation</h2>
                         <div class="text-content-space">
                             <h4 class="text-content mb-3">Atrium Legacy Foundation is a community-based organization focused on enhancing the well-being, dignity, and social inclusion of seniors. As our population continues to age, we believe older adults should remain active, engaged, and valued members of society.</h4>
                             <h4 class="text-content">We work alongside families, volunteers, and community partners to create inclusive programs that support physical health, mental wellness, and meaningful engagement.</h4>
@@ -105,18 +103,16 @@
             </div>
             <!-- FIRST SECTION -->
 
-            <div class="row align-items-center justify-content-center">
-                <div class="col-md-4 order-md-1 order-2 about-story-bg">
-                    <div class="text-center right-content-padding ">
+            <div class="row">
+                <div class="col-md-4 order-md-1 order-2 d-flex align-items-center justify-content-center about-story-bg">
+                    <div class="text-center right-content-padding">
                         <h2 class="blue-header">We focus on proactive, community-based solutions that help seniors stay active, engaged, and independent as they age.</h2>
                     </div>
                 </div>
-                <div class="col-md-8 order-md-2 order-1">
-                    <div class="left-section-padding left-margin-top-bottom">
-                        <div class="h2-heading-section-space mb-3">
-                            <h2 class="h2-title mb-3">Supporting Healthy Aging in Our Communities</h2>
-                        </div>
-                        <div class="text-content-space mb-3">
+                <div class="col-md-8 order-md-2 order-1 d-flex align-items-center justify-content-center">
+                    <div class="left-section-padding section-margin">
+                        <h2 class="h2-title mb-3">Supporting Healthy Aging in Our Communities</h2>
+                        <div class="text-content-space mb-0">
                             <h4 class="text-content">Canada’s aging population is reshaping how communities support older adults. Healthy aging requires a proactive approach that prioritizes prevention, social participation, and strong community connections.</h4>
                             <h4 class="text-content">Atrium Legacy Foundation works to advance these approaches through collaboration and inclusive community initiatives—supporting seniors to remain active, engaged, and independent in the communities they call home.</h4>
                         </div>
@@ -242,7 +238,7 @@
 
                     <div class="col-md-6 col-lg-6 pl-0 pr-0 d-flex align-items-center">
                         <div class="text-left p-3 px-md-5 py-md-0">
-                            <h2 class="h2-title pb-2">Be Part of the Change</h2>
+                            <h2 class="h2-title mb-3">Be Part of the Change</h2>
                             <div class="italic-heading mb-3">There are many ways to support our mission:</div>
                             <ul>
                                 <li class="text-content">Volunteer your time and care</li>

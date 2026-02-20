@@ -88,25 +88,24 @@
                     <h2 class="banner-header text-center white-text">
                         About Us
                     </h2>
+                    <h2 class="banner-title">Advancing healthy aging, community connection, and inclusive support for seniors and caregivers.</h2>
                 </div>
             </div>
             <!-- Banner -->
 
             <div class="row">
-                <div class="col-md-4 col-lg-4 col-sm-12 d-flex align-items-center justify-content-center about-story-bg">
-                    <div class="text-center right-content-padding ">
-                        <h2 class="blue-header">Founded on the belief that strong communities honor and support their seniors.</h2>
+                <div class="col-md-4 d-flex align-items-center justify-content-center about-story-bg">
+                    <div class="text-center right-content-padding">
+                        <h2 class="blue-header">We believe healthy aging begins with strong, connected communities that respect and support every senior.</h2>
                     </div>
                 </div>
-                <div class="col-md-8 col-lg-8 col-sm-12">
-                    <div class="left-section-padding left-margin-top-bottom">
-                        <div class="h2-heading-section-space mb-5">
-                            <h2 class="h2-title mb-4">Our Story</h2>
-                        </div>
-                        <div class="text-content-space">
-                            <h4 class="text-content">
-                                The Atrium Legacy Foundation was established to strengthen community support for seniors and deepen engagement around aging. Recognizing the need for deeper connection and respect in later life, the foundation promotes wellness, social participation, and stronger local networks that keep seniors involved and valued.
-                            </h4>
+                <div class="col-md-8 d-flex align-items-center justify-content-center">
+                    <div class="left-section-padding section-margin">
+                        <h2 class="h2-title mb-3">Our Story</h2>
+                        <div class="text-content-space mb-0">
+                            <h4 class="text-content">Atrium Legacy Foundation was established in response to the growing needs of seniors and caregivers in today’s rapidly aging communities. As life expectancy increases, many families face challenges related to social isolation, mobility, and access to meaningful community engagement.</h4>
+                            <h4 class="text-content">We recognized the importance of shifting from reactive care toward preventive, community-based support. Our work focuses on strengthening local networks, promoting wellness, and creating opportunities for seniors to remain active, connected, and valued.</h4>
+                            <h4 class="text-content">Our initial focus is on Richmond and surrounding communities, where we aim to build strong, locally responsive programs. Over time, we hope to share and expand successful community-based approaches to support seniors in other regions.</h4>
                         </div>
                     </div>
                 </div>
@@ -115,18 +114,18 @@
             <div style="background-color: #e6ede6;">
                 <div class="content-padding">
                     <div class="header_mid_inner pd-0">
-                        <div class="row ml-0 mr-0">
-                            <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0">
+                        <div class="row mx-0">
+                            <div class="col-md-6 px-0">
                                 <div class="our-mission" id="our-mission">
                                     <div class="mb-4 banner-title" style="color:#000;">OUR MISSION</div>
-                                    <h4 class="mb-4 our-mission-header" style="color:#000;">To promote dignified aging by strengthening community support systems and advancing holistic senior wellness.</h4>
+                                    <h4 class="mb-4 our-mission-header" style="color:#000;">To strengthen community-based support systems that promote dignity, wellness, and social connection for seniors, enabling them to live active, meaningful, and independent lives.</h4>
                                     <!-- <p class="pb-0 mb-0 text-content">Through our initiatives, we aim to address pressing societal challenges with innovative approaches that prioritize empathy, social responsibility, and community engagement.</p> -->
                                 </div>
                             </div>
-                            <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0">
+                            <div class="col-md-6 px-0">
                                 <div class="our-vision">
                                     <div class="mb-4 banner-title" style="color:#000;">OUR VISION</div>
-                                    <h4 class="mb-4 our-mission-header" style="color:#000;">We envision communities where dignity, respect, and access to resources are shared realities for every generation.</h4>
+                                    <h4 class="mb-4 our-mission-header" style="color:#000;">We envision inclusive communities where every senior is valued, connected, and empowered to contribute, and where aging is embraced as a vital and respected stage of life.</h4>
                                     <!-- <p class="pb-0 mb-0 text-content">By fostering collaboration and innovation, we aim to create lasting impact that uplifts not just the present generation, but also future ones.</p> -->
                                 </div>
                             </div>
@@ -136,19 +135,17 @@
             </div>
 
             <div class="row">
-                <div class="col-md-8 col-lg-8 col-sm-12">
-                    <div class="left-section-padding left-margin-top-bottom">
-                        <div class="h2-heading-section-space mb-5">
-                            <h2 class="h2-title mb-4">Our Team</h2>
-                        </div>
+                <div class="col-md-8">
+                    <div class="left-section-padding section-margin">
+                        <h2 class="h2-title mb-3">Our Team</h2>
                         <div class="text-content-space">
-                            <h4 class="text-content">
-                                Our dedicated team comprises passionate leaders, experienced professionals, and visionary advisors who share a common goal: to make a lasting difference.
-                            </h4>
+                            <h4 class="text-content">Atrium Legacy Foundation is guided by a dedicated group of community leaders, professionals, and advisors who are committed to advancing healthy aging and social inclusion.</h4>
+                            <h4 class="text-content">Our board and advisors bring diverse experience in healthcare, community development, and social impact. Together, they support responsible governance, ethical leadership, and the long-term sustainability of the foundation.</h4>
+                            <h4 class="text-content">Our board and advisors provide independent oversight and guidance, ensuring responsible governance, ethical leadership, and long-term sustainability in all of our programs and initiatives.</h4>
                         </div>
 
-                        <div class="row">
-                            <div class="col-md-5 col-lg-5 col-sm-12 pl-0 pr-0 d-flex align-items-center roles">
+                        <!-- <div class="row">
+                            <div class="col-md-5 px-0 d-flex align-items-center roles">
                                 <div class="d-block">
                                     <ul class="nav nav-tabs w-100 d-flex no-bullets" id="myTab" role="tablist" style=" justify-content: space-between; border-bottom: none;">
                                         <li class="nav-item p-0 d-flex align-items-center" role="presentation">
@@ -174,7 +171,7 @@
                                     </ul>
                                 </div>
                             </div>
-                            <div class="col-md-7 col-lg-7 col-sm-12 d-flex align-items-center">
+                            <div class="col-md-7 d-flex align-items-center">
                                 <div class="tab-content p-3" id="myTabContent" style="font-size:18px">
                                     <div class="tab-pane fade show active" id="founder" role="tabpanel" aria-labelledby="founder-tab">
                                         <p class="m-0 p-0">A visionary leader with a deep commitment to social impact, our CEO has been the driving force behind the foundation's mission to empower communities and create lasting change.</p>
@@ -190,28 +187,29 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
-                <div class="col-md-4 col-lg-4 col-sm-12 d-flex align-items-center justify-content-center about-team-bg">
+                <div class="col-md-4 d-flex align-items-center justify-content-center about-team-bg">
                     <div class="text-center right-content-padding ">
-                        <h2 class="blue-header">Together, we work tirelessly to develop and implement programs that address the most urgent needs of our communities.</h2>
+                        <h2 class="blue-header">Together, we collaborate with families, professionals, and community partners to develop practical and inclusive solutions that support healthy aging.</h2>
                     </div>
                 </div>
             </div>
 
             <div class="custom-banner w-100">
-                <div class="header_mid_inner pd-0 ">
+                <div class="header_mid_inner pd-0">
                     <div class="content-padding">
-                        <div class="row ml-0 mr-0">
-                            <div class="col-sm-12 col-md-6 col-lg-6 pl-3 pr-3">
-                                <div class="p-xs-0 ">
-                                    <div class="h2-heading-section-space">
-                                        <h2 class="h2-title" style="color: #ffffff;">Partnership Opportunities</h2>
-                                    </div>
+                        <div class="row mx-0">
+                            <div class="col-md-6 px-3">
+                                <div class="p-xs-0">
+                                    <h2 class="h2-title" style="color: #ffffff;">Partnership Opportunities</h2>
                                     <div class="text-content-space">
                                         <h4 class="text-content-white">
-                                            The Atrium Legacy Foundation is always looking for new partners who share our commitment to social impact. Whether you are a corporation, non-profit, or community group, we invite you to join us in building a better future. Contact us to explore collaboration opportunities.
+                                            Atrium Legacy Foundation welcomes collaboration with organizations that share our commitment to healthy aging and community well-being. We work with non-profits, healthcare providers, businesses, and community groups to strengthen local support networks and expand access to inclusive programs.
+                                        </h4>
+                                        <h4 class="text-content-white">
+                                            If you are interested in partnering to support seniors and caregivers, we invite you to connect with us.
                                         </h4>
                                     </div>
                                     <div id="" class="button_wrap">
@@ -229,7 +227,7 @@
     </div>
 
     <!-- Show tab when hovering -->
-    <script>
+    <!-- <script>
         $(document).ready(function() {
             var hoverTimeout;
             $('.nav-link').hover(function() {
@@ -246,7 +244,7 @@
                 e.preventDefault();
             });
         });
-    </script>
+    </script> -->
 
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>

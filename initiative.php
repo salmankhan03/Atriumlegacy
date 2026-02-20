@@ -543,9 +543,7 @@
                <div class="row ml-0 mr-0">
                   <div class="col-sm-12 col-md-6 col-lg-6 pl-3 pr-3">
                      <div class="" style="padding: 100px 0;">
-                        <div class="h2-heading-section-space">
-                           <h2 class="h2-title" style="color:#fff;">Future Initiatives</h2>
-                        </div>
+                        <h2 class="h2-title" style="color:#fff;">Future Initiatives</h2>
                         <div class="">
                            <h4 class="text-content-white">
                               As we continue to grow and learn from our communities, Atrium Legacy Foundation is committed to expanding our portfolio of initiatives. Our goal is to remain responsive to emerging needs and challenges, ensuring that our work continues to create positive and sustainable change.

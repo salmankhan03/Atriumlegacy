@@ -291,12 +291,9 @@
                             <div class="row ml-0 mr-0" >
                                 <div class="col-12 pl-0 pr-0">
                                     <div class="content-padding">
-                                        <div class="h2-heading-section-space">
-                                            <!-- <h2 class="h2-title">Why Get Involved?</h2> -->
-                                            <h2 class="pl-4 pr-4 italic-heading" style="text-align: center;">
-                                                We are here to connect with you, answer your questions, and explore how we can work together to create a lasting impact. Please don’t hesitate to reach out to us using the contact details below.
-                                            </h2>
-                                        </div>
+                                        <h2 class="px-4 italic-heading text-center">
+                                            We are here to connect with you, answer your questions, and explore how we can work together to create a lasting impact. Please don’t hesitate to reach out to us using the contact details below.
+                                        </h2>
                                     </div>
                                 </div>
                             </div>  
@@ -305,9 +302,7 @@
                             <div class="row ml-0 mr-0" >
                                 <div class="col-sm-12 col-md-4 col-lg-4 pl-0 pr-0">
                                     <div class="pt-5 pb-5 p-xs-0 ">
-                                        <div class="h2-heading-section-space">
-                                            <h2 class="h2-title" style="font-size:2rem">Contact Details</h2>
-                                        </div>
+                                        <h2 class="h2-title" style="font-size:2rem">Contact Details</h2>
                                         <div class="text-content-space">
                                             <h4 class="text-content mb-3">
                                                 200-3071 No.5 Rd <br/>

@@ -395,11 +395,10 @@ p {
 
 .h2-heading-section-space {
     text-align: left;
-    /* margin-top: 190px; */
     margin-bottom: 15px;
 }
 
-.left-margin-top-bottom {
+.section-margin {
     margin-top: 100px;
     margin-bottom: 100px
 }

@@ -83,14 +83,14 @@
 
             <!-- <div class="row">
                <div class="col-md-6">
-                  <div class="left-section-padding left-margin-top-bottom">
+                  <div class="left-section-padding section-margin">
                      <div class="p-xs-0 ">
                         <h2 class="h2-title mb-0">Ways to Get Involved</h2>
                      </div>
                   </div>
                </div>
                <div class="col-md-6">
-                  <div class="left-section-padding left-margin-top-bottom">
+                  <div class="left-section-padding section-margin">
                      <p class="mb-0 pb-0">We understand that creating meaningful social impact requires collective effort. Whether you are an individual, a corporation, or a community organization, there are many ways to get involved and contribute to our mission of fostering empathy, wellness, and sustainability. Your support, time, and resources are invaluable in helping us drive positive change and make a tangible difference in the lives of those we serve.</p>
                   </div>
                </div>
@@ -99,7 +99,7 @@
             <!--Third Section  -->
             <div class="row">
                <div class="col-md-6 order-md-1 order-2">
-                  <div class="left-section-padding left-margin-top-bottom">
+                  <div class="left-section-padding section-margin">
                      <div class="h2-heading-section-space">
                         <h2 class="h2-title mb-4">Donate</h2>
                         <h5 class="italic-heading">
@@ -131,7 +131,7 @@
                   </div>
                </div>
                <div class="col-md-6">
-                  <div class="left-section-padding left-margin-top-bottom">
+                  <div class="left-section-padding section-margin">
                      <div class="h2-heading-section-space">
                         <h2 class="h2-title mb-4">Volunteer</h2>
                         <h5 class="italic-heading">
@@ -153,7 +153,7 @@
             </div>
             <div class="row">
                <div class="col-md-6 order-md-1 order-2">
-                  <div class="left-section-padding left-margin-top-bottom">
+                  <div class="left-section-padding section-margin">
                      <div class="h2-heading-section-space">
                         <h2 class="h2-title mb-4">Partner with Us</h2>
                         <h5 class="italic-heading">
@@ -183,7 +183,7 @@
                   </div>
                </div>
                <div class="col-md-6">
-                  <div class="left-section-padding left-margin-top-bottom">
+                  <div class="left-section-padding section-margin">
                      <div class="h2-heading-section-space">
                         <h2 class="h2-title mb-4">Attend an Event</h2>
                         <h5 class="italic-heading">
