@@ -54,6 +54,7 @@ ul > li:before {
   position: relative;
   -webkit-border-radius: 50%;
   border-radius: 50%;
+  background-color: #000000 !important;
 }
 ol {
   list-style-type: decimal-leading-zero;

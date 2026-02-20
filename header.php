@@ -28,39 +28,36 @@ $current_page = basename($_SERVER['PHP_SELF']);
     </style>
     <style id="green-planet-style-inline-css" type="text/css">
         .header_mid .header_mid_inner .logo_wrap {
-        	width : 210px;
+            width: 210px;
         }
-        
+
         .header_mid_inner .logo img.logo_retina {
-        	width : 210px;
+            width: 210px;
         }
-        
+
         @media only screen and (max-width: 1024px) {
-        	.header_top,
-        	.header_mid,
-        	.header_bot {
-        		height : auto;
-        	}
-        	
-        	.header_mid .header_mid_inner > div,
-        	.header_mid .header_mid_inner .cmsmasters_header_cart_link {
-        		height : 120px;
-        	}
+
+            .header_top,
+            .header_mid,
+            .header_bot {
+                height: auto;
+            }
+
+            .header_mid .header_mid_inner>div,
+            .header_mid .header_mid_inner .cmsmasters_header_cart_link {
+                height: 120px;
+            }
         }
-        
+
         @media only screen and (max-width: 768px) {
-        	.header_mid .header_mid_inner > div, 
-        	.header_bot .header_bot_inner > div,
-        	.header_mid .header_mid_inner .cmsmasters_header_cart_link {
-        		height: 80px;
-        	}
+
+            .header_mid .header_mid_inner>div,
+            .header_bot .header_bot_inner>div,
+            .header_mid .header_mid_inner .cmsmasters_header_cart_link {
+                height: 80px;
+            }
         }
-        
-        /* @media only screen and (max-width: 1024px) {
-        	.enable_header_centered .header_mid .header_mid_inner .cmsmasters_header_cart_link {
-        		height:auto;
-        	}
-        } */
+
         #navigation .current a {
             font-weight: 900 !important;
         }
@@ -68,20 +65,21 @@ $current_page = basename($_SERVER['PHP_SELF']);
     <link rel="stylesheet" id="green-planet-adaptive-css" href="lib/adaptive.css" type="text/css" media="screen, print">
     <link rel="stylesheet" id="green-planet-retina-css" href="lib/retina.css" type="text/css" media="screen">
     <style id="green-planet-retina-inline-css" type="text/css">
-        #cmsmasters_row_83hce86sns .cmsmasters_row_outer_parent { 
-        	padding-bottom: 0px; 
-        } 
-        
-        #cmsmasters_row_83hce86sns .cmsmasters_row_inner.cmsmasters_row_fullwidth { 
-        	padding-left:0%; 
-        } 
-        #cmsmasters_row_83hce86sns .cmsmasters_row_inner.cmsmasters_row_fullwidth { 
-        	padding-right:0%; 
-        } 
-        
-        #cmsmasters_row_ucs4e1cfdh .cmsmasters_row_outer_parent { 
-        	padding-top: 0px; 
-        } 
+        #cmsmasters_row_83hce86sns .cmsmasters_row_outer_parent {
+            padding-bottom: 0px;
+        }
+
+        #cmsmasters_row_83hce86sns .cmsmasters_row_inner.cmsmasters_row_fullwidth {
+            padding-left: 0%;
+        }
+
+        #cmsmasters_row_83hce86sns .cmsmasters_row_inner.cmsmasters_row_fullwidth {
+            padding-right: 0%;
+        }
+
+        #cmsmasters_row_ucs4e1cfdh .cmsmasters_row_outer_parent {
+            padding-top: 0px;
+        }
     </style>
     <link rel="stylesheet" id="green-planet-fonts-schemes-css" href="lib/green-planet.css" type="text/css" media="screen">
     <link rel="stylesheet" id="green-planet-donations-style-css" href="lib/plugin-style_002.css" type="text/css" media="screen">
@@ -100,13 +98,12 @@ $current_page = basename($_SERVER['PHP_SELF']);
                 <div class="header_mid" data-height="120">
                     <div class="header_mid_outer">
                         <div class="header_mid_inner">
-                            <div class="logo_wrap"><a href="index.php" title="Atrium Legacy Foundation" class="logo"> <img class="headerImg" style="display: block" src="img/icons/ALF_logo_4C.svg" alt="Atrium Legacy Foundation"></a> </div>
-                            <!-- <div class="header_donation_but_wrap">
-                                <div class="header_donation_but_wrap_inner">
-                                    <div class="header_donation_but"><a href="donate.php" class="cmsmasters_button"><span>Donate!</span></a></div>
-                                </div>
-                            </div> -->
-                            
+                            <div class="logo_wrap">
+                                <a href="index.php" title="Atrium Legacy Foundation" class="logo">
+                                    <img class="headerImg" style="display: block" src="img/icons/ALF_logo_4C.svg" alt="Atrium Legacy Foundation">
+                                </a>
+                            </div>
+
                             <div class="resp_mid_nav_wrap">
                                 <div class="resp_mid_nav_outer"><a class="responsive_nav resp_mid_nav" href="javascript:void(0)"><span></span></a></div>
                             </div>
@@ -132,55 +129,64 @@ $current_page = basename($_SERVER['PHP_SELF']);
                                         </ul>
                                     </div>
                                 </nav>
-                            </div><!-- Finish Navigation -->
+                            </div>
+                            <!-- Finish Navigation -->
                         </div>
                     </div>
                 </div>
-            </header> <!-- Finish Header -->
-            <!-- Start Middle -->
+            </header>
+            <!-- Finish Header -->
         </div>
-    
-    </div> 
-    <span class="cmsmasters_responsive_width"></span> 
-    
-   
+
+    </div>
+    <span class="cmsmasters_responsive_width"></span>
+
+
     <link rel="stylesheet" id="rs-plugin-settings-css" href="lib/rs6.css" type="text/css" media="all">
     <script type="text/javascript" src="lib/waypoints.min.js" id="waypoints-js"></script>
     <script type="text/javascript" id="green-planet-script-js-extra">
-        var cmsmasters_script = {"theme_url":"https:\/\/green-planet.cmsmasters.net\/wp-content\/themes\/green-planet","site_url":"https:\/\/green-planet.cmsmasters.net\/","ajaxurl":"https:\/\/green-planet.cmsmasters.net\/wp-admin\/admin-ajax.php","nonce_ajax_like":"44eb097f84","nonce_ajax_view":"6d9b429948","project_puzzle_proportion":"0.7069","gmap_api_key":"AIzaSyCdSU-5IJU54ENHjX1zZgo-N8Tj1JJVppk","gmap_api_key_notice":"Please add your Google Maps API key","gmap_api_key_notice_link":"read more how","primary_color":"#2e404b","ilightbox_skin":"dark","ilightbox_path":"vertical","ilightbox_infinite":"0","ilightbox_aspect_ratio":"1","ilightbox_mobile_optimizer":"0","ilightbox_max_scale":"1","ilightbox_min_scale":"0.2","ilightbox_inner_toolbar":"0","ilightbox_smart_recognition":"0","ilightbox_fullscreen_one_slide":"0","ilightbox_fullscreen_viewport":"center","ilightbox_controls_toolbar":"1","ilightbox_controls_arrows":"0","ilightbox_controls_fullscreen":"1","ilightbox_controls_thumbnail":"1","ilightbox_controls_keyboard":"1","ilightbox_controls_mousewheel":"1","ilightbox_controls_swipe":"1","ilightbox_controls_slideshow":"0","ilightbox_close_text":"Close","ilightbox_enter_fullscreen_text":"Enter Fullscreen (Shift+Enter)","ilightbox_exit_fullscreen_text":"Exit Fullscreen (Shift+Enter)","ilightbox_slideshow_text":"Slideshow","ilightbox_next_text":"Next","ilightbox_previous_text":"Previous","ilightbox_load_image_error":"An error occurred when trying to load photo.","ilightbox_load_contents_error":"An error occurred when trying to load contents.","ilightbox_missing_plugin_error":"The content your are attempting to view requires the <a href='{pluginspage}' target='_blank'>{type} plugin<\\\/a>."};
+        var cmsmasters_script = {
+            "theme_url": "https:\/\/green-planet.cmsmasters.net\/wp-content\/themes\/green-planet",
+            "site_url": "https:\/\/green-planet.cmsmasters.net\/",
+            "ajaxurl": "https:\/\/green-planet.cmsmasters.net\/wp-admin\/admin-ajax.php",
+            "nonce_ajax_like": "44eb097f84",
+            "nonce_ajax_view": "6d9b429948",
+            "project_puzzle_proportion": "0.7069",
+            "gmap_api_key": "AIzaSyCdSU-5IJU54ENHjX1zZgo-N8Tj1JJVppk",
+            "gmap_api_key_notice": "Please add your Google Maps API key",
+            "gmap_api_key_notice_link": "read more how",
+            "primary_color": "#2e404b",
+            "ilightbox_skin": "dark",
+            "ilightbox_path": "vertical",
+            "ilightbox_infinite": "0",
+            "ilightbox_aspect_ratio": "1",
+            "ilightbox_mobile_optimizer": "0",
+            "ilightbox_max_scale": "1",
+            "ilightbox_min_scale": "0.2",
+            "ilightbox_inner_toolbar": "0",
+            "ilightbox_smart_recognition": "0",
+            "ilightbox_fullscreen_one_slide": "0",
+            "ilightbox_fullscreen_viewport": "center",
+            "ilightbox_controls_toolbar": "1",
+            "ilightbox_controls_arrows": "0",
+            "ilightbox_controls_fullscreen": "1",
+            "ilightbox_controls_thumbnail": "1",
+            "ilightbox_controls_keyboard": "1",
+            "ilightbox_controls_mousewheel": "1",
+            "ilightbox_controls_swipe": "1",
+            "ilightbox_controls_slideshow": "0",
+            "ilightbox_close_text": "Close",
+            "ilightbox_enter_fullscreen_text": "Enter Fullscreen (Shift+Enter)",
+            "ilightbox_exit_fullscreen_text": "Exit Fullscreen (Shift+Enter)",
+            "ilightbox_slideshow_text": "Slideshow",
+            "ilightbox_next_text": "Next",
+            "ilightbox_previous_text": "Previous",
+            "ilightbox_load_image_error": "An error occurred when trying to load photo.",
+            "ilightbox_load_contents_error": "An error occurred when trying to load contents.",
+            "ilightbox_missing_plugin_error": "The content your are attempting to view requires the <a href='{pluginspage}' target='_blank'>{type} plugin<\\\/a>."
+        };
     </script>
-    <!-- <script type="text/javascript" src="lib/jquery.script.js" id="green-planet-script-js"></script> -->
     <script type="text/javascript" src="lib/jquery.theme-script.js" id="green-planet-theme-script-js"></script>
-    <!-- <script id="rs-initialisation-scripts">
-        var	tpj = jQuery;
-        
-        var	revapi1;
-        
-        if(window.RS_MODULES === undefined) window.RS_MODULES = {};
-        if(RS_MODULES.modules === undefined) RS_MODULES.modules = {};
-        RS_MODULES.modules["revslider11"] = {once: RS_MODULES.modules["revslider11"]!==undefined ? RS_MODULES.modules["revslider11"].once : undefined, init:function() {
-        	window.revapi1 = window.revapi1===undefined || window.revapi1===null || window.revapi1.length===0  ? document.getElementById("rev_slider_1_1") : window.revapi1;
-        	if(window.revapi1 === null || window.revapi1 === undefined || window.revapi1.length==0) { window.revapi1initTry = window.revapi1initTry ===undefined ? 0 : window.revapi1initTry+1; if (window.revapi1initTry<20) requestAnimationFrame(function() {RS_MODULES.modules["revslider11"].init()}); return;}
-        	window.revapi1 = jQuery(window.revapi1);
-        	if(window.revapi1.revolution==undefined){ revslider_showDoubleJqueryError("rev_slider_1_1"); return;}
-        	revapi1.revolutionInit({
-        			revapi:"revapi1",
-        			duration:5000,
-        			visibilityLevels:"1240,1024,778,480",
-        			gridwidth:"1360,1024,778,480",
-        			gridheight:"830,768,778,580",
-        			lazyType:"smart",
-        			spinner:"spinner0",
-        			perspectiveType:"local",
-        			responsiveLevels:"1240,1024,778,480",
-        			progressBar:{disableProgressBar:true},
-        			navigation: {
-        				mouseScrollNavigation:false,
-        				onHoverStop:false,
-        			},
-        	});
-        }} 
-    </script> -->
 </body>
 
 </html>
