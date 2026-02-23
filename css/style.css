@@ -309,7 +309,6 @@ p {
     line-height: 1.5;
 }
 
-
 .left-section-padding {
     padding: 0 24% 0 30%;
 }
@@ -506,35 +505,39 @@ p {
 }
 
 .icon1 {
-    background-image: url("../img/icons/Green/ReStart_Education.png");
+    background-image: url("../img/home/home_icon_1.svg");
 }
 
 .icon2 {
-    background-image: url("../img/icons/Green/Aging_Grace.png");
+    background-image: url("../img/home/home_icon_2.svg");
 }
 
 .icon3 {
-    background-image: url("../img/icons/Green/HomeStrong.png");
+    background-image: url("../img/home/home_icon_3.svg");
 }
 
 .icon4 {
-    background-image: url("../img/icons/Green/AgriThrive.png");
+    background-image: url("../img/home/home_icon_4.svg");
 }
 
 .cards:hover .icon1 {
-    background-image: url("../img/icons/White/ReStart_Education.png");
+    background-image: url("../img/home/home_icon_1_hover.svg");
 }
 
 .cards:hover .icon2 {
-    background-image: url("../img/icons/White/Aging_Grace.png");
+    background-image: url("../img/home/home_icon_2_hover.svg");
 }
 
 .cards:hover .icon3 {
-    background-image: url("../img/icons/White/HomeStrong.png");
+    background-image: url("../img/home/home_icon_3_hover.svg");
 }
 
 .cards:hover .icon4 {
-    background-image: url("../img/icons/White/AgriThrive.png");
+    background-image: url("../img/home/home_icon_4_hover.svg");
+}
+
+.involved-section-padding {
+    padding: 0 150px 0 150px;
 }
 
 @media (max-width: 1024px) {

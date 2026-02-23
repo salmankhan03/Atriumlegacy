@@ -62,8 +62,7 @@
                     font-size: 16px;
                     transition: border-color 0.4s;
                     background: none;
-                    -webkit-border-radius:none !important
-
+                    /* -webkit-border-radius:none !important */
                 }
 
                 .style-line input[type="text"]:focus,

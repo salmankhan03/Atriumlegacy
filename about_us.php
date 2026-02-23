@@ -201,7 +201,7 @@
                         <div class="row mx-0">
                             <div class="col-md-6 px-3">
                                 <div class="p-xs-0">
-                                    <h2 class="h2-title" style="color: #ffffff;">Partnership Opportunities</h2>
+                                    <h2 class="h2-title text-white">Partnership Opportunities</h2>
                                     <div class="text-content-space">
                                         <h4 class="text-content-white">
                                             Atrium Legacy Foundation welcomes collaboration with organizations that share our commitment to healthy aging and community well-being. We work with non-profits, healthcare providers, businesses, and community groups to strengthen local support networks and expand access to inclusive programs.
