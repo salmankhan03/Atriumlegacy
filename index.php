@@ -17,47 +17,6 @@
     <link rel="icon" type="image/png" sizes="32x32" href="./img/icons/favicon/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="./img/icons/favicon/favicon-16x16.png">
     <link rel="manifest" href="./img/icons/favicon/site.webmanifest">
-    <style>
-        .tab-icon {
-            width: 75px;
-            height: 75px;
-            background-size: 75px;
-            background-repeat: no-repeat;
-            background-position: center;
-        }
-
-        .icon1 {
-            background-image: url("./img/icons/Green/ReStart_Education.png");
-        }
-
-        .icon2 {
-            background-image: url("./img/icons/Green/Aging_Grace.png");
-        }
-
-        .icon3 {
-            background-image: url("./img/icons/Green/HomeStrong.png");
-        }
-
-        .icon4 {
-            background-image: url("./img/icons/Green/AgriThrive.png");
-        }
-
-        .cards:hover .icon1 {
-            background-image: url("./img/icons/White/ReStart_Education.png");
-        }
-
-        .cards:hover .icon2 {
-            background-image: url("./img/icons/White/Aging_Grace.png");
-        }
-
-        .cards:hover .icon3 {
-            background-image: url("./img/icons/White/HomeStrong.png");
-        }
-
-        .cards:hover .icon4 {
-            background-image: url("./img/icons/White/AgriThrive.png");
-        }
-    </style>
 </head>
 
 <body>
@@ -122,7 +81,7 @@
 
             <!-- SECOND SECTION -->
             <div style="background-color: #e6ede6;">
-                <div class="header_mid_inner pd-0">
+                <div class="header_mid_inner">
                     <div class="content-padding">
                         <!-- <div class="row mx-0">
                             <div class="col-md-6 col-lg-6 px-0">
@@ -142,7 +101,7 @@
                                     <div class="tab-icon icon1"></div>
                                     <div class="cards-body text-center">
                                         <h4 class="card-fonts-heading-color">Preventive Wellness & Active Aging</h4>
-                                        <p class="mt-3 text-center card-fonts-color pb-0 mb-0">
+                                        <p class="mt-3 text-center card-content pb-0 mb-0">
                                             Encouraging healthy lifestyles through education, movement, and wellness programs.
                                         </p>
                                     </div>
@@ -161,7 +120,7 @@
                                     <div class="tab-icon icon2"></div>
                                     <div class="cards-body text-center">
                                         <h4 class="card-fonts-heading-color">Social Connection & Mental Well-Being</h4>
-                                        <p class="mt-3 text-center card-fonts-color pb-0 mb-0">
+                                        <p class="mt-3 text-center card-content pb-0 mb-0">
                                             Reducing isolation by building meaningful relationships and community engagement.
                                         </p>
                                     </div>
@@ -180,7 +139,7 @@
                                     <div class="tab-icon icon3"></div>
                                     <div class="cards-body text-center">
                                         <h4 class="card-fonts-heading-color">Intergenerational Engagement</h4>
-                                        <p class="mt-3 text-center card-fonts-color pb-0 mb-0">
+                                        <p class="mt-3 text-center card-content pb-0 mb-0">
                                             Bringing seniors and younger generations together to strengthen communities.
                                         </p>
                                     </div>
@@ -199,7 +158,7 @@
                                     <div class="tab-icon icon4"></div>
                                     <div class="cards-body text-center">
                                         <h4 class="card-fonts-heading-color">Caregiver & Family Support</h4>
-                                        <p class="mt-3 text-center card-fonts-color pb-0 mb-0">
+                                        <p class="mt-3 text-center card-content pb-0 mb-0">
                                             Providing resources and education to help families navigate the aging journey.
                                         </p>
                                     </div>
@@ -223,9 +182,9 @@
             </div>
 
             <!-- THIRD SECTION -->
-            <div class="header_mid_inner pd-0 content-padding">
-                <div class="row ml-0 mr-0">
-                    <div class="col-md-6 col-lg-6 pl-0 pr-0 d-flex align-items-center">
+            <div class="header_mid_inner content-padding">
+                <div class="row mx-0">
+                    <div class="col-md-6 px-0 d-flex align-items-center">
                         <div style="position:relative;">
                             <image class="left-side" src="./img/home/home_2.jpg" alt="left-side-image"></image>
                             <div class="side-element">
@@ -236,7 +195,7 @@
                         </div>
                     </div>
 
-                    <div class="col-md-6 col-lg-6 pl-0 pr-0 d-flex align-items-center">
+                    <div class="col-md-6 px-0 d-flex align-items-center">
                         <div class="text-left p-3 px-md-5 py-md-0">
                             <h2 class="h2-title mb-3">Be Part of the Change</h2>
                             <div class="italic-heading mb-3">There are many ways to support our mission:</div>

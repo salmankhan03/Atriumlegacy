@@ -54,7 +54,6 @@ body {
 .content-padding {
     padding-top: 100px !important;
     padding-bottom: 100px !important;
-
 }
 
 .top-padding {
@@ -230,13 +229,13 @@ p {
     /* white-space: nowrap; */
 }
 
-.card-fonts-color {
+.card-content {
     color: #000;
     font-family: 'Montserrat';
 }
 
 .cards:hover .card-fonts-heading-color,
-.cards:hover .card-fonts-color {
+.cards:hover .card-content {
     color: #FFFFFF;
 }
 
@@ -498,6 +497,46 @@ p {
     border-right: 1px solid #ccc;
 }
 
+.tab-icon {
+    width: 75px;
+    height: 75px;
+    background-size: 75px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.icon1 {
+    background-image: url("../img/icons/Green/ReStart_Education.png");
+}
+
+.icon2 {
+    background-image: url("../img/icons/Green/Aging_Grace.png");
+}
+
+.icon3 {
+    background-image: url("../img/icons/Green/HomeStrong.png");
+}
+
+.icon4 {
+    background-image: url("../img/icons/Green/AgriThrive.png");
+}
+
+.cards:hover .icon1 {
+    background-image: url("../img/icons/White/ReStart_Education.png");
+}
+
+.cards:hover .icon2 {
+    background-image: url("../img/icons/White/Aging_Grace.png");
+}
+
+.cards:hover .icon3 {
+    background-image: url("../img/icons/White/HomeStrong.png");
+}
+
+.cards:hover .icon4 {
+    background-image: url("../img/icons/White/AgriThrive.png");
+}
+
 @media (max-width: 1024px) {
     .banner {
         padding: 100px 0 100px 0;
@@ -569,10 +608,6 @@ p {
 @media only screen and (max-width: 1024px) {
     .left-section-padding {
         padding: 0 5% 0 10%;
-    }
-
-    .pd-0 {
-        /* padding: 0px !important; */
     }
 
     .mobile-left-section-padding {

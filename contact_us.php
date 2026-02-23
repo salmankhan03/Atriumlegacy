@@ -287,7 +287,7 @@
                         </div> 
                         <!-- Banner -->
 
-                        <div class="header_mid_inner pd-0 ">
+                        <div class="header_mid_inner ">
                             <div class="row ml-0 mr-0" >
                                 <div class="col-12 pl-0 pr-0">
                                     <div class="content-padding">
@@ -298,7 +298,7 @@
                                 </div>
                             </div>  
                         </div>
-                        <div class="header_mid_inner pd-0 ">
+                        <div class="header_mid_inner ">
                             <div class="row ml-0 mr-0" >
                                 <div class="col-sm-12 col-md-4 col-lg-4 pl-0 pr-0">
                                     <div class="pt-5 pb-5 p-xs-0 ">

@@ -85,9 +85,7 @@
             <!-- Banner -->
             <div class="aboutUsBanner">
                 <div class="container text-center banner-paddings">
-                    <h2 class="banner-header text-center white-text">
-                        About Us
-                    </h2>
+                    <h2 class="banner-header text-center white-text">About Us</h2>
                     <h2 class="banner-title">Advancing healthy aging, community connection, and inclusive support for seniors and caregivers.</h2>
                 </div>
             </div>
@@ -113,7 +111,7 @@
 
             <div style="background-color: #e6ede6;">
                 <div class="content-padding">
-                    <div class="header_mid_inner pd-0">
+                    <div class="header_mid_inner">
                         <div class="row mx-0">
                             <div class="col-md-6 px-0">
                                 <div class="our-mission" id="our-mission">
@@ -198,7 +196,7 @@
             </div>
 
             <div class="custom-banner w-100">
-                <div class="header_mid_inner pd-0">
+                <div class="header_mid_inner">
                     <div class="content-padding">
                         <div class="row mx-0">
                             <div class="col-md-6 px-3">

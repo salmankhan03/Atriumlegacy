@@ -11,7 +11,6 @@
       <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-      <!-- <link rel="stylesheet" href="./css/initiative.css"> -->
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
       <link rel="apple-touch-icon" sizes="180x180" href="./img/icons/favicon/apple-touch-icon.png">
@@ -66,7 +65,7 @@
 
             <!-- second Section -->
 
-            <div class="header_mid_inner pd-0 content-padding">
+            <div class="header_mid_inner content-padding">
                <div class="row ml-0 mr-0" >
                   <div class="col-sm-12 col-md-6 pl-0 pr-0">
                      <div class="p-xs-0 ">
@@ -206,7 +205,7 @@
             </div>
             <!--Third Section  -->
             <div class="custom-banner w-100 content-padding">
-               <div class="header_mid_inner pd-0 ">
+               <div class="header_mid_inner ">
                   <div class="row ml-0 mr-0" >
                      <div class="col-sm-12 col-md-6 pl-3 pr-3">
                         <div class="p-xs-0">
