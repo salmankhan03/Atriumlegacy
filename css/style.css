@@ -541,8 +541,11 @@ ul.list-hanging-indent li.text-content {
     background-image: url("../img/home/home_icon_4_hover.svg");
 }
 
-.involved-section-padding {
-    padding: 0 150px 0 150px;
+.involved-section {
+    max-width: 502px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 16px;
 }
 
 @media (max-width: 1024px) {

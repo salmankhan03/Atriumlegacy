@@ -61,7 +61,7 @@
                     </div>
                 </div>
 
-                <div class="header_mid_inner content-padding">
+                <div class="container content-padding">
                     <h2 class="h2-title">Your Acceptance</h2>
                     <div class="text-content">
                         <p>Welcome to the website operated by Atrium Legacy Foundation (the “Site”).</p>

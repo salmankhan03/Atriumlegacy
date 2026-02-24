@@ -193,7 +193,7 @@
                 </div>
             </div>
 
-            <div class="header_mid_inner content-padding">
+            <div class="container content-padding">
                 <h2 class="h2-title">Donation Details</h2>
                 <form action="send_donation_mail.php" method="post" class="init" aria-label="Contact form" novalidate="novalidate" data-status="init" data-inited-validation="1">
                     <div class="row">

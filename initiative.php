@@ -169,8 +169,8 @@
                 </div>
             </div>
 
-            <!-- <div class="header_mid_inner content-padding">
-            <div class="row ml-0 mr-0">
+            <!-- <div class="container content-padding">
+            <div class="row">
                <div class="col-sm-12 col-md-6 col-lg-6 d-flex align-items-center justify-content-center">
                   <div class="pl-5 pr-5">
                      <image class="" src="./img/our_initiatives/our_initiatives_1.jpg" alt="left-side-image"></image>
@@ -189,7 +189,7 @@
             </div>
          </div> -->
 
-            <div class="header_mid_inner">
+            <div class="container">
                 <!-- <ul class="nav nav-tabs w-100 d-flex no-bullets" id="myTab" role="tablist" style="justify-content: space-between;">
                <li class="nav-item p-0" role="presentation">
                   <a class="nav-link active" id="ReStart-Education-tab" data-toggle="tab" href="#ReStart-Education" role="tab" aria-controls="ReStart-Education" aria-selected="true" style="background-color:transparent;border:none">
@@ -231,7 +231,7 @@
                 <!-- Tab Content -->
                 <!-- <div class="tab-content" id="myTabContent" style="padding-bottom: 65px;">
                   <div class="tab-pane show active" id="ReStart-Education" role="tabpanel" aria-labelledby="ReStart-Education-tab">
-                     <div class="row ml-0 mr-0" >
+                     <div class="row" >
                         <div class="col-sm-12 col-md-8 col-lg-8 pl-0 pr-0">
                            <div class="mt-5">
                               <div class="tabs-cards pl-3 pr-3">
@@ -260,7 +260,7 @@
                   </div> 
                   
                   <div class="tab-pane" id="Aging-Grace" role="tabpanel" aria-labelledby="Aging-Grace-tab">
-                     <div class="row ml-0 mr-0" >
+                     <div class="row" >
                         <div class="col-sm-12 col-md-8 col-lg-8 pl-0 pr-0">
                            <div class="mt-5">
                               <div class="tabs-cards pl-3 pr-3">
@@ -289,7 +289,7 @@
                   </div>
 
                   <div class="tab-pane" id="HomeStrong" role="tabpanel" aria-labelledby="HomeStrong-tab">
-                     <div class="row ml-0 mr-0" >
+                     <div class="row" >
                         <div class="col-sm-12 col-md-8 col-lg-8 pl-0 pr-0">
                            <div class="mt-5">
                               <div class="tabs-cards pl-3 pr-3">
@@ -318,7 +318,7 @@
                   </div>
 
                   <div class="tab-pane" id="AgriThrive" role="tabpanel" aria-labelledby="AgriThrive-tab">
-                     <div class="row ml-0 mr-0" >
+                     <div class="row" >
                         <div class="col-sm-12 col-md-8 col-lg-8 pl-0 pr-0">
                            <div class="mt-5">
                               <div class="tabs-cards pl-3 pr-3">
@@ -348,7 +348,7 @@
                 <div class="tab-content" id="myTabContent" style="padding-bottom: 65px;">
                     <!-- ReStart-Education -->
                     <!-- <div class="tab-pane" id="ReStart-Education" role="tabpanel" aria-labelledby="ReStart-Education-tab">
-                  <div class="row ml-0 mr-0">
+                  <div class="row">
                      <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 mt-5">
                         <div class="tabs-cards pl-3 pr-3">
                            <div class="tabs-cards-body">
@@ -393,11 +393,11 @@
                     <div class="tab-pane show active" id="Aging-Grace" role="tabpanel" aria-labelledby="Aging-Grace-tab">
                         <h4 class="italic-heading mt-5">To promote holistic wellness and social inclusion for the senior population, ensuring they remain active, connected, and valued members of their communities.</h4>
                         <h4 class="italic-heading mb-5">Our programs are delivered through partnerships with local organizations, volunteers, families, and professionals, ensuring that our initiatives remain accessible, sustainable, and community-driven.</h4>
-                        <div class="row mx-0">
-                            <div class="col-md-6 px-0 mt-5">
-                                <div class="tabs-cards px-3">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="tabs-cards pl-0 pr-3">
                                     <div class="tabs-cards-body">
-                                        <p class="tab-cards-title">OVERVIEW</p>
+                                        <p class="tab-cards-title" style="color: #4789cc;">OVERVIEW</p>
                                         <div class="mt-3 card-content mb-3">Healthy aging is about more than medical care. It involves staying active, maintaining meaningful relationships, and having access to supportive community environments.</div>
                                         <div class="card-content mb-3">Atrium Legacy Foundation focuses on strengthening local support systems that help seniors remain connected, independent, and engaged. Our work emphasizes physical, mental, and emotional well-being while creating inclusive opportunities for participation and social connection.</div>
                                         <div class="card-content mb-3">We believe strong communities play an essential role in helping older adults live with dignity and purpose. As Canada’s population continues to age, there is growing recognition of the importance of preventive, community-based approaches to support long-term well-being.</div>
@@ -405,14 +405,14 @@
                                 </div>
                             </div>
 
-                            <div class="col-md-6 pl-5 pr-0 py-5">
+                            <!-- <div class="col-md-6 pl-5 pr-0 py-5">
                                 <div class="p-0 right-content-padding">
                                     <img src="img/our_initiatives/our_initiatives_AgingGrace.jpg" alt="Image">
                                 </div>
-                            </div>
+                            </div> -->
 
-                            <div class="col-md-6 px-0 pt-4">
-                                <div class="tabs-cards pl-3 pr-4">
+                            <div class="col-md-6">
+                                <div class="tabs-cards pl-0 pr-3">
                                     <div class="tabs-cards-body">
                                         <p class="tab-cards-title">KEY ACTIONS</p>
                                         <ul class="mt-3 mb-5 list-hanging-indent">
@@ -425,7 +425,7 @@
                                 </div>
                             </div>
 
-                            <div class="col-md-6 pl-5 pr-0 pt-4">
+                            <div class="col-md-6 mt-5">
                                 <div class="tabs-cards">
                                     <div class="tabs-cards-body">
                                         <p class="tab-cards-title">EXPECTED IMPACT</p>
@@ -438,98 +438,98 @@
 
                     <!-- HomeStrong -->
                     <!-- <div class="tab-pane" id="HomeStrong" role="tabpanel" aria-labelledby="HomeStrong-tab">
-                  <div class="row ml-0 mr-0">
-                     <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 mt-5">
-                        <div class="tabs-cards pl-3 pr-3">
-                           <div class="tabs-cards-body">
-                              <h4 class="italic-heading mb-5">To provide fast and affordable housing solutions, fostering stability and security for vulnerable populations.</h4>
-                              <P class="tab-cards-title">OVERVIEW</p>
-                              <p class="mt-3 card-content">The Resilient Homes Initiative addresses the urgent need for affordable housing, particularly in the wake of economic challenges and the pandemic. By innovating construction methodologies that reduce costs and build time without compromising quality, we aim to make secure housing accessible to those who need it most. Our focus is on creating environments that foster stability and character development, particularly for young families and vulnerable populations.</p>
-                           </div>
+                    <div class="row">
+                        <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 mt-5">
+                            <div class="tabs-cards pl-3 pr-3">
+                            <div class="tabs-cards-body">
+                                <h4 class="italic-heading mb-5">To provide fast and affordable housing solutions, fostering stability and security for vulnerable populations.</h4>
+                                <P class="tab-cards-title">OVERVIEW</p>
+                                <p class="mt-3 card-content">The Resilient Homes Initiative addresses the urgent need for affordable housing, particularly in the wake of economic challenges and the pandemic. By innovating construction methodologies that reduce costs and build time without compromising quality, we aim to make secure housing accessible to those who need it most. Our focus is on creating environments that foster stability and character development, particularly for young families and vulnerable populations.</p>
+                            </div>
+                            </div>
                         </div>
-                     </div>
 
-                     <div class="col-sm-12 col-md-6 col-lg-6 pl-5 pr-0 pb-5 pt-5">
-                        <div class="p-0 right-content-padding">
-                           <img src="img/our_initiatives/our_initiatives_HomeStrong.jpg" alt="Image">
+                        <div class="col-sm-12 col-md-6 col-lg-6 pl-5 pr-0 pb-5 pt-5">
+                            <div class="p-0 right-content-padding">
+                            <img src="img/our_initiatives/our_initiatives_HomeStrong.jpg" alt="Image">
+                            </div>
                         </div>
-                     </div>
 
-                     <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 pt-4">
-                        <div class="tabs-cards pl-3 pr-4">
-                           <div class="tabs-cards-body">
-                              <p class="tab-cards-title">KEY ACTIONS</p>
-                              <ul class="mt-3 mb-5">
-                                 <li>Implementing cost-effective and sustainable construction techniques.</li>
-                                 <li>Partnering with local governments, developers, and non-profits to scale affordable housing.</li>
-                                 <li>Creating safe and nurturing communities that promote growth and stability.</li>
-                              </ul>
-                           </div>
+                        <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 pt-4">
+                            <div class="tabs-cards pl-3 pr-4">
+                            <div class="tabs-cards-body">
+                                <p class="tab-cards-title">KEY ACTIONS</p>
+                                <ul class="mt-3 mb-5">
+                                    <li>Implementing cost-effective and sustainable construction techniques.</li>
+                                    <li>Partnering with local governments, developers, and non-profits to scale affordable housing.</li>
+                                    <li>Creating safe and nurturing communities that promote growth and stability.</li>
+                                </ul>
+                            </div>
+                            </div>
                         </div>
-                     </div>
 
-                     <div class="col-sm-12 col-md-6 col-lg-6 pl-5 pr-0 pt-4">
-                        <div class="tabs-cards">
-                           <div class="tabs-cards-body">
-                              <p class="tab-cards-title">EXPECTED IMPACT</p>
-                              <p class="mt-3 card-content">This initiative will contribute to social stability and economic recovery by providing affordable and secure housing for those who need it most.</p>
-                           </div>
+                        <div class="col-sm-12 col-md-6 col-lg-6 pl-5 pr-0 pt-4">
+                            <div class="tabs-cards">
+                            <div class="tabs-cards-body">
+                                <p class="tab-cards-title">EXPECTED IMPACT</p>
+                                <p class="mt-3 card-content">This initiative will contribute to social stability and economic recovery by providing affordable and secure housing for those who need it most.</p>
+                            </div>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-               </div> -->
+                    </div>
+                </div> -->
 
-                    <!-- AgriThrive -->
-                    <!-- <div class="tab-pane" id="AgriThrive" role="tabpanel" aria-labelledby="AgriThrive-tab">
-                  <div class="row ml-0 mr-0">
-                     <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 mt-5">
-                        <div class="tabs-cards pl-3 pr-3">
-                           <div class="tabs-cards-body">
-                              <h4 class="italic-heading mb-5">To enhance global food security by leveraging agricultural technology and promoting sustainable farming practices.</h4>
-                              <P class="tab-cards-title">OVERVIEW</p>
-                              <p class="mt-3 card-content">The Global Harvest Initiative is designed to address global food inequalities by investing in agricultural technologies that boost productivity, particularly in underdeveloped and developing countries. Through international collaborations, we aim to transfer knowledge and technology to regions facing food insecurity. Our focus is on sustainable farming practices that preserve natural resources and reduce dependency on imports, empowering communities to achieve self-sufficiency.</p>
-                           </div>
+                <!-- AgriThrive -->
+                <!-- <div class="tab-pane" id="AgriThrive" role="tabpanel" aria-labelledby="AgriThrive-tab">
+                    <div class="row">
+                        <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 mt-5">
+                            <div class="tabs-cards pl-3 pr-3">
+                            <div class="tabs-cards-body">
+                                <h4 class="italic-heading mb-5">To enhance global food security by leveraging agricultural technology and promoting sustainable farming practices.</h4>
+                                <P class="tab-cards-title">OVERVIEW</p>
+                                <p class="mt-3 card-content">The Global Harvest Initiative is designed to address global food inequalities by investing in agricultural technologies that boost productivity, particularly in underdeveloped and developing countries. Through international collaborations, we aim to transfer knowledge and technology to regions facing food insecurity. Our focus is on sustainable farming practices that preserve natural resources and reduce dependency on imports, empowering communities to achieve self-sufficiency.</p>
+                            </div>
+                            </div>
                         </div>
-                     </div>
 
-                     <div class="col-sm-12 col-md-6 col-lg-6 pl-5 pr-0 pb-5 pt-5">
-                        <div class="p-0 right-content-padding">
-                           <img src="img/our_initiatives/our_initiatives_AgriThrive.jpg" alt="Image">
+                        <div class="col-sm-12 col-md-6 col-lg-6 pl-5 pr-0 pb-5 pt-5">
+                            <div class="p-0 right-content-padding">
+                            <img src="img/our_initiatives/our_initiatives_AgriThrive.jpg" alt="Image">
+                            </div>
                         </div>
-                     </div>
 
-                     <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 pt-4">
-                        <div class="tabs-cards pl-3 pr-4">
-                           <div class="tabs-cards-body">
-                              <p class="tab-cards-title">KEY ACTIONS</p>
-                              <ul class="mt-3 mb-5">
-                                 <li>Investing in and developing technologies to increase agricultural productivity.</li>
-                                 <li>Promoting international partnerships for knowledge transfer.</li>
-                                 <li>Encouraging sustainable farming practices that protect the environment.</li>
-                              </ul>
-                           </div>
+                        <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 pt-4">
+                            <div class="tabs-cards pl-3 pr-4">
+                            <div class="tabs-cards-body">
+                                <p class="tab-cards-title">KEY ACTIONS</p>
+                                <ul class="mt-3 mb-5">
+                                    <li>Investing in and developing technologies to increase agricultural productivity.</li>
+                                    <li>Promoting international partnerships for knowledge transfer.</li>
+                                    <li>Encouraging sustainable farming practices that protect the environment.</li>
+                                </ul>
+                            </div>
+                            </div>
                         </div>
-                     </div>
 
-                     <div class="col-sm-12 col-md-6 col-lg-6 pl-5 pr-0 pt-4">
-                        <div class="tabs-cards">
-                           <div class="tabs-cards-body">
-                              <p class="tab-cards-title">EXPECTED IMPACT</p>
-                              <p class="mt-3 card-content">This initiative will enhance global food security, reduce food distribution inequalities, and empower developing nations to achieve food self-sufficiency.</p>
-                           </div>
+                        <div class="col-sm-12 col-md-6 col-lg-6 pl-5 pr-0 pt-4">
+                            <div class="tabs-cards">
+                            <div class="tabs-cards-body">
+                                <p class="tab-cards-title">EXPECTED IMPACT</p>
+                                <p class="mt-3 card-content">This initiative will enhance global food security, reduce food distribution inequalities, and empower developing nations to achieve food self-sufficiency.</p>
+                            </div>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-               </div> -->
+                    </div>
+                </div> -->
                 </div>
             </div>
         </div>
 
         <div style="background-color: #e6ede6;">
-            <div class="header_mid_inner">
+            <div class="container">
                 <div class="content-padding">
-                    <div class="row mx-0">
-                        <div class="col-md-6 px-0">
+                    <div class="row">
+                        <div class="col-md-6">
                             <div class="p-xs-0">
                                 <h2 class="h2-title mobile-left-section-padding">Our Strategic Focus Areas</h2>
                             </div>
@@ -620,21 +620,21 @@
             </div>
         </div>
 
-        <div class="header_mid_inner top-padding">
+        <div class="container top-padding">
             <h2 class="h2-title mb-0 text-center">Community-Based Programs</h2>
             <!-- <p class="mb-0 pb-0 text-content">We envision communities where seniors are respected, supported, and empowered to live fulfilling lives. Through collaboration and innovation, we aim to strengthen social connection, promote lifelong learning, and encourage active and independent aging.</p> -->
         </div>
 
-        <div class="header_mid_inner content-padding">
-            <div class="row mx-0">
-                <div class="col-md-6 px-0 d-flex align-items-center">
+        <div class="container content-padding">
+            <div class="row">
+                <div class="col-md-6 d-flex align-items-center">
                     <div style="position:relative;">
-                        <image class="left-side" src="./img/home/home_2.jpg" alt="left-side-image"></image>
+                        <image class="img-fluid" src="./img/home/home_2.jpg" alt="left-side-image"></image>
                     </div>
                 </div>
 
-                <div class="col-md-6 px-0 d-flex align-items-center">
-                    <div class="text-left p-3 px-md-5 py-md-0">
+                <div class="col-md-6 d-flex align-items-center">
+                    <div class="text-left p-3 px-lg-5 py-md-0">
                         <!-- <h2 class="h2-title mb-3">Be Part of the Change</h2> -->
                         <div class="italic-heading mb-3">We work with local partners to develop accessible and inclusive programs that support seniors in their daily lives. These initiatives may include:</div>
                         <ul class="list-hanging-indent">
@@ -651,13 +651,13 @@
         </div>
 
         <div style="background-color: #e6ede6;">
-            <div class="header_mid_inner content-padding">
-                <h2 class="h2-title mb-3">Community Day Centre in Development (Richmond, BC)</h2>
+            <div class="container content-padding">
+                <h2 class="h2-title mb-3 text-center">Community Day Centre in Development (Richmond, BC)</h2>
                 <p class="text-content">Atrium Legacy Foundation is currently working toward the establishment of a community-based senior day centre in Richmond, British Columbia. This initiative is in the planning and development phase, with a focus on creating an accessible and welcoming environment that supports healthy aging, social connection, and independence.</p>
-                <div class="row mx-0 align-items-center">
-                    <div class="col-md-6 px-0 text-left p-3 pr-md-5 pl-md-0 py-md-0">
+                <div class="row align-items-center">
+                    <div class="col-md-6 text-left p-3 pr-md-5 py-md-0">
                         <p class="text-content">We are actively engaging community partners, families, and stakeholders to ensure the centre reflects local needs and priorities.</p>
-                        <p class="text-content mt-3">The centre will provide opportunities for older adults to:</p>
+                        <p class="text-content mt-3 pb-0 mb-2">The centre will provide opportunities for older adults to:</p>
                         <ul class="list-hanging-indent">
                             <li class="text-content">Participate in wellness and social programs</li>
                             <li class="text-content">Stay active and engaged within their community</li>
@@ -665,42 +665,44 @@
                             <li class="text-content">Access information and supportive resources</li>
                             <li class="text-content">Maintain independence while aging in place</li>
                         </ul>
-                        <p class="text-content mt-3">Located near public transportation and community services, the centre aims to complement existing supports while strengthening local networks for seniors and caregivers.</p>
+                        <p class="text-content mt-3 mb-0">Located near public transportation and community services, the centre aims to complement existing supports while strengthening local networks for seniors and caregivers.</p>
                     </div>
 
-                    <div class="col-md-6 px-0 text-center p-3">
-                        <img src="./img/home/home_2.jpg" alt="Community Day Centre Placeholder" class="img-fluid rounded shadow-sm" style="max-height: 400px; object-fit: cover; width: 100%;">
+                    <div class="col-md-6 text-center">
+                        <img src="./img/home/home_2.jpg" alt="Community Day Centre Placeholder" class="img-fluid" style="max-height: 444px; object-fit: cover; width: 100%;">
                     </div>
-                    <p class="text-content">Through this initiative, Atrium Legacy Foundation seeks to address social isolation, promote preventive wellness, and enhance quality of life for older adults in Richmond and surrounding communities.</p>
+                    <div class="col-12">
+                        <p class="text-content mt-3">Through this initiative, Atrium Legacy Foundation seeks to address social isolation, promote preventive wellness, and enhance quality of life for older adults in Richmond and surrounding communities.</p>
+                    </div>
                 </div>
 
-                <div class="row mx-0 mt-5 align-items-center">
-                    <div class="col-md-6 px-0 text-center p-3 d-none d-md-block">
-                        <img src="./img/home/home_1.jpg" alt="Collaboration Placeholder" class="img-fluid rounded shadow-sm" style="max-height: 300px; object-fit: cover; width: 100%;">
+                <div class="row mt-5 align-items-center">
+                    <div class="col-md-6 text-center p-3 d-none d-md-block">
+                        <img src="./img/home/home_1.jpg" alt="Collaboration Placeholder" class="img-fluid" style="max-height: 350px; object-fit: cover; width: 100%;">
                     </div>
-                    <div class="col-md-6 px-0 text-left p-3 px-md-5 py-md-0">
+                    <div class="col-md-6 text-left p-3 px-lg-5 py-md-0">
                         <h2 class="h2-title mb-3">Collaboration and Partnerships</h2>
                         <p class="text-content">We believe sustainable impact requires collaboration. Atrium Legacy Foundation works alongside families, healthcare professionals, community organizations, and local partners to strengthen support systems and expand access to inclusive programs.</p>
-                        <p class="text-content">By fostering partnerships, we aim to build resilient and connected communities where seniors can thrive and contribute meaningfully.</p>
+                        <p class="text-content mb-0">By fostering partnerships, we aim to build resilient and connected communities where seniors can thrive and contribute meaningfully.</p>
                     </div>
                 </div>
 
-                <div class="row mx-0 mt-5 align-items-center">
-                    <div class="col-md-6 px-0 text-left p-3 px-md-5 py-md-0">
+                <div class="row mt-5 align-items-center">
+                    <div class="col-md-6 text-left p-3 px-lg-5 py-md-0">
                         <h2 class="h2-title mb-3">Measuring Impact</h2>
                         <p class="text-content">Atrium Legacy Foundation is committed to learning from the communities we serve. We regularly seek feedback from seniors, caregivers, and partners to understand evolving needs and improve our programs.</p>
-                        <p class="text-content">Over time, we aim to strengthen social connection, enhance well-being, and build supportive networks that help seniors remain active and engaged.</p>
+                        <p class="text-content mb-0">Over time, we aim to strengthen social connection, enhance well-being, and build supportive networks that help seniors remain active and engaged.</p>
                     </div>
-                    <div class="col-md-6 px-0 text-center p-3">
-                        <img src="./img/our_initiatives/our_initiatives_HomeStrong.jpg" alt="Measuring Impact Placeholder" class="img-fluid rounded shadow-sm" style="max-height: 300px; object-fit: cover; width: 100%;">
+                    <div class="col-md-6 text-center p-3">
+                        <img src="./img/our_initiatives/our_initiatives_HomeStrong.jpg" alt="Measuring Impact Placeholder" class="img-fluid" style="max-height: 300px; object-fit: cover; width: 100%;">
                     </div>
                 </div>
             </div>
         </div>
 
         <div class="custom-banner w-100">
-            <div class="header_mid_inner">
-                <div class="row mx-0">
+            <div class="container">
+                <div class="row">
                     <div class="col-md-6 px-3">
                         <div class="content-padding">
                             <h2 class="h2-title" style="color:#fff;">Future Initiatives</h2>

@@ -44,7 +44,7 @@
                     </div>
                 </div>
 
-                <div class="header_mid_inner content-padding">
+                <div class="container content-padding">
                     <div class="text-content">
                         <p>Atrium Legacy Foundation recognizes the importance of protecting the privacy of the personal information obtained from its supporters, donors, volunteers and other stakeholders.</p>
                         <p>Atrium Legacy Foundation is committed to collecting, using and/or disclosing personal information responsibly and only to the extent necessary for the fulfillment of its charitable purposes and the services it provides.</p>

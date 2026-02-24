@@ -299,19 +299,14 @@
         </div>
         <!-- Banner -->
 
-        <div class="header_mid_inner">
-            <div class="row mx-0">
-                <div class="col-12 px-0">
-                    <div class="content-padding">
-                        <h2 class="px-4 italic-heading text-center">We are here to connect, listen, and collaborate. Whether you are a senior, family member, volunteer, partner, or community organization, we invite you to reach out and learn more about our work.</h2>
-                        <h2 class="px-4 italic-heading text-center">Atrium Legacy Foundation is committed to building meaningful relationships and working together to strengthen support for seniors and caregivers.</h2>
-                    </div>
-                </div>
+        <div class="container">
+            <div class="content-padding">
+                <h2 class="px-4 italic-heading text-center">We are here to connect, listen, and collaborate. Whether you are a senior, family member, volunteer, partner, or community organization, we invite you to reach out and learn more about our work.</h2>
+                <h2 class="px-4 italic-heading text-center">Atrium Legacy Foundation is committed to building meaningful relationships and working together to strengthen support for seniors and caregivers.</h2>
             </div>
-        </div>
-        <div class="header_mid_inner">
-            <div class="row mx-0">
-                <div class="col-md-4 px-0">
+
+            <div class="row">
+                <div class="col-md-4">
                     <div class="pt-5 pb-5 p-xs-0">
                         <h2 class="h2-title" style="font-size:2rem">Contact Details</h2>
                         <div class="text-content-space">
@@ -412,6 +407,7 @@
                                                 </label>
                                             </span>
                                         </p>
+                                        <p>We respect your privacy. All information shared with us will be handled confidentially and used only to respond to your inquiry or support our community initiatives.</p>
                                     </div>
                                 </div>
                             </div>

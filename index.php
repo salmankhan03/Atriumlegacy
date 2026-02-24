@@ -24,7 +24,7 @@
     <div id="middle">
         <div class="middle_inner">
             <div class="banner">
-                <div class="header_mid_inner">
+                <div class="container">
                     <h1 class="banner-header">
                         Empowering Seniors to Stay Connected and Thrive
                     </h1>
@@ -44,7 +44,7 @@
                     <div class="left-section-padding section-margin">
                         <h2 class="h2-title mb-3">Welcome to <br> Atrium Legacy Foundation</h2>
                         <div class="text-content-space">
-                            <h4 class="text-content mb-3">Atrium Legacy Foundation is a community-based organization focused on enhancing the well-being, dignity, and social inclusion of seniors. As our population continues to age, we believe older adults should remain active, engaged, and valued members of society.</h4>
+                            <h4 class="text-content">Atrium Legacy Foundation is a community-based organization focused on enhancing the well-being, dignity, and social inclusion of seniors. As our population continues to age, we believe older adults should remain active, engaged, and valued members of society.</h4>
                             <h4 class="text-content">We work alongside families, volunteers, and community partners to create inclusive programs that support physical health, mental wellness, and meaningful engagement.</h4>
                         </div>
                         <div class="button_wrap">
@@ -81,9 +81,9 @@
 
             <!-- SECOND SECTION -->
             <div style="background-color: #e6ede6;">
-                <div class="header_mid_inner">
+                <div class="container">
                     <div class="content-padding">
-                        <!-- <div class="row mx-0">
+                        <!-- <div class="row">
                             <div class="col-md-6 col-lg-6 px-0">
                                 <div class="p-xs-0 ">
                                     <h2 class="h2-title mobile-left-section-padding">Our Focus</h2>
@@ -176,14 +176,14 @@
                 </div>
             </div>
 
-            <div class="header_mid_inner top-padding">
+            <div class="container top-padding">
                 <h2 class="h2-title mb-3">A Future Where Seniors Thrive</h2>
                 <p class="mb-0 pb-0 text-content">We envision communities where seniors are respected, supported, and empowered to live fulfilling lives. Through collaboration and innovation, we aim to strengthen social connection, promote lifelong learning, and encourage active and independent aging.</p>
             </div>
 
             <!-- THIRD SECTION -->
-            <div class="header_mid_inner content-padding">
-                <div class="row mx-0">
+            <div class="container content-padding">
+                <div class="row">
                     <div class="col-md-6 px-0 d-flex align-items-center">
                         <div style="position:relative;">
                             <image class="left-side" src="./img/home/home_2.jpg" alt="left-side-image"></image>
@@ -198,7 +198,7 @@
                     <div class="col-md-6 px-0 d-flex align-items-center">
                         <div class="text-left p-3 px-md-5 py-md-0">
                             <h2 class="h2-title mb-3">Be Part of the Change</h2>
-                            <div class="italic-heading mb-3">There are many ways to support our mission:</div>
+                            <div class="italic-heading mb-2">There are many ways to support our mission:</div>
                             <ul class="list-hanging-indent">
                                 <li class="text-content">Volunteer your time and care</li>
                                 <li class="text-content">Partner with us in community initiatives</li>
@@ -211,11 +211,11 @@
                 </div>
             </div>
 
-            <div class="header_mid_inner bottom-padding">
+            <div class="container bottom-padding">
                 <div class="row align-items-center justify-content-center">
                     <div class="col-md-9">
                         <h2 class="h2-title mb-3">Join Our Mission</h2>
-                        <p class="mb-3 pb-0 text-content">Your support helps seniors stay active, connected, and empowered. <br>Together, we can build a future where every senior feels valued and supported.</p>
+                        <p class="mb-0 pb-0 text-content">Your support helps seniors stay active, connected, and empowered. <br>Together, we can build a future where every senior feels valued and supported.</p>
                     </div>
                     <div class="col-md-3">
                         <div class="button_wrap text-center">

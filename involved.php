@@ -54,14 +54,14 @@
         <!-- Banner -->
 
         <!-- second Section -->
-        <div class="header_mid_inner content-padding">
-            <div class="row mx-0">
-                <div class="col-md-6 px-0">
+        <div class="container content-padding">
+            <div class="row">
+                <div class="col-12 px-0">
                     <div class="p-xs-0">
-                        <h2 class="h2-title mb-0">Ways to Get Involved</h2>
+                        <h2 class="h2-title mb-3 text-center">Ways to Get Involved</h2>
                     </div>
                 </div>
-                <div class="col-md-6 text-content">
+                <div class="col-12 text-content">
                     <p class="mb-3 pb-0">Creating meaningful change requires collaboration. Whether you are an individual, organization, or community partner, there are many ways to support healthy aging and strengthen social connection in our communities.</p>
                     <p class="mb-0 pb-0">Your time, knowledge, and support can help seniors remain active, engaged, and valued. Together, we can build more inclusive and supportive environments for older adults and their families.</p>
                 </div>
@@ -71,7 +71,7 @@
         <!--Third Section  -->
         <div class="row">
             <div class="col-md-6 order-md-1 order-2">
-                <div class="involved-section-padding section-margin">
+                <div class="involved-section section-margin">
                     <div class="h2-heading-section-space">
                         <h2 class="h2-title mb-4">Donate</h2>
                         <h5 class="italic-heading">Support Our Mission</h5>
@@ -93,7 +93,7 @@
         <div class="row">
             <div class="col-md-6 involved-left-2-bg"></div>
             <div class="col-md-6">
-                <div class="involved-section-padding section-margin">
+                <div class="involved-section section-margin">
                     <div class="h2-heading-section-space">
                         <h2 class="h2-title mb-4">Volunteer</h2>
                         <h5 class="italic-heading">Make a Difference in Your Community</h5>
@@ -120,7 +120,7 @@
 
         <div class="row">
             <div class="col-md-6 order-md-1 order-2">
-                <div class="involved-section-padding section-margin">
+                <div class="involved-section section-margin">
                     <div class="h2-heading-section-space">
                         <h2 class="h2-title mb-4">Partner with Us</h2>
                         <h5 class="italic-heading">Collaborate for Greater Impact</h5>
@@ -143,7 +143,7 @@
         <div class="row">
             <div class="col-md-6 involved-left-4-bg"></div>
             <div class="col-md-6">
-                <div class="involved-section-padding section-margin">
+                <div class="involved-section section-margin">
                     <div class="h2-heading-section-space">
                         <h2 class="h2-title mb-4">Attend an Event</h2>
                         <h5 class="italic-heading">Connect, Learn, and Support</h5>
@@ -164,7 +164,7 @@
 
         <div class="row">
             <div class="col-md-6 order-md-1 order-2">
-                <div class="involved-section-padding section-margin">
+                <div class="involved-section section-margin">
                     <div class="h2-heading-section-space">
                         <h2 class="h2-title mb-4">Community Supporters</h2>
                         <h5 class="italic-heading">Help Raise Awareness</h5>
@@ -192,8 +192,8 @@
 
         <!--Third Section  -->
         <div class="custom-banner w-100 content-padding">
-            <div class="header_mid_inner">
-                <div class="row mx-0">
+            <div class="container">
+                <div class="row">
                     <div class="col-md-6 px-3">
                         <div class="p-xs-0">
                             <div class="h2-heading-section-space">

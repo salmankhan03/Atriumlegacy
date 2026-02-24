@@ -128,7 +128,7 @@
 
 <body>
     <footer>
-        <div class="header_mid_inner">
+        <div class="container">
             <div class="row" style="padding-top: 40px;">
                 <div class="col-sm-12 col-md-12 col-lg-6 mb-sm-2">
                     <div class="row h-100">

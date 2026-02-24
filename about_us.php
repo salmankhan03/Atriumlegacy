@@ -111,8 +111,8 @@
 
             <div style="background-color: #e6ede6;">
                 <div class="content-padding">
-                    <div class="header_mid_inner">
-                        <div class="row mx-0">
+                    <div class="container">
+                        <div class="row">
                             <div class="col-md-6 px-0">
                                 <div class="our-mission" id="our-mission">
                                     <div class="mb-4 banner-title" style="color:#000;">OUR MISSION</div>
@@ -196,9 +196,9 @@
             </div>
 
             <div class="custom-banner w-100">
-                <div class="header_mid_inner">
+                <div class="container">
                     <div class="content-padding">
-                        <div class="row mx-0">
+                        <div class="row">
                             <div class="col-md-6 px-3">
                                 <div class="p-xs-0">
                                     <h2 class="h2-title text-white">Partnership Opportunities</h2>
