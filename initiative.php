@@ -391,12 +391,12 @@
 
                     <!-- Aging-Grace -->
                     <div class="tab-pane show active" id="Aging-Grace" role="tabpanel" aria-labelledby="Aging-Grace-tab">
+                        <h4 class="italic-heading mt-5">To promote holistic wellness and social inclusion for the senior population, ensuring they remain active, connected, and valued members of their communities.</h4>
+                        <h4 class="italic-heading mb-5">Our programs are delivered through partnerships with local organizations, volunteers, families, and professionals, ensuring that our initiatives remain accessible, sustainable, and community-driven.</h4>
                         <div class="row mx-0">
                             <div class="col-md-6 px-0 mt-5">
                                 <div class="tabs-cards px-3">
                                     <div class="tabs-cards-body">
-                                        <h4 class="italic-heading">To promote holistic wellness and social inclusion for the senior population, ensuring they remain active, connected, and valued members of their communities.</h4>
-                                        <h4 class="italic-heading mb-5">Our programs are delivered through partnerships with local organizations, volunteers, families, and professionals, ensuring that our initiatives remain accessible, sustainable, and community-driven.</h4>
                                         <p class="tab-cards-title">OVERVIEW</p>
                                         <div class="mt-3 card-content mb-3">Healthy aging is about more than medical care. It involves staying active, maintaining meaningful relationships, and having access to supportive community environments.</div>
                                         <div class="card-content mb-3">Atrium Legacy Foundation focuses on strengthening local support systems that help seniors remain connected, independent, and engaged. Our work emphasizes physical, mental, and emotional well-being while creating inclusive opportunities for participation and social connection.</div>
@@ -415,11 +415,11 @@
                                 <div class="tabs-cards pl-3 pr-4">
                                     <div class="tabs-cards-body">
                                         <p class="tab-cards-title">KEY ACTIONS</p>
-                                        <ul class="mt-3 mb-5">
-                                            <li>Designing wellness and preventive programs tailored to the diverse needs of older adults</li>
-                                            <li>Supporting social participation and reducing isolation through community engagement</li>
-                                            <li>Encouraging collaboration among families, professionals, and local organizations</li>
-                                            <li>Promoting education and awareness related to healthy aging and caregiver support</li>
+                                        <ul class="mt-3 mb-5 list-hanging-indent">
+                                            <li class="text-content">Designing wellness and preventive programs tailored to the diverse needs of older adults</li>
+                                            <li class="text-content">Supporting social participation and reducing isolation through community engagement</li>
+                                            <li class="text-content">Encouraging collaboration among families, professionals, and local organizations</li>
+                                            <li class="text-content">Promoting education and awareness related to healthy aging and caregiver support</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -628,10 +628,16 @@
         <div class="header_mid_inner content-padding">
             <div class="row mx-0">
                 <div class="col-md-6 px-0 d-flex align-items-center">
+                    <div style="position:relative;">
+                        <image class="left-side" src="./img/home/home_2.jpg" alt="left-side-image"></image>
+                    </div>
+                </div>
+
+                <div class="col-md-6 px-0 d-flex align-items-center">
                     <div class="text-left p-3 px-md-5 py-md-0">
                         <!-- <h2 class="h2-title mb-3">Be Part of the Change</h2> -->
                         <div class="italic-heading mb-3">We work with local partners to develop accessible and inclusive programs that support seniors in their daily lives. These initiatives may include:</div>
-                        <ul>
+                        <ul class="list-hanging-indent">
                             <li class="text-content">Wellness and mobility workshops</li>
                             <li class="text-content">Social and recreational activities</li>
                             <li class="text-content">Health education and prevention</li>
@@ -641,16 +647,8 @@
                         <div class="italic-heading">Programs are designed to be culturally responsive, inclusive, and adaptable to the needs of diverse communities.</div>
                     </div>
                 </div>
-
-                <div class="col-md-6 px-0 d-flex align-items-center">
-                    <div style="position:relative;">
-                        <image class="left-side" src="./img/home/home_2.jpg" alt="left-side-image"></image>
-                    </div>
-                </div>
             </div>
         </div>
-
-
 
         <div style="background-color: #e6ede6;">
             <div class="header_mid_inner content-padding">
@@ -660,7 +658,7 @@
                     <div class="col-md-6 px-0 text-left p-3 pr-md-5 pl-md-0 py-md-0">
                         <p class="text-content">We are actively engaging community partners, families, and stakeholders to ensure the centre reflects local needs and priorities.</p>
                         <p class="text-content mt-3">The centre will provide opportunities for older adults to:</p>
-                        <ul>
+                        <ul class="list-hanging-indent">
                             <li class="text-content">Participate in wellness and social programs</li>
                             <li class="text-content">Stay active and engaged within their community</li>
                             <li class="text-content">Build meaningful relationships and social support</li>
@@ -669,6 +667,7 @@
                         </ul>
                         <p class="text-content mt-3">Located near public transportation and community services, the centre aims to complement existing supports while strengthening local networks for seniors and caregivers.</p>
                     </div>
+
                     <div class="col-md-6 px-0 text-center p-3">
                         <img src="./img/home/home_2.jpg" alt="Community Day Centre Placeholder" class="img-fluid rounded shadow-sm" style="max-height: 400px; object-fit: cover; width: 100%;">
                     </div>

@@ -3,15 +3,15 @@ $current_page = basename($_SERVER['PHP_SELF']);
 ?>
 
 <!DOCTYPE html>
-<html lang="en-US" class="cmsmasters_html js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients no-cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths">
+<html lang="en-US">
 
 <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <meta name="format-detection" content="telephone=no">
+    <!-- <meta name="format-detection" content="telephone=no">
     <link rel="profile" href="https://gmpg.org/xfn/11">
-    <link rel="pingback" href="https://green-planet.cmsmasters.net/xmlrpc.php">
+    <link rel="pingback" href="https://green-planet.cmsmasters.net/xmlrpc.php"> -->
     <title>Atrium Legacy Foundation</title>
     <meta name="robots" content="max-image-preview:large">
     <link rel="stylesheet" id="green-planet-theme-style-css" href="lib/style_002.css" type="text/css" media="screen, print">

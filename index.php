@@ -199,7 +199,7 @@
                         <div class="text-left p-3 px-md-5 py-md-0">
                             <h2 class="h2-title mb-3">Be Part of the Change</h2>
                             <div class="italic-heading mb-3">There are many ways to support our mission:</div>
-                            <ul>
+                            <ul class="list-hanging-indent">
                                 <li class="text-content">Volunteer your time and care</li>
                                 <li class="text-content">Partner with us in community initiatives</li>
                                 <li class="text-content">Support programs that promote healthy aging</li>
