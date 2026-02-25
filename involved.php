@@ -194,21 +194,17 @@
         <div class="custom-banner w-100 content-padding">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-6 px-3">
-                        <div class="p-xs-0">
-                            <div class="h2-heading-section-space">
-                                <h2 class="h2-title text-white">Why Get Involved?</h2>
-                            </div>
-                            <div class="text-content-space">
-                                <h4 class="text-content text-white">Getting involved with Atrium Legacy Foundation is about building a stronger, more connected community for seniors today and for future generations.</h4>
-                                <h4 class="text-content text-white">By working together, we can create environments where older adults are respected, supported, and empowered to live meaningful and independent lives.</h4>
-                            </div>
-                            <!-- <div class="button_wrap">
-                                <a href="./contact_us.php" class="custom-btn">
-                                    <span>Join Us Today</span>
-                                </a>
-                            </div> -->
+                    <div class="col-md-6">
+                        <div class="h2-heading-section-space">
+                            <h2 class="h2-title text-white">Why Get Involved?</h2>
                         </div>
+                        <h4 class="text-content text-white">Getting involved with Atrium Legacy Foundation is about building a stronger, more connected community for seniors today and for future generations.</h4>
+                        <h4 class="text-content text-white">By working together, we can create environments where older adults are respected, supported, and empowered to live meaningful and independent lives.</h4>
+                        <!-- <div class="button_wrap">
+                            <a href="./contact_us.php" class="custom-btn">
+                                <span>Join Us Today</span>
+                            </a>
+                        </div> -->
                     </div>
                 </div>
             </div>

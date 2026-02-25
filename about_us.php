@@ -100,11 +100,9 @@
                 <div class="col-md-8 d-flex align-items-center justify-content-center">
                     <div class="left-section-padding section-margin">
                         <h2 class="h2-title mb-3">Our Story</h2>
-                        <div class="text-content-space mb-0">
-                            <h4 class="text-content">Atrium Legacy Foundation was established in response to the growing needs of seniors and caregivers in today’s rapidly aging communities. As life expectancy increases, many families face challenges related to social isolation, mobility, and access to meaningful community engagement.</h4>
-                            <h4 class="text-content">We recognized the importance of shifting from reactive care toward preventive, community-based support. Our work focuses on strengthening local networks, promoting wellness, and creating opportunities for seniors to remain active, connected, and valued.</h4>
-                            <h4 class="text-content">Our initial focus is on Richmond and surrounding communities, where we aim to build strong, locally responsive programs. Over time, we hope to share and expand successful community-based approaches to support seniors in other regions.</h4>
-                        </div>
+                        <h4 class="text-content">Atrium Legacy Foundation was established in response to the growing needs of seniors and caregivers in today’s rapidly aging communities. As life expectancy increases, many families face challenges related to social isolation, mobility, and access to meaningful community engagement.</h4>
+                        <h4 class="text-content">We recognized the importance of shifting from reactive care toward preventive, community-based support. Our work focuses on strengthening local networks, promoting wellness, and creating opportunities for seniors to remain active, connected, and valued.</h4>
+                        <h4 class="text-content">Our initial focus is on Richmond and surrounding communities, where we aim to build strong, locally responsive programs. Over time, we hope to share and expand successful community-based approaches to support seniors in other regions.</h4>
                     </div>
                 </div>
             </div>
@@ -132,63 +130,15 @@
                 </div>
             </div>
 
-            <div class="row">
+            <div class="row align-items-center">
                 <div class="col-md-8">
                     <div class="left-section-padding section-margin">
                         <h2 class="h2-title mb-3">Our Team</h2>
-                        <div class="text-content-space">
-                            <h4 class="text-content">Atrium Legacy Foundation is guided by a dedicated group of community leaders, professionals, and advisors who are committed to advancing healthy aging and social inclusion.</h4>
-                            <h4 class="text-content">Our board and advisors bring diverse experience in healthcare, community development, and social impact. Together, they support responsible governance, ethical leadership, and the long-term sustainability of the foundation.</h4>
-                            <h4 class="text-content">Our board and advisors provide independent oversight and guidance, ensuring responsible governance, ethical leadership, and long-term sustainability in all of our programs and initiatives.</h4>
-                        </div>
-
-                        <!-- <div class="row">
-                            <div class="col-md-5 px-0 d-flex align-items-center roles">
-                                <div class="d-block">
-                                    <ul class="nav nav-tabs w-100 d-flex no-bullets" id="myTab" role="tablist" style=" justify-content: space-between; border-bottom: none;">
-                                        <li class="nav-item p-0 d-flex align-items-center" role="presentation">
-                                            <a class="nav-link active our-team" id="founder-tab" href="#founder" role="tab" aria-controls="founder" aria-selected="true">
-                                                Founder & CEO
-                                            </a>
-                                        </li>
-                                        <li class="nav-item p-0 d-flex align-items-center" role="presentation">
-                                            <a class="nav-link our-team" id="treasurer-tab" href="#treasurer" role="tab" aria-controls="treasurer" aria-selected="false">
-                                                Treasurer
-                                            </a>
-                                        </li>
-                                        <li class="nav-item p-0 d-flex align-items-center" role="presentation">
-                                            <a class="nav-link our-team" id="advisory-tab" href="#advisory" role="tab" aria-controls="advisory" aria-selected="false">
-                                                Advisory Board
-                                            </a>
-                                        </li>
-                                        <li class="nav-item p-0 d-flex align-items-center" role="presentation">
-                                            <a class="nav-link our-team" id="board-tab" href="#board" role="tab" aria-controls="board" aria-selected="false">
-                                                Board Members
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="col-md-7 d-flex align-items-center">
-                                <div class="tab-content p-3" id="myTabContent" style="font-size:18px">
-                                    <div class="tab-pane fade show active" id="founder" role="tabpanel" aria-labelledby="founder-tab">
-                                        <p class="m-0 p-0">A visionary leader with a deep commitment to social impact, our CEO has been the driving force behind the foundation's mission to empower communities and create lasting change.</p>
-                                    </div>
-                                    <div class="tab-pane fade" id="treasurer" role="tabpanel" aria-labelledby="treasurer-tab">
-                                        <p class="m-0 p-0">Responsible for overseeing the financial health and sustainability of the foundation, our Treasurer brings years of experience in non-profit financial management.</p>
-                                    </div>
-                                    <div class="tab-pane fade" id="advisory" role="tabpanel" aria-labelledby="advisory-tab">
-                                        <p class="m-0 p-0">A diverse group of experts and thought leaders who guide our strategic direction and ensure our initiatives remain impactful and relevant.</p>
-                                    </div>
-                                    <div class="tab-pane fade" id="board" role="tabpanel" aria-labelledby="board-tab">
-                                        <p class="m-0 p-0">Our Board Members bring a wealth of knowledge from various fields, including education, healthcare, housing, and technology, ensuring that our projects are well-rounded and effective.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div> -->
+                        <h4 class="text-content">Atrium Legacy Foundation is guided by a dedicated group of community leaders, professionals, and advisors who are committed to advancing healthy aging and social inclusion.</h4>
+                        <h4 class="text-content">Our board and advisors bring diverse experience in healthcare, community development, and social impact. Together, they offer independent oversight and strategic guidance, ensuring our work remains responsible, sustainable, and responsive to the communities we serve.</h4>
                     </div>
                 </div>
-                <div class="col-md-4 d-flex align-items-center justify-content-center about-team-bg">
+                <div class="col-md-4 about-team-bg">
                     <div class="text-center right-content-padding ">
                         <h2 class="blue-header">Together, we collaborate with families, professionals, and community partners to develop practical and inclusive solutions that support healthy aging.</h2>
                     </div>
@@ -199,23 +149,19 @@
                 <div class="container">
                     <div class="content-padding">
                         <div class="row">
-                            <div class="col-md-6 px-3">
-                                <div class="p-xs-0">
-                                    <h2 class="h2-title text-white">Partnership Opportunities</h2>
-                                    <div class="text-content-space">
-                                        <h4 class="text-content-white">
-                                            Atrium Legacy Foundation welcomes collaboration with organizations that share our commitment to healthy aging and community well-being. We work with non-profits, healthcare providers, businesses, and community groups to strengthen local support networks and expand access to inclusive programs.
-                                        </h4>
-                                        <h4 class="text-content-white">
-                                            If you are interested in partnering to support seniors and caregivers, we invite you to connect with us.
-                                        </h4>
-                                    </div>
-                                    <div id="" class="button_wrap">
-                                        <a href="./contact_us.php" class="custom-btn">
-                                            <span>Join Us Now</span>
-                                        </a>
-                                    </div>
-                                </div>
+                            <div class="col-md-6">
+                                <h2 class="h2-title text-white">Partnership Opportunities</h2>
+                                <h4 class="text-content text-white">
+                                    Atrium Legacy Foundation welcomes collaboration with organizations that share our commitment to healthy aging and community well-being. We work with non-profits, healthcare providers, businesses, and community groups to strengthen local support networks and expand access to inclusive programs.
+                                </h4>
+                                <h4 class="text-content text-white">
+                                    If you are interested in partnering to support seniors and caregivers, we invite you to connect with us.
+                                </h4>
+                                <!-- <div id="" class="button_wrap">
+                                    <a href="./contact_us.php" class="custom-btn">
+                                        <span>Join Us Now</span>
+                                    </a>
+                                </div> -->
                             </div>
                         </div>
                     </div>

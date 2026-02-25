@@ -28,7 +28,7 @@
                     <h1 class="banner-header">
                         Empowering Seniors to<br> Stay Connected and Thrive
                     </h1>
-                    <h2 class="banner-title">
+                    <h2 class="banner-title mb-3">
                         Because every senior deserves connection, dignity, and a strong sense of belonging.
                     </h2>
                     <div class="button_wrap" style="padding-top: 10px;">
@@ -71,10 +71,8 @@
                 <div class="col-md-8 order-md-2 order-1 d-flex align-items-center justify-content-center">
                     <div class="left-section-padding section-margin">
                         <h2 class="h2-title mb-3">Supporting Healthy Aging in Our Communities</h2>
-                        <div class="text-content-space mb-0">
-                            <h4 class="text-content">Canada’s aging population is reshaping how communities support older adults. Healthy aging requires a proactive approach that prioritizes prevention, social participation, and strong community connections.</h4>
-                            <h4 class="text-content">Atrium Legacy Foundation works to advance these approaches through collaboration and inclusive community initiatives—supporting seniors to remain active, engaged, and independent in the communities they call home.</h4>
-                        </div>
+                        <h4 class="text-content">Canada’s aging population is reshaping how communities support older adults. Healthy aging requires a proactive approach that prioritizes prevention, social participation, and strong community connections.</h4>
+                        <h4 class="text-content">Atrium Legacy Foundation works to advance these approaches through collaboration and inclusive community initiatives—supporting seniors to remain active, engaged, and independent in the communities they call home.</h4>
                     </div>
                 </div>
             </div>
@@ -105,7 +103,7 @@
                                             Encouraging healthy lifestyles through education, movement, and wellness programs.
                                         </p>
                                     </div>
-                                    <a href="initiative.php?tab=ReStart-Education">
+                                    <a href="initiative.php">
                                         <div class="cards-footer text-center">
                                             <div class="custom-footer-icons-div">
                                                 <i class="fa fa-arrow-right  custom-icons custom-icon" aria-hidden="true"></i>
@@ -119,12 +117,12 @@
                                 <div class="cards">
                                     <div class="tab-icon icon2"></div>
                                     <div class="cards-body text-center">
-                                        <h4 class="card-fonts-heading-color">Social Connection & Mental Well-Being</h4>
+                                        <h4 class="card-fonts-heading-color">Social Connection & Mental Wellness</h4>
                                         <p class="mt-3 text-center card-content pb-0 mb-0">
                                             Reducing isolation by building meaningful relationships and community engagement.
                                         </p>
                                     </div>
-                                    <a href="initiative.php?tab=Aging-Grace">
+                                    <a href="initiative.php">
                                         <div class="cards-footer text-center">
                                             <div class="custom-footer-icons-div">
                                                 <i class="fa fa-arrow-right custom-icons custom-icon" aria-hidden="true"></i>
@@ -143,7 +141,7 @@
                                             Bringing seniors and younger generations together to strengthen communities.
                                         </p>
                                     </div>
-                                    <a href="initiative.php?tab=HomeStrong">
+                                    <a href="initiative.php">
                                         <div class="cards-footer text-center">
                                             <div class="custom-footer-icons-div">
                                                 <i class="fa fa-arrow-right custom-icons custom-icon" aria-hidden="true"></i>
@@ -162,7 +160,7 @@
                                             Providing resources and education to help families navigate the aging journey.
                                         </p>
                                     </div>
-                                    <a href="initiative.php?tab=AgriThrive">
+                                    <a href="initiative.php">
                                         <div class="cards-footer text-center">
                                             <div class="custom-footer-icons-div">
                                                 <i class="fa fa-arrow-right custom-icons custom-icon" aria-hidden="true"></i>

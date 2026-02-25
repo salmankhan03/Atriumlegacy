@@ -307,7 +307,7 @@
 
             <div class="row">
                 <div class="col-md-4">
-                    <div class="pt-5 pb-5 p-xs-0">
+                    <div class="py-5 p-xs-0">
                         <h2 class="h2-title" style="font-size:2rem">Contact Details</h2>
                         <div class="text-content-space">
                             <h4 class="text-content mb-3">
@@ -325,7 +325,7 @@
                     </div>
                 </div>
                 <div class="col-md-8 text-content">
-                    <div class="pt-5 pb-5 p-xs-0">
+                    <div class="py-5 p-xs-0">
                         <form action="send_mail.php" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init" data-inited-validation="1">
                             <div style="display: none;">
                                 <input type="hidden" name="_wpcf7" value="1324">

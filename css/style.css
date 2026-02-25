@@ -45,12 +45,6 @@ body {
     padding-right: 15%
 }
 
-.content-margin {
-    margin-top: 100px !important;
-    margin-bottom: 100px !important;
-
-}
-
 .content-padding {
     padding-top: 100px !important;
     padding-bottom: 100px !important;
@@ -435,14 +429,6 @@ p {
 ul.list-hanging-indent li.text-content {
     padding-left: 15px;
     text-indent: -15px;
-}
-
-.text-content-white {
-    font-family: 'Montserrat';
-    font-size: 18px !important;
-    line-height: 28px;
-    font-weight: 400;
-    color: #fff;
 }
 
 .right-content-padding {
