@@ -26,7 +26,7 @@
             <div class="banner">
                 <div class="container">
                     <h1 class="banner-header">
-                        Empowering Seniors to Stay Connected and Thrive
+                        Empowering Seniors to<br> Stay Connected and Thrive
                     </h1>
                     <h2 class="banner-title">
                         Because every senior deserves connection, dignity, and a strong sense of belonging.
@@ -54,7 +54,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4 d-flex align-items-center justify-content-center home-right-bg">
+                <div class="col-md-4 d-flex align-items-center justify-content-center home-bg-1">
                     <div class="text-center right-content-padding">
                         <h2 class="blue-header">We believe every senior deserves to feel connected, valued, and supported—at every stage of life. </h2>
                     </div>
@@ -63,7 +63,7 @@
             <!-- FIRST SECTION -->
 
             <div class="row">
-                <div class="col-md-4 order-md-1 order-2 d-flex align-items-center justify-content-center about-story-bg">
+                <div class="col-md-4 order-md-1 order-2 d-flex align-items-center justify-content-center home-bg-2">
                     <div class="text-center right-content-padding">
                         <h2 class="blue-header">We focus on proactive, community-based solutions that help seniors stay active, engaged, and independent as they age.</h2>
                     </div>
@@ -186,7 +186,7 @@
                 <div class="row">
                     <div class="col-md-6 px-0 d-flex align-items-center">
                         <div style="position:relative;">
-                            <image class="left-side" src="./img/home/home_2.jpg" alt="left-side-image"></image>
+                            <img class="left-side" src="./img/home/home_img_3.jpg" alt="left-side-img"></image>
                             <div class="side-element">
                                 Dignity.<br>
                                 Wellness.<br>

@@ -19,7 +19,7 @@
     <link rel="manifest" href="./img/icons/favicon/site.webmanifest">
     <style>
         .initiativeBanner {
-            background-image: url('./img/our_initiatives/banner_initiative.jpg');
+            background-image: url('./img/initiative/banner_initiative.jpg');
             background-position: top center;
             background-repeat: no-repeat;
             background-attachment: scroll;
@@ -27,7 +27,7 @@
         }
 
         .custom-banner {
-            background-image: url('./img/our_initiatives/our_initiatives_2.jpg');
+            background-image: url('./img/initiative/initiative_img_5.jpg');
             background-position: center center;
             background-repeat: no-repeat;
             background-attachment: scroll;
@@ -173,7 +173,7 @@
             <div class="row">
                <div class="col-sm-12 col-md-6 col-lg-6 d-flex align-items-center justify-content-center">
                   <div class="pl-5 pr-5">
-                     <image class="" src="./img/our_initiatives/our_initiatives_1.jpg" alt="left-side-image"></image>
+                     <image class="" src="./img/initiative/initiative_1.jpg" alt="left-side-image"></image>
                   </div>
                </div>
                <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 d-flex align-items-center">
@@ -253,7 +253,7 @@
                         </div>
                         <div class="col-sm-12 col-md-4 col-lg-4 pl-0 pr-0 pb-5">
                            <div class="p-0 p-md-5 right-content-padding">
-                              <img src="img/our_initiatives/our_initiatives_ReStartEducation.jpg" alt="Image">
+                              <img src="img/initiative/initiative_ReStartEducation.jpg" alt="Image">
                            </div>
                         </div>
                      </div>
@@ -282,7 +282,7 @@
                         </div>
                         <div class="col-sm-12 col-md-4 col-lg-4 pl-0 pr-0 pb-5">
                            <div class="p-0 p-md-5 right-content-padding">
-                              <img src="img/our_initiatives/our_initiatives_AgingGrace.jpg" alt="Image">
+                              <img src="img/initiative/initiative_AgingGrace.jpg" alt="Image">
                            </div>
                         </div>
                      </div>
@@ -311,7 +311,7 @@
                         </div>
                         <div class="col-sm-12 col-md-4 col-lg-4 pl-0 pr-0 pb-5">
                            <div class="p-0 p-md-5 right-content-padding">
-                              <img src="img/our_initiatives/our_initiatives_HomeStrong.jpg" alt="Image">
+                              <img src="img/initiative/initiative_HomeStrong.jpg" alt="Image">
                            </div>
                         </div>
                      </div>
@@ -340,7 +340,7 @@
                         </div>
                         <div class="col-sm-12 col-md-4 col-lg-4 pl-0 pr-0 pb-5">
                            <div class="p-0 p-md-5 right-content-padding">
-                              <img src="img/our_initiatives/our_initiatives_AgriThrive.jpg" alt="Image">
+                              <img src="img/initiative/initiative_AgriThrive.jpg" alt="Image">
                            </div> 
                         </div>
                      </div>
@@ -361,7 +361,7 @@
 
                      <div class="col-sm-12 col-md-6 col-lg-6 pl-5 pr-0 pb-5 pt-5">
                         <div class="p-0 right-content-padding">
-                           <img src="img/our_initiatives/our_initiatives_ReStartEducation.jpg" alt="Image">
+                           <img src="img/initiative/initiative_ReStartEducation.jpg" alt="Image">
                         </div>
                      </div>
 
@@ -407,7 +407,7 @@
 
                             <!-- <div class="col-md-6 pl-5 pr-0 py-5">
                                 <div class="p-0 right-content-padding">
-                                    <img src="img/our_initiatives/our_initiatives_AgingGrace.jpg" alt="Image">
+                                    <img src="img/initiative/initiative_AgingGrace.jpg" alt="Image">
                                 </div>
                             </div> -->
 
@@ -451,7 +451,7 @@
 
                         <div class="col-sm-12 col-md-6 col-lg-6 pl-5 pr-0 pb-5 pt-5">
                             <div class="p-0 right-content-padding">
-                            <img src="img/our_initiatives/our_initiatives_HomeStrong.jpg" alt="Image">
+                            <img src="img/initiative/initiative_HomeStrong.jpg" alt="Image">
                             </div>
                         </div>
 
@@ -494,7 +494,7 @@
 
                         <div class="col-sm-12 col-md-6 col-lg-6 pl-5 pr-0 pb-5 pt-5">
                             <div class="p-0 right-content-padding">
-                            <img src="img/our_initiatives/our_initiatives_AgriThrive.jpg" alt="Image">
+                            <img src="img/initiative/initiative_AgriThrive.jpg" alt="Image">
                             </div>
                         </div>
 
@@ -629,7 +629,7 @@
             <div class="row">
                 <div class="col-md-6 d-flex align-items-center">
                     <div style="position:relative;">
-                        <image class="img-fluid" src="./img/home/home_2.jpg" alt="left-side-image"></image>
+                        <image class="img-fluid" src="./img/initiative/initiative_img_1.jpg" alt="left-side-image"></image>
                     </div>
                 </div>
 
@@ -669,7 +669,7 @@
                     </div>
 
                     <div class="col-md-6 text-center">
-                        <img src="./img/home/home_2.jpg" alt="Community Day Centre Placeholder" class="img-fluid" style="max-height: 444px; object-fit: cover; width: 100%;">
+                        <img src="./img/initiative/initiative_img_2.jpg" alt="Community Day Centre Placeholder" class="img-fluid" style="max-height: 444px; object-fit: cover; width: 100%;">
                     </div>
                     <div class="col-12">
                         <p class="text-content mt-3">Through this initiative, Atrium Legacy Foundation seeks to address social isolation, promote preventive wellness, and enhance quality of life for older adults in Richmond and surrounding communities.</p>
@@ -678,7 +678,7 @@
 
                 <div class="row mt-5 align-items-center">
                     <div class="col-md-6 text-center p-3 d-none d-md-block">
-                        <img src="./img/home/home_1.jpg" alt="Collaboration Placeholder" class="img-fluid" style="max-height: 350px; object-fit: cover; width: 100%;">
+                        <img src="./img/initiative/initiative_img_3.jpg" alt="Collaboration Placeholder" class="img-fluid" style="max-height: 350px; object-fit: cover; width: 100%;">
                     </div>
                     <div class="col-md-6 text-left p-3 px-lg-5 py-md-0">
                         <h2 class="h2-title mb-3">Collaboration and Partnerships</h2>
@@ -694,7 +694,7 @@
                         <p class="text-content mb-0">Over time, we aim to strengthen social connection, enhance well-being, and build supportive networks that help seniors remain active and engaged.</p>
                     </div>
                     <div class="col-md-6 text-center p-3">
-                        <img src="./img/our_initiatives/our_initiatives_HomeStrong.jpg" alt="Measuring Impact Placeholder" class="img-fluid" style="max-height: 300px; object-fit: cover; width: 100%;">
+                        <img src="./img/initiative/initiative_img_4.jpg" alt="Measuring Impact Placeholder" class="img-fluid" style="max-height: 300px; object-fit: cover; width: 100%;">
                     </div>
                 </div>
             </div>

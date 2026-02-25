@@ -316,8 +316,16 @@ p {
     padding: 0 6% 0 20% !important;
 }
 
-.home-right-bg {
-    background-image: url('../img/home/home_1.jpg');
+.home-bg-1 {
+    background-image: url('../img/home/home_img_1.jpg');
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+}
+
+.home-bg-2 {
+    background-image: url('../img/home/home_img_2.jpg');
     background-position: top center;
     background-repeat: no-repeat;
     background-attachment: scroll;
@@ -325,7 +333,7 @@ p {
 }
 
 .about-story-bg {
-    background-image: url('../img/about_us/about_us_1.jpg') !important;
+    background-image: url('../img/about/about_img_1.jpg') !important;
     background-position: top center;
     background-repeat: no-repeat;
     background-attachment: scroll;
@@ -335,7 +343,7 @@ p {
 }
 
 .about-team-bg {
-    background-image: url('../img/about_us/about_us_2.jpg') !important;
+    background-image: url('../img/about/about_img_2.jpg') !important;
     background-position: top center;
     background-repeat: no-repeat;
     background-attachment: scroll;
@@ -343,8 +351,8 @@ p {
     min-height: 400px;
 }
 
-.involved-right-bg {
-    background-image: url('../img/get_involved/get_involved_1.jpg');
+.involved-bg-1 {
+    background-image: url('../img/involved/involved_img_1.jpg');
     background-position: top center;
     background-repeat: no-repeat;
     background-attachment: scroll;
@@ -352,8 +360,8 @@ p {
     min-height: 400px;
 }
 
-.involved-right-3-bg {
-    background-image: url('../img/get_involved/get_involved_3.jpg');
+.involved-bg-2 {
+    background-image: url('../img/involved/involved_img_2.jpg');
     background-position: top center;
     background-repeat: no-repeat;
     background-attachment: scroll;
@@ -361,8 +369,8 @@ p {
     min-height: 400px;
 }
 
-.involved-left-2-bg {
-    background-image: url('../img/get_involved/get_involved_2.jpg');
+.involved-bg-3 {
+    background-image: url('../img/involved/involved_img_3.jpg');
     background-position: top center;
     background-repeat: no-repeat;
     background-attachment: scroll;
@@ -370,8 +378,17 @@ p {
     min-height: 400px;
 }
 
-.involved-left-4-bg {
-    background-image: url('../img/get_involved/get_involved_4.jpg');
+.involved-bg-4 {
+    background-image: url('../img/involved/involved_img_4.jpg');
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    min-height: 400px;
+}
+
+.involved-bg-5 {
+    background-image: url('../img/involved/involved_img_5.jpg');
     background-position: top center;
     background-repeat: no-repeat;
     background-attachment: scroll;

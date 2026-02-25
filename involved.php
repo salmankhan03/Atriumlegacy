@@ -21,7 +21,7 @@
 
     <style>
         .involvedBanner {
-            background-image: url('./img/get_involved/banner_involved.jpg');
+            background-image: url('./img/involved/banner_involved.jpg');
             background-position: top center;
             background-repeat: no-repeat;
             background-attachment: scroll;
@@ -29,7 +29,7 @@
         }
 
         .custom-banner {
-            background-image: url('./img/get_involved/get_involved_5.jpg');
+            background-image: url('./img/involved/involved_img_6.jpg');
             background-position: center center;
             background-repeat: no-repeat;
             background-attachment: scroll;
@@ -87,11 +87,11 @@
                      </div> -->
                 </div>
             </div>
-            <div class="col-md-6 order-md-2 order-1 involved-right-bg"></div>
+            <div class="col-md-6 order-md-2 order-1 involved-bg-1"></div>
         </div>
 
         <div class="row">
-            <div class="col-md-6 involved-left-2-bg"></div>
+            <div class="col-md-6 involved-bg-2"></div>
             <div class="col-md-6">
                 <div class="involved-section section-margin">
                     <div class="h2-heading-section-space">
@@ -137,11 +137,11 @@
                     </div> -->
                 </div>
             </div>
-            <div class="col-md-6 order-md-2 order-1 involved-right-3-bg"></div>
+            <div class="col-md-6 order-md-2 order-1 involved-bg-3"></div>
         </div>
 
         <div class="row">
-            <div class="col-md-6 involved-left-4-bg"></div>
+            <div class="col-md-6 involved-bg-4"></div>
             <div class="col-md-6">
                 <div class="involved-section section-margin">
                     <div class="h2-heading-section-space">
@@ -187,7 +187,7 @@
                     </div> -->
                 </div>
             </div>
-            <div class="col-md-6 order-md-2 order-1 involved-right-3-bg"></div>
+            <div class="col-md-6 order-md-2 order-1 involved-bg-5"></div>
         </div>
 
         <!--Third Section  -->
