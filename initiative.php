@@ -421,18 +421,21 @@
                                             <li class="text-content">Encouraging collaboration among families, professionals, and local organizations</li>
                                             <li class="text-content">Promoting education and awareness related to healthy aging and caregiver support</li>
                                         </ul>
+
+                                        <p class="tab-cards-title">EXPECTED IMPACT</p>
+                                        <p class="mt-3 card-content">Our initiatives aim to strengthen community resilience and improve quality of life by fostering inclusion, independence, and meaningful social connection. Over time, we seek to contribute to healthier aging outcomes and more supportive, connected communities.</p>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="col-md-6 mt-5">
+                            <!-- <div class="col-md-6 mt-5">
                                 <div class="tabs-cards">
                                     <div class="tabs-cards-body">
                                         <p class="tab-cards-title">EXPECTED IMPACT</p>
                                         <p class="mt-3 card-content">Our initiatives aim to strengthen community resilience and improve quality of life by fostering inclusion, independence, and meaningful social connection. Over time, we seek to contribute to healthier aging outcomes and more supportive, connected communities.</p>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
 
@@ -479,8 +482,8 @@
                     </div>
                 </div> -->
 
-                <!-- AgriThrive -->
-                <!-- <div class="tab-pane" id="AgriThrive" role="tabpanel" aria-labelledby="AgriThrive-tab">
+                    <!-- AgriThrive -->
+                    <!-- <div class="tab-pane" id="AgriThrive" role="tabpanel" aria-labelledby="AgriThrive-tab">
                     <div class="row">
                         <div class="col-sm-12 col-md-6 col-lg-6 pl-0 pr-0 mt-5">
                             <div class="tabs-cards pl-3 pr-3">
@@ -672,13 +675,13 @@
                         <img src="./img/initiative/initiative_img_2.jpg" alt="Community Day Centre Placeholder" class="img-fluid" style="max-height: 444px; object-fit: cover; width: 100%;">
                     </div>
                     <div class="col-12">
-                        <p class="text-content mt-3">Through this initiative, Atrium Legacy Foundation seeks to address social isolation, promote preventive wellness, and enhance quality of life for older adults in Richmond and surrounding communities.</p>
+                        <p class="text-content mt-3 mb-0">Through this initiative, Atrium Legacy Foundation seeks to address social isolation, promote preventive wellness, and enhance quality of life for older adults in Richmond and surrounding communities.</p>
                     </div>
                 </div>
 
                 <div class="row mt-5 align-items-center">
                     <div class="col-md-6 text-center p-3 d-none d-md-block">
-                        <img src="./img/initiative/initiative_img_3.jpg" alt="Collaboration Placeholder" class="img-fluid" style="max-height: 350px; object-fit: cover; width: 100%;">
+                        <img src="./img/initiative/initiative_img_3.jpg" alt="Collaboration Placeholder" class="img-fluid" style="height: 390px; object-fit: cover; width: 100%;">
                     </div>
                     <div class="col-md-6 text-left p-3 px-lg-5 py-md-0">
                         <h2 class="h2-title mb-3">Collaboration and Partnerships</h2>
@@ -694,7 +697,7 @@
                         <p class="text-content mb-0">Over time, we aim to strengthen social connection, enhance well-being, and build supportive networks that help seniors remain active and engaged.</p>
                     </div>
                     <div class="col-md-6 text-center p-3">
-                        <img src="./img/initiative/initiative_img_4.jpg" alt="Measuring Impact Placeholder" class="img-fluid" style="max-height: 300px; object-fit: cover; width: 100%;">
+                        <img src="./img/initiative/initiative_img_4.jpg" alt="Measuring Impact Placeholder" class="img-fluid" style="max-height: 310px; object-fit: cover; width: 100%;">
                     </div>
                 </div>
             </div>
