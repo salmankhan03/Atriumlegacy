@@ -301,8 +301,7 @@
 
         <div class="container">
             <div class="content-padding">
-                <h2 class="px-4 italic-heading text-center">We are here to connect, listen, and collaborate. Whether you are a senior, family member, volunteer, partner, or community organization, we invite you to reach out and learn more about our work.</h2>
-                <h2 class="px-4 italic-heading text-center">Atrium Legacy Foundation is committed to building meaningful relationships and working together to strengthen support for seniors and caregivers.</h2>
+                <h2 class="px-4 italic-heading text-center">We are here to connect, listen, and collaborate. Whether you are a senior, family member, volunteer, partner, or community organization, we invite you to reach out and learn more about our work. Atrium Legacy Foundation is committed to building meaningful relationships and working together to strengthen support for seniors and caregivers.</h2>
             </div>
 
             <div class="row">

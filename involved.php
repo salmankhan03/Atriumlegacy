@@ -62,8 +62,8 @@
                     </div>
                 </div>
                 <div class="col-12 text-content">
-                    <p class="mb-3 pb-0">Creating meaningful change requires collaboration. Whether you are an individual, organization, or community partner, there are many ways to support healthy aging and strengthen social connection in our communities.</p>
-                    <p class="mb-0 pb-0">Your time, knowledge, and support can help seniors remain active, engaged, and valued. Together, we can build more inclusive and supportive environments for older adults and their families.</p>
+                    <p class="mb-3 pb-0 text-center">Creating meaningful change requires collaboration. Whether you are an individual, organization, or community partner, there are many ways to support healthy aging and strengthen social connection in our communities.</p>
+                    <p class="mb-0 pb-0 text-center">Your time, knowledge, and support can help seniors remain active, engaged, and valued. Together, we can build more inclusive and supportive environments for older adults and their families.</p>
                 </div>
             </div>
         </div>

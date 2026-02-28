@@ -54,16 +54,16 @@
             <div class="container">
                 <div class="tab-content content-padding" id="myTabContent">
                     <div class="tab-pane show active" id="Aging-Grace" role="tabpanel" aria-labelledby="Aging-Grace-tab">
-                        <h4 class="italic-heading">To promote holistic wellness and social inclusion for the senior population, ensuring they remain active, connected, and valued members of their communities.</h4>
-                        <h4 class="italic-heading mb-5">Our programs are delivered through partnerships with local organizations, volunteers, families, and professionals, ensuring that our initiatives remain accessible, sustainable, and community-driven.</h4>
+                        <h4 class="italic-heading text-center">To promote holistic wellness and social inclusion for the senior population, ensuring they remain active, connected, and valued members of their communities.</h4>
+                        <h4 class="italic-heading bottom-padding text-center mb-0">Our programs are delivered through partnerships with local organizations, volunteers, families, and professionals, ensuring that our initiatives remain accessible, sustainable, and community-driven.</h4>
                         <div class="row">
                             <div class="col-md-6">
                                 <div class="tabs-cards pl-0 pr-3">
                                     <div class="tabs-cards-body">
                                         <p class="tab-cards-title" style="color: #4789cc;">OVERVIEW</p>
-                                        <div class="mt-3 card-content mb-3">Healthy aging is about more than medical care. It involves staying active, maintaining meaningful relationships, and having access to supportive community environments.</div>
-                                        <div class="card-content mb-3">Atrium Legacy Foundation focuses on strengthening local support systems that help seniors remain connected, independent, and engaged. Our work emphasizes physical, mental, and emotional well-being while creating inclusive opportunities for participation and social connection.</div>
-                                        <div class="card-content mb-3">We believe strong communities play an essential role in helping older adults live with dignity and purpose. As Canada’s population continues to age, there is growing recognition of the importance of preventive, community-based approaches to support long-term well-being.</div>
+                                        <div class="mt-3 card-content mb-3">Aging well is not defined by medical care alone. It is shaped by connection, mobility, purpose, and access to supportive networks that foster confidence, belonging, and a continued sense of contribution in everyday life.</div>
+                                        <div class="card-content mb-3">Atrium Legacy Foundation works to reinforce those networks. We focus on strengthening the systems that allow seniors to remain independent while staying socially and emotionally connected, supported by environments that encourage participation, shared experience, and community involvement.</div>
+                                        <div class="card-content mb-3">As Canada’s population continues to shift toward an older demographic, the need for preventive, locally driven solutions becomes increasingly important. Our approach prioritizes early support, community engagement, and long-term resilience to help communities adapt thoughtfully to demographic change and evolving social expectations.</div>
                                     </div>
                                 </div>
                             </div>
@@ -223,7 +223,7 @@
 
         <div style="background-color: #e6ede6;">
             <div class="container content-padding">
-                <h2 class="h2-title mb-3 text-center">Community Day Centre in Development (Richmond, BC)</h2>
+                <h2 class="h2-title mb-3 text-center">Community Day Centre in Development <br class="d-none d-xl-block"> (Richmond, BC)</h2>
                 <p class="text-content">Atrium Legacy Foundation is currently working toward the establishment of a community-based senior day centre in Richmond, British Columbia. This initiative is in the planning and development phase, with a focus on creating an accessible and welcoming environment that supports healthy aging, social connection, and independence.</p>
                 <div class="row align-items-center">
                     <div class="col-md-6 text-left p-3 pr-md-5 py-md-0">
@@ -240,7 +240,7 @@
                     </div>
 
                     <div class="col-md-6 text-center">
-                        <img src="./img/initiative/initiative_img_2.jpg" alt="Community Day Centre Placeholder" class="img-fluid" style="max-height: 444px; object-fit: cover; width: 100%;">
+                        <img src="./img/initiative/initiative_img_2.jpg" alt="Community Day Centre Placeholder" class="img-fluid" style="height: 444px; object-fit: cover; width: 100%; object-position: 90% 50%;">
                     </div>
                     <div class="col-12">
                         <p class="text-content mt-3 mb-0">Through this initiative, Atrium Legacy Foundation seeks to address social isolation, promote preventive wellness, and enhance quality of life for older adults in Richmond and surrounding communities.</p>
@@ -265,7 +265,7 @@
                         <p class="text-content mb-0">Over time, we aim to strengthen social connection, enhance well-being, and build supportive networks that help seniors remain active and engaged.</p>
                     </div>
                     <div class="col-md-6 text-center p-3">
-                        <img src="./img/initiative/initiative_img_4.jpg" alt="Measuring Impact Placeholder" class="img-fluid" style="max-height: 310px; object-fit: cover; width: 100%;">
+                        <img src="./img/initiative/initiative_img_4.jpg" alt="Measuring Impact Placeholder" class="img-fluid" style="height: 310px; object-fit: cover; width: 100%;">
                     </div>
                 </div>
             </div>
