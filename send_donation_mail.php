@@ -1,84 +1,125 @@
 <?php
+declare(strict_types=1);
 
-use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
-use PHPMailer\PHPMailer\SMTP;
+use PHPMailer\PHPMailer\PHPMailer;
 
-require 'vendor/autoload.php';
+require __DIR__ . '/vendor/autoload.php';
+$configFile = __DIR__ . '/config.php';
+if (!is_file($configFile)) {
+    error_log('config.php is missing; mail form is not configured.');
+    http_response_code(503);
+    exit('This form is temporarily unavailable.');
+}
+$config = require $configFile;
 
-$firstName = isset($_POST['first-name']) ? htmlspecialchars($_POST['first-name']) : '';
-$lastName = isset($_POST['last-name']) ? htmlspecialchars($_POST['last-name']) : '';
-$email = isset($_POST['email']) ? htmlspecialchars($_POST['email']) : '';
-$address = isset($_POST['address']) ? htmlspecialchars($_POST['address']) : '';
-$zip = isset($_POST['zip']) ? htmlspecialchars($_POST['zip']) : '';
+error_reporting(E_ALL);
+ini_set('display_errors', '0');
+ini_set('log_errors', '1');
 
-$donationAmount = isset($_POST['donation_options']) ? htmlspecialchars($_POST['donation_options']) : '';
-$customAmount = isset($_POST['custom_amount']) ? htmlspecialchars($_POST['custom_amount']) : '';
-$paymentMethod = isset($_POST['paymentOption']) ? htmlspecialchars($_POST['paymentOption']) : '';
-$recurrence = isset($_POST['recurrence']) ? htmlspecialchars($_POST['recurrence']) : '';
-$campaign = isset($_POST['campaign']) ? htmlspecialchars($_POST['campaign']) : '';
-$message = isset($_POST['message']) ? htmlspecialchars($_POST['message']) : '';
-$anonymous = isset($_POST['anonymous-donation']) ? 'Yes' : 'No';
+if (($_SERVER['REQUEST_METHOD'] ?? '') !== 'POST') {
+    http_response_code(405);
+    header('Allow: POST');
+    exit('Method not allowed.');
+}
 
-if ($customAmount) {
-    $donationAmount = $customAmount;
+function post_string(string $key, int $maxLength): string
+{
+    $value = $_POST[$key] ?? '';
+    if (!is_string($value)) {
+        return '';
+    }
+    return mb_substr(trim($value), 0, $maxLength);
+}
+
+function e(string $value): string
+{
+    return htmlspecialchars($value, ENT_QUOTES | ENT_SUBSTITUTE, 'UTF-8');
+}
+
+$firstName     = post_string('first-name', 100);
+$lastName      = post_string('last-name', 100);
+$email         = post_string('email', 254);
+$address       = post_string('address', 255);
+$zip           = post_string('zip', 20);
+$donationAmt   = post_string('donation_options', 10);
+$customAmount  = post_string('custom_amount', 10);
+$paymentMethod = post_string('paymentOption', 30);
+$recurrence    = post_string('recurrence', 50);
+$campaign      = post_string('campaign', 100);
+$message       = post_string('message', 2000);
+$anonymous     = isset($_POST['anonymous-donation']) ? 'Yes' : 'No';
+
+if ($customAmount !== '') {
+    $donationAmt = $customAmount;
+}
+
+// Strict validation: reject anything that is not a plausible value.
+if (
+    filter_var($email, FILTER_VALIDATE_EMAIL) === false
+    || preg_match('/[\r\n]/', $firstName . $lastName . $email)
+) {
+    http_response_code(422);
+    exit('A valid email address is required.');
+}
+if (preg_match('/^\d{1,7}(\.\d{1,2})?$/', $donationAmt) !== 1 || (float) $donationAmt <= 0) {
+    http_response_code(422);
+    exit('A valid donation amount is required.');
+}
+if (!in_array($paymentMethod, ['onlinePayment', 'offlinePayment'], true)) {
+    http_response_code(422);
+    exit('Invalid payment method.');
 }
 
 $mail = new PHPMailer(true);
 
-if ($email) {
-    try {
-        $mail->isSMTP(); 
-        $mail->Host       = 'mail.intellidt.com';
-        $mail->SMTPAuth   = true;
-        $mail->Username   = 'developer@intellidt.com';
-        $mail->Password   = 'developer@123!';
-        $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS; 
-        $mail->Port       = 587;
-    
-        $mail->setFrom('developer@intellidt.com', 'Sender');
-        $mail->addAddress($email, $firstName); 
-    
-        $mail->isHTML(true);                                     
-        $mail->Subject = 'Donation Form Submission';
+try {
+    $mail->isSMTP();
+    $mail->Host       = $config['smtp_host'];
+    $mail->SMTPAuth   = true;
+    $mail->Username   = $config['smtp_username'];
+    $mail->Password   = $config['smtp_password'];
+    $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
+    $mail->Port       = (int) $config['smtp_port'];
+    $mail->CharSet    = PHPMailer::CHARSET_UTF8;
 
-        $body = "
-            <h2>Donation Details</h2>
-            <p><strong>Donation Amount:</strong> $donationAmount</p>
-            <p><strong>Payment Method:</strong> $paymentMethod</p>
-        ";
+    // Notify the organisation (never an arbitrary user-supplied address, which would
+    // make this endpoint an open mail relay); the donor's address goes in Reply-To.
+    $mail->setFrom($config['mail_from'], 'Atrium Legacy Website');
+    $mail->addReplyTo($email, trim("$firstName $lastName"));
+    $mail->addAddress($config['mail_to']);
 
-        if ($paymentMethod !== 'offlinePayment') {
-            $body .= "<p><strong>Recurrence:</strong> $recurrence</p>";
-        }
+    $mail->isHTML(true);
+    $mail->Subject = 'Donation Form Submission';
 
-        $body .= "
-            <p><strong>Campaign:</strong> $campaign</p>
-            <p><strong>Message:</strong> $message</p>
-            <p><strong>Anonymous Donation:</strong> $anonymous</p>
-    
-            <h2>Donator Details</h2>
-            <p><strong>First Name:</strong> $firstName</p>
-            <p><strong>Last Name:</strong> $lastName</p>
-            <p><strong>Email:</strong> $email</p>
-            <p><strong>Address:</strong> $address</p>
-            <p><strong>Postal/Zip Code:</strong> $zip</p>
-        ";
+    $body = '<h2>Donation Details</h2>'
+        . '<p><strong>Donation Amount:</strong> ' . e($donationAmt) . '</p>'
+        . '<p><strong>Payment Method:</strong> ' . e($paymentMethod) . '</p>';
 
-        $mail->Body = $body;
-
-        // Try to send the email
-        if ($mail->send()) {
-            echo "Message has been sent successfully.";
-            header("Location: donate.php");  // Redirect on success
-        } else {
-            echo "Message could not be sent. Please try again.";
-        }
-
-    } catch (Exception $e) {
-        echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
+    if ($paymentMethod !== 'offlinePayment') {
+        $body .= '<p><strong>Recurrence:</strong> ' . e($recurrence) . '</p>';
     }
-} else {
-    echo "Email not provided.";
+
+    $body .= '<p><strong>Campaign:</strong> ' . e($campaign) . '</p>'
+        . '<p><strong>Message:</strong> ' . nl2br(e($message)) . '</p>'
+        . '<p><strong>Anonymous Donation:</strong> ' . $anonymous . '</p>'
+        . '<h2>Donator Details</h2>'
+        . '<p><strong>First Name:</strong> ' . e($firstName) . '</p>'
+        . '<p><strong>Last Name:</strong> ' . e($lastName) . '</p>'
+        . '<p><strong>Email:</strong> ' . e($email) . '</p>'
+        . '<p><strong>Address:</strong> ' . e($address) . '</p>'
+        . '<p><strong>Postal/Zip Code:</strong> ' . e($zip) . '</p>';
+
+    $mail->Body = $body;
+    $mail->AltBody = strip_tags(str_replace(['</p>', '<br>'], "\n", $body));
+
+    $mail->send();
+
+    // Redirect before any output is sent (the old code echoed first, so header() failed).
+    header('Location: donate.php', true, 303);
+    exit;
+} catch (Exception $ex) {
+    error_log('Donation form mail error: ' . $mail->ErrorInfo);
+    http_response_code(500);
+    echo 'Message could not be sent. Please try again later.';
 }
-?>
